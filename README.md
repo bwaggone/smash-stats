@@ -1,4 +1,4 @@
-*A Project Intended to Aggregate Glicko Statistics for Smash Bros. Players.
+##A Project Intended to Aggregate Glicko Statistics for Smash Bros. Players.
 
 Future Goals:
 
