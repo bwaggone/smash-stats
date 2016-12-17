@@ -28,3 +28,9 @@ Placings are **not in sorted order**. They are relatively straightforward and h 
 | name  | finalPlacement                |
 | ------------ |-------------------------------| 
 | Player's tag | Final Placement of tournament | 
+
+##Master Tournament File
+
+   * This is not finished yet.
+   
+This file has a list of tournament slugs and dates. There is one per folder.
