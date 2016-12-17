@@ -3,7 +3,7 @@ import json
 from collections import *
 
 
-smash_games = {1: "Melee", 3: "Smash4"}
+smash_games = {1: "Melee", 3: "Smash4", 4: "64", 5: "Brawl"}
 smash_formats = defaultdict(str, {1: "Singles", 2: "Doubles", 5: "Crews"})
 api_prefix = 'https://api.smash.gg/'
 api_entrant_postfix = '?expand[]=entrants'
@@ -81,7 +81,7 @@ for event in events:
 #print(events[12830].entrants[288001])
 #print(events[12830].entrants[282600])
 for event in events:
-    filename = "./" + events[event].game + "/" + events[event].format + "/" + slug + ".csv" 
+    filename = "./data/" + events[event].game + "/" + events[event].format + "/" + slug + "-sets.csv" 
     print("Working on " + filename + "...")
     
     f = open(filename, "w")
@@ -114,7 +114,7 @@ for event in events:
     print("Wrote Results to " + filename)
     f.close()
 
-    filename = "./" + events[event].game + "/" + events[event].format + "/" + slug + "-standings.csv" 
+    filename = "./data/" + events[event].game + "/" + events[event].format + "/" + slug + "-standings.csv" 
     f = open(filename, "w")
     f.write("name, finalPlacement\n")
     for placing in events[event].placings:
