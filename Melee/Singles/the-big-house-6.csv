@@ -62,29 +62,29 @@ a-wall,hype!,0
 aly,eru,0
 a-wall,aly,0
 violence,a-wall,0
-dono42,kjs,0
-mekk,hayzze,0
-jackzilla,doepp,1
-frenzy,stewbird,0
+raalts,kjs,0
 raalts,420bonglord,0
-triple r,dono42,0
-mekk,doepp,0
-yeti,frenzy,1
-general heinz,raalts,0
-triple r,mekk,0
+raalts,yeti,1
+frenzy,stewbird,0
 frenzy,general heinz,0
 triple r,frenzy,1
-hayzze,jackzilla,1
-raalts,kjs,0
-yeti,jackzilla,0
-doepp,stewbird,0
-dono42,420bonglord,0
-raalts,yeti,1
-doepp,dono42,0
-mekk,yeti,1
-general heinz,doepp,0
-yeti,general heinz,0
+triple r,dono42,0
+triple r,mekk,0
 triple r,yeti,0
+jackzilla,doepp,1
+dono42,kjs,0
+dono42,420bonglord,0
+mekk,doepp,0
+mekk,yeti,1
+mekk,hayzze,0
+doepp,stewbird,0
+doepp,dono42,0
+yeti,frenzy,1
+yeti,jackzilla,0
+yeti,general heinz,0
+hayzze,jackzilla,1
+general heinz,raalts,0
+general heinz,doepp,0
 qedem,ezreal,1
 kampy,negrodomus,1
 milo,severian,1
@@ -262,13 +262,13 @@ giogio,slag,0
 mr.h,drfabs,0
 tfs,doppler12,0
 bloop,shinsuyavi,0
-| uuaa,nix,0
+uuaa,nix,0
 giogio,mr.h,0
 fendricklamar,tfs,0
 veklor,bloop,0
-| uuaa,giogio,0
+uuaa,giogio,0
 fendricklamar,veklor,0
-| uuaa,fendricklamar,0
+uuaa,fendricklamar,0
 slag,drfabs,0
 bloop,burgei,0
 tfs,slag,1
@@ -364,38 +364,38 @@ gemini,slickah,0
 aaronscaring,coin,0
 gemini,aaronscaring,0
 salty seth,gemini,0
-coffeemug,legion,1
-pistallion,zantpowa,1
-n7,mufasa,0
-mew2queen,shum,0
-abszol,slyben,0
-tafokints,legion,0
-zantpowa,n7,1
+shabo,legion,0
 shabo,mew2queen,0
-yeroc,abszol,0
-tafokints,n7,0
 shabo,yeroc,0
-tafokints,shabo,0
-pistallion,mufasa,1
 abszol,coffeemug,1
+abszol,slyben,0
+legion,slyben,0
+shum,legion,1
+tafokints,shabo,0
+tafokints,legion,0
+tafokints,n7,0
+mew2queen,legion,1
+mew2queen,shum,0
 mew2queen,mufasa,0
 zantpowa,shum,1
-legion,slyben,0
+zantpowa,n7,1
+coffeemug,legion,1
 coffeemug,mew2queen,1
-shum,legion,1
-n7,mew2queen,1
+yeroc,abszol,0
 yeroc,legion,1
-mew2queen,legion,1
-shabo,legion,0
+pistallion,zantpowa,1
+pistallion,mufasa,1
+n7,mew2queen,1
+n7,mufasa,0
 puddle,w1sh,0
-| dope,dudeofhazardz,0
+dope,dudeofhazardz,0
 colonel dog,thrive,0
 majesticwood,skrai,1
 fuzzyness,puddle,0
-asscastle,| dope,1
+asscastle,dope,1
 dre,colonel dog,1
 thunderpaste,skrai,1
-fuzzyness,| dope,0
+fuzzyness,dope,0
 colonel dog,skrai,0
 fuzzyness,colonel dog,0
 thunderpaste,w1sh,1
@@ -404,10 +404,10 @@ asscastle,thrive,0
 puddle,majesticwood,0
 w1sh,dre,1
 asscastle,puddle,1
-| dope,dre,0
+dope,dre,0
 skrai,puddle,1
-| dope,puddle,0
-colonel dog,| dope,0
+dope,puddle,0
+colonel dog,dope,0
 life,r & r,1
 regi$ philbin,cow,1
 a link named slykbacc,nost,0
@@ -689,29 +689,29 @@ kaiser,rappsody,1
 ken2,near,1
 rappsody,near,1
 dunk,near,0
-joshers,| flashburn 117,1
-orana,enjoy,1
-wiggles,puppeh,1
-smith,hamer,0
-mongoose,jabloinks,0
-dizzkidboogie,| flashburn 117,0
-enjoy,puppeh,1
-rowan,smith,0
-jf,mongoose,0
-dizzkidboogie,puppeh,0
-rowan,jf,1
+dizzkidboogie,flashburn 117,0
 dizzkidboogie,jf,0
-orana,wiggles,1
-mongoose,joshers,0
-smith,wiggles,0
-enjoy,hamer,0
-| flashburn 117,jabloinks,0
+dizzkidboogie,puppeh,0
 mongoose,smith,1
-enjoy,| flashburn 117,1
+mongoose,joshers,0
+mongoose,jabloinks,0
+flashburn 117,jabloinks,0
+rowan,flashburn 117,1
+rowan,smith,0
+rowan,jf,1
+orana,enjoy,1
+orana,wiggles,1
+smith,hamer,0
+smith,wiggles,0
+jf,mongoose,0
+jf,flashburn 117,0
+enjoy,hamer,0
+enjoy,flashburn 117,1
+enjoy,puppeh,1
+wiggles,puppeh,1
+puppeh,flashburn 117,1
 puppeh,smith,0
-rowan,| flashburn 117,1
-puppeh,| flashburn 117,1
-jf,| flashburn 117,0
+joshers,flashburn 117,1
 monkbard,mfsa,1
 turkish delight,dingo,1
 elliot,m00nbarker,1
@@ -735,24 +735,24 @@ pablobear8,m00nbarker,0
 pyro,pablobear8,0
 comment,heck,1
 king potato,surskim,0
-gls | krump,nick,0
+krump,nick,0
 agyle,cablebox,1
 captain faceroll,heck,0
 mattan,king potato,1
-kason,gls | krump,0
-| sled,cablebox,0
+kason,krump,0
+sled,cablebox,0
 captain faceroll,king potato,0
-kason,| sled,0
+kason,sled,0
 captain faceroll,kason,0
 cablebox,comment,0
-gls | krump,surskim,0
+krump,surskim,0
 mattan,nick,0
 heck,agyle,0
-cablebox,gls | krump,1
+cablebox,krump,1
 mattan,heck,0
-king potato,gls | krump,0
-| sled,mattan,0
-king potato,| sled,0
+king potato,krump,0
+sled,mattan,0
+king potato,sled,0
 kason,king potato,0
 sonofashepherd,theschmuck33,0
 theboy,cigs,1
@@ -862,7 +862,7 @@ tranimal,mementomori,0
 tabasco,reggie,1
 jmlee337,wepeel,0
 starsoldier,slartibartfast42,1
-| free inui,mrjungstuffed,1
+free inui,mrjungstuffed,1
 shreddern64,yungwavedash,1
 zanguzen,reggie,0
 jmlee337,slartibartfast42,1
@@ -874,7 +874,7 @@ zanguzen,brtarolg,0
 wepeel,starsoldier,0
 yungwavedash,tabasco,0
 mrjungstuffed,wepeel,0
-jmlee337,| free inui,0
+jmlee337,free inui,0
 reggie,shreddern64,0
 yungwavedash,mrjungstuffed,0
 jmlee337,reggie,1
@@ -1008,38 +1008,38 @@ sasha,hunter,0
 citizen snips,maybe,1
 sasha,maybe,1
 i4n,maybe,0
-yor742,light,1
-lxix,88,0
-chango,k-c,0
-drill,suess,1
-wizzrobe,light,0
-kliner,lxix,1
-wakenvape,chango,1
-doodler,suess,1
-wizzrobe,lxix,0
-chango,suess,1
-wizzrobe,suess,0
-doodler,yor742,0
-wakenvape,88,1
 kliner,k-c,1
-light,drill,0
-doodler,88,0
+kliner,lxix,1
+drill,suess,1
+wakenvape,88,1
+wakenvape,chango,1
 k-c,light,1
-lxix,doodler,0
-chango,light,0
+yor742,light,1
+light,drill,0
+lxix,88,0
 lxix,chango,0
+lxix,doodler,0
+wizzrobe,light,0
+wizzrobe,lxix,0
+wizzrobe,suess,0
+chango,k-c,0
+chango,light,0
+chango,suess,1
 suess,lxix,0
+doodler,yor742,0
+doodler,88,0
+doodler,suess,1
 c_mill24,hvac,1
 goobershadow,bushels,0
 gnarly,we-g,0
 allen,steez,0
 dj nintendo,hvac,0
 @ashkon_,goobershadow,0
-| nakamaman,gnarly,0
+nakamaman,gnarly,0
 eggy,allen,0
 dj nintendo,@ashkon_,0
-| nakamaman,eggy,0
-dj nintendo,| nakamaman,1
+nakamaman,eggy,0
+dj nintendo,nakamaman,1
 allen,c_mill24,0
 gnarly,bushels,0
 goobershadow,we-g,0
@@ -1327,29 +1327,29 @@ buttercup,blu-j,1
 parzival,yung fuccboii,0
 blu-j,parzival,1
 yort,parzival,0
-chinchilla,spaceghost,1
-psychowaffle,davemon,1
-twig,drynanigans,1
-surge,noldorian,1
-mrsalezz,doofalo,0
-r2dliu,spaceghost,0
-davemon,drynanigans,1
-mchi,noldorian,0
-toe,mrsalezz,0
-r2dliu,drynanigans,0
-mchi,toe,0
-r2dliu,mchi,0
-psychowaffle,twig,1
 mrsalezz,chinchilla,1
-noldorian,twig,1
-davemon,surge,0
+mrsalezz,doofalo,0
+twig,drynanigans,1
+r2dliu,spaceghost,0
+r2dliu,mchi,0
+r2dliu,drynanigans,0
 spaceghost,doofalo,0
-chinchilla,twig,0
-davemon,spaceghost,0
-drynanigans,chinchilla,0
-toe,davemon,1
-drynanigans,davemon,1
+mchi,noldorian,0
+mchi,toe,0
 mchi,davemon,0
+drynanigans,chinchilla,0
+drynanigans,davemon,1
+chinchilla,twig,0
+chinchilla,spaceghost,1
+noldorian,twig,1
+toe,mrsalezz,0
+toe,davemon,1
+psychowaffle,twig,1
+psychowaffle,davemon,1
+davemon,spaceghost,0
+davemon,drynanigans,1
+davemon,surge,0
+surge,noldorian,1
 mustard,patrick,1
 loveswater,salz,0
 gm,kal-el,1
@@ -1399,9 +1399,9 @@ yandi,bumsqueeze,1
 professor pro,brian,0
 game,phrigid,1
 imyt,fadversity,0
-| vrudssbm,bumsqueeze,0
+vrudssbm,bumsqueeze,0
 professor pro,phrigid,0
-imyt,| vrudssbm,0
+imyt,vrudssbm,0
 professor pro,imyt,0
 bumsqueeze,null,1
 fadversity,bduke,1
@@ -1410,7 +1410,7 @@ brian,yandi,0
 null,bduke,1
 game,brian,0
 phrigid,bduke,0
-| vrudssbm,game,1
+vrudssbm,game,1
 phrigid,game,0
 imyt,phrigid,0
 cryptic,lost,1
@@ -1644,27 +1644,27 @@ oven,vdub,1
 mw,weissclimbers,0
 vdub,mw,0
 oro?!,vdub,0
-ijiz,cagnar,0
-moonunit,unit456,1
-juice,mr. h,0
-cdub,jimmynojohns,0
-mr. f,ijiz,0
-angelaanaconda,unit456,1
-luigigoshard,juice,0
-@tryceblazer,cdub,0
-mr. f,unit456,0
-luigigoshard,@tryceblazer,0
+mr. f,@tryceblazer,0
 mr. f,luigigoshard,1
+mr. f,unit456,0
+mr. f,ijiz,0
 cdub,cagnar,0
-juice,moonunit,0
-angelaanaconda,mr. h,1
-ijiz,jimmynojohns,0
 cdub,juice,0
+cdub,@tryceblazer,1
+cdub,jimmynojohns,0
+juice,moonunit,0
+juice,mr. h,0
+@tryceblazer,cdub,0
+@tryceblazer,ijiz,0
+luigigoshard,juice,0
+luigigoshard,@tryceblazer,0
+moonunit,unit456,1
 mr. h,ijiz,1
 unit456,cdub,1
-@tryceblazer,ijiz,0
-cdub,@tryceblazer,1
-mr. f,@tryceblazer,0
+angelaanaconda,mr. h,1
+angelaanaconda,unit456,1
+ijiz,cagnar,0
+ijiz,jimmynojohns,0
 steiner,nn7,0
 lo1ts,soy,0
 rezo,the chef,1
@@ -1732,13 +1732,13 @@ dutch,rayd,1
 zalost,aray,1
 yung_life,kj,0
 stepdad,jeo,0
-| nmw,rayd,0
+nmw,rayd,0
 boyne,aray,1
 jawanga,yung_life,0
 bernal,stepdad,0
-| nmw,aray,0
+nmw,aray,0
 jawanga,bernal,0
-| nmw,jawanga,0
+nmw,jawanga,0
 stepdad,dutch,1
 yung_life,zalost,0
 boyne,kj,0
@@ -1971,27 +1971,27 @@ quint,capone,0
 mentaculus,wizard,0
 quint,mentaculus,1
 eliott,mentaculus,0
-hert,vinje,0
-kaptinkillem,crimsonkid,1
-blaziken,woogity wu,1
-| prime,miamikey,1
-silent wolf,hert,0
-jake97,crimsonkid,1
-prz,woogity wu,0
-puff,miamikey,0
-silent wolf,crimsonkid,0
-prz,puff,1
-silent wolf,puff,0
 miamikey,vinje,0
-woogity wu,kaptinkillem,0
-jake97,blaziken,1
-hert,| prime,0
 miamikey,woogity wu,1
+blaziken,woogity wu,1
 blaziken,hert,1
-crimsonkid,woogity wu,0
+prz,woogity wu,0
 prz,hert,0
-crimsonkid,prz,1
+prz,puff,1
+silent wolf,hert,0
+silent wolf,puff,0
+silent wolf,crimsonkid,0
+jake97,blaziken,1
+jake97,crimsonkid,1
+kaptinkillem,crimsonkid,1
+woogity wu,kaptinkillem,0
+hert,vinje,0
+hert,prime,0
+puff,miamikey,0
 puff,prz,0
+crimsonkid,prz,1
+crimsonkid,woogity wu,0
+prime,miamikey,1
 orange,spankers,0
 dsj,bluepartyhat,0
 josamabinladen,lonebutterfish,1
@@ -2082,13 +2082,13 @@ log,algel,0
 dynamic,moosewad,0
 tuesday,christ himself,1
 moonpuncher,doujin logic,1
-| jflex,log,0
+jflex,log,0
 booty bandit,dynamic,1
 marriott moy,christ himself,0
 metric,doujin logic,0
-| jflex,dynamic,0
+jflex,dynamic,0
 marriott moy,metric,0
-| jflex,marriott moy,0
+jflex,marriott moy,0
 doujin logic,algel,0
 christ himself,moosewad,0
 booty bandit,tuesday,0
@@ -2254,20 +2254,20 @@ liva,king fedora,1
 char,king fedora,0
 dirty socks,johnnycamine,1
 ce,dyldobaggins,0
-timko | af,stoc,0
+af,stoc,0
 b17,el jefe,1
 ryan ford,johnnycamine,0
 100 grand,ce,0
-sveet,timko | af,0
+sveet,af,0
 galen the wise,el jefe,0
 ryan ford,100 grand,0
 sveet,galen the wise,1
 ryan ford,galen the wise,0
 el jefe,dirty socks,0
-timko | af,dyldobaggins,0
+af,dyldobaggins,0
 ce,stoc,0
 johnnycamine,b17,1
-el jefe,timko | af,0
+el jefe,af,0
 ce,b17,1
 100 grand,el jefe,0
 sveet,b17,0
@@ -2295,26 +2295,26 @@ focus,n0z1ck,0
 ceephax,focus,0
 rustin,ceephax,0
 dabeazt,moo,0
-bchan,gothoesinareacodes,1
-rapatap,bayless,0
-sweetyjesus,bk,0
-ka-master,dabeazt,0
-lotus,gothoesinareacodes,0
-rog,rapatap,0
-kenpachi,sweetyjesus,0
-ka-master,lotus,0
-rog,kenpachi,0
-ka-master,rog,0
-sweetyjesus,moo,0
-rapatap,bchan,0
-gothoesinareacodes,bayless,0
 dabeazt,bk,0
+sweetyjesus,moo,0
+sweetyjesus,bk,0
 sweetyjesus,rapatap,1
-gothoesinareacodes,dabeazt,0
+lotus,gothoesinareacodes,0
 lotus,rapatap,0
-kenpachi,gothoesinareacodes,0
 lotus,kenpachi,1
+bchan,gothoesinareacodes,1
+gothoesinareacodes,dabeazt,0
+gothoesinareacodes,bayless,0
+rog,rapatap,0
 rog,kenpachi,0
+rog,kenpachi,0
+ka-master,dabeazt,0
+ka-master,lotus,0
+ka-master,rog,0
+rapatap,bchan,0
+rapatap,bayless,0
+kenpachi,sweetyjesus,0
+kenpachi,gothoesinareacodes,0
 hibbityhoopla,moon over my-hammy,0
 rambo nanny,scoot,1
 popehat,wreckening,0
@@ -2591,11 +2591,11 @@ flakes,dj red lantern,1
 tarchwood,spor,1
 dj red lantern,spor,0
 onion,dj red lantern,0
-stango,| deoxiclean,1
+stango,deoxiclean,1
 off3nse,i am an owl,0
 jecht,genoblast,1
 5'10,pav nasty,1
-absentpage,| deoxiclean,0
+absentpage,deoxiclean,0
 scoback,off3nse,1
 baeblade,genoblast,0
 lange,pav nasty,0
@@ -2605,34 +2605,34 @@ absentpage,baeblade,0
 pav nasty,stango,0
 genoblast,i am an owl,0
 scoback,jecht,0
-| deoxiclean,5'10,1
+deoxiclean,5'10,1
 pav nasty,genoblast,1
 scoback,5'10,0
 off3nse,genoblast,0
 lange,scoback,0
 off3nse,lange,0
 baeblade,off3nse,0
-lightning mcpeen,paco,1
-chillmilk,little bucket,0
-uw | leahboo,k1lllaag,0
-cal,jams,0
-android,paco,0
-disciple,chillmilk,0
-blendtec,uw | leahboo,0
-mask,cal,1
-android,disciple,0
 blendtec,cal,1
-android,cal,0
-mask,lightning mcpeen,0
-uw | leahboo,little bucket,1
-chillmilk,k1lllaag,0
-paco,jams,0
-mask,little bucket,0
-chillmilk,paco,1
-disciple,mask,1
 blendtec,paco,0
-mask,blendtec,0
+blendtec,leahboo,0
 cal,mask,0
+cal,jams,0
+disciple,mask,1
+disciple,chillmilk,0
+android,cal,0
+android,disciple,0
+android,paco,0
+mask,little bucket,0
+mask,blendtec,0
+mask,cal,1
+mask,lightning mcpeen,0
+paco,jams,0
+chillmilk,little bucket,0
+chillmilk,paco,1
+chillmilk,k1lllaag,0
+lightning mcpeen,paco,1
+leahboo,little bucket,1
+leahboo,k1lllaag,0
 dable,swag,1
 shlomer,e-n,0
 coupon,readbarren,1
@@ -2938,10 +2938,10 @@ ka-master,spark,0
 ryan ford,ka-master,0
 zhu,beerman,0
 kirbykaze,hellsingulh,0
-reno,| jflex,1
+reno,jflex,1
 axe,r2dliu,1
 zhu,kirbykaze,1
-| jflex,r2dliu,1
+jflex,r2dliu,1
 kirbykaze,r2dliu,0
 dshi,usleon,1
 triple r,nox,0
@@ -2961,37 +2961,37 @@ axe,prz,0
 reno,yeti,0
 triple r,beerman,0
 axe,reno,0
-| jflex,triple r,0
+jflex,triple r,0
 zhu,axe,0
-| jflex,zhu,0
-r23,laudandus,1
-vish,| nakamaman,0
-syrox,armada,1
-ginger,lovage805,1
-laudandus,vish,0
-armada,lovage805,0
-laudandus,armada,0
-nurok,timesink,1
-nes,kal-el,0
+jflex,zhu,0
 gar,farks,0
-flood,nard dogg,0
-jager,konati,0
-modem,fluffs,0
-quang,simple,0
-joeycrzl,dingus,0
-timesink,nes,1
 gar,flood,0
-jager,modem,0
-quang,joeycrzl,1
-| nakamaman,nes,0
-r23,gar,1
 ginger,jager,0
-syrox,joeycrzl,0
-| nakamaman,gar,1
+ginger,lovage805,1
 ginger,syrox,1
+modem,fluffs,0
+r23,gar,1
+r23,laudandus,1
+nakamaman,gar,1
+nakamaman,nes,0
+nes,kal-el,0
+timesink,nes,1
+jager,konati,0
+jager,modem,0
+armada,lovage805,0
 lovage805,gar,0
-vish,syrox,1
 lovage805,syrox,0
+quang,simple,0
+quang,joeycrzl,1
+flood,nard dogg,0
+joeycrzl,dingus,0
+laudandus,armada,0
+laudandus,vish,0
+nurok,timesink,1
+vish,nakamaman,0
+vish,syrox,1
+syrox,armada,1
+syrox,joeycrzl,0
 plup,amida,0
 tafokints,zain,1
 kjh,liquid,0
@@ -3086,7 +3086,7 @@ hungrybox,bladewise,0
 kim yung un,ceephax,0
 snowy,thissidedown,1
 ju4n,reesch,0
-fendricklamar,| dope,0
+fendricklamar,dope,0
 colonel dog,veklor,1
 goomy,slush,0
 jamrun,ivan,0
@@ -3134,7 +3134,7 @@ frootloop,colbol,1
 taj,colbol,0
 $mike,swiftbass,1
 mang0,wenbobular,0
-android,| nmw,0
+android,nmw,0
 mikehaze,crunch,0
 swiftbass,mang0,1
 android,mikehaze,1
@@ -3154,15 +3154,15 @@ gato,vincessant,0
 wenbobular,pi,1
 $mike,tapion,0
 crunch,sago,0
-| nmw,gato,0
+nmw,gato,0
 pi,$mike,0
-crunch,| nmw,1
+crunch,nmw,1
 android,pi,0
-swiftbass,| nmw,1
-android,| nmw,0
+swiftbass,nmw,1
+android,nmw,0
 tian,lucky,1
 darrell,fuzzyness,0
-| uuaa,the moon,1
+uuaa,the moon,1
 alan,kels,1
 lucky,darrell,0
 the moon,kels,0
@@ -3174,7 +3174,7 @@ shaeden,slartibartfast42,0
 brtarolg,visualwatch,0
 liam_butler,shroudedone,0
 the brig,puncayshun,0
-dunk,| flashburn 117,0
+dunk,flashburn 117,0
 jf,sweet,1
 rik,shaeden,0
 brtarolg,liam_butler,1
@@ -3182,9 +3182,9 @@ the brig,dunk,1
 fuzzyness,sweet,0
 tian,rik,1
 alan,liam_butler,0
-| uuaa,dunk,0
+uuaa,dunk,0
 fuzzyness,rik,0
-alan,| uuaa,0
+alan,uuaa,0
 kels,fuzzyness,0
 darrell,alan,0
 kels,darrell,0
@@ -3227,10 +3227,10 @@ hugs,anther,0
 druggedfox,tai,0
 captain faceroll,westballz,1
 n0ne,drephen,0
-ryan ford,| nmw,0
+ryan ford,nmw,0
 dizzkidboogie,jamrun,0
 slox,trulliam,1
-| jflex,zhu,1
+jflex,zhu,1
 taj,colbol,0
 lovage805,syrox,1
 android,nightmare,0

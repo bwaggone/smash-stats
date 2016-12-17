@@ -11,7 +11,7 @@ api_sets_postfix = '?expand[]=sets'
 smash_games = {1: "Melee", 3: "Smash 4"}
 
 def sanatize_name(name):
-    return (name.split('|', 1)[-1]).lstrip().lower().replace('"', '')
+    return (name.split('|', 1)[-1]).lower().replace('"', '').split('|', 1)[-1].lstrip()
 
 class event:
     def __init__(self, event_id, event_name, gameId, _format):
@@ -37,7 +37,11 @@ class event:
             self.entrants[entrant["id"]] = sanatize_name(entrant["name"])
 
 
-r = requests.get('https://api.smash.gg/tournament/the-big-house-6?expand[]=phase&expand[]=groups&expand[]=event')
+
+slug = raw_input("What is the tournament slug?\n")
+
+#r = requests.get('https://api.smash.gg/tournament/the-big-house-6?expand[]=phase&expand[]=groups&expand[]=event')
+r = requests.get('https://api.smash.gg/tournament/' + slug + '?expand[]=phase&expand[]=groups&expand[]=event')
 #r = requests.get('https://api.smash.gg/phase_group/76016?expand[]=sets&expand[]=standings&expand[]=selections')
 data = json.loads(r.text)
 phase_ids = []
@@ -76,7 +80,7 @@ for event in events:
 
 #print(events[12830].entrants[288001])
 #print(events[12830].entrants[282600])
-f = open("tbh6_ms.csv", "w")
+f = open("./" + events[12830].game + "/" + events[12830].format + "/" + slug + ".csv", "w")
 f.write("P1, P2, set winner\n")
 for group in events[12830].groups:
     results = requests.get(api_prefix + 'phase_group/' +  str(group) + api_sets_postfix)
