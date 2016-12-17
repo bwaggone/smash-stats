@@ -116,7 +116,7 @@ for event in events:
 
     filename = "./" + events[event].game + "/" + events[event].format + "/" + slug + "-standings.csv" 
     f = open(filename, "w")
-    f.write("name, finalPlacement")
+    f.write("name, finalPlacement\n")
     for placing in events[event].placings:
         try:
             f.write(events[event].entrants[placing] + "," + str(events[event].placings[placing]) + "\n")
