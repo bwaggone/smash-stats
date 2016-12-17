@@ -11,7 +11,7 @@ api_sets_postfix = '?expand[]=sets'
 smash_games = {1: "Melee", 3: "Smash 4"}
 
 def sanatize_name(name):
-    return (name.split('|', 1)[-1]).lstrip().lower()
+    return (name.split('|', 1)[-1]).lstrip().lower().replace('"', '')
 
 class event:
     def __init__(self, event_id, event_name, gameId, _format):

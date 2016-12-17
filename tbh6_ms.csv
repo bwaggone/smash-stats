@@ -2449,9 +2449,9 @@ simian,random,0
 dr. z,turtle,0
 regi,ryan mercado,0
 k,burnt wood,0
-jonny "gumball" gamble,simian,0
+jonny gumball gamble,simian,0
 dr. z,regi,0
-k,jonny "gumball" gamble,0
+k,jonny gumball gamble,0
 dr. z,k,0
 wind,zamn,0
 simian,yogi backair,0
@@ -2461,9 +2461,9 @@ turtle,random,0
 simian,wind,0
 ryan mercado,turtle,0
 regi,simian,1
-jonny "gumball" gamble,ryan mercado,0
-simian,jonny "gumball" gamble,1
-k,jonny "gumball" gamble,0
+jonny gumball gamble,ryan mercado,0
+simian,jonny gumball gamble,1
+k,jonny gumball gamble,0
 linus,nintnt,1
 youngjiddle,remix,1
 phoenix,cooljoe,0
@@ -2594,7 +2594,7 @@ onion,dj red lantern,0
 stango,| deoxiclean,1
 off3nse,i am an owl,0
 jecht,genoblast,1
-5'10",pav nasty,1
+5'10,pav nasty,1
 absentpage,| deoxiclean,0
 scoback,off3nse,1
 baeblade,genoblast,0
@@ -2605,9 +2605,9 @@ absentpage,baeblade,0
 pav nasty,stango,0
 genoblast,i am an owl,0
 scoback,jecht,0
-| deoxiclean,5'10",1
+| deoxiclean,5'10,1
 pav nasty,genoblast,1
-scoback,5'10",0
+scoback,5'10,0
 off3nse,genoblast,0
 lange,scoback,0
 off3nse,lange,0
@@ -2778,7 +2778,7 @@ sfat,chillindude,0
 knubs.,messenger,0
 baeblade,lxix,0
 nerin,.ðempt,0
-mb-smash,jonny "gumball" gamble,0
+mb-smash,jonny gumball gamble,0
 k,seabass,1
 ny joey,jerry,0
 suess,off3nse,1
