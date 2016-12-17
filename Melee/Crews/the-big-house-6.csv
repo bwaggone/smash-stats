@@ -1,8 +1,8 @@
-P1, P2, set winner
-socal,mdva,0
-europe,southwest,0
-florida,canada,0
-norcal,midwest,0
-socal,europe,0
-florida,norcal,0
-socal,florida,0
+P1, P2, set winner, P1Score, P2Score
+socal,mdva,0,-2,-2
+europe,southwest,0,-2,-2
+florida,canada,0,-2,-2
+norcal,midwest,0,-2,-2
+socal,europe,0,-2,-2
+florida,norcal,0,-2,-2
+socal,florida,0,-2,-2

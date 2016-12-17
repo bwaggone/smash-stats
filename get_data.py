@@ -22,6 +22,7 @@ class event:
         self.phases = []
         self.groups = []
         self.entrants = {}
+        self.placings = {}
 
     def add_phases(self, phases):
         self.phases = phases
@@ -34,7 +35,7 @@ class event:
     def add_entrants(self, entrants):
         for entrant in entrants:
             self.entrants[entrant["id"]] = sanatize_name(entrant["name"])
-
+            self.placings[entrant["id"]] = entrant["finalPlacement"]
 
 
 slug = raw_input("What is the tournament slug?\n")
@@ -82,8 +83,9 @@ for event in events:
 for event in events:
     filename = "./" + events[event].game + "/" + events[event].format + "/" + slug + ".csv" 
     print("Working on " + filename + "...")
+    
     f = open(filename, "w")
-    f.write("P1, P2, set winner\n")
+    f.write("P1, P2, set winner, P1Score, P2Score\n")
     for group in events[event].groups:
         results = requests.get(api_prefix + 'phase_group/' +  str(group) + api_sets_postfix)
         result_data = json.loads(results.text)
@@ -91,18 +93,38 @@ for event in events:
         for _set in result_data["entities"]["sets"]:
             p1 = _set["entrant1Id"]
             p2 = _set["entrant2Id"]
+            p1_score = _set["entrant1Score"]
+            p2_score = _set["entrant2Score"]
+
+            if(p1_score == None):
+                p1_score = -2
+            if(p2_score == None):
+                p2_score = -2
+
             if(p1 == None or p2 == None):
                 continue
             result = 0
             if _set["winnerId"] == p2:
                 result = 1
             try:
-                f.write(events[event].entrants[p1] + ',' + events[event].entrants[p2] + ',' + str(result) + '\n')
+                f.write(events[event].entrants[p1] + ',' + events[event].entrants[p2] + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) + '\n')
             except:
-                f.write((events[event].entrants[p1] + ',' + events[event].entrants[p2] + ',' + str(result) + '\n').encode('utf-8'))
+                f.write((events[event].entrants[p1] + ',' + events[event].entrants[p2] + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) +'\n').encode('utf-8'))
 
     print("Wrote Results to " + filename)
     f.close()
+
+    filename = "./" + events[event].game + "/" + events[event].format + "/" + slug + "-standings.csv" 
+    f = open(filename, "w")
+    f.write("name, finalPlacement")
+    for placing in events[event].placings:
+        try:
+            f.write(events[event].entrants[placing] + "," + str(events[event].placings[placing]) + "\n")
+        except:
+            f.write((events[event].entrants[placing] + "," + str(events[event].placings[placing]) + "\n").encode('utf-8'))
+    f.close()
+
+
 #At this point we have every event with all group numbers, so we can use each one to look up set information.
 #Once we have set information, we can output to csv (after translating entrantId -> name)
 
@@ -136,13 +158,3 @@ for event in events:
 #After we get the results, spit them out into a csv
 #Read the CSV into the glicko calc
 
-
-
-
-#print(phase_groups)
-#for event in data["entities"]["phase"]:
-#    r = requests.get(api_prefix + 'event/' + str(event["eventId"]))
-#    evnt_data = json.loads(r.text)
-#    if(evnt_data["entities"]["event"]["name"] == "Melee Singles"):
-#        print(evnt_data["entities"]["event"]["id"])
-   # print(evnt_data["entities"]["event"]["name"])
