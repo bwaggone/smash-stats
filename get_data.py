@@ -2,9 +2,40 @@ import requests
 import json
 from collections import *
 
-api_prefix = 'https://api.smash.gg/'
 
 smash_games = {1: "Melee", 3: "Smash 4"}
+smash_formats = defaultdict(str, {1: "Singles", 2: "Doubles", 5: "Crews"})
+api_prefix = 'https://api.smash.gg/'
+api_entrant_postfix = '?expand[]=entrants'
+api_sets_postfix = '?expand[]=sets'
+smash_games = {1: "Melee", 3: "Smash 4"}
+
+def sanatize_name(name):
+    return (name.split('|', 1)[-1]).lstrip().lower()
+
+class event:
+    def __init__(self, event_id, event_name, gameId, _format):
+        self.event_id = event_id
+        self.event_name = event_name
+        self.game = smash_games[gameId]
+        self.format_id = _format
+        self.format = smash_formats[_format]
+        self.phases = []
+        self.groups = []
+        self.entrants = {}
+
+    def add_phases(self, phases):
+        self.phases = phases
+
+    def add_groups(self, groups):
+        for group in groups:
+            self.groups.append(group)
+
+
+    def add_entrants(self, entrants):
+        for entrant in entrants:
+            self.entrants[entrant["id"]] = sanatize_name(entrant["name"])
+
 
 r = requests.get('https://api.smash.gg/tournament/the-big-house-6?expand[]=phase&expand[]=groups&expand[]=event')
 #r = requests.get('https://api.smash.gg/phase_group/76016?expand[]=sets&expand[]=standings&expand[]=selections')
@@ -26,6 +57,52 @@ for group in data["entities"]["groups"]:
     phase_groups[group["phaseId"]].append(group["id"])
 
 #Separate each phase by game
+events = {}
+for event_id in event_phases:
+    r = requests.get(api_prefix + 'event/' + str(event_id) + api_entrant_postfix)
+    evnt_data = json.loads(r.text)
+    events[evnt_data["entities"]["event"]["id"]] = event(event_id, evnt_data["entities"]["event"]["name"], evnt_data["entities"]["event"]["videogameId"], evnt_data["entities"]["event"]["type"])
+    tmp = evnt_data["entities"]["entrants"]
+    events[evnt_data["entities"]["event"]["id"]].add_entrants(tmp)
+
+print("Retrieved events")
+
+for event in events:
+    events[event].add_phases(event_phases[event])
+    for phase in events[event].phases:
+        events[event].add_groups(phase_groups[phase])
+    
+    #print(events[event].event_name, events[event].groups)
+
+#print(events[12830].entrants[288001])
+#print(events[12830].entrants[282600])
+f = open("tbh6_ms.csv", "w")
+f.write("P1, P2, set winner\n")
+for group in events[12830].groups:
+    results = requests.get(api_prefix + 'phase_group/' +  str(group) + api_sets_postfix)
+    result_data = json.loads(results.text)
+    print("Retrieving sets from group #:" + str(group))
+    for _set in result_data["entities"]["sets"]:
+        p1 = _set["entrant1Id"]
+        p2 = _set["entrant2Id"]
+        if(p1 == None or p2 == None):
+            continue
+        result = 0
+        if _set["winnerId"] == p2:
+            result = 1
+        try:
+            f.write(events[12830].entrants[p1] + ',' + events[12830].entrants[p2] + ',' + str(result) + '\n')
+        except:
+            f.write((events[12830].entrants[p1] + ',' + events[12830].entrants[p2] + ',' + str(result) + '\n').encode('utf-8'))
+
+print("Wrote Results to file")
+f.close()
+
+#At this point we have every event with all group numbers, so we can use each one to look up set information.
+#Once we have set information, we can output to csv (after translating entrantId -> name)
+
+
+
 
 #   Get the game / event via request
 #   r = requests.get(api_prefix + 'event/' + str(event_phases.key))
@@ -57,7 +134,7 @@ for group in data["entities"]["groups"]:
 
 
 
-print(phase_groups)
+#print(phase_groups)
 #for event in data["entities"]["phase"]:
 #    r = requests.get(api_prefix + 'event/' + str(event["eventId"]))
 #    evnt_data = json.loads(r.text)
