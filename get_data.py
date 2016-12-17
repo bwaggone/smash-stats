@@ -3,12 +3,11 @@ import json
 from collections import *
 
 
-smash_games = {1: "Melee", 3: "Smash 4"}
+smash_games = {1: "Melee", 3: "Smash4"}
 smash_formats = defaultdict(str, {1: "Singles", 2: "Doubles", 5: "Crews"})
 api_prefix = 'https://api.smash.gg/'
 api_entrant_postfix = '?expand[]=entrants'
 api_sets_postfix = '?expand[]=sets'
-smash_games = {1: "Melee", 3: "Smash 4"}
 
 def sanatize_name(name):
     return (name.split('|', 1)[-1]).lower().replace('"', '').split('|', 1)[-1].lstrip()
@@ -75,33 +74,35 @@ for event in events:
     events[event].add_phases(event_phases[event])
     for phase in events[event].phases:
         events[event].add_groups(phase_groups[phase])
-    
+   
     #print(events[event].event_name, events[event].groups)
 
 #print(events[12830].entrants[288001])
 #print(events[12830].entrants[282600])
-f = open("./" + events[12830].game + "/" + events[12830].format + "/" + slug + ".csv", "w")
-f.write("P1, P2, set winner\n")
-for group in events[12830].groups:
-    results = requests.get(api_prefix + 'phase_group/' +  str(group) + api_sets_postfix)
-    result_data = json.loads(results.text)
-    print("Retrieving sets from group #:" + str(group))
-    for _set in result_data["entities"]["sets"]:
-        p1 = _set["entrant1Id"]
-        p2 = _set["entrant2Id"]
-        if(p1 == None or p2 == None):
-            continue
-        result = 0
-        if _set["winnerId"] == p2:
-            result = 1
-        try:
-            f.write(events[12830].entrants[p1] + ',' + events[12830].entrants[p2] + ',' + str(result) + '\n')
-        except:
-            f.write((events[12830].entrants[p1] + ',' + events[12830].entrants[p2] + ',' + str(result) + '\n').encode('utf-8'))
+for event in events:
+    filename = "./" + events[event].game + "/" + events[event].format + "/" + slug + ".csv" 
+    print("Working on " + filename + "...")
+    f = open(filename, "w")
+    f.write("P1, P2, set winner\n")
+    for group in events[event].groups:
+        results = requests.get(api_prefix + 'phase_group/' +  str(group) + api_sets_postfix)
+        result_data = json.loads(results.text)
+        print("Retrieving sets from group #:" + str(group))
+        for _set in result_data["entities"]["sets"]:
+            p1 = _set["entrant1Id"]
+            p2 = _set["entrant2Id"]
+            if(p1 == None or p2 == None):
+                continue
+            result = 0
+            if _set["winnerId"] == p2:
+                result = 1
+            try:
+                f.write(events[event].entrants[p1] + ',' + events[event].entrants[p2] + ',' + str(result) + '\n')
+            except:
+                f.write((events[event].entrants[p1] + ',' + events[event].entrants[p2] + ',' + str(result) + '\n').encode('utf-8'))
 
-print("Wrote Results to file")
-f.close()
-
+    print("Wrote Results to " + filename)
+    f.close()
 #At this point we have every event with all group numbers, so we can use each one to look up set information.
 #Once we have set information, we can output to csv (after translating entrantId -> name)
 
