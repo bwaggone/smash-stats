@@ -31,6 +31,12 @@ Placings are **not in sorted order**. They are relatively straightforward and h 
 
 ##Master Tournament File
 
-   * This is not finished yet.
-   
-This file has a list of tournament slugs and dates. There is one per folder.
+This file has a list of tournament slugs and dates. There is one per folder, and three total columns.
+
+| Tournament | startAt | endAt |
+| ------------ | --------------| -----|
+| Tournament Slug | Starting date (YYYY-MM-DD) | Ending date (YYYY-MM-DD) |
+
+   * Notes:
+      * The tournaments file is created/appended automatically when running get_data.py
+      * It can be configured to convert from date to epoch time, if that floats your boat.
