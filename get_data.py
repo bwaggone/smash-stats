@@ -1,4 +1,5 @@
 import requests
+import time
 import json
 from collections import *
 
@@ -11,6 +12,16 @@ api_sets_postfix = '?expand[]=sets'
 
 def sanatize_name(name):
     return (name.split('|', 1)[-1]).lower().replace('"', '').split('|', 1)[-1].lstrip()
+
+def split_doubles_names(name, doubles):
+    if(doubles):
+        tmp = name.split('/')
+        for i in range(0, len(tmp)):
+            tmp[i] = tmp[i].strip()
+        return ",".join(tmp)
+    else:
+        return name
+
 
 class event:
     def __init__(self, event_id, event_name, gameId, _format):
@@ -44,6 +55,9 @@ slug = raw_input("What is the tournament slug?\n")
 r = requests.get('https://api.smash.gg/tournament/' + slug + '?expand[]=phase&expand[]=groups&expand[]=event')
 #r = requests.get('https://api.smash.gg/phase_group/76016?expand[]=sets&expand[]=standings&expand[]=selections')
 data = json.loads(r.text)
+
+tournament_dates = [time.strftime('%Y-%m-%d', time.localtime(data["entities"]["tournament"]["startAt"])),time.strftime('%Y-%m-%d', time.localtime(data["entities"]["tournament"]["endAt"]))]
+
 phase_ids = []
 event_ids = []
 event_phases = defaultdict(list)
@@ -81,11 +95,41 @@ for event in events:
 #print(events[12830].entrants[288001])
 #print(events[12830].entrants[282600])
 for event in events:
+    #This prevents side events from being recorded
+    # Ex: Own the House in TBH6
+    not_found = 1
+    for format_num in smash_formats:
+        if(smash_formats[format_num] in events[event].event_name):
+            not_found = 0
+            break;
+    
+    if(not_found):
+        print("Skipping 1 event")
+        continue
+    master_file = "./data/" + events[event].game + "/" + events[event].format + "/tournaments.csv" 
+    try:
+        master = open(master_file, "r")
+        master.close()
+        master.open(master_file, "a")
+        master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "\n")
+        master.close()
+    except:
+        master = open(master_file, "a+")
+        master.write("Tournament,startDate,endDate\n")
+        master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "\n")
+        master.close()
+    
     filename = "./data/" + events[event].game + "/" + events[event].format + "/" + slug + "-sets.csv" 
     print("Working on " + filename + "...")
     
     f = open(filename, "w")
-    f.write("P1, P2, set winner, P1Score, P2Score\n")
+    if(events[event].format == "Doubles"):
+        doubles = 1
+        f.write("T1P1,T1P2,T2P1,P2P2,set winner, T1Score, T2Score\n")
+    else:
+        doubles = 0
+        f.write("P1, P2, set winner, P1Score, P2Score\n")
+    
     for group in events[event].groups:
         results = requests.get(api_prefix + 'phase_group/' +  str(group) + api_sets_postfix)
         result_data = json.loads(results.text)
@@ -106,10 +150,11 @@ for event in events:
             result = 0
             if _set["winnerId"] == p2:
                 result = 1
+
             try:
-                f.write(events[event].entrants[p1] + ',' + events[event].entrants[p2] + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) + '\n')
+                f.write(split_doubles_names(events[event].entrants[p1], doubles) + ',' + split_doubles_names(events[event].entrants[p2], doubles) + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) + '\n')
             except:
-                f.write((events[event].entrants[p1] + ',' + events[event].entrants[p2] + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) +'\n').encode('utf-8'))
+                f.write((split_doubles_names(events[event].entrants[p1], doubles) + ',' + split_doubles_names(events[event].entrants[p2], doubles) + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) +'\n').encode('utf-8'))
 
     print("Wrote Results to " + filename)
     f.close()
