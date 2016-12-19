@@ -42,11 +42,11 @@ Placings are **not in sorted order**. They are relatively straightforward and ha
 
 This file has a list of tournament slugs and dates. There is one per folder, and three total columns.
 
-| Tournament | startAt | endAt | Entrants |
+| Tournament | startAt | endAt | Entrants* |
 | ------------ | --------------| -----| ------|
 | Tournament Slug | Starting date (YYYY-MM-DD) | Ending date (YYYY-MM-DD) | Number of entrants |
 
    * Notes:
       * The tournaments file is created/appended automatically when running get_data.py
       * It can be configured to convert from date to epoch time, if that floats your boat.
-      * This does *not* currently get the number of entrants.
+      * \*This does *not* currently get the number of entrants.
