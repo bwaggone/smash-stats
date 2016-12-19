@@ -1,0 +1,15 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+armada,mew2king,axe,duck,0,3,0
+mang0,s2j,the moon,shroomed,0,3,1
+pewpewu,sfat,westballz,n0ne,0,3,0
+hungrybox,plup,leffen,mafia,1,2,3
+armada,mew2king,mang0,s2j,0,3,1
+pewpewu,sfat,leffen,mafia,1,2,3
+armada,mew2king,leffen,mafia,0,3,1
+armada,mew2king,pewpewu,sfat,0,3,2
+axe,duck,the moon,shroomed,1,0,3
+westballz,n0ne,hungrybox,plup,1,0,3
+pewpewu,sfat,the moon,shroomed,0,3,1
+mang0,s2j,hungrybox,plup,0,3,2
+pewpewu,sfat,mang0,s2j,0,3,1
+leffen,mafia,pewpewu,sfat,1,1,3

@@ -1,0 +1,31 @@
+P1,P2,set winner,P1Score,P2Score
+mang0,hungrybox,1,2,3
+mang0,mew2king,1,2,3
+mang0,mafia,0,3,0
+mang0,shroomed,0,3,0
+mang0,plup,0,3,1
+armada,hungrybox,0,3,0
+armada,hungrybox,0,3,2
+armada,n0ne,0,3,0
+armada,plup,0,3,0
+hungrybox,duck,0,3,0
+hungrybox,the moon,0,3,0
+hungrybox,axe,0,3,0
+mew2king,armada,1,1,3
+mew2king,hungrybox,1,0,3
+mew2king,leffen,0,3,0
+mew2king,s2j,0,3,2
+leffen,pewpewu,0,3,1
+leffen,axe,1,2,3
+duck,westballz,0,3,2
+duck,plup,1,1,3
+s2j,pewpewu,1,0,3
+mafia,westballz,1,1,3
+n0ne,axe,1,0,3
+the moon,sfat,0,3,2
+sfat,duck,1,1,3
+westballz,shroomed,1,2,3
+shroomed,the moon,0,3,1
+axe,shroomed,0,3,1
+plup,pewpewu,0,3,0
+plup,axe,0,3,1

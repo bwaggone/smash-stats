@@ -3,7 +3,7 @@ import json
 from collections import *
 
 
-smash_games = {1: "Melee", 2: "ProjectM", 3: "Smash4", 4: "64", 5: "Brawl", 6: "YOLO"}
+smash_games = defaultdict(str, {1: "Melee", 2: "ProjectM", 3: "Smash4", 4: "64", 5: "Brawl", 6: "YOLO"})
 smash_formats = defaultdict(str, {1: "Singles", 2: "Doubles", 5: "Crews"})
 api_prefix = 'https://api.smash.gg/'
 api_entrant_postfix = '?expand[]=entrants'

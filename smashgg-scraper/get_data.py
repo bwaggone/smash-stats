@@ -3,6 +3,7 @@ import time
 import json
 from collections import *
 from api_scrape_util import *
+import progressbar
 
 slug = raw_input("What is the tournament slug?\n")
 
@@ -55,11 +56,11 @@ for event in events:
             break;
    
     #64, why do you have a "game" called YOLO? pls
-    if(not_found or events[event].game == "YOLO"):
+    if(not_found or events[event].game == "YOLO" or events[event].game == ""):
         print("Skipping 1 event")
         continue
     
-    master_file = "./data/" + events[event].game + "/" + events[event].format + "/tournaments.csv" 
+    master_file = "../data/" + events[event].game + "/" + events[event].format + "/tournaments.csv" 
     try:
         master = open(master_file)
         master.close()
@@ -72,8 +73,15 @@ for event in events:
         master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
         master.close()
     
-    filename = "./data/" + events[event].game + "/" + events[event].format + "/" + slug + "-sets.csv" 
+    filename = "../data/" + events[event].game + "/" + events[event].format + "/" + slug + "-sets.csv" 
     print("Working on " + filename + "...")
+
+
+    #####PROGRESS BAR CODE ##########
+    num_of_groups = 0
+    bar = progressbar.ProgressBar(maxval=len(events[event].groups),widgets=[progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
+    bar.start()
+    #################################
     
     f = open(filename, "w")
     if(events[event].format == "Doubles"):
@@ -84,9 +92,12 @@ for event in events:
         f.write("P1,P2,set winner,P1Score,P2Score\n")
     
     for group in events[event].groups:
+        num_of_groups += 1
+        bar.update(num_of_groups)
+
         results = requests.get(api_prefix + 'phase_group/' +  str(group) + api_sets_postfix)
         result_data = json.loads(results.text)
-        print("Retrieving sets from group #:" + str(group))
+        #print("Retrieving sets from group #:" + str(group))
         for _set in result_data["entities"]["sets"]:
             p1 = _set["entrant1Id"]
             p2 = _set["entrant2Id"]
@@ -109,10 +120,11 @@ for event in events:
             except:
                 f.write((events[event].entrants[p1] + ',' + events[event].entrants[p2] + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) +'\n').encode('utf-8'))
 
-    print("Wrote Results to " + filename)
+    bar.finish()
+    #print("Wrote Results to " + filename)
     f.close()
 
-    filename = "./data/" + events[event].game + "/" + events[event].format + "/" + slug + "-standings.csv" 
+    filename = "../data/" + events[event].game + "/" + events[event].format + "/" + slug + "-standings.csv" 
     f = open(filename, "w")
     if(events[event].format == "Doubles"):
         f.write("p1,p2,finalPlacement\n")
