@@ -1,0 +1,207 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+ziren,jon,soft serve,chirka,0,2,0
+rabbit,gerb,veranibbles,pure_bazurek,0,2,0
+paul the beast,koebeldwill,reubthedoob,caelan,1,0,2
+lickoctopus,bozomozo,saggystardust,tyuip,1,0,2
+brizzy,bartok,iridium,shchoo,1,-1,0
+leffen,hungrybox,ziren,jon,0,2,0
+rabbit,gerb,reubthedoob,caelan,0,2,0
+fork,trulliam,saggystardust,tyuip,0,2,0
+ib,g$,iridium,shchoo,0,2,0
+leffen,hungrybox,rabbit,gerb,0,2,0
+fork,trulliam,ib,g$,0,2,0
+leffen,hungrybox,fork,trulliam,0,2,0
+leffen,hungrybox,fork,trulliam,0,-2,-2
+veranibbles,pure_bazurek,paul the beast,koebeldwill,0,2,0
+iridium,shchoo,soft serve,chirka,1,1,2
+saggystardust,tyuip,veranibbles,pure_bazurek,0,2,1
+reubthedoob,caelan,lickoctopus,bozomozo,0,2,0
+ziren,jon,brizzy,bartok,0,0,-1
+soft serve,chirka,saggystardust,tyuip,1,0,2
+reubthedoob,caelan,ziren,jon,1,0,2
+rabbit,gerb,saggystardust,tyuip,0,2,0
+ib,g$,ziren,jon,0,2,0
+rabbit,gerb,ib,g$,1,0,2
+fork,trulliam,ib,g$,0,2,1
+durandal,tobi,amilk,term,1,-1,0
+damian tyson,plat,mombacat,dayman,1,-1,0
+hayd,joatguy,perhapsman,spaceghost,1,1,2
+gnat,leather daddy,krispysmooth,lil brown,1,0,2
+rileyreads,m3k,bcrypt,garbage prince,0,0,-1
+pewpewu,sfat,amilk,term,0,2,0
+mombacat,dayman,perhapsman,spaceghost,0,2,0
+alphicans,quaff,krispysmooth,lil brown,0,2,0
+windrose,jamrun,rileyreads,m3k,0,2,0
+pewpewu,sfat,mombacat,dayman,0,2,0
+alphicans,quaff,windrose,jamrun,0,2,0
+pewpewu,sfat,alphicans,quaff,0,2,0
+pewpewu,sfat,alphicans,quaff,0,-2,-2
+damian tyson,plat,hayd,joatguy,1,-1,0
+rileyreads,m3k,durandal,tobi,0,0,-1
+krispysmooth,lil brown,hayd,joatguy,1,0,2
+perhapsman,spaceghost,gnat,leather daddy,1,1,2
+amilk,term,bcrypt,garbage prince,0,0,-1
+rileyreads,m3k,hayd,joatguy,0,2,1
+gnat,leather daddy,amilk,term,0,2,0
+mombacat,dayman,rileyreads,m3k,0,2,0
+windrose,jamrun,gnat,leather daddy,0,2,0
+mombacat,dayman,windrose,jamrun,1,1,2
+alphicans,quaff,windrose,jamrun,0,2,0
+goldenpants,discowinter,v115,ak,1,1,2
+marko64,empire,spoopy,nate$,0,2,0
+kid,slippy,dog wearing sunglasses,toodee,1,0,2
+mprime,mgeezus,smuv,guccipivotmaster4000,0,2,1
+shasha,reker,mado,dio,1,0,2
+shroomed,armada,v115,ak,0,2,0
+marko64,empire,dog wearing sunglasses,toodee,0,2,1
+prince abu,swedish delight,mprime,mgeezus,0,2,0
+alpha dash,jam,mado,dio,0,2,0
+shroomed,armada,marko64,empire,0,2,0
+prince abu,swedish delight,alpha dash,jam,0,2,1
+shroomed,armada,prince abu,swedish delight,0,2,0
+shroomed,armada,prince abu,swedish delight,0,-2,-2
+spoopy,nate$,kid,slippy,1,0,2
+mado,dio,goldenpants,discowinter,0,2,0
+mprime,mgeezus,kid,slippy,0,2,0
+dog wearing sunglasses,toodee,smuv,guccipivotmaster4000,0,2,1
+v115,ak,shasha,reker,0,2,0
+mado,dio,mprime,mgeezus,1,1,2
+dog wearing sunglasses,toodee,v115,ak,1,1,2
+marko64,empire,mprime,mgeezus,1,1,2
+alpha dash,jam,v115,ak,0,2,0
+mprime,mgeezus,alpha dash,jam,1,0,2
+prince abu,swedish delight,alpha dash,jam,0,2,0
+byod,shrub,dethslayr,muse,1,1,2
+stickman,i-dog,dlos,urpasmash,0,0,-1
+maruku,gigglyfart,aqux,hippo,1,0,2
+wakka,kong,jaw,13uck5h0t,0,2,0
+westballz,macd,dethslayr,muse,0,2,0
+grapefruit,mossman,stickman,i-dog,1,0,2
+n0ne,nightmare,aqux,hippo,0,2,0
+brtarolg,zorc,wakka,kong,0,2,0
+westballz,macd,stickman,i-dog,0,2,0
+n0ne,nightmare,brtarolg,zorc,0,2,0
+westballz,macd,n0ne,nightmare,0,2,0
+westballz,macd,n0ne,nightmare,0,-2,-2
+wakka,kong,byod,shrub,0,2,0
+aqux,hippo,dlos,urpasmash,0,0,-1
+grapefruit,mossman,maruku,gigglyfart,1,0,2
+dethslayr,muse,jaw,13uck5h0t,1,1,2
+wakka,kong,aqux,hippo,1,1,2
+maruku,gigglyfart,jaw,13uck5h0t,0,2,1
+stickman,i-dog,aqux,hippo,0,2,1
+brtarolg,zorc,maruku,gigglyfart,0,2,0
+stickman,i-dog,brtarolg,zorc,0,2,1
+n0ne,nightmare,stickman,i-dog,0,2,0
+dkbill,swail,tagless lauren,imyt,0,2,0
+duck chris,rumble,kidney thief,hvac,1,0,2
+schmav,aguos,radicalfox,silo,0,2,0
+syphichan,alliecat,luxy,joebigs,0,2,1
+mango,lucky,dkbill,swail,0,2,0
+nintnt,dope,kidney thief,hvac,1,0,2
+coffeeblack,sauc3,schmav,aguos,0,2,0
+vanitas,liquid,syphichan,alliecat,0,2,0
+mango,lucky,kidney thief,hvac,0,2,0
+coffeeblack,sauc3,vanitas,liquid,0,2,0
+mango,lucky,coffeeblack,sauc3,0,2,0
+mango,lucky,coffeeblack,sauc3,0,-2,-2
+syphichan,alliecat,tagless lauren,imyt,0,2,0
+schmav,aguos,duck chris,rumble,0,2,0
+nintnt,dope,radicalfox,silo,0,2,0
+dkbill,swail,luxy,joebigs,1,1,2
+syphichan,alliecat,schmav,aguos,0,2,1
+nintnt,dope,luxy,joebigs,0,2,0
+kidney thief,hvac,syphichan,alliecat,1,1,2
+vanitas,liquid,nintnt,dope,1,0,2
+syphichan,alliecat,nintnt,dope,0,-2,-2
+coffeeblack,sauc3,syphichan,alliecat,0,2,0
+blizz,ecto,colt,ross,0,2,0
+kyle,tranimal,tobi,djnour,0,2,0
+viceroy,androyd,pokno,puke,0,2,1
+jp3,riot,gemigumi,nabi,1,0,2
+the moon,dj nintendo,blizz,ecto,0,2,0
+kale,greener,kyle,tranimal,1,0,2
+weon-x,kage the warrior,viceroy,androyd,0,2,0
+sedimentary rock,poop,gemigumi,nabi,0,2,0
+the moon,dj nintendo,kyle,tranimal,0,2,0
+weon-x,kage the warrior,sedimentary rock,poop,0,2,0
+the moon,dj nintendo,weon-x,kage the warrior,0,2,0
+the moon,dj nintendo,weon-x,kage the warrior,0,-2,-2
+gemigumi,nabi,colt,ross,1,0,2
+viceroy,androyd,tobi,djnour,0,2,0
+kale,greener,pokno,puke,0,2,0
+blizz,ecto,jp3,riot,1,0,2
+colt,ross,viceroy,androyd,1,0,2
+kale,greener,jp3,riot,0,2,1
+kyle,tranimal,viceroy,androyd,0,2,0
+sedimentary rock,poop,kale,greener,0,2,0
+kyle,tranimal,sedimentary rock,poop,0,2,0
+weon-x,kage the warrior,kyle,tranimal,0,2,0
+toby,bubs,l2p,linksta,1,-1,0
+lahti,hex,commish,north dr,0,2,0
+sawrik,luka,heartless,silo,0,2,0
+severian,k,hotboi,mrhappy,0,2,0
+kevin,ot eric,ego,joey,1,1,2
+ice,duck,l2p,linksta,1,-1,0
+lahti,hex,sawrik,luka,0,2,1
+raynex,ryan ford,severian,k,0,2,0
+flood,saus,ego,joey,0,2,0
+l2p,linksta,lahti,hex,1,1,2
+raynex,ryan ford,flood,saus,0,2,0
+lahti,hex,raynex,ryan ford,1,0,2
+raynex,ryan ford,flood,saus,0,-2,-2
+commish,north dr,heartless,silo,0,2,0
+ego,joey,toby,bubs,0,0,-1
+severian,k,commish,north dr,0,2,0
+sawrik,luka,hotboi,mrhappy,0,2,0
+ice,duck,kevin,ot eric,1,-1,0
+ego,joey,severian,k,1,0,2
+sawrik,luka,kevin,ot eric,0,2,0
+l2p,linksta,severian,k,0,2,1
+flood,saus,sawrik,luka,0,2,0
+l2p,linksta,flood,saus,1,0,2
+lahti,hex,flood,saus,1,0,2
+jesus,dirt,rf!,aully,0,2,0
+elu,star,krizski,yardsale,1,0,2
+broc,skylan,enjoy,cosman,0,2,1
+heartbreaker,lxix,melpyx,ccoftw,0,2,0
+professor pro,druggedfox,jesus,dirt,0,2,0
+cyan,dr.shots,krizski,yardsale,1,1,2
+wizzrobe,nintendude,broc,skylan,0,2,0
+moky,phake,heartbreaker,lxix,1,0,2
+professor pro,druggedfox,krizski,yardsale,0,2,0
+wizzrobe,nintendude,heartbreaker,lxix,0,2,0
+professor pro,druggedfox,wizzrobe,nintendude,1,0,2
+wizzrobe,nintendude,professor pro,druggedfox,0,-2,-2
+moky,phake,rf!,aully,0,2,0
+broc,skylan,elu,star,1,0,2
+cyan,dr.shots,enjoy,cosman,0,2,0
+jesus,dirt,melpyx,ccoftw,1,0,2
+moky,phake,elu,star,0,2,0
+cyan,dr.shots,melpyx,ccoftw,0,2,0
+krizski,yardsale,moky,phake,1,1,2
+heartbreaker,lxix,cyan,dr.shots,0,2,0
+moky,phake,heartbreaker,lxix,1,1,2
+professor pro,druggedfox,heartbreaker,lxix,0,2,0
+leffen,hungrybox,wizzrobe,nintendude,0,2,0
+westballz,macd,mango,lucky,1,1,2
+pewpewu,sfat,raynex,ryan ford,0,2,0
+shroomed,armada,the moon,dj nintendo,0,2,0
+leffen,hungrybox,mango,lucky,0,3,1
+pewpewu,sfat,shroomed,armada,0,3,1
+leffen,hungrybox,pewpewu,sfat,1,2,3
+pewpewu,sfat,mango,lucky,0,-2,-2
+prince abu,swedish delight,weon-x,kage the warrior,0,2,1
+alphicans,quaff,flood,saus,0,2,0
+n0ne,nightmare,coffeeblack,sauc3,0,2,1
+fork,trulliam,professor pro,druggedfox,1,1,2
+wizzrobe,nintendude,prince abu,swedish delight,0,2,0
+westballz,macd,alphicans,quaff,0,2,0
+raynex,ryan ford,n0ne,nightmare,0,2,0
+the moon,dj nintendo,professor pro,druggedfox,0,2,0
+wizzrobe,nintendude,westballz,macd,1,1,3
+raynex,ryan ford,the moon,dj nintendo,1,2,3
+shroomed,armada,westballz,macd,0,3,1
+mango,lucky,the moon,dj nintendo,0,-2,-2
+shroomed,armada,mango,lucky,1,-2,-2
+leffen,hungrybox,mango,lucky,1,-2,-2

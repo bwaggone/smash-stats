@@ -1,0 +1,229 @@
+P1,P2,set winner,P1Score,P2Score
+kaladin,beaver,0,2,0
+nothing,v-bomber,0,2,0
+zuko,icactusdog,0,2,0
+quinceprince,mixxedvegetables,1,0,2
+umbra,frostbyte,0,2,0
+rusty,mrryanness,0,2,0
+kerokeroppi,kaladin,0,2,0
+nothing,zuko,0,2,0
+darkhorse,mixxedvegetables,0,2,0
+umbra,rusty,1,0,2
+kerokeroppi,nothing,0,2,0
+darkhorse,rusty,0,2,0
+kerokeroppi,darkhorse,0,-2,-2
+v-bomber,icactusdog,0,2,0
+frostbyte,mrryanness,0,2,0
+umbra,beaver,0,2,0
+mixxedvegetables,v-bomber,0,2,1
+zuko,quinceprince,0,2,0
+kaladin,frostbyte,0,2,0
+umbra,mixxedvegetables,0,2,1
+zuko,kaladin,0,2,0
+nothing,umbra,0,2,1
+rusty,zuko,0,2,1
+nothing,rusty,0,-2,-2
+shug,mariokartmoney,0,2,0
+yobolight,rickter_scale,0,2,0
+king lumsy,moist,0,2,1
+precookedbread,duckpimp,0,0,-1
+iheartqueso,village mascot,0,2,1
+wizzrobe,shug,0,2,0
+yobolight,king lumsy,0,2,1
+shears,precookedbread,0,2,0
+jimmy joe,iheartqueso,0,2,0
+wizzrobe,yobolight,0,2,0
+shears,jimmy joe,0,2,0
+wizzrobe,shears,0,-2,-2
+rickter_scale,moist,1,0,2
+iheartqueso,mariokartmoney,0,2,0
+precookedbread,moist,1,0,2
+king lumsy,duckpimp,0,0,-1
+shug,village mascot,1,0,2
+iheartqueso,moist,0,2,1
+king lumsy,village mascot,0,2,0
+yobolight,iheartqueso,0,2,0
+jimmy joe,king lumsy,0,2,0
+yobolight,jimmy joe,0,-2,-2
+lights,maniac379,1,0,2
+q!,dogs_johnson,0,2,0
+blisstex,coin chaser,1,0,2
+snack?,ardent rage,1,0,2
+cuppajoe,charlie harper,0,-2,-2
+revan,maniac379,0,2,0
+q!,coin chaser,0,2,1
+lord narwhal,ardent rage,0,2,0
+masterhandjob,cuppajoe,0,2,0
+revan,q!,0,2,0
+lord narwhal,masterhandjob,0,2,0
+revan,lord narwhal,0,-2,-2
+dogs_johnson,blisstex,0,2,0
+cuppajoe,lights,0,2,0
+ardent rage,dogs_johnson,1,0,2
+coin chaser,snack?,0,2,0
+maniac379,charlie harper,0,2,0
+cuppajoe,dogs_johnson,1,0,2
+coin chaser,maniac379,0,2,0
+q!,dogs_johnson,0,2,0
+masterhandjob,coin chaser,0,2,0
+q!,masterhandjob,0,-2,-2
+bark the shark,clubbadubba,0,-2,-2
+bark the shark,wazzberry,0,2,0
+bark the shark,jamjar,0,2,0
+xlax,wazzberry,1,1,2
+xlax,jamjar,1,0,2
+xlax,ppdmd,0,2,0
+clubbadubba,jaquarium,0,2,0
+clubbadubba,knitephox,0,2,1
+midgetto,draxsel,0,2,0
+midgetto,jaquarium,0,2,1
+jaquarium,bc_burns,0,2,0
+et,midgetto,1,-1,0
+knitephox,midgetto,0,2,0
+knitephox,wazzberry,0,2,0
+wazzberry,draxsel,0,2,0
+wazzberry,et,0,0,-1
+jamjar,midgetto,0,2,0
+jamjar,bc_burns,0,2,0
+jamjar,knitephox,0,-2,-2
+bard,xlax,1,-1,0
+bard,bc_burns,1,-1,0
+ppdmd,jaquarium,1,0,2
+pochilin,twunt,0,2,1
+dr. lampy,mulkster,0,2,0
+mr.sir,kevorkian,0,0,-1
+tauvalian,maxi,0,2,0
+mustard tiger,golfclubninja,0,2,0
+superboomfan,pochilin,0,2,0
+dr. lampy,mr.sir,1,0,2
+th3kuzinator,tauvalian,0,2,0
+fck vwls,mustard tiger,0,2,1
+superboomfan,mr.sir,0,2,0
+th3kuzinator,fck vwls,0,2,1
+superboomfan,th3kuzinator,0,-2,-2
+mulkster,kevorkian,0,0,-1
+mustard tiger,twunt,0,2,0
+tauvalian,mulkster,0,2,1
+dr. lampy,maxi,0,2,0
+pochilin,golfclubninja,0,2,0
+mustard tiger,tauvalian,0,2,0
+dr. lampy,pochilin,0,2,0
+mr.sir,mustard tiger,0,2,0
+fck vwls,dr. lampy,0,2,0
+mr.sir,fck vwls,0,-2,-2
+kobra,zenaga,1,0,2
+dfx,kristoff,0,2,0
+lldl,darv,0,0,-1
+iceking,holosly,0,2,0
+the protagonist,dragoniota,0,2,0
+moonshoe,myk,0,2,0
+tacos,zenaga,0,2,0
+dfx,lldl,0,2,1
+tank,iceking,0,2,0
+the protagonist,moonshoe,0,2,0
+tacos,dfx,0,2,0
+tank,the protagonist,0,2,0
+tacos,tank,0,-2,-2
+kristoff,darv,0,0,-1
+dragoniota,myk,0,2,0
+moonshoe,kobra,0,2,0
+iceking,kristoff,1,0,2
+lldl,holosly,0,2,0
+zenaga,dragoniota,1,0,2
+moonshoe,kristoff,0,2,0
+lldl,dragoniota,1,0,2
+dfx,moonshoe,0,2,0
+the protagonist,dragoniota,0,2,0
+dfx,the protagonist,0,-2,-2
+legoman,bringdaruckus312,1,0,2
+rizner,pigwick,0,2,0
+dizzle,bodacious,0,2,1
+tbone,leaf fc,1,0,2
+poobearninja,master jay,0,2,0
+fox,bringdaruckus312,0,2,0
+rizner,dizzle,1,0,2
+combo blaze,leaf fc,0,2,0
+korobeniki,poobearninja,0,2,0
+fox,dizzle,0,2,0
+combo blaze,korobeniki,0,2,1
+fox,combo blaze,0,-2,-2
+pigwick,bodacious,1,0,2
+poobearninja,legoman,0,2,0
+leaf fc,bodacious,0,2,1
+rizner,tbone,0,2,0
+bringdaruckus312,master jay,0,2,0
+poobearninja,leaf fc,0,2,0
+rizner,bringdaruckus312,0,2,0
+dizzle,poobearninja,1,1,2
+korobeniki,rizner,0,2,0
+poobearninja,korobeniki,0,-2,-2
+ebay,pika,1,1,2
+amida,slartibartfast42,0,2,0
+hoofy,juno,0,0,-1
+chinstrap,putpasswordhere,0,2,0
+daniel,blank,0,2,0
+bacorn,karlthemarx,0,2,0
+fireblaster,pika,0,2,0
+amida,hoofy,0,2,0
+firo,chinstrap,0,2,0
+daniel,bacorn,0,2,0
+fireblaster,amida,0,2,0
+firo,daniel,0,2,1
+fireblaster,firo,0,-2,-2
+slartibartfast42,juno,0,0,-1
+blank,karlthemarx,1,0,2
+bacorn,ebay,0,2,0
+chinstrap,slartibartfast42,1,0,2
+hoofy,putpasswordhere,0,2,0
+pika,karlthemarx,1,0,2
+bacorn,slartibartfast42,0,2,0
+hoofy,karlthemarx,0,2,0
+amida,bacorn,0,2,0
+daniel,hoofy,0,2,0
+amida,daniel,0,-2,-2
+superboomfan,th3kuzinator,0,2,0
+bark the shark,clubbadubba,0,2,1
+wizzrobe,shears,0,2,0
+fox,combo blaze,0,2,0
+kerokeroppi,darkhorse,0,2,0
+fireblaster,firo,1,1,2
+tacos,tank,0,2,0
+revan,lord narwhal,0,2,0
+superboomfan,bark the shark,0,3,0
+wizzrobe,fox,0,3,0
+kerokeroppi,firo,0,3,1
+tacos,revan,0,3,1
+superboomfan,wizzrobe,0,3,2
+kerokeroppi,tacos,1,2,3
+superboomfan,tacos,0,3,0
+superboomfan,tacos,0,3,1
+mr.sir,rusty,0,2,0
+jamjar,daniel,1,0,2
+yobolight,the protagonist,0,2,0
+poobearninja,masterhandjob,0,2,1
+nothing,fck vwls,0,2,1
+amida,knitephox,0,2,1
+dfx,jimmy joe,1,1,2
+q!,korobeniki,0,2,0
+lord narwhal,mr.sir,0,2,0
+tank,daniel,1,1,2
+fireblaster,yobolight,0,2,0
+darkhorse,poobearninja,0,2,0
+combo blaze,nothing,0,2,0
+shears,amida,0,2,0
+clubbadubba,jimmy joe,0,2,0
+th3kuzinator,q!,0,2,1
+lord narwhal,daniel,0,2,1
+fireblaster,darkhorse,0,2,0
+combo blaze,shears,1,0,2
+clubbadubba,th3kuzinator,0,2,0
+fox,lord narwhal,0,3,0
+bark the shark,fireblaster,0,3,1
+revan,shears,0,3,0
+firo,clubbadubba,0,3,1
+fox,bark the shark,1,1,3
+revan,firo,0,3,1
+kerokeroppi,bark the shark,0,3,0
+wizzrobe,revan,1,1,3
+kerokeroppi,revan,0,3,0
+tacos,kerokeroppi,0,3,1

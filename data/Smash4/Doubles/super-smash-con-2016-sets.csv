@@ -327,7 +327,7 @@ jebb,xanos,leo,spt,0,2,0
 lingling,snakeee,jebb,xanos,0,-2,-2
 geno [schaufelberger],gamestar,sd_angululu,mazmitaz,1,-2,-2
 objekshin,dankness,viral,kaden,0,-2,-2
-sol,ryo,sd_angululu,mazmitaz,0,-2,-2
+noble|sol,ryo,sd_angululu,mazmitaz,0,-2,-2
 rekshadow,rekgrizzly,aweshucks,deathmelon,1,-2,-2
 chrim foish,astro,crita,shadowkilla0212,0,-2,-2
 reef,van,jojo,heavylobster,0,-2,-2
@@ -335,13 +335,13 @@ dark wizzy,wadi,objekshin,dankness,0,-2,-2
 amaya,ｈｉｔｏｒｉ,mart,eroc,1,-2,-2
 ten,bc luck,pj,fick,0,-2,-2
 powersfire,youngwolf97,jettset,acmenes,0,-2,-2
-sol,ryo,aweshucks,deathmelon,0,-2,-2
+noble|sol,ryo,aweshucks,deathmelon,0,-2,-2
 chrim foish,astro,reef,van,0,-2,-2
 dark wizzy,wadi,mart,eroc,0,-2,-2
 ten,bc luck,powersfire,youngwolf97,0,-2,-2
-sol,ryo,chrim foish,astro,0,-2,-2
+noble|sol,ryo,chrim foish,astro,0,-2,-2
 dark wizzy,wadi,ten,bc luck,0,-2,-2
-sol,ryo,dark wizzy,wadi,0,-2,-2
+noble|sol,ryo,dark wizzy,wadi,0,-2,-2
 jettset,acmenes,geno [schaufelberger],gamestar,0,-2,-2
 jojo,heavylobster,viral,kaden,1,-2,-2
 jettset,acmenes,pj,fick,0,-2,-2
@@ -427,7 +427,7 @@ hamstarr96,science,j dog,kh1com2,0,0,-1
 rupee,kneesus,chrispy,bsquared,0,0,-1
 psychomyko,marko polo,jeff,b-roccoli,0,2,0
 lof hackoru,tweek,p2p with gibus,bugcatcherwill,0,2,0
-seven,enker,volt,midnight,0,2,1
+seven,enker,volt,upr | midnight,0,2,1
 sova unknown,dasboot,hd,volegase,1,1,2
 spork,kurse,ash ketchum,lahvonyay,1,1,2
 mr.ii,amsa,hamstarr96,science,0,2,0
@@ -440,7 +440,7 @@ mr.ii,amsa,lof hackoru,tweek,1,1,2
 spork,kurse,doddy,bumbrshoot,1,0,2
 jeff,b-roccoli,lousypanda,skance,1,0,2
 doddy,bumbrshoot,sova unknown,dasboot,1,0,2
-volt,midnight,p2p with gibus,bugcatcherwill,1,0,2
+volt,upr | midnight,p2p with gibus,bugcatcherwill,1,0,2
 lousypanda,skance,chrispy,bsquared,0,2,0
 j dog,kh1com2,quills and frills,stob,1,-1,0
 rupee,kneesus,sova unknown,dasboot,0,2,0
@@ -521,7 +521,7 @@ hiro,black yoshi,[t.t.d] pbk l emg l blacktwins13,v115,1,0,2
 hertz,cacogen,[t.t.d] pbk l emg l blacktwins13,v115,0,-2,-2
 anti,ally,richie business,biddy,0,2,0
 saj,xaltis,ryuga,rayquaza07,1,0,2
-mr.r,trela,sol,ryo,0,2,1
+mr.r,trela,noble|sol,ryo,0,2,1
 abadango,vinnie,gomamugitya,taiheita,1,0,2
 nairo,zero,lazyboredom,veen,0,2,0
 raptor,ribs,lof hackoru,tweek,1,1,2
@@ -561,7 +561,7 @@ dark wizzy,wadi,apple,james,0,2,0
 icymist,mav,pink fresh,marss,1,0,2
 seibrik,vikkikitty,[t.t.d] pbk l emg l blacktwins13,v115,1,0,2
 abadango,vinnie,ross,nasubi,0,2,0
-sol,ryo,day,static,1,0,2
+noble|sol,ryo,day,static,1,0,2
 saj,xaltis,mvd,esam,0,2,1
 richie business,biddy,6wx,rango,1,0,2
 player-1,scatt,rice,falln,1,1,2

@@ -1,0 +1,97 @@
+P1,P2,set winner,P1Score,P2Score
+facechew,izze,0,2,0
+mrpoo,kzidek,0,2,0
+avian,nyx,1,1,2
+the american patriot,toro,0,2,0
+15(ichigo),oljace,0,0,-1
+miles,wowzers,1,0,2
+soulbroker,pizza,0,2,0
+wizzrobe,facechew,0,2,0
+yass2queen,schlag,0,2,0
+ibc,mrpoo,0,2,0
+fishaman p,nyx,0,2,0
+hipstur,the american patriot,0,2,1
+thissidedown,15(ichigo),0,2,1
+knitephox,wowzers,0,2,0
+qtip,soulbroker,1,-1,0
+wizzrobe,yass2queen,0,2,0
+ibc,fishaman p,1,0,2
+hipstur,thissidedown,0,2,0
+knitephox,soulbroker,0,2,0
+wizzrobe,fishaman p,0,2,0
+hipstur,knitephox,0,2,1
+wizzrobe,hipstur,0,-2,-2
+qtip,izze,0,2,1
+15(ichigo),kzidek,1,1,2
+the american patriot,avian,0,2,0
+nyx,toro,1,0,2
+mrpoo,oljace,0,0,-1
+schlag,miles,0,2,0
+facechew,pizza,0,2,0
+qtip,wowzers,1,1,2
+kzidek,the american patriot,1,0,2
+toro,mrpoo,0,2,0
+schlag,facechew,1,0,2
+ibc,wowzers,0,2,0
+yass2queen,the american patriot,1,0,2
+soulbroker,toro,1,0,2
+thissidedown,facechew,1,0,2
+ibc,the american patriot,0,2,0
+toro,facechew,1,0,2
+knitephox,ibc,0,2,0
+fishaman p,facechew,0,2,1
+knitephox,fishaman p,0,-2,-2
+xyk,barrels,0,2,1
+chuck lubs,flash,0,0,-1
+andy,recneps,0,2,1
+instacover,dirtcruncher,1,0,2
+stonehaus,jojohnson,0,2,0
+hhhhhhhhhhhhhhh,depressed eagle,0,2,0
+ravioli,marfslayer 3000,0,0,-1
+flatline,tydye,0,2,0
+bark the shark,xyk,0,2,0
+blahguy,chuck lubs,1,0,2
+limesoda,andy,0,2,0
+meerkat,dirtcruncher,0,2,0
+combo blaze,stonehaus,0,2,0
+uncle onion,hhhhhhhhhhhhhhh,1,0,2
+saltsizzle,ravioli,0,2,0
+mando,flatline,0,2,0
+bark the shark,chuck lubs,0,2,0
+limesoda,meerkat,1,1,2
+combo blaze,hhhhhhhhhhhhhhh,0,2,0
+saltsizzle,mando,0,2,0
+bark the shark,meerkat,0,2,0
+combo blaze,saltsizzle,1,0,2
+bark the shark,saltsizzle,0,-2,-2
+flatline,barrels,1,0,2
+ravioli,flash,0,0,-1
+uncle onion,recneps,1,1,2
+stonehaus,instacover,0,2,0
+dirtcruncher,jojohnson,0,2,0
+andy,depressed eagle,1,1,2
+blahguy,marfslayer 3000,0,0,-1
+xyk,tydye,0,2,0
+barrels,ravioli,0,2,0
+recneps,stonehaus,1,0,2
+dirtcruncher,depressed eagle,0,2,0
+blahguy,xyk,1,0,2
+limesoda,barrels,0,2,0
+chuck lubs,stonehaus,0,2,1
+mando,dirtcruncher,0,2,0
+hhhhhhhhhhhhhhh,xyk,1,1,2
+limesoda,chuck lubs,0,2,0
+mando,xyk,0,2,1
+combo blaze,limesoda,0,2,1
+meerkat,mando,0,2,0
+combo blaze,meerkat,0,-2,-2
+wizzrobe,hipstur,0,3,0
+bark the shark,saltsizzle,0,3,0
+wizzrobe,bark the shark,0,3,1
+wizzrobe,bark the shark,0,3,1
+combo blaze,fishaman p,0,3,1
+knitephox,meerkat,0,3,1
+hipstur,combo blaze,1,0,3
+saltsizzle,knitephox,0,3,2
+combo blaze,saltsizzle,0,3,2
+bark the shark,combo blaze,0,3,2

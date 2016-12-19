@@ -1,0 +1,63 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+masterhandjob,moonshoe,mustard tiger,rusty,0,2,1
+jimmy joe,th3kuzinator,frostbyte,v-bomber,0,2,0
+daniel,shears,leaf fc,dragoniota,0,2,0
+darkhorse,bark the shark,legoman,meyerzzzz,0,2,0
+dizzle,iheartqueso,kaladin,hoofy,1,0,2
+fox,the protagonist,ebay,bringdaruckus312,0,2,0
+clubbadubba,drought,myk,pika,0,2,0
+superboomfan,tacos,masterhandjob,moonshoe,0,2,0
+jimmy joe,th3kuzinator,daniel,shears,0,2,1
+darkhorse,bark the shark,kaladin,hoofy,0,2,0
+fox,the protagonist,clubbadubba,drought,0,2,0
+superboomfan,tacos,jimmy joe,th3kuzinator,0,2,0
+darkhorse,bark the shark,fox,the protagonist,0,2,0
+superboomfan,tacos,darkhorse,bark the shark,0,-2,-2
+frostbyte,v-bomber,leaf fc,dragoniota,1,1,2
+legoman,meyerzzzz,dizzle,iheartqueso,1,0,2
+ebay,bringdaruckus312,myk,pika,0,2,0
+clubbadubba,drought,mustard tiger,rusty,1,0,2
+kaladin,hoofy,leaf fc,dragoniota,0,2,1
+daniel,shears,dizzle,iheartqueso,0,2,1
+masterhandjob,moonshoe,ebay,bringdaruckus312,0,2,0
+mustard tiger,rusty,kaladin,hoofy,0,2,0
+daniel,shears,masterhandjob,moonshoe,0,2,0
+jimmy joe,th3kuzinator,mustard tiger,rusty,0,2,0
+fox,the protagonist,daniel,shears,1,1,2
+jimmy joe,th3kuzinator,daniel,shears,0,-2,-2
+village mascot,rizner,kristoff,blisstex,0,2,0
+knitephox,combo blaze,jaquarium,pochilin,0,2,0
+q!,tank,bodacious,iceking,0,2,0
+nintendude,firo,mixxedvegetables,beaver,0,2,0
+nothing,king lumsy,nardwell,jamjar,0,2,0
+dr. lampy,lord narwhal,maniac379,bacorn,0,2,0
+fck vwls,korobeniki,mariokartmoney,wazzberry,0,2,0
+revan,fireblaster,village mascot,rizner,0,2,0
+knitephox,combo blaze,q!,tank,0,2,0
+nintendude,firo,nothing,king lumsy,0,2,0
+dr. lampy,lord narwhal,fck vwls,korobeniki,0,2,0
+revan,fireblaster,knitephox,combo blaze,1,1,2
+nintendude,firo,dr. lampy,lord narwhal,0,2,1
+knitephox,combo blaze,nintendude,firo,0,-2,-2
+jaquarium,pochilin,bodacious,iceking,1,0,2
+mixxedvegetables,beaver,nardwell,jamjar,0,2,0
+maniac379,bacorn,mariokartmoney,wazzberry,0,2,0
+fck vwls,korobeniki,kristoff,blisstex,0,2,0
+nothing,king lumsy,bodacious,iceking,0,2,0
+q!,tank,mixxedvegetables,beaver,0,2,0
+village mascot,rizner,maniac379,bacorn,0,2,0
+fck vwls,korobeniki,nothing,king lumsy,0,2,0
+q!,tank,village mascot,rizner,1,0,2
+revan,fireblaster,fck vwls,korobeniki,0,2,0
+dr. lampy,lord narwhal,village mascot,rizner,0,2,0
+revan,fireblaster,dr. lampy,lord narwhal,0,-2,-2
+superboomfan,tacos,darkhorse,bark the shark,0,3,0
+knitephox,combo blaze,nintendude,firo,1,0,3
+superboomfan,tacos,nintendude,firo,0,3,0
+superboomfan,tacos,nintendude,firo,0,3,1
+revan,fireblaster,daniel,shears,0,2,0
+jimmy joe,th3kuzinator,dr. lampy,lord narwhal,0,2,0
+knitephox,combo blaze,revan,fireblaster,1,1,3
+darkhorse,bark the shark,jimmy joe,th3kuzinator,0,3,0
+revan,fireblaster,darkhorse,bark the shark,1,2,3
+nintendude,firo,darkhorse,bark the shark,0,3,0

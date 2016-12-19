@@ -1,0 +1,49 @@
+P1,P2,set winner,P1Score,P2Score
+hans_mawell,esmod,1,-1,0
+kraines,tdp,1,-1,0
+derstuk,sweaters,0,2,0
+searcher,notlightningrunner,1,0,2
+cyan can,bohemian milk,0,2,0
+bronze_sun,pilot,1,-1,0
+dezno,goomah,0,0,-1
+electricgazelle,youtwo,1,-1,0
+beguiler,kman,1,0,2
+wizzrobe,esmod,0,2,0
+tdp,derstuk,1,0,2
+bacorn,notlightningrunner,0,2,0
+amida,cyan can,0,2,0
+xiivi,pilot,0,0,-1
+gato,dezno,0,0,-1
+moogle,youtwo,0,2,0
+zantetsu,kman,0,2,0
+wizzrobe,derstuk,0,2,0
+bacorn,amida,1,0,2
+xiivi,gato,1,-1,0
+moogle,zantetsu,1,0,2
+wizzrobe,amida,0,2,0
+gato,zantetsu,1,0,2
+wizzrobe,zantetsu,0,3,0
+wizzrobe,zantetsu,0,3,0
+kraines,sweaters,0,2,0
+kman,hans_mawell,0,0,-1
+youtwo,kraines,1,0,2
+dezno,searcher,1,-1,0
+pilot,bohemian milk,1,-1,0
+cyan can,bronze_sun,0,0,-1
+notlightningrunner,goomah,0,0,-1
+tdp,electricgazelle,0,0,-1
+esmod,beguiler,1,0,2
+kman,kraines,1,1,2
+searcher,bohemian milk,1,1,2
+cyan can,notlightningrunner,1,1,2
+tdp,beguiler,1,0,2
+bacorn,kraines,0,2,1
+derstuk,bohemian milk,0,2,0
+moogle,notlightningrunner,0,2,0
+xiivi,beguiler,1,-1,0
+bacorn,derstuk,0,2,0
+moogle,beguiler,0,2,0
+gato,bacorn,1,1,2
+amida,moogle,0,2,1
+bacorn,amida,1,0,2
+zantetsu,amida,0,3,1

@@ -1,0 +1,283 @@
+P1,P2,set winner,P1Score,P2Score
+mojo,grrg,1,0,2
+mojo,link,0,0,-1
+killahertz,redwolf,1,-1,0
+killahertz,myninja,1,-1,0
+zuko,swankeaboo,0,2,0
+zuko,myninja,0,2,0
+tonester,mojo,0,2,0
+tonester,sandman,0,2,0
+tonester,sandman,0,2,0
+tonester,grrg,0,-2,-2
+sandman,golfclubninja,0,2,0
+superboomfan,zuko,0,-2,-2
+superboomfan,tonester,0,2,0
+superboomfan,grrg,0,2,0
+swankeaboo,sandman,1,0,2
+swankeaboo,link,0,0,-1
+grrg,bear,0,2,0
+bear,myninja,1,0,2
+redwolf,sandman,1,0,2
+redwolf,grrg,1,0,2
+myninja,grrg,1,0,2
+golfclubninja,mojo,1,1,2
+i use tap jump,mello,1,-1,0
+daddy's milk,fingerblast,0,2,0
+scratch,sam,0,2,0
+sianvar,throwz?!,1,-2,-2
+tallyshell,lalo,1,0,2
+tacos,mello,0,2,0
+daddy's milk,scratch,1,0,2
+a to the z,throwz?!,0,2,0
+the (.)(.),lalo,0,2,0
+tacos,scratch,0,2,0
+a to the z,the (.)(.),0,2,1
+tacos,a to the z,0,-2,-2
+fingerblast,sam,0,2,0
+lalo,i use tap jump,0,0,-1
+throwz?!,fingerblast,1,0,2
+daddy's milk,sianvar,0,0,-1
+mello,tallyshell,1,1,2
+lalo,fingerblast,0,2,1
+daddy's milk,tallyshell,0,2,0
+scratch,lalo,0,2,0
+the (.)(.),daddy's milk,0,2,0
+scratch,the (.)(.),0,-2,-2
+macintosh,jfm,0,2,0
+kevorkian,razz,1,0,2
+hotline,bennyboy98,0,2,0
+hariballz,pugdaddyfre$hlyfeogg*flva,0,2,0
+satch,swerve,0,2,0
+barksanchez,macintosh,0,2,0
+razz,hotline,1,0,2
+shihman,hariballz,0,2,0
+purtle,satch,0,2,0
+barksanchez,hotline,0,2,0
+shihman,purtle,0,2,0
+barksanchez,shihman,0,-2,-2
+kevorkian,bennyboy98,0,2,0
+satch,jfm,0,2,0
+hariballz,kevorkian,0,2,0
+razz,pugdaddyfre$hlyfeogg*flva,0,2,0
+macintosh,swerve,0,2,0
+satch,hariballz,1,0,2
+razz,macintosh,0,2,0
+hotline,hariballz,0,2,0
+purtle,razz,0,2,0
+hotline,purtle,0,-2,-2
+spaghetti,fs shampoomaster,0,-2,-2
+heny935,highlyeducational,0,2,0
+bonerstorm,bigbeaver,1,-1,0
+cagt,fumofuu,0,-2,-2
+apparition the ambassador,q!,0,0,-1
+b.i.,jad,0,-2,-2
+fireblaster,spaghetti,0,2,0
+heny935,bigbeaver,0,2,0
+tyhiggz,cagt,0,2,0
+apparition the ambassador,b.i.,0,2,0
+fireblaster,heny935,0,2,0
+tyhiggz,apparition the ambassador,0,2,1
+fireblaster,tyhiggz,0,-2,-2
+highlyeducational,bonerstorm,0,0,-1
+q!,jad,0,0,-1
+b.i.,fs shampoomaster,0,0,-1
+cagt,highlyeducational,0,2,1
+bigbeaver,fumofuu,0,0,-1
+spaghetti,q!,0,0,-1
+b.i.,cagt,0,2,0
+bigbeaver,spaghetti,0,2,0
+heny935,b.i.,0,2,1
+apparition the ambassador,bigbeaver,0,2,1
+heny935,apparition the ambassador,0,-2,-2
+dennysgrandslambreakfast,zyrg,1,0,2
+natendo,rawdog,0,2,0
+xiivi,ryden hope,0,2,0
+maestro,kraken,0,0,-1
+bread,fs mook,0,0,-1
+leet,chicken,1,0,2
+shears,zyrg,0,2,0
+natendo,xiivi,0,2,0
+scoback,maestro,0,2,0
+bread,chicken,0,2,0
+shears,natendo,0,2,0
+scoback,bread,0,2,0
+shears,scoback,0,-2,-2
+rawdog,ryden hope,0,2,0
+fs mook,leet,1,0,2
+chicken,dennysgrandslambreakfast,0,2,0
+maestro,rawdog,1,0,2
+xiivi,kraken,0,2,0
+zyrg,leet,0,2,0
+chicken,rawdog,0,2,0
+xiivi,zyrg,1,0,2
+natendo,chicken,0,2,0
+bread,zyrg,0,2,0
+natendo,bread,0,-2,-2
+nigel_thornberry,scraggus,0,2,0
+kaz,neverpullout,0,0,-1
+squible,alex,0,2,0
+tbq,laugh,0,2,0
+sunflower,mike4real,0,2,0
+damp,quickcav,1,0,2
+dajjal,nigel_thornberry,0,2,0
+kaz,squible,0,2,1
+mr.sir,tbq,0,2,0
+sunflower,quickcav,0,2,0
+dajjal,kaz,0,2,0
+mr.sir,sunflower,0,2,1
+dajjal,mr.sir,0,-2,-2
+neverpullout,alex,1,-1,0
+mike4real,damp,1,1,2
+quickcav,scraggus,0,2,0
+tbq,alex,0,2,0
+squible,laugh,0,2,0
+nigel_thornberry,damp,1,0,2
+quickcav,tbq,1,0,2
+squible,damp,0,2,0
+kaz,tbq,0,2,0
+sunflower,squible,0,2,1
+kaz,sunflower,0,-2,-2
+spell,esid,1,-1,0
+gildo,leavescat,0,2,0
+giraphe,muthaluva777,0,2,1
+banana fiend,depressed eagle,0,-2,-2
+gt,dark gentleman,0,-2,-2
+kayo,rgood,1,-2,-2
+nintendude,esid,0,2,0
+gildo,giraphe,0,2,0
+madrush21,banana fiend,0,2,0
+gt,rgood,0,2,0
+nintendude,gildo,0,2,0
+madrush21,gt,0,2,0
+nintendude,madrush21,0,-2,-2
+leavescat,muthaluva777,0,2,1
+dark gentleman,kayo,0,0,-1
+rgood,spell,0,0,-1
+banana fiend,leavescat,1,0,2
+giraphe,depressed eagle,0,0,-1
+esid,dark gentleman,0,0,-1
+rgood,leavescat,1,0,2
+giraphe,esid,0,2,0
+gildo,leavescat,0,2,0
+gt,giraphe,0,2,0
+gildo,gt,0,-2,-2
+flat nat,waxy:joe,1,-1,0
+greeno,jxc,0,2,0
+spicky,brambramjam,1,-1,0
+refriedjeans,redribb0n,1,-1,0
+llcstoism,bacorn,0,0,-1
+mechanicalmarine,nuro,1,0,2
+marbles,waxy:joe,0,2,0
+greeno,brambramjam,0,2,0
+yunque,redribb0n,0,0,-1
+llcstoism,nuro,0,2,0
+marbles,greeno,0,2,0
+yunque,llcstoism,0,2,0
+marbles,yunque,0,-2,-2
+jxc,spicky,0,0,-1
+bacorn,mechanicalmarine,1,-1,0
+nuro,flat nat,0,0,-1
+redribb0n,jxc,1,-1,0
+brambramjam,refriedjeans,0,0,-1
+waxy:joe,mechanicalmarine,0,2,0
+nuro,jxc,1,0,2
+brambramjam,waxy:joe,1,0,2
+greeno,jxc,1,1,2
+llcstoism,waxy:joe,0,2,0
+jxc,llcstoism,0,-2,-2
+superboomfan,zuko,0,3,0
+marbles,yunque,0,3,2
+fireblaster,tyhiggz,0,3,2
+shears,scoback,0,3,0
+tacos,a to the z,0,3,0
+nintendude,madrush21,0,3,2
+barksanchez,shihman,0,3,1
+dajjal,mr.sir,0,3,2
+superboomfan,marbles,0,3,0
+fireblaster,shears,0,3,0
+tacos,nintendude,0,3,0
+barksanchez,dajjal,0,3,0
+superboomfan,fireblaster,0,-2,-2
+tacos,barksanchez,0,-2,-2
+kaz,apparition the ambassador,0,3,1
+hotline,bread,1,0,3
+gildo,grrg,0,3,1
+scratch,llcstoism,1,0,3
+natendo,purtle,1,0,3
+heny935,sunflower,1,0,3
+jxc,the (.)(.),1,0,3
+tonester,gt,1,2,3
+scoback,kaz,0,3,0
+tyhiggz,bread,0,3,0
+yunque,gildo,0,3,0
+zuko,llcstoism,1,1,3
+mr.sir,purtle,0,3,1
+shihman,sunflower,0,3,0
+madrush21,the (.)(.),0,3,0
+a to the z,gt,1,1,3
+scoback,tyhiggz,1,2,3
+yunque,llcstoism,0,3,0
+mr.sir,shihman,1,1,3
+madrush21,gt,0,3,0
+nintendude,tyhiggz,0,3,0
+dajjal,yunque,0,3,0
+marbles,shihman,0,3,1
+shears,madrush21,0,3,2
+nintendude,dajjal,0,-2,-2
+marbles,shears,0,-2,-2
+superboomfan,fireblaster,0,3,0
+tacos,barksanchez,0,3,0
+superboomfan,tacos,0,3,0
+superboomfan,tacos,0,3,0
+nintendude,dajjal,0,3,0
+marbles,shears,0,3,1
+fireblaster,nintendude,0,3,0
+barksanchez,marbles,0,3,0
+fireblaster,barksanchez,1,1,3
+tacos,barksanchez,0,3,1
+sandman,giraphe,1,-1,0
+greeno,daddy's milk,0,0,-1
+b.i.,squible,0,2,0
+chicken,razz,0,2,0
+lalo,waxy:joe,1,0,2
+leavescat,myninja,0,2,0
+hariballz,zyrg,1,0,2
+tbq,bigbeaver,1,0,2
+giraphe,greeno,1,-1,0
+b.i.,chicken,0,2,0
+waxy:joe,leavescat,0,2,0
+zyrg,bigbeaver,1,0,2
+greeno,b.i.,0,2,1
+waxy:joe,bigbeaver,0,2,1
+greeno,waxy:joe,0,3,2
+greeno,waxy:joe,0,3,1
+quickcav,spaghetti,0,0,-1
+satch,xiivi,1,-1,0
+rgood,mojo,0,0,-1
+fingerblast,brambramjam,0,0,-1
+rawdog,macintosh,0,0,-1
+cagt,damp,0,0,-1
+nuro,tallyshell,0,0,-1
+redwolf,esid,1,-1,0
+razz,quickcav,1,0,2
+squible,xiivi,1,0,2
+daddy's milk,rgood,1,-1,0
+sandman,fingerblast,1,-1,0
+tbq,rawdog,0,0,-1
+hariballz,cagt,0,2,0
+myninja,nuro,0,0,-1
+lalo,esid,1,0,2
+quickcav,xiivi,0,2,0
+rgood,fingerblast,1,-1,0
+tbq,hariballz,0,2,1
+myninja,esid,1,0,2
+leavescat,quickcav,1,0,2
+zyrg,fingerblast,0,0,-1
+giraphe,tbq,1,-1,0
+chicken,esid,1,1,2
+quickcav,zyrg,1,0,2
+tbq,esid,1,1,2
+b.i.,zyrg,0,2,1
+bigbeaver,esid,1,0,2
+b.i.,esid,0,2,0
+waxy:joe,b.i.,0,3,2

@@ -1,0 +1,318 @@
+P1,P2,set winner,P1Score,P2Score
+subtle,bogmyer,0,2,0
+spongy,paul d,0,0,-1
+superboomfan,bogmyer,0,2,0
+subtle,spongy,0,2,0
+superboomfan,paul d,0,0,-1
+bogmyer,spongy,1,0,2
+superboomfan,spongy,0,2,0
+paul d,subtle,1,-1,0
+superboomfan,subtle,0,2,0
+paul d,bogmyer,1,-1,0
+gildo,weatherman,0,2,0
+korobeniki,karl,0,0,-1
+mariguas,weatherman,0,2,0
+gildo,korobeniki,1,0,2
+mariguas,karl,0,0,-1
+weatherman,korobeniki,1,0,2
+mariguas,korobeniki,0,2,0
+karl,gildo,1,-1,0
+mariguas,gildo,0,2,0
+karl,weatherman,1,-1,0
+greeno,general1712,0,2,0
+killahertz,whitejesus,1,-1,0
+tr3gthez,general1712,0,2,0
+greeno,killahertz,0,2,1
+tr3gthez,whitejesus,0,2,0
+general1712,killahertz,1,0,2
+tr3gthez,killahertz,0,2,0
+whitejesus,greeno,0,2,0
+tr3gthez,greeno,0,2,0
+whitejesus,general1712,0,2,0
+jamjar,robnu,0,2,0
+kaz,elu,0,2,0
+alvin,robnu,0,2,0
+jamjar,kaz,1,1,2
+alvin,elu,0,2,0
+robnu,kaz,1,0,2
+alvin,kaz,0,2,0
+elu,jamjar,1,0,2
+alvin,jamjar,0,2,0
+elu,robnu,1,0,2
+bread,jonnjonn,0,0,-1
+kelvinheit,prime,1,1,2
+revan,jonnjonn,0,0,-1
+bread,kelvinheit,0,2,1
+revan,prime,0,2,0
+jonnjonn,kelvinheit,1,-1,0
+revan,kelvinheit,0,2,0
+prime,bread,1,1,2
+revan,bread,0,2,0
+prime,jonnjonn,0,0,-1
+zuko,nnaughtydogg,0,2,0
+gt,stew,0,2,0
+firo,nnaughtydogg,0,2,0
+zuko,gt,1,1,2
+firo,stew,0,2,0
+nnaughtydogg,gt,1,0,2
+firo,gt,0,2,0
+stew,zuko,1,0,2
+firo,zuko,0,2,0
+stew,nnaughtydogg,0,2,0
+horbie,grrg,0,0,-1
+tehz,spunker,1,-1,0
+fireblaster,grrg,0,0,-1
+horbie,tehz,0,0,-1
+fireblaster,spunker,0,2,0
+grrg,tehz,1,-1,0
+fireblaster,tehz,0,0,-1
+spunker,horbie,1,1,2
+fireblaster,horbie,0,2,0
+spunker,grrg,0,0,-1
+rusty,dmolz,0,2,0
+bigbeaver,elated,1,1,2
+cobr,dmolz,0,2,0
+rusty,bigbeaver,0,2,1
+cobr,elated,0,2,0
+dmolz,bigbeaver,1,0,2
+cobr,bigbeaver,0,2,0
+elated,rusty,1,0,2
+cobr,rusty,0,2,0
+elated,dmolz,0,2,0
+sunnyb,beans,0,2,0
+pidgezero_one,golfclubninja,1,-1,0
+shears,beans,0,2,0
+sunnyb,pidgezero_one,0,0,-1
+shears,golfclubninja,0,2,0
+beans,pidgezero_one,0,0,-1
+shears,pidgezero_one,0,0,-1
+golfclubninja,sunnyb,1,0,2
+shears,sunnyb,0,2,1
+golfclubninja,beans,1,0,2
+q!,mjim,0,2,0
+sun vulcan,eliot,0,2,1
+handsometom,mjim,0,2,0
+q!,sun vulcan,0,2,0
+handsometom,eliot,0,2,0
+mjim,sun vulcan,1,1,2
+handsometom,sun vulcan,0,2,0
+eliot,q!,1,1,2
+handsometom,q!,0,2,0
+eliot,mjim,0,2,0
+jimmy joe,zbl_mystic,0,2,0
+werewyatt,dankpank,1,-1,0
+robert,zbl_mystic,0,2,0
+jimmy joe,werewyatt,0,0,-1
+robert,dankpank,0,2,0
+zbl_mystic,werewyatt,0,0,-1
+robert,werewyatt,0,0,-1
+dankpank,jimmy joe,1,0,2
+robert,jimmy joe,0,2,0
+dankpank,zbl_mystic,1,0,2
+mr.sir,cmull,0,2,0
+scratch,goosewithsocks,1,0,2
+janco,cmull,0,2,0
+mr.sir,scratch,0,2,0
+janco,goosewithsocks,0,2,1
+cmull,scratch,0,2,0
+janco,scratch,0,2,0
+goosewithsocks,mr.sir,1,0,2
+janco,mr.sir,0,2,0
+goosewithsocks,cmull,1,1,2
+yobolight,thenuge,0,2,0
+smash jesus,bagel,0,2,0
+lowww,thenuge,0,2,0
+yobolight,smash jesus,0,2,1
+lowww,bagel,0,2,0
+thenuge,smash jesus,1,0,2
+lowww,smash jesus,0,2,0
+bagel,yobolight,1,0,2
+lowww,yobolight,0,2,0
+bagel,thenuge,1,0,2
+captain fabulous,jay_mute$,1,1,2
+kristoff,russellsprouts,0,2,0
+dfx,jay_mute$,1,1,2
+captain fabulous,kristoff,0,2,1
+dfx,russellsprouts,0,2,0
+jay_mute$,kristoff,0,2,0
+dfx,kristoff,0,2,0
+russellsprouts,captain fabulous,1,0,2
+dfx,captain fabulous,1,1,2
+russellsprouts,jay_mute$,1,0,2
+masterhandjob,jollie,0,2,0
+nardwell,capos,1,0,2
+th3kuzinator,jollie,0,2,0
+masterhandjob,nardwell,0,2,0
+th3kuzinator,capos,0,2,0
+jollie,nardwell,0,2,0
+th3kuzinator,nardwell,0,2,0
+capos,masterhandjob,1,0,2
+th3kuzinator,masterhandjob,1,1,2
+capos,jollie,0,2,0
+dark gentleman,bung0o,0,2,0
+waldo,chicken,0,2,0
+shihman,bung0o,0,2,0
+dark gentleman,waldo,0,2,0
+shihman,chicken,0,2,0
+bung0o,waldo,1,0,2
+shihman,waldo,1,-1,0
+chicken,dark gentleman,1,0,2
+shihman,dark gentleman,1,0,2
+chicken,bung0o,0,2,0
+superboomfan,korobeniki,0,2,0
+dark gentleman,captain fabulous,0,2,0
+cobr,horbie,0,2,0
+shears,jimmy joe,0,2,0
+alvin,whitejesus,0,2,0
+janco,th3kuzinator,0,0,-1
+revan,gt,0,2,0
+lowww,mr.sir,0,2,0
+mariguas,subtle,0,2,0
+masterhandjob,waldo,0,2,0
+fireblaster,rusty,0,2,0
+handsometom,sunnyb,0,2,0
+tr3gthez,kaz,0,2,0
+jay_mute$,yobolight,0,2,1
+firo,bread,0,2,0
+robert,q!,0,2,0
+superboomfan,dark gentleman,0,2,0
+cobr,shears,1,1,2
+alvin,janco,0,2,0
+revan,lowww,0,2,0
+mariguas,masterhandjob,0,2,0
+fireblaster,handsometom,1,1,2
+tr3gthez,jay_mute$,0,2,0
+firo,robert,0,2,1
+superboomfan,shears,0,2,0
+alvin,revan,0,2,0
+mariguas,handsometom,0,2,0
+tr3gthez,firo,1,0,2
+superboomfan,alvin,1,1,3
+mariguas,firo,0,3,0
+alvin,mariguas,1,1,3
+mariguas,alvin,1,2,3
+alvin,mariguas,0,3,0
+korobeniki,captain fabulous,1,1,2
+horbie,jimmy joe,1,0,2
+whitejesus,th3kuzinator,0,0,-1
+gt,mr.sir,1,0,2
+subtle,waldo,0,2,0
+rusty,sunnyb,1,0,2
+kaz,yobolight,1,0,2
+bread,q!,0,2,0
+robert,captain fabulous,0,2,0
+jay_mute$,jimmy joe,1,1,2
+fireblaster,whitejesus,0,2,0
+masterhandjob,mr.sir,1,0,2
+lowww,subtle,0,2,1
+janco,sunnyb,1,1,2
+cobr,yobolight,0,2,0
+dark gentleman,bread,0,2,0
+robert,jimmy joe,1,0,2
+fireblaster,mr.sir,0,2,0
+lowww,sunnyb,0,2,1
+cobr,dark gentleman,0,2,0
+revan,jimmy joe,0,2,0
+shears,fireblaster,1,1,2
+tr3gthez,lowww,0,2,0
+handsometom,cobr,0,2,1
+revan,fireblaster,0,3,0
+tr3gthez,handsometom,0,3,1
+firo,revan,1,0,3
+superboomfan,tr3gthez,0,3,0
+revan,superboomfan,1,0,3
+alvin,superboomfan,0,3,2
+killahertz,robnu,0,0,-1
+killahertz,bung0o,0,0,-1
+elated,kelvinheit,1,0,2
+elated,sun vulcan,0,2,1
+elated,dmolz,0,0,-1
+elated,bagel,0,0,-1
+mjim,russellsprouts,1,-1,0
+jonnjonn,elu,1,0,2
+robnu,paul d,0,0,-1
+robnu,karl,1,-1,0
+elu,tehz,0,0,-1
+scratch,shihman,0,0,-1
+capos,killahertz,1,0,2
+capos,chicken,0,0,-1
+capos,stew,0,2,0
+werewyatt,nardwell,0,0,-1
+kelvinheit,gildo,1,1,2
+kelvinheit,bung0o,0,0,-1
+kristoff,shihman,0,0,-1
+kristoff,general1712,1,-1,0
+jamjar,nardwell,1,-1,0
+jamjar,russellsprouts,1,-1,0
+gildo,killahertz,0,2,0
+gildo,elu,0,2,1
+gildo,kelvinheit,1,0,2
+gildo,spongy,1,0,2
+gildo,general1712,0,0,-1
+gildo,dmolz,0,0,-1
+spongy,killahertz,0,2,0
+spongy,elated,0,2,0
+spongy,scratch,0,2,0
+spongy,bigbeaver,1,0,2
+spongy,zuko,0,2,0
+bigbeaver,jonnjonn,0,2,0
+bigbeaver,capos,0,2,1
+bigbeaver,kelvinheit,0,2,0
+bigbeaver,spongy,1,1,3
+bigbeaver,smash jesus,1,0,3
+chicken,beans,1,-1,0
+chicken,eliot,0,0,-1
+greeno,scratch,0,2,0
+greeno,beans,0,2,1
+greeno,prime,1,0,2
+greeno,thenuge,0,0,-1
+tehz,chicken,1,-1,0
+zuko,kelvinheit,1,1,2
+zuko,greeno,0,2,0
+zuko,goosewithsocks,0,0,-1
+general1712,scratch,1,-1,0
+general1712,paul d,0,0,-1
+sun vulcan,werewyatt,0,0,-1
+sun vulcan,weatherman,0,0,-1
+karl,scratch,1,-1,0
+beans,bigbeaver,1,1,2
+beans,nnaughtydogg,0,0,-1
+russellsprouts,elu,1,-1,0
+russellsprouts,zuko,1,-1,0
+goosewithsocks,werewyatt,1,-1,0
+goosewithsocks,pidgezero_one,0,0,-1
+dfx,dankpank,1,-1,0
+dfx,bung0o,1,-1,0
+prime,spongy,1,1,2
+prime,stew,0,2,0
+prime,smash jesus,1,0,2
+eliot,elu,1,-1,0
+stew,mjim,0,0,-1
+stew,nardwell,0,0,-1
+stew,thenuge,0,0,-1
+dmolz,grrg,0,0,-1
+cmull,killahertz,1,0,2
+cmull,kristoff,0,0,-1
+jollie,elated,1,0,2
+jollie,karl,0,0,-1
+jollie,cmull,1,0,2
+dankpank,gildo,1,0,2
+dankpank,prime,1,0,2
+dankpank,bagel,0,0,-1
+dankpank,bogmyer,0,0,-1
+golfclubninja,dmolz,1,-1,0
+bogmyer,scratch,1,-1,0
+bogmyer,grrg,0,0,-1
+weatherman,jonnjonn,1,-1,0
+weatherman,nnaughtydogg,0,0,-1
+thenuge,werewyatt,0,0,-1
+thenuge,pidgezero_one,0,0,-1
+zbl_mystic,golfclubninja,0,0,-1
+zbl_mystic,bogmyer,1,-1,0
+zbl_mystic,bung0o,1,-1,0
+spunker,paul d,1,-1,0
+spunker,jollie,1,-1,0
+smash jesus,elu,0,2,0
+smash jesus,spongy,0,3,1
+smash jesus,sun vulcan,0,2,0
+smash jesus,cmull,0,2,0

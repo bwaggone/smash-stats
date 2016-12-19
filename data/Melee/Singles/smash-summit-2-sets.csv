@@ -1,0 +1,32 @@
+P1,P2,set winner,P1Score,P2Score
+armada,esam,0,3,0
+axe,shroomed,0,3,0
+plup,pewpewu,0,3,1
+mew2king,ice,0,3,2
+hungrybox,s2j,0,3,1
+wobbles,sfat,1,1,3
+mango,duck,0,3,1
+westballz,silent wolf,0,3,0
+armada,axe,0,3,0
+plup,mew2king,1,0,3
+hungrybox,sfat,0,3,0
+mango,westballz,0,3,2
+armada,mew2king,1,0,3
+hungrybox,mango,0,3,2
+mew2king,hungrybox,1,1,3
+hungrybox,armada,1,2,3
+armada,hungrybox,0,3,1
+esam,shroomed,1,1,3
+pewpewu,ice,1,2,3
+s2j,wobbles,0,3,1
+duck,silent wolf,0,3,0
+westballz,shroomed,1,1,3
+sfat,ice,0,3,1
+plup,s2j,0,3,0
+axe,duck,0,3,1
+shroomed,sfat,0,3,2
+plup,axe,0,3,0
+armada,shroomed,0,3,1
+mango,plup,0,3,2
+armada,mango,0,3,0
+mew2king,armada,1,0,3

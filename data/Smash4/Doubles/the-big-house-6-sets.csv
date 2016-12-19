@@ -311,14 +311,14 @@ serge,dux,carbuncle,jaaahsh,0,-2,-2
 bane,chrome kingfisher,shevy,xav,0,-2,-2
 serge,dux,bane,chrome kingfisher,0,-2,-2
 raziek,z,serge,dux,0,-2,-2
-dr.shady,mint,bigmama,haystack,1,-2,-2
+dr.shady,mint,bigmama,sg | haystack,1,-2,-2
 raichu4u,waddle,jibca,cookietic,1,-2,-2
 mattatari,zettaslow,#heroxen,otanda,0,-2,-2
-timko,lv.10,jbrockpony,duckduckpony,0,-2,-2
+timko | af,lv.10 | af,jbrockpony,duckduckpony,0,-2,-2
 pinju,paranoidzoid,vmachine,fadversity,1,-2,-2
-mvd,esam,bigmama,haystack,0,-2,-2
+mvd,esam,bigmama,sg | haystack,0,-2,-2
 jibca,cookietic,mattatari,zettaslow,0,-2,-2
-iceninja,poke,timko,lv.10,0,-2,-2
+iceninja,poke,timko | af,lv.10 | af,0,-2,-2
 day,sai,vmachine,fadversity,0,-2,-2
 mvd,esam,jibca,cookietic,0,-2,-2
 iceninja,poke,day,sai,0,-2,-2
@@ -326,11 +326,11 @@ mvd,esam,iceninja,poke,0,-2,-2
 mvd,esam,iceninja,poke,0,-2,-2
 raichu4u,waddle,#heroxen,otanda,0,-2,-2
 vmachine,fadversity,dr.shady,mint,1,-2,-2
-timko,lv.10,raichu4u,waddle,1,-2,-2
+timko | af,lv.10 | af,raichu4u,waddle,1,-2,-2
 mattatari,zettaslow,jbrockpony,duckduckpony,1,-2,-2
-bigmama,haystack,pinju,paranoidzoid,0,-2,-2
+bigmama,sg | haystack,pinju,paranoidzoid,0,-2,-2
 dr.shady,mint,raichu4u,waddle,1,-2,-2
-jbrockpony,duckduckpony,bigmama,haystack,0,-2,-2
+jbrockpony,duckduckpony,bigmama,sg | haystack,0,-2,-2
 jibca,cookietic,raichu4u,waddle,1,-2,-2
 day,sai,jbrockpony,duckduckpony,0,-2,-2
 raichu4u,waddle,day,sai,0,-2,-2

@@ -2,63 +2,7 @@ import requests
 import time
 import json
 from collections import *
-
-
-smash_games = {1: "Melee", 3: "Smash4", 4: "64", 5: "Brawl", 6: "YOLO"}
-smash_formats = defaultdict(str, {1: "Singles", 2: "Doubles", 5: "Crews"})
-api_prefix = 'https://api.smash.gg/'
-api_entrant_postfix = '?expand[]=entrants'
-api_sets_postfix = '?expand[]=sets'
-
-#For the motherfuckers who have a pipe in their name.
-#   DON'T YOU KNOW WE USE A PIPE FOR SPONSOR SHIT?!?
-name_exceptions_type1 = ["TimKO | AF" , "Lv. 10 | AF"]
-
-#For the people who have an identity crisis
-
-
-def sanatize_name(name):
-    return (name.split('|', 1)[-1]).lower().replace('"', '').split('|', 1)[-1].lstrip()
-
-def split_doubles_names(name, doubles):
-    if(doubles):
-        tmp = name.split('/')
-        for i in range(0, len(tmp)):
-            tmp[i] = sanatize_name(tmp[i].strip())
-        return ",".join(tmp)
-    else:
-        return name
-
-
-class event:
-    def __init__(self, event_id, event_name, gameId, _format):
-        self.event_id = event_id
-        self.event_name = event_name
-        self.game = smash_games[gameId]
-        self.format_id = _format
-        self.format = smash_formats[_format]
-        self.phases = []
-        self.groups = []
-        self.entrants = {}
-        self.placings = {}
-
-    def add_phases(self, phases):
-        self.phases = phases
-
-    def add_groups(self, groups):
-        for group in groups:
-            self.groups.append(group)
-
-
-    def add_entrants(self, entrants):
-        for entrant in entrants:
-            if(self.format == "Doubles"):
-                self.entrants[entrant["id"]] = entrant["name"]
-                self.placings[entrant["id"]] = entrant["finalPlacement"]
-            else:
-                self.entrants[entrant["id"]] = sanatize_name(entrant["name"])
-                self.placings[entrant["id"]] = entrant["finalPlacement"]
-
+from api_scrape_util import *
 
 slug = raw_input("What is the tournament slug?\n")
 
@@ -101,10 +45,6 @@ for event in events:
     for phase in events[event].phases:
         events[event].add_groups(phase_groups[phase])
    
-    #print(events[event].event_name, events[event].groups)
-
-#print(events[12830].entrants[288001])
-#print(events[12830].entrants[282600])
 for event in events:
     #This prevents side events from being recorded
     # Ex: Own the House in TBH6
@@ -113,8 +53,9 @@ for event in events:
         if(smash_formats[format_num] in events[event].event_name):
             not_found = 0
             break;
-    
-    if(not_found):
+   
+    #64, why do you have a "game" called YOLO? pls
+    if(not_found or events[event].game == "YOLO"):
         print("Skipping 1 event")
         continue
     
@@ -123,12 +64,12 @@ for event in events:
         master = open(master_file)
         master.close()
         master = open(master_file, "a")
-        master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "\n")
+        master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
         master.close()
     except:
         master = open(master_file, "a+")
-        master.write("Tournament,startDate,endDate\n")
-        master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "\n")
+        master.write("Tournament,startDate,endDate,entrants\n")
+        master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
         master.close()
     
     filename = "./data/" + events[event].game + "/" + events[event].format + "/" + slug + "-sets.csv" 
@@ -140,7 +81,7 @@ for event in events:
         f.write("T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score\n")
     else:
         doubles = 0
-        f.write("P1, P2, set winner, P1Score, P2Score\n")
+        f.write("P1,P2,set winner,P1Score,P2Score\n")
     
     for group in events[event].groups:
         results = requests.get(api_prefix + 'phase_group/' +  str(group) + api_sets_postfix)
@@ -164,9 +105,9 @@ for event in events:
                 result = 1
 
             try:
-                f.write(split_doubles_names(events[event].entrants[p1], doubles) + ',' + split_doubles_names(events[event].entrants[p2], doubles) + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) + '\n')
+                f.write(events[event].entrants[p1] + ',' + events[event].entrants[p2] + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) + '\n')
             except:
-                f.write((split_doubles_names(events[event].entrants[p1], doubles) + ',' + split_doubles_names(events[event].entrants[p2], doubles) + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) +'\n').encode('utf-8'))
+                f.write((events[event].entrants[p1] + ',' + events[event].entrants[p2] + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) +'\n').encode('utf-8'))
 
     print("Wrote Results to " + filename)
     f.close()

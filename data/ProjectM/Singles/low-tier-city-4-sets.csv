@@ -1,0 +1,511 @@
+P1,P2,set winner,P1Score,P2Score
+grape ape,chem,1,-2,-2
+tha shogun,globe,0,-2,-2
+haviklink,neat,0,-2,-2
+dong,lord horatio,0,-2,-2
+doom,ep the salt king,0,-2,-2
+dojo,three,0,-2,-2
+brewster,gooch,1,-2,-2
+thunderzreign,chem,0,-2,-2
+tha shogun,haviklink,0,-2,-2
+dong,doom,1,-2,-2
+dojo,gooch,1,-2,-2
+thunderzreign,tha shogun,0,-2,-2
+doom,gooch,1,-2,-2
+thunderzreign,gooch,0,-2,-2
+globe,neat,1,-2,-2
+lord horatio,ep the salt king,1,-2,-2
+three,brewster,1,-2,-2
+dojo,grape ape,0,-2,-2
+dong,neat,0,-2,-2
+haviklink,ep the salt king,0,-2,-2
+chem,brewster,0,-2,-2
+dojo,dong,1,-2,-2
+haviklink,chem,0,-2,-2
+tha shogun,dong,0,-2,-2
+doom,haviklink,1,-2,-2
+tha shogun,haviklink,1,-2,-2
+gooch,haviklink,0,-2,-2
+2d fighter,blynde,0,-2,-2
+betch,zega,1,-2,-2
+youngblood,cephalopod,0,-2,-2
+filthy casual,kelly,0,-2,-2
+pied,caravan,0,-2,-2
+captain birdman,badfontkeming,0,-2,-2
+logs,guerrilla,1,-2,-2
+lucky,2d fighter,0,-2,-2
+zega,youngblood,1,-2,-2
+filthy casual,pied,0,-2,-2
+captain birdman,guerrilla,0,-2,-2
+lucky,youngblood,0,-2,-2
+filthy casual,captain birdman,1,-2,-2
+lucky,captain birdman,0,-2,-2
+betch,cephalopod,1,-1,0
+kelly,caravan,0,-2,-2
+badfontkeming,logs,0,-2,-2
+guerrilla,blynde,0,-2,-2
+pied,cephalopod,0,-2,-2
+zega,kelly,1,-2,-2
+2d fighter,badfontkeming,0,-2,-2
+guerrilla,pied,0,-2,-2
+kelly,2d fighter,1,-2,-2
+youngblood,guerrilla,0,-2,-2
+filthy casual,2d fighter,0,-2,-2
+youngblood,filthy casual,1,-2,-2
+captain birdman,filthy casual,0,-2,-2
+junebug,xenodyssey,0,-2,-2
+monkmonk,matterhorn,0,-2,-2
+solharath,cyan can,0,-2,-2
+hotpockets,lobo,0,-2,-2
+pikmon,roshi,0,-2,-2
+badgermum,aperture,1,-2,-2
+zeej,hawk,0,-2,-2
+plate,sparkswordkirby,1,-2,-2
+junebug,monkmonk,0,-2,-2
+solharath,hotpockets,0,-2,-2
+pikmon,aperture,0,-2,-2
+zeej,sparkswordkirby,0,-2,-2
+junebug,solharath,0,2,1
+pikmon,zeej,1,-2,-2
+junebug,zeej,0,-2,-2
+xenodyssey,matterhorn,1,-2,-2
+cyan can,lobo,0,0,-1
+roshi,badgermum,0,0,-1
+hawk,plate,1,-2,-2
+sparkswordkirby,matterhorn,0,-2,-2
+aperture,cyan can,1,-2,-2
+hotpockets,roshi,1,-2,-2
+monkmonk,plate,1,-2,-2
+sparkswordkirby,cyan can,0,-2,-2
+roshi,plate,1,-2,-2
+solharath,sparkswordkirby,0,-2,-2
+pikmon,plate,0,-2,-2
+solharath,pikmon,1,-2,-2
+zeej,pikmon,0,-2,-2
+hnic,daddy,0,-2,-2
+arsenals,el garz,0,-2,-2
+qtwo,pilot,0,-2,-2
+apathy,studebacher hoch,0,-2,-2
+mr.watchandlearn,butterjones,0,2,1
+tealz,langel,0,-2,-2
+chech,wooks,0,-2,-2
+drinkingfood,hnic,0,-2,-2
+arsenals,qtwo,0,-2,-2
+apathy,mr.watchandlearn,0,-2,-2
+tealz,chech,0,-2,-2
+drinkingfood,arsenals,0,-2,-2
+apathy,tealz,1,-2,-2
+drinkingfood,tealz,1,-2,-2
+el garz,pilot,1,-2,-2
+studebacher hoch,butterjones,1,-2,-2
+langel,wooks,0,-2,-2
+chech,daddy,0,-2,-2
+mr.watchandlearn,pilot,0,-2,-2
+qtwo,butterjones,0,-2,-2
+hnic,langel,1,-2,-2
+chech,mr.watchandlearn,0,-2,-2
+qtwo,langel,0,-2,-2
+arsenals,chech,1,-2,-2
+apathy,qtwo,1,-2,-2
+chech,qtwo,0,-2,-2
+drinkingfood,chech,0,-2,-2
+prioritized,searing scar,0,-2,-2
+da,soulster,0,-2,-2
+hard reid,zychotic,0,-2,-2
+azer,spoop,0,-2,-2
+volume,robo,0,-2,-2
+rundmx,disk0,0,-2,-2
+ezdz,batmayne,0,-2,-2
+machiavelli,prioritized,0,2,0
+da,hard reid,0,-2,-2
+azer,volume,0,-2,-2
+rundmx,ezdz,0,-2,-2
+machiavelli,da,0,-2,-2
+azer,rundmx,0,-2,-2
+machiavelli,azer,0,-2,-2
+soulster,zychotic,0,-2,-2
+spoop,robo,0,-2,-2
+disk0,batmayne,0,-2,-2
+ezdz,searing scar,1,-2,-2
+volume,soulster,0,-2,-2
+hard reid,spoop,0,-2,-2
+prioritized,disk0,0,-2,-2
+searing scar,volume,1,-2,-2
+hard reid,prioritized,0,-2,-2
+da,volume,0,-2,-2
+rundmx,hard reid,1,-2,-2
+da,hard reid,1,-2,-2
+azer,hard reid,0,-2,-2
+tapsody,katerrorist,0,-2,-2
+wonder,p2,0,-2,-2
+frosti,lack,0,-2,-2
+gs fuzz,iheartribs,0,-2,-2
+egman,djsnowcone,0,-2,-2
+pop magoot,f-ric,0,2,0
+lots,cuervo,0,-2,-2
+mrlz,tapsody,0,2,0
+wonder,frosti,0,-2,-2
+gs fuzz,egman,0,-2,-2
+pop magoot,lots,0,-2,-2
+mrlz,wonder,0,-2,-2
+gs fuzz,pop magoot,0,-2,-2
+mrlz,gs fuzz,0,-2,-2
+p2,lack,0,-2,-2
+iheartribs,djsnowcone,0,-2,-2
+f-ric,cuervo,0,-2,-2
+lots,katerrorist,0,-2,-2
+egman,p2,0,-2,-2
+frosti,iheartribs,0,-2,-2
+tapsody,f-ric,0,-2,-2
+lots,egman,1,-2,-2
+frosti,tapsody,1,-2,-2
+wonder,egman,0,-2,-2
+pop magoot,tapsody,0,-2,-2
+wonder,pop magoot,0,-2,-2
+gs fuzz,wonder,0,-2,-2
+volutedmarlin,bordi,1,-2,-2
+~cp9~,just jokin,0,-2,-2
+sledj,goode,1,-2,-2
+brother rob,vivigast,0,-2,-2
+madguy,janthem,0,-2,-2
+mr. brandandorf,manrey,0,-2,-2
+pope,rawdrigo,1,-2,-2
+uncle mojo,bordi,0,2,0
+~cp9~,goode,1,-2,-2
+brother rob,madguy,0,-2,-2
+mr. brandandorf,rawdrigo,0,-2,-2
+uncle mojo,goode,1,-2,-2
+brother rob,mr. brandandorf,1,-2,-2
+goode,mr. brandandorf,0,-2,-2
+just jokin,sledj,1,-2,-2
+vivigast,janthem,1,-2,-2
+manrey,pope,0,-2,-2
+rawdrigo,volutedmarlin,0,-2,-2
+madguy,sledj,0,-2,-2
+~cp9~,janthem,0,-2,-2
+bordi,manrey,1,-2,-2
+rawdrigo,madguy,1,-2,-2
+~cp9~,manrey,0,-2,-2
+uncle mojo,madguy,0,-2,-2
+brother rob,~cp9~,0,-2,-2
+uncle mojo,brother rob,0,-2,-2
+mr. brandandorf,uncle mojo,0,-2,-2
+cam,nihil,1,-2,-2
+fearless,ryebread,0,-2,-2
+darkgun,sundark,0,-2,-2
+bobby frizz,biggily oggily boogly,0,-2,-2
+johalter,heath,1,-2,-2
+sneez,ramrow,0,-2,-2
+pyrrhus,ljcannon,0,-2,-2
+stereokidd,nihil,0,-2,-2
+fearless,darkgun,0,-2,-2
+bobby frizz,heath,0,-2,-2
+sneez,pyrrhus,0,-2,-2
+stereokidd,fearless,0,-2,-2
+bobby frizz,sneez,1,-2,-2
+stereokidd,sneez,0,-2,-2
+ryebread,sundark,0,-2,-2
+biggily oggily boogly,johalter,0,-2,-2
+ramrow,ljcannon,0,-2,-2
+pyrrhus,cam,0,-2,-2
+heath,ryebread,1,-2,-2
+darkgun,biggily oggily boogly,0,-2,-2
+nihil,ramrow,0,-2,-2
+pyrrhus,ryebread,0,-2,-2
+darkgun,nihil,0,-2,-2
+fearless,pyrrhus,0,-2,-2
+bobby frizz,darkgun,0,-2,-2
+fearless,bobby frizz,1,-2,-2
+sneez,bobby frizz,0,-2,-2
+dr. boom,dru2,1,-2,-2
+albert,theory,0,-2,-2
+snok,birdybirds,0,-2,-2
+kokingpin,elementofsmash,0,-2,-2
+yoloyoshi,ashy larry,0,-2,-2
+zeus,dyno,0,-2,-2
+dj_not_nice,bee,0,-2,-2
+odds,dru2,0,-2,-2
+albert,snok,0,-2,-2
+kokingpin,yoloyoshi,0,-2,-2
+zeus,dj_not_nice,0,-2,-2
+odds,albert,0,-2,-2
+kokingpin,zeus,1,-2,-2
+odds,zeus,0,-2,-2
+theory,birdybirds,1,-2,-2
+elementofsmash,ashy larry,1,-2,-2
+dyno,bee,0,-2,-2
+dj_not_nice,dr. boom,0,-2,-2
+yoloyoshi,birdybirds,1,-2,-2
+snok,ashy larry,0,-2,-2
+dru2,dyno,0,-2,-2
+dj_not_nice,birdybirds,1,-2,-2
+snok,dru2,1,-2,-2
+albert,birdybirds,0,-2,-2
+kokingpin,dru2,1,-2,-2
+albert,dru2,0,-2,-2
+zeus,albert,0,-2,-2
+hero of time,tw!nk,0,-2,-2
+phazon,roro,1,-2,-2
+pooch,barret,0,-2,-2
+trippaturtle,noob,1,-2,-2
+shokio,bobman,0,-2,-2
+spiritranger99,snooklet,1,-2,-2
+loyal,cory,0,-2,-2
+fury,rockin,0,-2,-2
+hero of time,roro,0,-2,-2
+pooch,noob,0,-2,-2
+shokio,snooklet,0,-2,-2
+loyal,fury,0,-2,-2
+hero of time,pooch,0,-2,-2
+shokio,loyal,0,-2,-2
+hero of time,shokio,0,-2,-2
+tw!nk,phazon,1,-2,-2
+barret,trippaturtle,1,-2,-2
+bobman,spiritranger99,0,-2,-2
+cory,rockin,1,-2,-2
+fury,phazon,0,-2,-2
+snooklet,trippaturtle,0,-2,-2
+noob,bobman,0,-2,-2
+roro,rockin,0,-2,-2
+fury,snooklet,1,-2,-2
+noob,roro,1,-2,-2
+pooch,snooklet,0,-2,-2
+loyal,roro,0,-2,-2
+pooch,loyal,0,-2,-2
+shokio,pooch,0,-2,-2
+solus,nsfw?,1,-2,-2
+tr0y,doubledorf,0,-2,-2
+g-rabbit,errl,0,-2,-2
+baconpancakes,jobonoobdude,0,2,0
+phantom,siegfried,1,-2,-2
+phorcys,captain flowers,0,-2,-2
+slumlord,c.fab,0,-2,-2
+dirtboy,nsfw?,0,-2,-2
+tr0y,g-rabbit,0,-2,-2
+baconpancakes,siegfried,0,2,0
+phorcys,slumlord,0,-2,-2
+dirtboy,tr0y,0,-2,-2
+baconpancakes,phorcys,0,-2,-2
+dirtboy,baconpancakes,1,-2,-2
+doubledorf,errl,0,-2,-2
+jobonoobdude,phantom,0,-2,-2
+captain flowers,c.fab,0,-2,-2
+slumlord,solus,0,-2,-2
+siegfried,doubledorf,0,-2,-2
+g-rabbit,jobonoobdude,0,-2,-2
+nsfw?,captain flowers,1,-2,-2
+slumlord,siegfried,1,-2,-2
+g-rabbit,captain flowers,0,-2,-2
+tr0y,siegfried,0,-2,-2
+phorcys,g-rabbit,0,-2,-2
+tr0y,phorcys,0,-2,-2
+dirtboy,tr0y,0,-2,-2
+hyperflame,the dude,0,2,0
+chedder,gree,1,0,2
+grime,grey area,0,2,0
+gimme,salt,1,0,2
+luck,curty,0,2,0
+ruslinjimmies_rj,critter,0,2,0
+dekus,luffy,0,-2,-2
+siguy,melo,1,-2,-2
+hyperflame,gree,0,2,0
+grime,salt,0,2,0
+luck,ruslinjimmies_rj,0,2,0
+dekus,melo,0,-2,-2
+hyperflame,grime,0,2,0
+luck,dekus,0,-2,-2
+hyperflame,luck,1,0,2
+the dude,chedder,0,-2,-2
+grey area,gimme,1,1,2
+curty,critter,1,1,2
+luffy,siguy,0,2,1
+melo,the dude,1,-2,-2
+ruslinjimmies_rj,gimme,0,-2,-2
+salt,critter,0,-2,-2
+gree,luffy,0,-2,-2
+the dude,ruslinjimmies_rj,1,-2,-2
+salt,gree,0,-2,-2
+grime,ruslinjimmies_rj,0,-2,-2
+dekus,salt,0,-2,-2
+grime,dekus,0,2,0
+hyperflame,grime,0,-2,-2
+dakpo,the real marzbar,0,-2,-2
+cuda,kingly,0,-2,-2
+dizzy,rev,0,-2,-2
+dex!,dr. gg,0,-2,-2
+dyl,ntire,0,-2,-2
+a$ce,eradicator,1,-2,-2
+limbose,zora,0,-2,-2
+noxd,hctaz,1,-2,-2
+dakpo,cuda,1,-2,-2
+dizzy,dex!,0,-2,-2
+dyl,eradicator,0,-2,-2
+limbose,hctaz,0,-2,-2
+cuda,dizzy,1,-2,-2
+dyl,limbose,0,-2,-2
+dizzy,dyl,1,-2,-2
+the real marzbar,kingly,1,-2,-2
+rev,dr. gg,1,-2,-2
+ntire,a$ce,0,-2,-2
+zora,noxd,1,-2,-2
+hctaz,kingly,1,-2,-2
+eradicator,dr. gg,0,-2,-2
+dex!,ntire,0,-2,-2
+dakpo,noxd,0,-2,-2
+kingly,eradicator,0,-2,-2
+dex!,dakpo,1,-2,-2
+cuda,kingly,1,-2,-2
+limbose,dakpo,1,-2,-2
+kingly,dakpo,1,-2,-2
+dizzy,dakpo,0,-2,-2
+pirate,twisted logic,1,-2,-2
+american bowser,karby,0,-2,-2
+krbay,king boolean,0,-2,-2
+aion,ford$,0,-2,-2
+taycen,gilxturtle,1,-2,-2
+dmg,zachimon,0,-2,-2
+bushido brown,alex 615,1,-2,-2
+boiko,twisted logic,0,2,0
+american bowser,krbay,0,-2,-2
+aion,gilxturtle,0,-2,-2
+dmg,alex 615,0,-2,-2
+boiko,american bowser,0,2,0
+aion,dmg,1,-2,-2
+boiko,dmg,1,1,2
+karby,king boolean,0,-2,-2
+ford$,taycen,0,-2,-2
+zachimon,bushido brown,1,-2,-2
+alex 615,pirate,0,-2,-2
+gilxturtle,karby,0,-2,-2
+krbay,ford$,1,-2,-2
+twisted logic,bushido brown,1,-2,-2
+alex 615,gilxturtle,0,-2,-2
+ford$,bushido brown,1,-2,-2
+american bowser,alex 615,0,-2,-2
+aion,bushido brown,0,-2,-2
+american bowser,aion,1,-2,-2
+boiko,aion,0,-2,-2
+kei$,jtac0,0,-2,-2
+kei$,ads,0,-2,-2
+kei$,pappin,1,-2,-2
+bananas,skeith,1,-1,0
+red x,jtac0,0,-2,-2
+red x,the d,0,-2,-2
+red x,mr.pickle,0,-2,-2
+red x,taylorhj,0,-2,-2
+claus,ads,0,-2,-2
+jtac0,jimmy,0,-2,-2
+strong bad,red x,0,-2,-2
+strong bad,mr.pickle,0,-2,-2
+strong bad,pappin,0,-2,-2
+strong bad,scotch,0,2,0
+the d,claus,0,-2,-2
+jimmy,the d,1,-2,-2
+mr.pickle,kei$,0,-2,-2
+mr.pickle,claus,0,-2,-2
+mr.pickle,skeith,0,-2,-2
+mr.pickle,taylorhj,0,-2,-2
+skeith,the d,0,-2,-2
+skeith,scotch,0,-2,-2
+pappin,storm,0,-2,-2
+pappin,tal,0,-2,-2
+storm,bananas,0,0,-1
+taylorhj,skeith,0,-2,-2
+taylorhj,pappin,0,-2,-2
+taylorhj,storm,0,-2,-2
+scotch,tal,0,-2,-2
+haviklink,filthy casual,1,-2,-2
+dyl,hard reid,0,-2,-2
+zeus,chech,0,-2,-2
+sneez,pooch,0,-2,-2
+dizzy,wonder,0,-2,-2
+drinkingfood,ilovebagelz,0,-2,-2
+gooch,uncle mojo,1,-2,-2
+azer,aion,1,-2,-2
+boiko,red x,0,2,0
+hyperflame,tr0y,0,-2,-2
+dirtboy,albert,0,-2,-2
+gs fuzz,pikmon,1,-2,-2
+mr. brandandorf,grime,0,-2,-2
+captain birdman,mr.pickle,1,-2,-2
+shokio,bobby frizz,1,-2,-2
+zeej,dakpo,1,-2,-2
+junebug,filthy casual,0,2,0
+odds,dyl,0,-2,-2
+strong bad,zeus,0,-2,-2
+hero of time,sneez,0,-2,-2
+thunderzreign,dizzy,0,-2,-2
+goode,drinkingfood,1,0,2
+lucky,uncle mojo,0,-2,-2
+blue,aion,0,-2,-2
+mrlz,boiko,0,2,0
+tealz,hyperflame,1,-2,-2
+stereokidd,dirtboy,0,2,0
+luck,pikmon,0,-2,-2
+lunchables,mr. brandandorf,0,-2,-2
+dmg,mr.pickle,1,-2,-2
+machiavelli,bobby frizz,0,-2,-2
+baconpancakes,dakpo,0,-2,-2
+junebug,odds,0,-2,-2
+strong bad,hero of time,0,-2,-2
+thunderzreign,drinkingfood,0,-2,-2
+lucky,blue,1,-2,-2
+mrlz,hyperflame,0,2,1
+stereokidd,luck,1,1,2
+lunchables,mr.pickle,0,-2,-2
+machiavelli,baconpancakes,0,2,1
+junebug,strong bad,0,2,0
+thunderzreign,blue,0,2,1
+mrlz,luck,0,-2,-2
+lunchables,machiavelli,0,2,1
+junebug,thunderzreign,1,1,3
+mrlz,lunchables,1,2,3
+thunderzreign,lunchables,0,3,1
+thunderzreign,lunchables,1,1,3
+lunchables,thunderzreign,1,2,3
+dakpo,haviklink,0,-2,-2
+bobby frizz,hard reid,0,-2,-2
+dmg,chech,0,-2,-2
+mr. brandandorf,pooch,0,2,0
+pikmon,wonder,0,-2,-2
+dirtboy,ilovebagelz,0,-2,-2
+tealz,gooch,0,-2,-2
+boiko,azer,0,-2,-2
+aion,red x,0,-2,-2
+uncle mojo,tr0y,0,-2,-2
+goode,albert,0,-2,-2
+dizzy,gs fuzz,0,-2,-2
+sneez,grime,0,-2,-2
+zeus,captain birdman,1,-2,-2
+dyl,shokio,1,-2,-2
+filthy casual,zeej,0,-2,-2
+dakpo,bobby frizz,1,-2,-2
+dmg,mr. brandandorf,1,-2,-2
+pikmon,dirtboy,0,-2,-2
+tealz,boiko,1,-2,-2
+aion,uncle mojo,1,-2,-2
+goode,dizzy,1,-2,-2
+sneez,captain birdman,1,-2,-2
+shokio,filthy casual,0,-2,-2
+lucky,bobby frizz,1,0,2
+drinkingfood,mr. brandandorf,0,-2,-2
+hero of time,pikmon,0,-2,-2
+odds,boiko,1,-2,-2
+baconpancakes,uncle mojo,0,-2,-2
+mr.pickle,dizzy,0,-2,-2
+stereokidd,captain birdman,0,-2,-2
+hyperflame,shokio,0,-2,-2
+bobby frizz,drinkingfood,0,-2,-2
+hero of time,boiko,0,-2,-2
+baconpancakes,mr.pickle,0,-2,-2
+stereokidd,hyperflame,1,-2,-2
+luck,bobby frizz,0,-2,-2
+machiavelli,hero of time,0,-2,-2
+strong bad,baconpancakes,0,-2,-2
+blue,hyperflame,1,-2,-2
+luck,machiavelli,1,0,3
+strong bad,hyperflame,1,2,3
+junebug,machiavelli,0,3,0
+mrlz,hyperflame,1,2,3
+junebug,hyperflame,0,3,2
+lunchables,junebug,0,3,2

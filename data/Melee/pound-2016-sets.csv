@@ -1,0 +1,8 @@
+P1,P2,set winner,P1Score,P2Score
+team fox,team peach,0,-2,-2
+team samus,team marth,0,-2,-2
+team falco,team jigglypuff,1,-2,-2
+team ice climbers,team captain falcon,1,-2,-2
+team fox,team samus,0,-2,-2
+team jigglypuff,team captain falcon,1,-2,-2
+team fox,team captain falcon,0,-2,-2

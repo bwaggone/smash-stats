@@ -1,0 +1,453 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+eddy,light,gorull,whidah,0,2,0
+yoren,scarhi,ander,pilot,0,2,0
+hazemoky,lian,ho,g~p,1,0,2
+forre,jebu,calmaty,lackluster,0,2,0
+adom,silentgodot,ayoub,lavlis,1,0,2
+eddy,light,ander,pilot,0,2,0
+gorull,whidah,ho,g~p,1,0,2
+yoren,scarhi,calmaty,lackluster,0,2,0
+hazemoky,lian,ayoub,lavlis,1,1,2
+forre,jebu,adom,silentgodot,0,2,0
+eddy,light,ho,g~p,0,2,0
+ander,pilot,calmaty,lackluster,0,2,1
+gorull,whidah,ayoub,lavlis,1,0,2
+yoren,scarhi,adom,silentgodot,0,2,0
+hazemoky,lian,forre,jebu,0,2,0
+eddy,light,calmaty,lackluster,0,2,0
+ho,g~p,ayoub,lavlis,0,2,0
+ander,pilot,adom,silentgodot,1,0,2
+gorull,whidah,forre,jebu,1,0,2
+yoren,scarhi,hazemoky,lian,1,1,2
+eddy,light,ayoub,lavlis,0,2,0
+calmaty,lackluster,adom,silentgodot,1,0,2
+ho,g~p,forre,jebu,0,2,1
+ander,pilot,hazemoky,lian,1,0,2
+gorull,whidah,yoren,scarhi,1,0,2
+eddy,light,adom,silentgodot,0,2,0
+ayoub,lavlis,forre,jebu,0,2,0
+calmaty,lackluster,hazemoky,lian,1,0,2
+ho,g~p,yoren,scarhi,1,0,2
+ander,pilot,gorull,whidah,0,2,0
+eddy,light,forre,jebu,0,2,0
+adom,silentgodot,hazemoky,lian,1,0,2
+ayoub,lavlis,yoren,scarhi,1,0,2
+calmaty,lackluster,gorull,whidah,0,2,0
+ho,g~p,ander,pilot,0,2,0
+eddy,light,hazemoky,lian,0,2,0
+forre,jebu,yoren,scarhi,1,0,2
+adom,silentgodot,gorull,whidah,0,2,0
+ayoub,lavlis,ander,pilot,0,2,0
+calmaty,lackluster,ho,g~p,1,0,2
+eddy,light,yoren,scarhi,0,2,0
+hazemoky,lian,gorull,whidah,0,2,0
+forre,jebu,ander,pilot,0,2,0
+adom,silentgodot,ho,g~p,1,0,2
+ayoub,lavlis,calmaty,lackluster,0,2,0
+el_bardo,robo~luigi,poli,oak,0,2,0
+loota,heru-d4-k1ng,b~little,air,0,2,0
+dune,skippo,hjältman,c-h,0,2,0
+ansou,9volt,yee,flamjam,1,0,2
+kanaribird,jibbmil,lordofrocks,saigono,0,-2,-2
+mvd,esam,poli,oak,0,2,0
+el_bardo,robo~luigi,hjältman,c-h,0,2,0
+loota,heru-d4-k1ng,yee,flamjam,0,2,0
+dune,skippo,lordofrocks,saigono,0,-2,-2
+ansou,9volt,kanaribird,jibbmil,1,0,2
+mvd,esam,b~little,air,0,2,0
+poli,oak,hjältman,c-h,0,2,0
+el_bardo,robo~luigi,lordofrocks,saigono,0,-2,-2
+loota,heru-d4-k1ng,kanaribird,jibbmil,0,2,0
+dune,skippo,ansou,9volt,0,2,0
+mvd,esam,hjältman,c-h,0,2,0
+b~little,air,yee,flamjam,0,2,1
+poli,oak,lordofrocks,saigono,0,-2,-2
+el_bardo,robo~luigi,ansou,9volt,0,2,0
+loota,heru-d4-k1ng,dune,skippo,0,2,0
+mvd,esam,yee,flamjam,0,2,0
+hjältman,c-h,lordofrocks,saigono,0,-2,-2
+b~little,air,kanaribird,jibbmil,1,0,2
+poli,oak,ansou,9volt,0,2,1
+el_bardo,robo~luigi,loota,heru-d4-k1ng,0,2,0
+mvd,esam,lordofrocks,saigono,0,-2,-2
+yee,flamjam,kanaribird,jibbmil,1,1,2
+hjältman,c-h,ansou,9volt,0,2,1
+b~little,air,dune,skippo,1,0,2
+poli,oak,loota,heru-d4-k1ng,1,1,2
+mvd,esam,kanaribird,jibbmil,0,2,0
+lordofrocks,saigono,ansou,9volt,0,-2,-2
+yee,flamjam,dune,skippo,1,0,2
+hjältman,c-h,loota,heru-d4-k1ng,1,0,2
+b~little,air,el_bardo,robo~luigi,1,0,2
+mvd,esam,ansou,9volt,0,2,0
+kanaribird,jibbmil,dune,skippo,1,0,2
+lordofrocks,saigono,loota,heru-d4-k1ng,0,-2,-2
+yee,flamjam,el_bardo,robo~luigi,1,0,2
+b~little,air,poli,oak,1,0,2
+mvd,esam,dune,skippo,0,2,0
+ansou,9volt,loota,heru-d4-k1ng,1,1,2
+kanaribird,jibbmil,el_bardo,robo~luigi,1,0,2
+yee,flamjam,poli,oak,1,0,2
+hjältman,c-h,b~little,air,0,2,1
+mvd,esam,loota,heru-d4-k1ng,0,2,0
+dune,skippo,el_bardo,robo~luigi,1,0,2
+kanaribird,jibbmil,poli,oak,1,0,2
+lordofrocks,saigono,b~little,air,0,-2,-2
+yee,flamjam,hjältman,c-h,0,2,0
+mvd,esam,el_bardo,robo~luigi,0,2,0
+dune,skippo,poli,oak,0,2,0
+ansou,9volt,b~little,air,0,2,1
+kanaribird,jibbmil,hjältman,c-h,0,2,1
+lordofrocks,saigono,yee,flamjam,0,-2,-2
+luigi player,vyq,buspappan,knug,0,2,0
+paoz,enki,bowie,silentdoom,0,2,0
+deo,alias,whiny,logisticuz,0,2,0
+boomuki,cyfersquad,gijsbeer,nesstea,0,2,0
+duffcity,shadowclaw,karvaperse666,rush,0,2,0
+luigi player,vyq,bowie,silentdoom,0,2,0
+buspappan,knug,whiny,logisticuz,0,2,0
+paoz,enki,gijsbeer,nesstea,0,2,0
+deo,alias,karvaperse666,rush,0,2,0
+boomuki,cyfersquad,duffcity,shadowclaw,0,2,0
+luigi player,vyq,whiny,logisticuz,0,2,0
+bowie,silentdoom,gijsbeer,nesstea,1,0,2
+buspappan,knug,karvaperse666,rush,0,2,0
+paoz,enki,duffcity,shadowclaw,0,2,0
+deo,alias,boomuki,cyfersquad,1,1,2
+luigi player,vyq,gijsbeer,nesstea,0,2,0
+whiny,logisticuz,karvaperse666,rush,0,2,1
+bowie,silentdoom,duffcity,shadowclaw,0,2,0
+buspappan,knug,boomuki,cyfersquad,1,0,2
+paoz,enki,deo,alias,0,2,0
+luigi player,vyq,karvaperse666,rush,0,2,0
+gijsbeer,nesstea,duffcity,shadowclaw,0,2,0
+whiny,logisticuz,boomuki,cyfersquad,1,0,2
+bowie,silentdoom,deo,alias,1,1,2
+buspappan,knug,paoz,enki,1,0,2
+luigi player,vyq,duffcity,shadowclaw,0,2,0
+karvaperse666,rush,boomuki,cyfersquad,1,0,2
+gijsbeer,nesstea,deo,alias,1,0,2
+whiny,logisticuz,paoz,enki,1,0,2
+bowie,silentdoom,buspappan,knug,0,2,1
+luigi player,vyq,boomuki,cyfersquad,0,2,0
+duffcity,shadowclaw,deo,alias,1,0,2
+karvaperse666,rush,paoz,enki,1,0,2
+gijsbeer,nesstea,buspappan,knug,0,2,0
+whiny,logisticuz,bowie,silentdoom,1,0,2
+luigi player,vyq,deo,alias,0,2,0
+boomuki,cyfersquad,paoz,enki,1,0,2
+duffcity,shadowclaw,buspappan,knug,1,0,2
+karvaperse666,rush,bowie,silentdoom,1,0,2
+gijsbeer,nesstea,whiny,logisticuz,0,2,1
+luigi player,vyq,paoz,enki,0,2,0
+deo,alias,buspappan,knug,0,2,0
+boomuki,cyfersquad,bowie,silentdoom,0,2,1
+duffcity,shadowclaw,whiny,logisticuz,0,2,0
+karvaperse666,rush,gijsbeer,nesstea,1,0,2
+cyve,mr.r,ed|wilksy15,hawxx is rippin,0,2,0
+izaw,smashsk,makec,whasslightyear,0,0,-1
+el_pitikla,joseluisasdfg,jesteros,giannis,0,2,0
+kesa,marm',comical,parablegreg,1,0,2
+chard,bollefar,bonushat,pride,0,0,-1
+cyve,mr.r,makec,whasslightyear,0,0,-1
+ed|wilksy15,hawxx is rippin,jesteros,giannis,0,2,0
+izaw,smashsk,comical,parablegreg,0,2,0
+el_pitikla,joseluisasdfg,bonushat,pride,0,0,-1
+kesa,marm',chard,bollefar,0,2,0
+cyve,mr.r,jesteros,giannis,0,2,0
+makec,whasslightyear,comical,parablegreg,1,-1,0
+ed|wilksy15,hawxx is rippin,bonushat,pride,0,0,-1
+izaw,smashsk,chard,bollefar,0,2,0
+el_pitikla,joseluisasdfg,kesa,marm',1,1,2
+cyve,mr.r,comical,parablegreg,0,2,0
+jesteros,giannis,bonushat,pride,0,0,-1
+makec,whasslightyear,chard,bollefar,1,-1,0
+ed|wilksy15,hawxx is rippin,kesa,marm',1,0,2
+izaw,smashsk,el_pitikla,joseluisasdfg,0,2,0
+cyve,mr.r,bonushat,pride,0,0,-1
+comical,parablegreg,chard,bollefar,0,2,1
+jesteros,giannis,kesa,marm',1,0,2
+makec,whasslightyear,el_pitikla,joseluisasdfg,1,-1,0
+ed|wilksy15,hawxx is rippin,izaw,smashsk,1,0,2
+cyve,mr.r,chard,bollefar,0,2,0
+bonushat,pride,kesa,marm',1,-1,0
+comical,parablegreg,el_pitikla,joseluisasdfg,0,2,1
+jesteros,giannis,izaw,smashsk,1,0,2
+makec,whasslightyear,ed|wilksy15,hawxx is rippin,1,-1,0
+cyve,mr.r,kesa,marm',0,2,0
+chard,bollefar,el_pitikla,joseluisasdfg,0,2,1
+bonushat,pride,izaw,smashsk,1,-1,0
+comical,parablegreg,ed|wilksy15,hawxx is rippin,1,0,2
+jesteros,giannis,makec,whasslightyear,0,0,-1
+cyve,mr.r,el_pitikla,joseluisasdfg,0,2,1
+kesa,marm',izaw,smashsk,1,1,2
+chard,bollefar,ed|wilksy15,hawxx is rippin,1,0,2
+bonushat,pride,makec,whasslightyear,1,-1,0
+comical,parablegreg,jesteros,giannis,0,2,0
+cyve,mr.r,izaw,smashsk,0,2,0
+el_pitikla,joseluisasdfg,ed|wilksy15,hawxx is rippin,0,2,0
+kesa,marm',makec,whasslightyear,1,-1,0
+chard,bollefar,jesteros,giannis,0,2,0
+bonushat,pride,comical,parablegreg,1,-1,0
+xzx,ccst,plastic poptart,kibzu~,0,2,1
+miguel,slime,fluffysheeps,pikamaxi,0,2,1
+orchard,sak,ulf,riksto,1,-2,-2
+hattie,micklebarrow,yojimbo,lufos,1,-2,-2
+ninpowa,deff,scrm,kweet,1,-2,-2
+max ketchum,sl himura,plastic poptart,kibzu~,0,-2,-2
+xzx,ccst,ulf,riksto,0,-2,-2
+miguel,slime,yojimbo,lufos,0,-2,-2
+orchard,sak,scrm,kweet,1,-2,-2
+hattie,micklebarrow,ninpowa,deff,1,-2,-2
+max ketchum,sl himura,fluffysheeps,pikamaxi,0,-2,-2
+plastic poptart,kibzu~,ulf,riksto,0,2,0
+xzx,ccst,scrm,kweet,0,-2,-2
+miguel,slime,ninpowa,deff,0,-2,-2
+orchard,sak,hattie,micklebarrow,1,-2,-2
+max ketchum,sl himura,ulf,riksto,0,-2,-2
+fluffysheeps,pikamaxi,yojimbo,lufos,0,2,0
+plastic poptart,kibzu~,scrm,kweet,1,1,2
+xzx,ccst,hattie,micklebarrow,0,-2,-2
+miguel,slime,orchard,sak,0,-2,-2
+max ketchum,sl himura,yojimbo,lufos,0,-2,-2
+ulf,riksto,scrm,kweet,0,2,0
+fluffysheeps,pikamaxi,ninpowa,deff,0,-2,-2
+plastic poptart,kibzu~,hattie,micklebarrow,0,-2,-2
+xzx,ccst,miguel,slime,0,-2,-2
+max ketchum,sl himura,scrm,kweet,0,-2,-2
+yojimbo,lufos,ninpowa,deff,0,-2,-2
+ulf,riksto,hattie,micklebarrow,0,-2,-2
+fluffysheeps,pikamaxi,orchard,sak,0,-2,-2
+plastic poptart,kibzu~,miguel,slime,1,1,2
+max ketchum,sl himura,ninpowa,deff,0,-2,-2
+scrm,kweet,hattie,micklebarrow,0,-2,-2
+yojimbo,lufos,orchard,sak,0,-2,-2
+ulf,riksto,miguel,slime,1,-2,-2
+fluffysheeps,pikamaxi,xzx,ccst,1,-2,-2
+max ketchum,sl himura,hattie,micklebarrow,0,-2,-2
+ninpowa,deff,orchard,sak,0,-2,-2
+scrm,kweet,miguel,slime,0,-2,-2
+yojimbo,lufos,xzx,ccst,1,-2,-2
+fluffysheeps,pikamaxi,plastic poptart,kibzu~,1,-2,-2
+max ketchum,sl himura,orchard,sak,0,-2,-2
+hattie,micklebarrow,miguel,slime,1,-2,-2
+ninpowa,deff,xzx,ccst,1,-2,-2
+yojimbo,lufos,plastic poptart,kibzu~,1,0,2
+ulf,riksto,fluffysheeps,pikamaxi,1,1,2
+max ketchum,sl himura,miguel,slime,0,-2,-2
+orchard,sak,xzx,ccst,1,-2,-2
+ninpowa,deff,plastic poptart,kibzu~,1,-2,-2
+scrm,kweet,fluffysheeps,pikamaxi,0,2,0
+yojimbo,lufos,ulf,riksto,0,2,0
+max ketchum,sl himura,xzx,ccst,1,-2,-2
+orchard,sak,plastic poptart,kibzu~,1,-2,-2
+hattie,micklebarrow,fluffysheeps,pikamaxi,1,-2,-2
+ninpowa,deff,ulf,riksto,1,1,2
+scrm,kweet,yojimbo,lufos,0,2,0
+wittmarch,loveandtolerance,gardex,whoophee,1,0,2
+wittmarch,loveandtolerance,meru,soreru,1,0,2
+wittmarch,loveandtolerance,queen,pq-formeln,0,2,1
+wittmarch,loveandtolerance,combox,warheart,1,0,2
+evilized,jenzo,wittmarch,loveandtolerance,0,2,0
+evilized,jenzo,gardex,whoophee,1,0,2
+evilized,jenzo,meru,soreru,1,0,2
+evilized,jenzo,combox,warheart,1,1,2
+gardex,whoophee,queen,pq-formeln,0,2,0
+gardex,whoophee,cyanide,cfive,1,1,2
+gardex,whoophee,rules,mp2,0,2,0
+gardex,whoophee,8va,schilt,0,2,1
+meru,soreru,gardex,whoophee,1,0,2
+meru,soreru,queen,pq-formeln,0,2,0
+meru,soreru,rules,mp2,0,2,0
+meru,soreru,8va,schilt,0,2,0
+queen,pq-formeln,evilized,jenzo,1,1,2
+queen,pq-formeln,cyanide,cfive,1,0,2
+queen,pq-formeln,rules,mp2,0,2,1
+queen,pq-formeln,8va,schilt,1,0,2
+cyanide,cfive,wittmarch,loveandtolerance,0,2,1
+cyanide,cfive,evilized,jenzo,0,2,0
+cyanide,cfive,meru,soreru,1,0,2
+cyanide,cfive,combox,warheart,0,2,0
+rules,mp2,wittmarch,loveandtolerance,1,1,2
+rules,mp2,evilized,jenzo,1,1,2
+rules,mp2,cyanide,cfive,1,0,2
+rules,mp2,8va,schilt,1,0,2
+combox,warheart,gardex,whoophee,1,0,2
+combox,warheart,meru,soreru,0,2,1
+combox,warheart,queen,pq-formeln,0,2,0
+combox,warheart,rules,mp2,0,2,0
+anaky,j.miller,wittmarch,loveandtolerance,0,2,0
+anaky,j.miller,evilized,jenzo,0,2,0
+anaky,j.miller,gardex,whoophee,0,2,0
+anaky,j.miller,meru,soreru,1,0,2
+anaky,j.miller,queen,pq-formeln,0,2,0
+anaky,j.miller,cyanide,cfive,0,2,0
+anaky,j.miller,rules,mp2,0,2,0
+anaky,j.miller,combox,warheart,0,2,0
+anaky,j.miller,8va,schilt,0,2,0
+8va,schilt,wittmarch,loveandtolerance,0,2,1
+8va,schilt,evilized,jenzo,0,2,1
+8va,schilt,cyanide,cfive,1,0,2
+8va,schilt,combox,warheart,0,2,1
+pikaforlife,s1-14,patte,raggebe,0,2,0
+greward,yikarur,nives,taitsu,0,2,0
+zudenka,starkorn,m,danzeh,1,1,2
+trax,otek,afro smash,bulby,0,2,0
+greengoblin (gg),bambi,clade,easzy,1,0,2
+pikaforlife,s1-14,nives,taitsu,0,2,0
+patte,raggebe,m,danzeh,1,0,2
+greward,yikarur,afro smash,bulby,0,2,0
+zudenka,starkorn,clade,easzy,1,0,2
+trax,otek,greengoblin (gg),bambi,0,2,0
+pikaforlife,s1-14,m,danzeh,0,2,0
+nives,taitsu,afro smash,bulby,1,0,2
+patte,raggebe,clade,easzy,1,0,2
+greward,yikarur,greengoblin (gg),bambi,0,2,0
+zudenka,starkorn,trax,otek,0,2,0
+pikaforlife,s1-14,afro smash,bulby,0,2,0
+m,danzeh,clade,easzy,0,2,0
+nives,taitsu,greengoblin (gg),bambi,0,2,1
+patte,raggebe,trax,otek,1,0,2
+greward,yikarur,zudenka,starkorn,0,2,0
+pikaforlife,s1-14,clade,easzy,1,1,2
+afro smash,bulby,greengoblin (gg),bambi,0,2,1
+m,danzeh,trax,otek,0,2,0
+nives,taitsu,zudenka,starkorn,1,1,2
+patte,raggebe,greward,yikarur,1,0,2
+pikaforlife,s1-14,greengoblin (gg),bambi,0,2,0
+clade,easzy,trax,otek,0,2,1
+afro smash,bulby,zudenka,starkorn,1,1,2
+m,danzeh,greward,yikarur,1,0,2
+nives,taitsu,patte,raggebe,0,2,0
+pikaforlife,s1-14,trax,otek,1,1,2
+greengoblin (gg),bambi,zudenka,starkorn,1,0,2
+clade,easzy,greward,yikarur,0,2,1
+afro smash,bulby,patte,raggebe,0,2,0
+m,danzeh,nives,taitsu,0,2,0
+pikaforlife,s1-14,zudenka,starkorn,0,2,1
+trax,otek,greward,yikarur,0,2,0
+greengoblin (gg),bambi,patte,raggebe,0,2,0
+clade,easzy,nives,taitsu,1,1,2
+afro smash,bulby,m,danzeh,0,2,1
+pikaforlife,s1-14,greward,yikarur,0,2,1
+zudenka,starkorn,patte,raggebe,0,2,0
+trax,otek,nives,taitsu,0,2,0
+greengoblin (gg),bambi,m,danzeh,1,0,2
+clade,easzy,afro smash,bulby,0,2,0
+gregs,istudying,smothief,dax,0,2,0
+vurky,samura1man,fiiso,rockyjay,0,0,-1
+skarfelt,eoe,spyroul,smrfndorf,1,-1,0
+waluigilicious,smashbound,burd,pon,0,0,-1
+vreyvus,maris,snasen,bryggiz,1,-1,0
+sodrek,long0uw,smothief,dax,0,2,0
+gregs,istudying,spyroul,smrfndorf,0,2,0
+vurky,samura1man,burd,pon,0,0,-1
+skarfelt,eoe,snasen,bryggiz,1,-1,0
+waluigilicious,smashbound,vreyvus,maris,0,0,-1
+sodrek,long0uw,fiiso,rockyjay,0,0,-1
+smothief,dax,spyroul,smrfndorf,1,0,2
+gregs,istudying,snasen,bryggiz,0,2,0
+vurky,samura1man,vreyvus,maris,0,2,0
+skarfelt,eoe,waluigilicious,smashbound,1,-1,0
+sodrek,long0uw,spyroul,smrfndorf,0,2,0
+fiiso,rockyjay,burd,pon,1,-1,0
+smothief,dax,snasen,bryggiz,1,0,2
+gregs,istudying,waluigilicious,smashbound,0,2,0
+vurky,samura1man,skarfelt,eoe,0,0,-1
+sodrek,long0uw,burd,pon,0,0,-1
+spyroul,smrfndorf,snasen,bryggiz,1,0,2
+fiiso,rockyjay,vreyvus,maris,1,-1,0
+smothief,dax,waluigilicious,smashbound,1,0,2
+gregs,istudying,vurky,samura1man,0,2,0
+sodrek,long0uw,snasen,bryggiz,0,2,0
+burd,pon,vreyvus,maris,1,-1,0
+spyroul,smrfndorf,waluigilicious,smashbound,0,2,1
+fiiso,rockyjay,skarfelt,eoe,1,-1,0
+smothief,dax,vurky,samura1man,1,0,2
+sodrek,long0uw,vreyvus,maris,0,2,0
+snasen,bryggiz,waluigilicious,smashbound,0,2,1
+burd,pon,skarfelt,eoe,1,-1,0
+spyroul,smrfndorf,vurky,samura1man,1,0,2
+fiiso,rockyjay,gregs,istudying,1,-1,0
+sodrek,long0uw,waluigilicious,smashbound,0,2,0
+vreyvus,maris,skarfelt,eoe,0,0,-1
+snasen,bryggiz,vurky,samura1man,1,0,2
+burd,pon,gregs,istudying,1,-1,0
+fiiso,rockyjay,smothief,dax,1,-1,0
+sodrek,long0uw,skarfelt,eoe,0,0,-1
+waluigilicious,smashbound,vurky,samura1man,1,0,2
+vreyvus,maris,gregs,istudying,1,0,2
+burd,pon,smothief,dax,1,-1,0
+spyroul,smrfndorf,fiiso,rockyjay,0,0,-1
+sodrek,long0uw,vurky,samura1man,0,2,0
+skarfelt,eoe,gregs,istudying,1,0,2
+vreyvus,maris,smothief,dax,1,-1,0
+snasen,bryggiz,fiiso,rockyjay,0,0,-1
+burd,pon,spyroul,smrfndorf,1,-1,0
+sodrek,long0uw,gregs,istudying,1,1,2
+skarfelt,eoe,smothief,dax,1,-1,0
+waluigilicious,smashbound,fiiso,rockyjay,0,0,-1
+vreyvus,maris,spyroul,smrfndorf,1,-1,0
+snasen,bryggiz,burd,pon,0,0,-1
+eddy,light,miguel,slime,0,2,0
+izaw,smashsk,vurky,samura1man,0,2,0
+pikaforlife,s1-14,deo,alias,0,2,0
+meru,soreru,loota,heru-d4-k1ng,0,2,1
+mvd,esam,hazemoky,lian,0,2,0
+paoz,enki,greward,yikarur,1,1,2
+gregs,istudying,kesa,marm',0,2,0
+max ketchum,sl himura,ho,g~p,1,1,2
+luigi player,vyq,m,danzeh,0,2,0
+el_bardo,robo~luigi,gardex,whoophee,1,0,2
+xzx,ccst,cyanide,cfive,0,2,0
+sodrek,long0uw,comical,parablegreg,0,2,0
+cyve,mr.r,snasen,bryggiz,0,2,0
+yoren,scarhi,scrm,kweet,0,2,1
+anaky,j.miller,dune,skippo,0,2,0
+clade,easzy,boomuki,cyfersquad,1,1,2
+eddy,light,izaw,smashsk,1,0,2
+pikaforlife,s1-14,meru,soreru,0,2,0
+mvd,esam,greward,yikarur,0,2,0
+gregs,istudying,ho,g~p,0,2,0
+luigi player,vyq,gardex,whoophee,0,2,0
+xzx,ccst,sodrek,long0uw,1,0,2
+cyve,mr.r,yoren,scarhi,0,2,0
+anaky,j.miller,boomuki,cyfersquad,0,2,0
+izaw,smashsk,pikaforlife,s1-14,1,0,2
+mvd,esam,gregs,istudying,0,2,0
+luigi player,vyq,sodrek,long0uw,0,2,1
+cyve,mr.r,anaky,j.miller,0,2,0
+pikaforlife,s1-14,mvd,esam,1,1,2
+luigi player,vyq,cyve,mr.r,1,0,2
+mvd,esam,cyve,mr.r,0,3,0
+mvd,esam,cyve,mr.r,0,3,1
+miguel,slime,vurky,samura1man,0,2,0
+deo,alias,loota,heru-d4-k1ng,0,2,1
+hazemoky,lian,paoz,enki,0,2,0
+kesa,marm',max ketchum,sl himura,0,2,0
+m,danzeh,el_bardo,robo~luigi,1,-2,-2
+cyanide,cfive,comical,parablegreg,0,2,0
+snasen,bryggiz,scrm,kweet,1,-1,0
+dune,skippo,clade,easzy,1,0,2
+boomuki,cyfersquad,miguel,slime,0,2,0
+yoren,scarhi,deo,alias,0,2,1
+xzx,ccst,hazemoky,lian,0,2,0
+gardex,whoophee,kesa,marm',1,0,2
+ho,g~p,el_bardo,robo~luigi,1,0,2
+greward,yikarur,cyanide,cfive,0,-2,-2
+meru,soreru,scrm,kweet,0,2,1
+eddy,light,clade,easzy,0,2,1
+boomuki,cyfersquad,yoren,scarhi,1,1,2
+xzx,ccst,kesa,marm',1,0,2
+el_bardo,robo~luigi,greward,yikarur,0,2,0
+meru,soreru,eddy,light,1,0,2
+gregs,istudying,yoren,scarhi,0,2,0
+izaw,smashsk,kesa,marm',0,2,0
+anaky,j.miller,el_bardo,robo~luigi,1,0,2
+sodrek,long0uw,eddy,light,0,2,1
+gregs,istudying,izaw,smashsk,0,2,0
+el_bardo,robo~luigi,sodrek,long0uw,1,0,2
+luigi player,vyq,gregs,istudying,0,2,1
+pikaforlife,s1-14,sodrek,long0uw,1,0,2
+luigi player,vyq,sodrek,long0uw,1,0,2
+cyve,mr.r,sodrek,long0uw,0,3,1

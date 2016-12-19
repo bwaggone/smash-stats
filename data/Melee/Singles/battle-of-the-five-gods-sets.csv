@@ -1,0 +1,56 @@
+P1,P2,set winner,P1Score,P2Score
+armada,hugs,0,3,0
+sfat,silent wolf,0,3,2
+armada,silent wolf,0,3,1
+hugs,sfat,0,3,2
+armada,sfat,0,3,1
+silent wolf,hugs,0,3,1
+hungrybox,wobbles,0,3,0
+shroomed,lucky,0,3,1
+hungrybox,lucky,0,3,0
+wobbles,shroomed,0,3,1
+hungrybox,shroomed,0,3,1
+lucky,wobbles,1,2,3
+mango,druggedfox,0,3,0
+axe,macd,1,0,3
+mango,macd,0,3,0
+druggedfox,axe,1,2,3
+mango,axe,0,3,2
+macd,druggedfox,1,2,3
+mew2king,nintendude,0,3,0
+plup,s2j,0,3,0
+mew2king,s2j,0,3,1
+nintendude,plup,1,0,3
+mew2king,plup,0,3,0
+s2j,nintendude,0,3,1
+ppmd,pewpewu,0,3,0
+westballz,ice,0,3,1
+ppmd,ice,0,3,1
+pewpewu,westballz,1,2,3
+ppmd,westballz,1,1,3
+ice,pewpewu,1,1,3
+plup,wobbles,1,2,3
+macd,ppmd,0,3,0
+silent wolf,wobbles,1,1,3
+plup,macd,0,3,1
+silent wolf,ppmd,0,3,1
+wobbles,macd,1,1,3
+silent wolf,macd,0,3,0
+ppmd,plup,1,1,3
+silent wolf,plup,1,2,3
+ppmd,wobbles,1,0,3
+hungrybox,silent wolf,0,3,1
+mango,westballz,1,1,3
+mew2king,plup,1,2,3
+armada,wobbles,0,3,0
+hungrybox,westballz,0,3,1
+plup,armada,1,1,3
+hungrybox,armada,0,3,0
+hungrybox,mango,1,0,3
+mango,hungrybox,1,1,3
+silent wolf,mango,1,1,3
+mew2king,wobbles,1,0,3
+plup,mango,1,1,3
+westballz,wobbles,1,1,3
+mango,wobbles,0,3,1
+armada,mango,1,2,3

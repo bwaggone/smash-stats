@@ -1,0 +1,351 @@
+P1,P2,set winner,P1Score,P2Score
+zeppx,femto,1,-2,-2
+sausage948,skarfelt,1,-2,-2
+armada,femto,1,-1,0
+krax,scarhi,0,-2,-2
+silentdoom,skarfelt,0,-2,-2
+omadon,rules,0,-2,-2
+femto,krax,0,-2,-2
+silentdoom,omadon,0,-2,-2
+femto,silentdoom,1,-2,-2
+silentdoom,femto,0,-2,-2
+rules,zeppx,0,-2,-2
+scarhi,sausage948,1,-2,-2
+rules,skarfelt,1,-2,-2
+sausage948,armada,0,0,-1
+krax,skarfelt,1,-2,-2
+omadon,sausage948,0,-2,-2
+skarfelt,omadon,0,-2,-2
+femto,skarfelt,0,-2,-2
+hacksugar,tet,0,-2,-2
+rikkel,heketzu,0,-2,-2
+eagle,hacksugar,0,-2,-2
+duckslayer,scarb,0,-2,-2
+taka,rikkel,1,-2,-2
+schmep,shais young,0,-2,-2
+eagle,duckslayer,0,-2,-2
+rikkel,schmep,0,-2,-2
+eagle,rikkel,0,-2,-2
+eagle,rikkel,0,-2,-2
+shais young,tet,0,-2,-2
+scarb,heketzu,1,-2,-2
+shais young,taka,1,-2,-2
+heketzu,hacksugar,1,-2,-2
+duckslayer,taka,1,-2,-2
+schmep,hacksugar,0,-2,-2
+taka,schmep,0,-2,-2
+rikkel,taka,0,-2,-2
+endofstory,sixten,0,0,-1
+sebovich,call_of_cow,0,-2,-2
+alpha dash,endofstory,0,-2,-2
+chobos,johsyjam,1,-2,-2
+timemuffinphd,sebovich,0,-2,-2
+loz,flippy,0,0,-1
+alpha dash,johsyjam,0,-2,-2
+timemuffinphd,loz,0,-2,-2
+alpha dash,timemuffinphd,0,-2,-2
+alpha dash,timemuffinphd,0,-2,-2
+flippy,sixten,1,-1,0
+chobos,call_of_cow,0,-2,-2
+sixten,sebovich,1,-1,0
+chobos,endofstory,0,-2,-2
+johsyjam,sebovich,0,-2,-2
+loz,chobos,0,-2,-2
+johsyjam,loz,0,-2,-2
+timemuffinphd,johsyjam,0,-2,-2
+[ngp]poilu,blue,0,-2,-2
+dan soup,darentei,0,0,-1
+timi,[ngp]poilu,0,-2,-2
+krus,gamblah,0,0,-1
+johnkorv,dan soup,0,-2,-2
+wiiase,ken allen tang,0,0,-1
+timi,krus,0,0,-1
+johnkorv,wiiase,0,0,-1
+timi,johnkorv,0,-2,-2
+timi,[ngp]poilu,0,-2,-2
+ken allen tang,blue,1,-1,0
+gamblah,darentei,0,0,-1
+blue,dan soup,0,-2,-2
+gamblah,[ngp]poilu,1,-1,0
+krus,blue,1,-1,0
+wiiase,[ngp]poilu,1,-1,0
+blue,[ngp]poilu,1,-2,-2
+johnkorv,[ngp]poilu,1,-2,-2
+hest,tonymalone,1,-2,-2
+moosie,king robin,1,-2,-2
+fuzzyness,tonymalone,0,-2,-2
+tophatpat,whidah,1,-2,-2
+dcj,king robin,1,-1,0
+bësti,patsheezy,0,-2,-2
+fuzzyness,whidah,0,-2,-2
+king robin,bësti,1,-2,-2
+fuzzyness,bësti,0,-2,-2
+fuzzyness,bësti,0,-2,-2
+patsheezy,hest,0,-2,-2
+tophatpat,moosie,0,-2,-2
+patsheezy,dcj,0,0,-1
+tophatpat,tonymalone,0,-2,-2
+whidah,patsheezy,1,-2,-2
+king robin,tophatpat,1,-2,-2
+patsheezy,tophatpat,1,-2,-2
+bësti,tophatpat,0,-2,-2
+yojimbo,gorull,1,-2,-2
+dannyy,maxsimon123,0,-2,-2
+willz,gorull,0,-2,-2
+zee,paoz,0,-2,-2
+blayd,dannyy,0,2,0
+socks,diggerty10,0,2,0
+willz,zee,0,-2,-2
+blayd,socks,0,2,0
+willz,blayd,0,2,0
+willz,blayd,0,-2,-2
+diggerty10,yojimbo,0,-2,-2
+paoz,maxsimon123,0,-2,-2
+diggerty10,dannyy,1,-2,-2
+paoz,gorull,1,-2,-2
+zee,dannyy,1,-2,-2
+socks,gorull,1,-2,-2
+dannyy,gorull,1,-2,-2
+blayd,gorull,0,-2,-2
+puttep,fuseless,0,0,-1
+2ddj,sukou,0,0,-1
+abate,puttep,0,0,-1
+jonas,quasi,0,0,-1
+blaze,2ddj,0,-2,-2
+gale,madman3,1,-1,0
+abate,jonas,0,0,-1
+blaze,madman3,0,2,0
+abate,blaze,0,-2,-2
+abate,blaze,0,-2,-2
+gale,fuseless,0,0,-1
+quasi,sukou,0,0,-1
+gale,2ddj,1,-1,0
+quasi,puttep,0,0,-1
+jonas,2ddj,1,-1,0
+madman3,quasi,0,0,-1
+2ddj,madman3,1,0,2
+blaze,madman3,0,2,1
+tenwa,mo,1,-2,-2
+kev,hyhy,0,-2,-2
+*zen,mo,0,-2,-2
+rbm,pon,1,-2,-2
+prosmashertim,kev,0,-2,-2
+skippo,g3,0,-2,-2
+*zen,pon,0,-2,-2
+prosmashertim,skippo,0,-2,-2
+*zen,prosmashertim,0,-2,-2
+*zen,prosmashertim,0,-2,-2
+g3,tenwa,1,-2,-2
+rbm,hyhy,1,-2,-2
+tenwa,kev,1,-2,-2
+hyhy,mo,1,-2,-2
+pon,kev,1,-2,-2
+skippo,mo,1,-2,-2
+kev,mo,0,-2,-2
+prosmashertim,kev,0,-2,-2
+pj,mp2,0,-2,-2
+northstar,mm720,1,-1,0
+professor pro,pj,0,-2,-2
+brail_l2k,maxy,1,-1,0
+frenzy,mm720,0,-2,-2
+joanna dark,nefe,0,0,-1
+professor pro,maxy,0,-2,-2
+frenzy,joanna dark,0,0,-1
+professor pro,frenzy,0,-2,-2
+professor pro,maxy,0,-2,-2
+nefe,mp2,1,-1,0
+brail_l2k,northstar,0,0,-1
+mp2,mm720,0,-2,-2
+brail_l2k,pj,1,-1,0
+maxy,mp2,0,-2,-2
+joanna dark,pj,1,-1,0
+maxy,pj,0,-2,-2
+frenzy,maxy,1,-2,-2
+dyne,moose,1,-1,0
+nomickok,herr råbob,0,-2,-2
+mahie,moose,0,-2,-2
+xardov,duni,0,0,-1
+diabound,nomickok,0,-2,-2
+bloodbowler,mental,0,-2,-2
+mahie,xardov,0,-2,-2
+diabound,bloodbowler,0,-2,-2
+mahie,diabound,0,-2,-2
+mahie,diabound,0,-2,-2
+mental,dyne,0,0,-1
+duni,herr råbob,1,-1,0
+mental,nomickok,1,-2,-2
+herr råbob,moose,0,-2,-2
+xardov,nomickok,0,-2,-2
+bloodbowler,herr råbob,0,-2,-2
+xardov,bloodbowler,1,-2,-2
+diabound,bloodbowler,0,-2,-2
+tobbeh99,midgeet,1,-2,-2
+hufsa,bakkestaffen,0,0,-1
+phade,hufsa,0,-2,-2
+phade,peanutz996,0,-2,-2
+vilness,midgeet,0,-2,-2
+vilness,phade,0,-2,-2
+vilness,phade,0,-2,-2
+ac_anon,phade,1,-2,-2
+ac_anon,peanutz996,0,-2,-2
+ac_anon,téabone,0,-2,-2
+can~d,hufsa,0,-2,-2
+can~d,vilness,0,-2,-2
+can~d,vilness,0,-2,-2
+can~d,ac_anon,0,-2,-2
+peanutz996,midgeet,0,-2,-2
+peanutz996,bakkestaffen,0,0,-1
+téabone,tobbeh99,0,0,-1
+téabone,hufsa,1,-2,-2
+halogen,lolex,0,-2,-2
+rush,9volt,0,-2,-2
+reaper,halogen,0,-2,-2
+tariqdx,wingie,0,-2,-2
+bapmoney,rush,0,-2,-2
+theredsock,amishcatfish,0,-2,-2
+reaper,tariqdx,0,-2,-2
+bapmoney,theredsock,0,-2,-2
+reaper,bapmoney,0,-2,-2
+reaper,bapmoney,0,-2,-2
+amishcatfish,lolex,1,-1,0
+wingie,9volt,1,-1,0
+lolex,rush,1,-2,-2
+9volt,halogen,1,-2,-2
+tariqdx,rush,0,-2,-2
+theredsock,halogen,0,-2,-2
+tariqdx,theredsock,0,-2,-2
+bapmoney,tariqdx,0,-2,-2
+avatar jillian,sophie the warrior,0,-2,-2
+riksto,dw,1,-2,-2
+mr.r,avatar jillian,1,-1,0
+gustavo,helio,0,-2,-2
+draz,dw,0,-2,-2
+hylian reaper,guru,0,-2,-2
+avatar jillian,gustavo,1,-2,-2
+draz,hylian reaper,1,-2,-2
+gustavo,hylian reaper,1,-2,-2
+hylian reaper,draz,0,-2,-2
+guru,sophie the warrior,1,-2,-2
+helio,riksto,0,-2,-2
+sophie the warrior,dw,0,-2,-2
+helio,mr.r,0,-2,-2
+avatar jillian,sophie the warrior,0,-2,-2
+draz,helio,0,-2,-2
+avatar jillian,draz,1,-2,-2
+gustavo,draz,1,-2,-2
+swish,fries,0,0,-1
+bbc,trax,1,-1,0
+mikehaggarssbm,swish,0,-2,-2
+chirou,bikerknight,0,-2,-2
+charby,trax,0,-2,-2
+issi^,mr. toothbrush,1,-2,-2
+mikehaggarssbm,chirou,0,-2,-2
+charby,mr. toothbrush,0,-2,-2
+mikehaggarssbm,charby,1,-2,-2
+charby,mikehaggarssbm,0,-2,-2
+issi^,fries,0,0,-1
+bikerknight,bbc,0,0,-1
+issi^,trax,1,-1,0
+bikerknight,swish,0,-2,-2
+chirou,trax,1,-2,-2
+mr. toothbrush,bikerknight,1,-2,-2
+trax,bikerknight,0,-2,-2
+mikehaggarssbm,trax,0,-2,-2
+linney,toa,1,-2,-2
+gibby,detrumi,0,-2,-2
+trif,toa,0,-2,-2
+slime,sortie,1,-1,0
+r23,gibby,0,-2,-2
+ganz,venitas,0,-2,-2
+trif,sortie,0,-2,-2
+r23,ganz,0,-2,-2
+trif,r23,0,-2,-2
+trif,r23,0,-2,-2
+venitas,linney,0,-2,-2
+slime,detrumi,1,-1,0
+venitas,gibby,1,-2,-2
+detrumi,toa,1,-2,-2
+sortie,gibby,0,-2,-2
+ganz,toa,1,-2,-2
+sortie,toa,1,-2,-2
+r23,toa,0,-2,-2
+howie,ultimat3spaz,1,-2,-2
+pandoz,ningildo,0,0,-1
+otek,ultimat3spaz,0,-2,-2
+samio25,fredricoswe,1,-2,-2
+pricent,pandoz,1,-1,0
+calzum,play4fun,1,-2,-2
+otek,fredricoswe,0,-2,-2
+pandoz,play4fun,1,-2,-2
+otek,play4fun,0,-2,-2
+otek,calzum,0,-2,-2
+calzum,howie,0,-2,-2
+samio25,ningildo,0,0,-1
+calzum,pricent,0,0,-1
+samio25,ultimat3spaz,1,-2,-2
+fredricoswe,calzum,1,-2,-2
+pandoz,ultimat3spaz,1,-2,-2
+calzum,ultimat3spaz,0,-2,-2
+play4fun,calzum,1,-2,-2
+silentdoom,rikkel,0,0,-1
+alpha dash,[ngp]poilu,0,0,-1
+reaper,vilness,0,2,0
+mahie,maxy,0,2,0
+fuzzyness,blayd,0,2,0
+abate,prosmashertim,0,2,0
+otek,r23,0,2,0
+charby,draz,0,2,0
+professor pro,diabound,0,2,0
+can~d,bapmoney,0,2,0
+timi,timemuffinphd,0,2,0
+eagle,femto,0,2,0
+hylian reaper,mikehaggarssbm,0,2,0
+trif,calzum,0,2,0
+*zen,blaze,0,2,0
+willz,bësti,0,2,0
+silentdoom,alpha dash,1,0,2
+reaper,mahie,0,2,0
+fuzzyness,abate,1,1,2
+otek,charby,1,0,2
+professor pro,can~d,0,2,0
+timi,eagle,0,2,0
+hylian reaper,trif,1,0,2
+*zen,willz,0,2,0
+alpha dash,reaper,1,0,3
+abate,charby,0,3,0
+professor pro,timi,0,3,0
+trif,*zen,1,0,3
+reaper,abate,1,2,3
+professor pro,*zen,0,3,0
+abate,professor pro,1,0,3
+professor pro,abate,0,3,0
+rikkel,[ngp]poilu,1,0,2
+vilness,maxy,1,0,2
+blayd,prosmashertim,1,0,2
+r23,draz,0,2,0
+diabound,bapmoney,1,0,2
+timemuffinphd,femto,0,2,0
+mikehaggarssbm,calzum,0,2,0
+blaze,bësti,0,2,0
+willz,[ngp]poilu,0,2,0
+hylian reaper,maxy,1,0,2
+eagle,prosmashertim,0,2,1
+can~d,r23,0,2,1
+otek,bapmoney,0,2,0
+fuzzyness,timemuffinphd,0,2,1
+mahie,mikehaggarssbm,0,2,1
+silentdoom,blaze,1,1,2
+willz,maxy,0,2,0
+eagle,can~d,0,3,2
+otek,fuzzyness,1,0,3
+mahie,blaze,0,3,2
+charby,willz,0,3,1
+alpha dash,eagle,0,3,0
+trif,fuzzyness,1,0,3
+timi,mahie,0,3,1
+charby,alpha dash,0,3,2
+fuzzyness,timi,0,3,0
+*zen,charby,0,3,2
+reaper,fuzzyness,1,1,3
+*zen,fuzzyness,1,1,3
+abate,fuzzyness,0,3,1

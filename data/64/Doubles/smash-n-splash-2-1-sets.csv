@@ -1,0 +1,13 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+chuck lubs,qtip,instacover,miles,0,2,0
+bark the shark,meerkat,dirtcruncher,barrels,0,2,0
+saltsizzle,blahguy,facechew,toro,1,0,2
+knitephox,wizzrobe,chuck lubs,qtip,0,2,0
+bark the shark,meerkat,facechew,toro,0,2,0
+knitephox,wizzrobe,bark the shark,meerkat,0,3,0
+knitephox,wizzrobe,bark the shark,meerkat,0,3,0
+dirtcruncher,barrels,saltsizzle,blahguy,0,2,1
+facechew,toro,instacover,miles,0,2,0
+chuck lubs,qtip,dirtcruncher,barrels,0,2,1
+facechew,toro,chuck lubs,qtip,0,2,0
+bark the shark,meerkat,facechew,toro,0,3,1

@@ -1,0 +1,1824 @@
+P1,P2,set winner,P1Score,P2Score
+hungrybox,prohibition,0,2,0
+fannypack,white cinnamon,0,2,0
+lsdx,flyingmelons,0,2,0
+red sheik,tengu,0,2,1
+hungrybox,white cinnamon,0,2,0
+prohibition,flyingmelons,1,1,2
+fannypack,tengu,0,2,0
+lsdx,red sheik,0,2,1
+hungrybox,flyingmelons,0,2,0
+white cinnamon,tengu,1,0,2
+prohibition,red sheik,1,0,2
+fannypack,lsdx,1,1,2
+hungrybox,tengu,0,2,0
+flyingmelons,red sheik,1,0,2
+white cinnamon,lsdx,1,0,2
+prohibition,fannypack,1,0,2
+hungrybox,red sheik,0,2,0
+tengu,lsdx,1,0,2
+flyingmelons,fannypack,1,0,2
+white cinnamon,prohibition,0,2,1
+hungrybox,lsdx,0,2,0
+red sheik,fannypack,1,0,2
+tengu,prohibition,0,2,0
+flyingmelons,white cinnamon,1,0,2
+hungrybox,fannypack,0,2,0
+lsdx,prohibition,0,2,0
+red sheik,white cinnamon,0,2,0
+tengu,flyingmelons,0,2,0
+karson,jules,0,2,1
+rice,y3fffrsn,0,2,1
+simple,curlydave,0,2,0
+mew2king,jules,0,2,0
+karson,curlydave,0,2,0
+rice,simple,1,0,2
+mew2king,y3fffrsn,0,2,0
+jules,curlydave,1,0,2
+karson,rice,0,2,0
+mew2king,curlydave,0,2,0
+y3fffrsn,simple,1,0,2
+jules,rice,1,0,2
+mew2king,simple,0,2,0
+curlydave,rice,0,2,0
+y3fffrsn,karson,1,0,2
+mew2king,rice,0,2,0
+simple,karson,0,2,0
+y3fffrsn,jules,1,1,2
+mew2king,karson,0,2,0
+simple,jules,0,2,0
+curlydave,y3fffrsn,0,2,0
+boat,zeezy,0,2,0
+sofa king,645development,1,-1,0
+puddingpop,marionette,0,2,0
+westballz,zeezy,0,2,0
+boat,marionette,0,2,0
+sofa king,puddingpop,1,-1,0
+westballz,645development,0,2,0
+zeezy,marionette,1,1,2
+boat,sofa king,0,0,-1
+westballz,marionette,0,2,0
+645development,puddingpop,1,0,2
+zeezy,sofa king,0,0,-1
+westballz,puddingpop,0,2,0
+marionette,sofa king,0,0,-1
+645development,boat,0,2,1
+westballz,sofa king,0,0,-1
+puddingpop,boat,1,1,2
+645development,zeezy,0,2,0
+westballz,boat,0,2,1
+puddingpop,zeezy,0,2,0
+marionette,645development,1,1,2
+giogio,ppsd,0,2,0
+greenwalk,recneps,0,2,0
+stealthypanda,railz,1,0,2
+shroomed,ppsd,0,2,0
+giogio,railz,0,2,1
+greenwalk,stealthypanda,0,2,0
+shroomed,recneps,0,2,0
+ppsd,railz,1,0,2
+giogio,greenwalk,1,0,2
+shroomed,railz,0,2,0
+recneps,stealthypanda,1,1,2
+ppsd,greenwalk,1,0,2
+shroomed,stealthypanda,0,2,0
+railz,greenwalk,1,1,2
+recneps,giogio,1,0,2
+shroomed,greenwalk,0,2,0
+stealthypanda,giogio,1,1,2
+recneps,ppsd,0,2,1
+shroomed,giogio,0,2,0
+stealthypanda,ppsd,0,2,1
+railz,recneps,0,2,1
+vi,mike,1,-1,0
+goobershadow,h2o,0,2,0
+njm,cr4nb3rry,0,2,0
+sfat,mike,0,2,0
+vi,cr4nb3rry,1,-1,0
+goobershadow,njm,0,2,1
+sfat,h2o,0,2,0
+mike,cr4nb3rry,0,2,0
+vi,goobershadow,1,-1,0
+sfat,cr4nb3rry,0,2,0
+h2o,njm,0,2,0
+mike,goobershadow,0,2,0
+sfat,njm,0,2,0
+cr4nb3rry,goobershadow,1,0,2
+h2o,vi,0,0,-1
+sfat,goobershadow,0,2,0
+njm,vi,0,0,-1
+h2o,mike,1,0,2
+sfat,vi,0,0,-1
+njm,mike,1,0,2
+cr4nb3rry,h2o,1,0,2
+mrpoo,micro,0,2,1
+kuhls,tomago,0,2,0
+bdoc,dad,0,2,0
+wizzrobe,micro,0,2,0
+mrpoo,dad,1,1,2
+kuhls,bdoc,0,2,0
+wizzrobe,tomago,0,2,0
+micro,dad,1,1,2
+mrpoo,kuhls,1,0,2
+wizzrobe,dad,0,2,0
+tomago,bdoc,1,0,2
+micro,kuhls,1,0,2
+wizzrobe,bdoc,0,2,0
+dad,kuhls,1,0,2
+tomago,mrpoo,1,1,2
+wizzrobe,kuhls,0,2,0
+bdoc,mrpoo,0,2,0
+tomago,micro,1,0,2
+wizzrobe,mrpoo,0,2,0
+bdoc,micro,0,2,1
+dad,tomago,0,2,0
+spidermad,cha0s,0,2,0
+yohobojoe,xurk,1,0,2
+jeffthecheff,tusk,0,2,0
+s2j,cha0s,0,2,0
+spidermad,tusk,0,2,0
+yohobojoe,jeffthecheff,0,2,1
+s2j,xurk,0,2,0
+cha0s,tusk,1,0,2
+spidermad,yohobojoe,1,1,2
+s2j,tusk,0,2,0
+xurk,jeffthecheff,1,1,2
+cha0s,yohobojoe,1,0,2
+s2j,jeffthecheff,0,2,0
+tusk,yohobojoe,1,0,2
+xurk,spidermad,0,2,0
+s2j,yohobojoe,0,2,0
+jeffthecheff,spidermad,1,1,2
+xurk,cha0s,0,2,0
+s2j,spidermad,0,2,0
+jeffthecheff,cha0s,0,2,0
+tusk,xurk,0,2,0
+dla,zamassus,0,2,0
+camtwo,tlbs,1,-1,0
+shotzo,gold,0,0,-1
+duck,zamassus,0,2,0
+dla,gold,0,0,-1
+camtwo,shotzo,1,-1,0
+duck,tlbs,0,2,0
+zamassus,gold,0,0,-1
+dla,camtwo,0,0,-1
+duck,gold,0,0,-1
+tlbs,shotzo,1,0,2
+zamassus,camtwo,0,0,-1
+duck,shotzo,0,2,0
+gold,camtwo,0,0,-1
+tlbs,dla,1,0,2
+duck,camtwo,0,0,-1
+shotzo,dla,1,1,2
+tlbs,zamassus,1,0,2
+duck,dla,0,2,0
+shotzo,zamassus,0,2,0
+gold,tlbs,1,-1,0
+spills,nekonyancer,1,0,2
+cooran,whooie,0,2,0
+hi im mikey,canary,0,2,0
+n0ne,nekonyancer,0,2,0
+spills,canary,0,2,0
+cooran,hi im mikey,0,2,0
+n0ne,whooie,0,2,0
+nekonyancer,canary,0,2,0
+spills,cooran,1,0,2
+n0ne,canary,0,2,0
+whooie,hi im mikey,1,0,2
+nekonyancer,cooran,0,2,1
+n0ne,hi im mikey,0,2,0
+canary,cooran,1,0,2
+whooie,spills,1,0,2
+n0ne,cooran,0,2,0
+hi im mikey,spills,0,2,0
+whooie,nekonyancer,1,0,2
+n0ne,spills,0,2,0
+hi im mikey,nekonyancer,1,0,2
+canary,whooie,0,2,1
+davrob01,ddhs,0,2,0
+pleeba,bblz,0,2,0
+onehandbackhand,tapiney,1,0,2
+swedish delight,ddhs,0,2,0
+davrob01,tapiney,0,2,0
+pleeba,onehandbackhand,0,2,0
+swedish delight,bblz,0,2,0
+ddhs,tapiney,1,1,2
+davrob01,pleeba,0,2,0
+swedish delight,tapiney,0,2,0
+bblz,onehandbackhand,0,2,1
+ddhs,pleeba,1,0,2
+swedish delight,onehandbackhand,0,2,0
+tapiney,pleeba,1,0,2
+bblz,davrob01,1,0,2
+swedish delight,pleeba,0,2,0
+onehandbackhand,davrob01,1,0,2
+bblz,ddhs,0,2,1
+swedish delight,davrob01,0,2,0
+onehandbackhand,ddhs,1,1,2
+tapiney,bblz,0,2,1
+mattmog,greenbean,0,2,0
+kibbles,supermrjmt,0,2,0
+visualwatch,bk,0,2,0
+kjh,greenbean,0,2,0
+mattmog,bk,0,2,0
+kibbles,visualwatch,0,2,0
+kjh,supermrjmt,0,2,0
+greenbean,bk,0,2,0
+mattmog,kibbles,1,1,2
+kjh,bk,0,2,0
+supermrjmt,visualwatch,1,1,2
+greenbean,kibbles,1,0,2
+kjh,visualwatch,0,2,0
+bk,kibbles,1,0,2
+supermrjmt,mattmog,1,0,2
+kjh,kibbles,0,2,0
+visualwatch,mattmog,1,0,2
+supermrjmt,greenbean,0,2,0
+kjh,mattmog,0,2,0
+visualwatch,greenbean,0,2,0
+bk,supermrjmt,1,0,2
+shonic,kazehana3,0,2,0
+phobos,flyguy,0,2,0
+law,damfam,0,2,0
+kels,kazehana3,0,2,0
+shonic,damfam,0,2,0
+phobos,law,0,2,1
+kels,flyguy,0,2,0
+kazehana3,damfam,1,0,2
+shonic,phobos,0,2,0
+kels,damfam,0,2,0
+flyguy,law,1,0,2
+kazehana3,phobos,1,0,2
+kels,law,0,2,0
+damfam,phobos,1,0,2
+flyguy,shonic,1,0,2
+kels,phobos,0,2,0
+law,shonic,1,1,2
+flyguy,kazehana3,1,0,2
+kels,shonic,0,2,0
+law,kazehana3,0,2,0
+damfam,flyguy,0,2,0
+sino,raidos,1,0,2
+cube,yamsofsteel,0,0,-1
+cucco puffs,barry,0,2,0
+prince abu,raidos,0,2,0
+sino,barry,0,-2,-2
+cube,cucco puffs,1,1,2
+prince abu,yamsofsteel,0,0,-1
+raidos,barry,1,0,2
+sino,cube,0,2,0
+prince abu,barry,0,2,0
+yamsofsteel,cucco puffs,1,-1,0
+raidos,cube,1,1,2
+prince abu,cucco puffs,0,2,0
+barry,cube,0,2,0
+yamsofsteel,sino,1,-1,0
+prince abu,cube,0,2,0
+cucco puffs,sino,0,2,0
+yamsofsteel,raidos,1,-1,0
+prince abu,sino,0,2,0
+cucco puffs,raidos,0,2,0
+barry,yamsofsteel,0,0,-1
+mvzy,rada,0,2,0
+lightning,henomura,0,0,-1
+solithic,papa no johns,0,2,0
+darkatma,rada,0,2,0
+mvzy,papa no johns,0,2,0
+lightning,solithic,0,2,0
+darkatma,henomura,0,0,-1
+rada,papa no johns,1,0,2
+mvzy,lightning,0,2,1
+darkatma,papa no johns,0,2,0
+henomura,solithic,1,-1,0
+rada,lightning,1,0,2
+darkatma,solithic,0,2,0
+papa no johns,lightning,1,0,2
+henomura,mvzy,1,-1,0
+darkatma,lightning,0,2,0
+solithic,mvzy,1,0,2
+henomura,rada,1,-1,0
+darkatma,mvzy,0,2,0
+solithic,rada,0,2,0
+papa no johns,henomura,0,0,-1
+xiivi,redrum,0,2,0
+wolven,big spoon,0,2,0
+ahampster,pgd,0,2,0
+captain faceroll,redrum,0,2,0
+xiivi,pgd,0,2,0
+wolven,ahampster,0,2,0
+captain faceroll,big spoon,0,2,0
+redrum,pgd,1,0,2
+xiivi,wolven,1,1,2
+captain faceroll,pgd,0,2,0
+big spoon,ahampster,1,0,2
+redrum,wolven,1,0,2
+captain faceroll,ahampster,0,2,0
+pgd,wolven,1,0,2
+big spoon,xiivi,1,0,2
+captain faceroll,wolven,0,2,0
+ahampster,xiivi,1,0,2
+big spoon,redrum,0,2,0
+captain faceroll,xiivi,0,2,0
+ahampster,redrum,0,2,0
+pgd,big spoon,0,2,0
+foxcapacitor,catelt,0,2,0
+justjoe,king potato,0,2,0
+trixter,appel,0,2,0
+kira,catelt,0,2,0
+foxcapacitor,appel,0,2,0
+justjoe,trixter,0,2,0
+kira,king potato,0,2,0
+catelt,appel,0,2,0
+foxcapacitor,justjoe,1,0,2
+kira,appel,0,2,0
+king potato,trixter,0,2,0
+catelt,justjoe,1,0,2
+kira,trixter,0,2,0
+appel,justjoe,1,0,2
+king potato,foxcapacitor,1,0,2
+kira,justjoe,0,2,1
+trixter,foxcapacitor,1,-1,0
+king potato,catelt,0,2,0
+kira,foxcapacitor,0,2,0
+trixter,catelt,0,2,0
+appel,king potato,1,0,2
+elegy,thesurfingpikachu,0,2,0
+generic,josniff,1,0,2
+poskii,hb,0,0,-1
+drephen,thesurfingpikachu,0,2,0
+elegy,hb,0,0,-1
+generic,poskii,1,0,2
+drephen,josniff,0,2,0
+thesurfingpikachu,hb,0,0,-1
+elegy,generic,0,2,0
+drephen,hb,0,0,-1
+josniff,poskii,1,0,2
+thesurfingpikachu,generic,1,0,2
+drephen,poskii,0,2,0
+hb,generic,1,-1,0
+josniff,elegy,1,0,2
+drephen,generic,0,2,0
+poskii,elegy,1,0,2
+josniff,thesurfingpikachu,0,2,0
+drephen,elegy,0,2,0
+poskii,thesurfingpikachu,0,2,0
+hb,josniff,1,-1,0
+ryou,pseudo seras,0,2,1
+dezno,bustr,0,2,0
+jbuzzybee,lukatic,0,2,0
+homemadewaffles,pseudo seras,0,2,0
+ryou,lukatic,0,2,0
+dezno,jbuzzybee,0,2,0
+homemadewaffles,bustr,0,2,0
+pseudo seras,lukatic,1,1,2
+ryou,dezno,1,1,2
+homemadewaffles,lukatic,0,2,0
+bustr,jbuzzybee,1,0,2
+pseudo seras,dezno,1,0,2
+homemadewaffles,jbuzzybee,0,2,0
+lukatic,dezno,1,0,2
+bustr,ryou,1,0,2
+homemadewaffles,dezno,0,2,0
+jbuzzybee,ryou,1,0,2
+bustr,pseudo seras,1,0,2
+homemadewaffles,ryou,0,2,0
+jbuzzybee,pseudo seras,1,1,2
+lukatic,bustr,0,2,1
+moy,jerry,0,2,1
+ibc,bab,0,2,0
+rope,luxx,0,2,0
+bizzarro flame,jerry,1,-1,0
+moy,luxx,0,2,0
+ibc,rope,0,2,0
+bizzarro flame,bab,1,-1,0
+jerry,luxx,0,2,0
+moy,ibc,0,2,1
+bizzarro flame,luxx,1,-1,0
+bab,rope,1,0,2
+jerry,ibc,1,1,2
+bizzarro flame,rope,1,-1,0
+luxx,ibc,1,0,2
+bab,moy,1,0,2
+bizzarro flame,ibc,1,-1,0
+rope,moy,1,0,2
+bab,jerry,1,0,2
+bizzarro flame,moy,1,-1,0
+rope,jerry,0,2,1
+luxx,bab,0,2,0
+photonic,starryskye,0,2,0
+dyce,marx,0,2,0
+c mill$,2shotko,1,0,2
+shinobi,starryskye,0,2,0
+photonic,2shotko,0,2,0
+dyce,c mill$,0,2,0
+shinobi,marx,0,2,0
+starryskye,2shotko,1,0,2
+photonic,dyce,0,2,0
+shinobi,2shotko,0,2,0
+marx,c mill$,1,0,2
+starryskye,dyce,1,0,2
+shinobi,c mill$,0,2,0
+2shotko,dyce,0,2,0
+marx,photonic,1,0,2
+shinobi,dyce,0,2,0
+c mill$,photonic,1,0,2
+marx,starryskye,0,2,1
+shinobi,photonic,0,2,0
+c mill$,starryskye,0,2,0
+2shotko,marx,0,2,0
+thissidedown,hensdaddy,0,2,0
+flatline,evbgr_bird,0,2,1
+mr.mimetime,bun$,1,-1,0
+orly,hensdaddy,0,2,0
+thissidedown,bun$,0,0,-1
+flatline,mr.mimetime,0,0,-1
+orly,evbgr_bird,0,2,0
+hensdaddy,bun$,0,0,-1
+thissidedown,flatline,0,2,0
+orly,bun$,0,0,-1
+evbgr_bird,mr.mimetime,0,0,-1
+hensdaddy,flatline,1,0,2
+orly,mr.mimetime,0,0,-1
+bun$,flatline,1,-1,0
+evbgr_bird,thissidedown,1,0,2
+orly,flatline,0,2,0
+mr.mimetime,thissidedown,1,-1,0
+evbgr_bird,hensdaddy,0,2,1
+orly,thissidedown,0,2,0
+mr.mimetime,hensdaddy,1,-1,0
+bun$,evbgr_bird,1,-1,0
+ggdoe,tp the destroyer,0,2,0
+sothe,knipples,0,2,1
+mob,ceephax,1,0,2
+reeve,tp the destroyer,0,2,0
+ggdoe,ceephax,0,2,0
+sothe,mob,0,2,0
+reeve,knipples,0,2,0
+tp the destroyer,ceephax,1,1,2
+ggdoe,sothe,1,0,2
+reeve,ceephax,0,2,0
+knipples,mob,1,0,2
+tp the destroyer,sothe,1,0,2
+reeve,mob,0,2,0
+ceephax,sothe,1,0,2
+knipples,ggdoe,1,0,2
+reeve,sothe,0,2,1
+mob,ggdoe,1,0,2
+knipples,tp the destroyer,0,2,1
+reeve,ggdoe,0,2,1
+mob,tp the destroyer,0,2,0
+ceephax,knipples,0,2,1
+passion,oathlivion,0,2,0
+dysfunkti0nal,garbage can,0,2,0
+scooby doo gucci jacuzzi,ravedave,0,2,0
+triple r,oathlivion,0,2,0
+passion,ravedave,0,2,0
+dysfunkti0nal,scooby doo gucci jacuzzi,1,0,2
+triple r,garbage can,0,2,0
+oathlivion,ravedave,0,2,1
+passion,dysfunkti0nal,0,2,1
+triple r,ravedave,0,2,0
+garbage can,scooby doo gucci jacuzzi,1,0,2
+oathlivion,dysfunkti0nal,1,0,2
+triple r,scooby doo gucci jacuzzi,0,2,0
+ravedave,dysfunkti0nal,1,0,2
+garbage can,passion,1,0,2
+triple r,dysfunkti0nal,0,2,0
+scooby doo gucci jacuzzi,passion,1,1,2
+garbage can,oathlivion,1,1,2
+triple r,passion,0,2,0
+scooby doo gucci jacuzzi,oathlivion,0,2,0
+ravedave,garbage can,0,2,0
+anaveragekid,alfster,0,2,0
+amazerommu,tara,0,2,0
+tm75,chelo,0,2,0
+sago,alfster,0,2,0
+anaveragekid,chelo,0,2,0
+amazerommu,tm75,0,2,0
+sago,tara,0,2,0
+alfster,chelo,0,2,0
+anaveragekid,amazerommu,1,1,2
+sago,chelo,0,2,0
+tara,tm75,1,0,2
+alfster,amazerommu,1,0,2
+sago,tm75,0,2,0
+chelo,amazerommu,1,0,2
+tara,anaveragekid,1,0,2
+sago,amazerommu,0,2,0
+tm75,anaveragekid,1,0,2
+tara,alfster,1,0,2
+sago,anaveragekid,0,2,0
+tm75,alfster,0,2,1
+chelo,tara,0,2,0
+pleasantries,speck,0,2,0
+xtreme,blakesterr,0,2,0
+peeko,tpwn,1,0,2
+azzu,speck,0,2,0
+pleasantries,tpwn,1,0,2
+xtreme,peeko,0,2,1
+azzu,blakesterr,0,2,0
+speck,tpwn,1,0,2
+pleasantries,xtreme,0,2,1
+azzu,tpwn,0,2,0
+blakesterr,peeko,1,0,2
+speck,xtreme,1,0,2
+azzu,peeko,0,2,0
+tpwn,xtreme,1,1,2
+blakesterr,pleasantries,1,0,2
+azzu,xtreme,0,2,1
+peeko,pleasantries,1,0,2
+blakesterr,speck,1,0,2
+azzu,pleasantries,0,2,0
+peeko,speck,0,2,0
+tpwn,blakesterr,0,2,0
+poutine,rooster,1,0,2
+poutine,purplepanda,1,1,2
+snail6,poutine,0,2,0
+snail6,elephante,1,0,2
+snail6,purplepanda,0,2,0
+elephante,poutine,0,2,0
+elephante,rooster,0,2,0
+elephante,purplepanda,0,2,0
+rooster,snail6,0,2,0
+rooster,jeezy,0,2,0
+jeezy,poutine,1,0,2
+jeezy,snail6,1,0,2
+jeezy,elephante,1,0,2
+lanceinthepants,poutine,0,2,0
+lanceinthepants,snail6,0,2,0
+lanceinthepants,elephante,0,2,0
+lanceinthepants,rooster,0,2,0
+lanceinthepants,jeezy,0,2,0
+lanceinthepants,purplepanda,0,2,0
+purplepanda,rooster,1,0,2
+purplepanda,jeezy,0,2,0
+dannx,dank joel,1,-1,0
+bpow,gems,0,2,0
+simian,babal,0,0,-1
+rik,dank joel,0,2,0
+dannx,babal,1,-1,0
+bpow,simian,0,2,0
+rik,gems,0,2,0
+dank joel,babal,0,0,-1
+dannx,bpow,1,-1,0
+rik,babal,0,0,-1
+gems,simian,1,0,2
+dank joel,bpow,1,0,2
+rik,simian,0,2,0
+babal,bpow,1,-1,0
+gems,dannx,0,0,-1
+rik,bpow,0,2,0
+simian,dannx,0,0,-1
+gems,dank joel,1,0,2
+rik,dannx,0,0,-1
+simian,dank joel,0,2,0
+babal,gems,1,-1,0
+robm,slippy,0,2,0
+qtip,truck,0,2,1
+pilot,8oz,0,2,0
+scythe,slippy,0,2,0
+robm,8oz,1,0,2
+qtip,pilot,0,2,0
+scythe,truck,0,2,0
+slippy,8oz,1,0,2
+robm,qtip,0,2,1
+scythe,8oz,0,2,0
+truck,pilot,1,1,2
+slippy,qtip,1,0,2
+scythe,pilot,0,2,0
+8oz,qtip,1,1,2
+truck,robm,1,1,2
+scythe,qtip,0,2,0
+pilot,robm,0,2,1
+truck,slippy,0,2,0
+scythe,robm,0,2,0
+pilot,slippy,0,2,0
+8oz,truck,0,2,0
+salt,ziggy,1,0,2
+blahguy,bluemarine,1,0,2
+cruz,flash,0,0,-1
+voorhese,ziggy,0,2,0
+salt,flash,0,0,-1
+blahguy,cruz,0,2,1
+voorhese,bluemarine,0,2,0
+ziggy,flash,0,0,-1
+salt,blahguy,1,0,2
+voorhese,flash,0,0,-1
+bluemarine,cruz,0,2,1
+ziggy,blahguy,1,0,2
+voorhese,cruz,0,2,0
+flash,blahguy,1,-1,0
+bluemarine,salt,0,2,1
+voorhese,blahguy,0,2,0
+cruz,salt,0,2,0
+bluemarine,ziggy,1,0,2
+voorhese,salt,0,2,0
+cruz,ziggy,0,2,1
+flash,bluemarine,1,-1,0
+fishaman p,bevan,0,2,1
+roland,tablesalt,0,2,0
+beggy,frozenpizza,0,2,1
+mrlz,bevan,0,2,0
+fishaman p,frozenpizza,0,2,0
+roland,beggy,0,2,1
+mrlz,tablesalt,0,2,0
+bevan,frozenpizza,0,2,1
+fishaman p,roland,0,2,0
+mrlz,frozenpizza,0,2,0
+tablesalt,beggy,0,2,0
+bevan,roland,0,2,0
+mrlz,beggy,0,2,0
+frozenpizza,roland,0,2,1
+tablesalt,fishaman p,1,0,2
+mrlz,roland,0,2,0
+beggy,fishaman p,1,0,2
+tablesalt,bevan,1,0,2
+mrlz,fishaman p,0,2,0
+beggy,bevan,1,0,2
+frozenpizza,tablesalt,0,2,0
+modem,hei,0,2,0
+joe k,pumpkinleaf,0,2,0
+crazycookie,chuck lubs,1,-1,0
+junebug,hei,0,2,0
+modem,chuck lubs,0,2,0
+joe k,crazycookie,0,0,-1
+junebug,pumpkinleaf,0,2,0
+hei,chuck lubs,0,2,0
+modem,joe k,0,2,1
+junebug,chuck lubs,0,2,0
+pumpkinleaf,crazycookie,0,0,-1
+hei,joe k,1,0,2
+junebug,crazycookie,0,0,-1
+chuck lubs,joe k,1,0,2
+pumpkinleaf,modem,1,0,2
+junebug,joe k,0,2,0
+crazycookie,modem,1,-1,0
+pumpkinleaf,hei,1,0,2
+junebug,modem,0,2,0
+crazycookie,hei,1,-1,0
+chuck lubs,pumpkinleaf,1,1,2
+doodler,skate,0,2,0
+anto,phoenix,1,-1,0
+rky!!!,douhboi,0,2,0
+absentpage,skate,0,2,0
+doodler,douhboi,0,2,0
+anto,rky!!!,1,-1,0
+absentpage,phoenix,0,2,0
+skate,douhboi,0,2,1
+doodler,anto,0,0,-1
+absentpage,douhboi,0,2,0
+phoenix,rky!!!,1,0,2
+skate,anto,0,0,-1
+absentpage,rky!!!,0,2,0
+douhboi,anto,0,0,-1
+phoenix,doodler,1,0,2
+absentpage,anto,0,0,-1
+rky!!!,doodler,1,1,2
+phoenix,skate,1,0,2
+absentpage,doodler,0,2,0
+rky!!!,skate,1,0,2
+douhboi,phoenix,0,2,0
+dr. greenthumb,zelgius,0,2,0
+cronus,port,0,2,0
+dinosaur29,echo,0,2,0
+liberate,zelgius,0,2,0
+dr. greenthumb,echo,0,2,0
+cronus,dinosaur29,0,2,0
+liberate,port,0,2,0
+zelgius,echo,1,0,2
+dr. greenthumb,cronus,0,2,0
+liberate,echo,0,2,0
+port,dinosaur29,1,0,2
+zelgius,cronus,1,0,2
+liberate,dinosaur29,0,2,0
+echo,cronus,1,0,2
+port,dr. greenthumb,1,0,2
+liberate,cronus,0,2,0
+dinosaur29,dr. greenthumb,1,0,2
+port,zelgius,1,1,2
+liberate,dr. greenthumb,0,2,1
+dinosaur29,zelgius,0,2,0
+echo,port,0,2,0
+solharath,cope,0,0,-1
+narbs,the fury,1,0,2
+pizza,scrublord,0,0,-1
+wakenvape,cope,0,2,0
+solharath,scrublord,0,0,-1
+narbs,pizza,1,0,2
+wakenvape,the fury,0,2,0
+cope,scrublord,0,0,-1
+solharath,narbs,0,2,1
+wakenvape,scrublord,0,0,-1
+the fury,pizza,0,2,1
+cope,narbs,1,-1,0
+wakenvape,pizza,0,2,0
+scrublord,narbs,1,-1,0
+the fury,solharath,0,2,0
+wakenvape,narbs,0,2,0
+pizza,solharath,1,0,2
+the fury,cope,0,2,0
+wakenvape,solharath,0,2,0
+pizza,cope,0,2,0
+scrublord,the fury,1,-1,0
+nexic,dennis,0,2,0
+trod,dj tyro,1,0,2
+zepto,ark,0,2,0
+prz,dennis,0,2,0
+nexic,ark,0,2,0
+trod,zepto,1,0,2
+prz,dj tyro,0,2,0
+dennis,ark,0,2,0
+nexic,trod,0,2,0
+prz,ark,0,2,0
+dj tyro,zepto,1,0,2
+dennis,trod,0,2,0
+prz,zepto,0,2,0
+ark,trod,1,0,2
+dj tyro,nexic,1,0,2
+prz,trod,0,2,0
+zepto,nexic,1,1,2
+dj tyro,dennis,1,0,2
+prz,nexic,0,2,1
+zepto,dennis,0,2,1
+ark,dj tyro,0,2,0
+gumble,merlin,0,2,0
+k-tel,true blue,0,2,0
+pewpew2,emceecurtis,1,-1,0
+schythed,merlin,0,2,0
+gumble,emceecurtis,0,2,0
+k-tel,pewpew2,0,0,-1
+schythed,true blue,0,2,0
+merlin,emceecurtis,0,2,0
+gumble,k-tel,0,2,0
+schythed,emceecurtis,0,2,0
+true blue,pewpew2,0,0,-1
+merlin,k-tel,1,0,2
+schythed,pewpew2,0,0,-1
+emceecurtis,k-tel,1,0,2
+true blue,gumble,1,0,2
+schythed,k-tel,0,2,0
+pewpew2,gumble,1,-1,0
+true blue,merlin,1,0,2
+schythed,gumble,0,2,0
+pewpew2,merlin,1,-1,0
+emceecurtis,true blue,0,2,0
+sheep,fenrir,0,2,0
+moros,rockhawk,0,2,0
+kitsuni,olives,1,-1,0
+dairdev1l,fenrir,0,2,0
+sheep,olives,0,2,0
+moros,kitsuni,0,0,-1
+dairdev1l,rockhawk,0,2,0
+fenrir,olives,1,1,2
+sheep,moros,0,2,0
+dairdev1l,olives,0,2,0
+rockhawk,kitsuni,0,0,-1
+fenrir,moros,1,0,2
+dairdev1l,kitsuni,0,0,-1
+olives,moros,1,0,2
+rockhawk,sheep,1,1,2
+dairdev1l,moros,0,2,0
+kitsuni,sheep,1,-1,0
+rockhawk,fenrir,0,2,1
+dairdev1l,sheep,0,2,0
+kitsuni,fenrir,1,-1,0
+olives,rockhawk,1,1,2
+thrash,ex,0,2,0
+2a4t,a',0,2,1
+pure,food,0,2,0
+knubs.,ex,0,2,0
+thrash,food,0,2,0
+2a4t,pure,1,1,2
+knubs.,a',0,2,0
+ex,food,1,0,2
+thrash,2a4t,0,2,0
+knubs.,food,0,2,0
+a',pure,1,0,2
+ex,2a4t,1,0,2
+knubs.,pure,1,0,2
+food,2a4t,1,0,2
+a',thrash,1,0,2
+knubs.,2a4t,0,2,0
+pure,thrash,1,0,2
+a',ex,1,0,2
+knubs.,thrash,1,0,2
+pure,ex,0,2,0
+food,a',1,0,2
+doubleshine,biff$$$$,0,-2,-2
+phazeshift,raven,1,-1,0
+cho,wff,0,2,0
+thegooddoctor,biff$$$$,0,2,0
+doubleshine,wff,0,2,0
+phazeshift,cho,1,-1,0
+thegooddoctor,raven,0,2,0
+biff$$$$,wff,0,2,0
+doubleshine,phazeshift,0,0,-1
+thegooddoctor,wff,0,2,0
+raven,cho,1,0,2
+biff$$$$,phazeshift,0,0,-1
+thegooddoctor,cho,0,2,0
+wff,phazeshift,0,0,-1
+raven,doubleshine,1,0,2
+thegooddoctor,phazeshift,0,0,-1
+cho,doubleshine,1,0,2
+raven,biff$$$$,1,0,2
+thegooddoctor,doubleshine,0,2,0
+cho,biff$$$$,1,0,2
+wff,raven,0,2,1
+heartstrings,tabasco,0,2,0
+herm,darkstorm,0,2,1
+taotau,trusty bag,1,1,2
+super fang chan,tabasco,0,2,1
+heartstrings,trusty bag,0,2,0
+herm,taotau,0,2,0
+super fang chan,darkstorm,0,2,1
+tabasco,trusty bag,1,0,2
+heartstrings,herm,0,2,0
+super fang chan,trusty bag,1,1,2
+darkstorm,taotau,0,2,0
+tabasco,herm,1,1,2
+super fang chan,taotau,0,2,0
+trusty bag,herm,1,0,2
+darkstorm,heartstrings,1,0,2
+super fang chan,herm,0,2,0
+taotau,heartstrings,1,0,2
+darkstorm,tabasco,0,2,0
+super fang chan,heartstrings,1,0,2
+taotau,tabasco,1,0,2
+trusty bag,darkstorm,1,0,2
+travist,striferz,0,0,-1
+bandito,veso,0,2,0
+koopi,musigh,0,0,-1
+dan salvato,striferz,0,0,-1
+travist,musigh,0,0,-1
+bandito,koopi,1,0,2
+dan salvato,veso,0,2,0
+striferz,musigh,0,0,-1
+travist,bandito,0,2,0
+dan salvato,musigh,0,0,-1
+veso,koopi,1,0,2
+striferz,bandito,1,-1,0
+dan salvato,koopi,0,2,0
+musigh,bandito,1,-1,0
+veso,travist,1,0,2
+dan salvato,bandito,0,2,0
+koopi,travist,1,1,2
+veso,striferz,0,0,-1
+dan salvato,travist,0,2,0
+koopi,striferz,0,0,-1
+musigh,veso,1,-1,0
+parzival,mastercat,0,2,0
+moosewad,kzidek,0,2,0
+worm,wii-kai,1,0,2
+luigigoshard,mastercat,0,2,0
+parzival,wii-kai,0,2,0
+moosewad,worm,0,2,0
+luigigoshard,kzidek,0,2,0
+mastercat,wii-kai,1,0,2
+parzival,moosewad,0,2,0
+luigigoshard,wii-kai,0,2,0
+kzidek,worm,1,0,2
+mastercat,moosewad,1,0,2
+luigigoshard,worm,0,2,0
+wii-kai,moosewad,0,2,0
+kzidek,parzival,1,0,2
+luigigoshard,moosewad,0,2,0
+worm,parzival,1,0,2
+kzidek,mastercat,0,2,1
+luigigoshard,parzival,1,1,2
+worm,mastercat,1,0,2
+wii-kai,kzidek,0,2,0
+$wank,stonehaus,0,2,1
+torp,lay,1,0,2
+proxibomb,ckx,0,0,-1
+mew,stonehaus,0,2,0
+$wank,ckx,0,0,-1
+torp,proxibomb,0,2,0
+mew,lay,0,2,0
+stonehaus,ckx,0,0,-1
+$wank,torp,0,2,0
+mew,ckx,0,0,-1
+lay,proxibomb,0,2,0
+stonehaus,torp,1,1,2
+mew,proxibomb,0,2,0
+ckx,torp,1,-1,0
+lay,$wank,1,0,2
+mew,torp,0,2,0
+proxibomb,$wank,1,0,2
+lay,stonehaus,0,2,0
+mew,$wank,0,2,0
+proxibomb,stonehaus,1,0,2
+ckx,lay,1,-1,0
+ellis,flarecinder,0,2,0
+zuul,meguca,0,0,-1
+theytah,butrs,1,-1,0
+ripple,flarecinder,0,2,0
+ellis,butrs,0,2,0
+zuul,theytah,0,0,-1
+ripple,meguca,0,0,-1
+flarecinder,butrs,0,2,0
+ellis,zuul,0,2,0
+ripple,butrs,0,2,0
+meguca,theytah,0,0,-1
+flarecinder,zuul,1,1,2
+ripple,theytah,0,0,-1
+butrs,zuul,1,0,2
+meguca,ellis,1,-1,0
+ripple,zuul,0,2,0
+theytah,ellis,1,-1,0
+meguca,flarecinder,1,-1,0
+ripple,ellis,1,1,2
+theytah,flarecinder,1,-1,0
+butrs,meguca,0,0,-1
+hello,ikey,0,2,0
+jobes,torm,0,2,0
+truski,chals,0,0,-1
+hyperflame,ikey,0,2,0
+hello,chals,0,0,-1
+jobes,truski,0,2,0
+hyperflame,torm,0,2,0
+ikey,chals,0,0,-1
+hello,jobes,0,2,0
+hyperflame,chals,0,0,-1
+torm,truski,1,0,2
+ikey,jobes,1,0,2
+hyperflame,truski,0,2,0
+chals,jobes,1,-1,0
+torm,hello,1,0,2
+hyperflame,jobes,0,2,0
+truski,hello,1,0,2
+torm,ikey,1,0,2
+hyperflame,hello,1,0,2
+truski,ikey,1,0,2
+chals,torm,1,-1,0
+darkwolf,dice,0,2,0
+savage lionfish,elliot,0,0,-1
+schlag,mtndewgong,0,2,0
+davidcue,dice,0,2,0
+darkwolf,mtndewgong,0,2,0
+savage lionfish,schlag,1,0,2
+davidcue,elliot,0,0,-1
+dice,mtndewgong,0,2,0
+darkwolf,savage lionfish,0,2,0
+davidcue,mtndewgong,0,2,0
+elliot,schlag,1,-1,0
+dice,savage lionfish,0,2,0
+davidcue,schlag,0,2,1
+mtndewgong,savage lionfish,1,0,2
+elliot,darkwolf,1,-1,0
+davidcue,savage lionfish,0,2,0
+schlag,darkwolf,1,1,2
+elliot,dice,1,-1,0
+davidcue,darkwolf,0,2,0
+schlag,dice,0,2,0
+mtndewgong,elliot,0,0,-1
+mars,derpson,0,2,0
+denec,void,0,2,0
+depressed eagle,wojo42,1,0,2
+markow,derpson,0,2,0
+mars,wojo42,0,2,0
+denec,depressed eagle,0,2,0
+markow,void,0,2,0
+derpson,wojo42,1,1,2
+mars,denec,1,1,2
+markow,wojo42,0,2,0
+void,depressed eagle,1,0,2
+derpson,denec,1,0,2
+markow,depressed eagle,0,2,0
+wojo42,denec,1,0,2
+void,mars,1,0,2
+markow,denec,0,2,1
+depressed eagle,mars,1,0,2
+void,derpson,1,1,2
+markow,mars,0,2,0
+depressed eagle,derpson,0,2,1
+wojo42,void,1,1,2
+dakpo,kaiser,0,2,0
+gunhaver,sacred panda,0,2,0
+mama's little baby,rico,0,2,0
+blendtec,kaiser,0,2,0
+dakpo,rico,0,2,1
+gunhaver,mama's little baby,0,2,1
+blendtec,sacred panda,0,2,0
+kaiser,rico,1,1,2
+dakpo,gunhaver,0,2,0
+blendtec,rico,0,2,0
+sacred panda,mama's little baby,1,0,2
+kaiser,gunhaver,1,0,2
+blendtec,mama's little baby,0,2,0
+rico,gunhaver,0,2,1
+sacred panda,dakpo,1,0,2
+blendtec,gunhaver,0,2,0
+mama's little baby,dakpo,0,2,0
+sacred panda,kaiser,1,0,2
+blendtec,dakpo,0,2,1
+mama's little baby,kaiser,0,2,0
+rico,sacred panda,0,2,0
+grab2win,pintoa,0,2,0
+yankee,masterbazaar,0,2,0
+2 trainz,nscyte,1,0,2
+i4n,pintoa,0,2,0
+grab2win,nscyte,0,2,0
+yankee,2 trainz,0,2,0
+i4n,masterbazaar,0,2,0
+pintoa,nscyte,1,0,2
+grab2win,yankee,0,2,1
+i4n,nscyte,0,2,0
+masterbazaar,2 trainz,1,0,2
+pintoa,yankee,1,0,2
+i4n,2 trainz,0,2,0
+nscyte,yankee,0,2,1
+masterbazaar,grab2win,1,0,2
+i4n,yankee,0,2,0
+2 trainz,grab2win,1,0,2
+masterbazaar,pintoa,1,1,2
+i4n,grab2win,0,2,0
+2 trainz,pintoa,0,2,1
+nscyte,masterbazaar,0,2,0
+nox,grasshoppa,0,2,0
+nox,maspect,0,0,-1
+nox,suplex city,0,2,0
+nox,hacky,0,2,0
+nox,withputit,0,2,1
+nox,hamalak,0,2,0
+grasshoppa,hacky,1,0,2
+grasshoppa,withputit,0,2,0
+maspect,grasshoppa,1,-1,0
+maspect,hamalak,1,-1,0
+suplex city,grasshoppa,0,2,1
+suplex city,maspect,0,0,-1
+suplex city,hamalak,0,2,0
+hacky,maspect,0,0,-1
+hacky,suplex city,0,2,0
+hacky,hamalak,0,2,0
+withputit,maspect,0,0,-1
+withputit,suplex city,1,0,2
+withputit,hacky,1,0,2
+hamalak,grasshoppa,1,0,2
+hamalak,withputit,1,0,2
+intern,thereal,0,2,0
+den,sloppy banana,0,2,0
+seal,iceberg,0,2,0
+reesch,thereal,0,2,0
+intern,iceberg,0,2,0
+den,seal,0,2,0
+reesch,sloppy banana,0,2,0
+thereal,iceberg,1,0,2
+intern,den,1,0,2
+reesch,iceberg,0,2,0
+sloppy banana,seal,1,0,2
+thereal,den,1,0,2
+reesch,seal,0,2,0
+iceberg,den,1,1,2
+sloppy banana,intern,1,0,2
+reesch,den,0,2,0
+seal,intern,1,0,2
+sloppy banana,thereal,1,1,2
+reesch,intern,0,2,0
+seal,thereal,1,1,2
+iceberg,sloppy banana,0,2,0
+shabo,cinc0,0,2,0
+unoriginal,awkward,0,0,-1
+kulprit,shucklin,0,2,0
+hellsingulh,cinc0,0,2,0
+shabo,shucklin,0,2,0
+unoriginal,kulprit,0,2,0
+hellsingulh,awkward,0,0,-1
+cinc0,shucklin,0,2,0
+shabo,unoriginal,0,2,0
+hellsingulh,shucklin,0,2,0
+awkward,kulprit,1,-1,0
+cinc0,unoriginal,1,0,2
+hellsingulh,kulprit,0,2,0
+shucklin,unoriginal,1,0,2
+awkward,shabo,1,-1,0
+hellsingulh,unoriginal,0,2,0
+kulprit,shabo,1,0,2
+awkward,cinc0,1,-1,0
+hellsingulh,shabo,0,2,0
+kulprit,cinc0,0,2,1
+shucklin,awkward,0,0,-1
+ferriswheel,jwooff,0,2,0
+jlf,shulkman,0,2,0
+crucialtoast8,risu,1,1,2
+andy,jwooff,0,2,0
+ferriswheel,risu,0,2,0
+jlf,crucialtoast8,0,2,0
+andy,shulkman,0,2,0
+jwooff,risu,0,2,0
+ferriswheel,jlf,0,2,0
+andy,risu,0,2,0
+shulkman,crucialtoast8,1,1,2
+jwooff,jlf,1,0,2
+andy,crucialtoast8,0,2,0
+risu,jlf,1,0,2
+shulkman,ferriswheel,1,0,2
+andy,jlf,0,2,0
+crucialtoast8,ferriswheel,1,0,2
+shulkman,jwooff,1,0,2
+andy,ferriswheel,1,1,2
+crucialtoast8,jwooff,1,0,2
+risu,shulkman,0,2,0
+cheato,juice,0,2,0
+schnurb,jab,0,2,0
+everfresh,pibb,0,2,0
+c#,juice,0,2,0
+cheato,pibb,0,2,0
+schnurb,everfresh,0,2,0
+c#,jab,0,2,0
+juice,pibb,0,2,0
+cheato,schnurb,0,2,0
+c#,pibb,0,2,0
+jab,everfresh,0,2,0
+juice,schnurb,1,0,2
+c#,everfresh,0,2,0
+pibb,schnurb,1,0,2
+jab,cheato,1,1,2
+c#,schnurb,0,2,0
+everfresh,cheato,1,0,2
+jab,juice,0,2,0
+c#,cheato,0,2,0
+everfresh,juice,1,0,2
+pibb,jab,1,0,2
+pseudoturtle,mo,0,2,0
+digboss,tanking,1,-1,0
+yamham,zeal,0,2,0
+meerkat,kira,1,-1,0
+pseudoturtle,tanking,0,2,0
+mo,zeal,0,2,0
+digboss,kira,1,-1,0
+yamham,meerkat,0,0,-1
+pseudoturtle,zeal,0,2,0
+tanking,kira,1,0,2
+mo,meerkat,0,0,-1
+digboss,yamham,1,-1,0
+pseudoturtle,kira,0,2,0
+zeal,meerkat,0,0,-1
+tanking,yamham,1,0,2
+mo,digboss,0,0,-1
+pseudoturtle,meerkat,0,0,-1
+kira,yamham,1,0,2
+zeal,digboss,0,0,-1
+tanking,mo,1,0,2
+pseudoturtle,yamham,0,2,0
+meerkat,digboss,0,0,-1
+kira,mo,1,0,2
+zeal,tanking,0,2,0
+pseudoturtle,digboss,0,0,-1
+yamham,mo,0,2,0
+meerkat,tanking,1,-1,0
+kira,zeal,1,0,2
+bees!,kennyc,0,2,0
+flashburn 117,alucard,0,0,-1
+princess bumble bee,morning,0,2,0
+5-1,tangmang,1,1,2
+bees!,alucard,0,0,-1
+kennyc,morning,1,0,2
+flashburn 117,tangmang,0,2,0
+princess bumble bee,5-1,1,0,2
+bees!,morning,0,2,0
+alucard,tangmang,1,-1,0
+kennyc,5-1,1,0,2
+flashburn 117,princess bumble bee,0,2,0
+bees!,tangmang,0,2,0
+morning,5-1,1,0,2
+alucard,princess bumble bee,1,-1,0
+kennyc,flashburn 117,1,0,2
+bees!,5-1,1,0,2
+tangmang,princess bumble bee,0,2,0
+morning,flashburn 117,1,0,2
+alucard,kennyc,1,-1,0
+bees!,princess bumble bee,1,1,2
+5-1,flashburn 117,1,0,2
+tangmang,kennyc,0,2,1
+morning,alucard,0,0,-1
+bees!,flashburn 117,1,1,2
+princess bumble bee,kennyc,0,2,0
+5-1,alucard,0,0,-1
+tangmang,morning,0,2,0
+quaz,oops,0,0,-1
+koala,drag,1,0,2
+ringler,l1me,0,2,0
+amz,ad8,0,2,0
+quaz,drag,0,2,0
+oops,l1me,1,-1,0
+koala,ad8,0,2,0
+ringler,amz,0,2,0
+quaz,l1me,0,2,0
+drag,ad8,0,2,0
+oops,amz,1,-1,0
+koala,ringler,1,1,2
+quaz,ad8,0,2,0
+l1me,amz,1,0,2
+drag,ringler,1,1,2
+oops,koala,1,-1,0
+quaz,amz,0,2,0
+ad8,ringler,1,0,2
+l1me,koala,1,0,2
+drag,oops,0,0,-1
+quaz,ringler,0,2,1
+amz,koala,1,0,2
+ad8,oops,0,0,-1
+l1me,drag,1,0,2
+quaz,koala,0,2,0
+ringler,oops,0,0,-1
+amz,drag,1,0,2
+ad8,l1me,1,1,2
+trulliam,tuck,0,0,-1
+jacky,izze,0,2,0
+plasmius,killjaykill,0,2,0
+rektangles,storm,1,0,2
+trulliam,izze,0,2,0
+tuck,killjaykill,1,-1,0
+jacky,storm,0,2,0
+plasmius,rektangles,0,2,0
+trulliam,killjaykill,0,2,0
+izze,storm,1,0,2
+tuck,rektangles,1,-1,0
+jacky,plasmius,0,2,0
+trulliam,storm,0,2,0
+killjaykill,rektangles,0,2,0
+izze,plasmius,1,0,2
+tuck,jacky,1,-1,0
+trulliam,rektangles,0,2,0
+storm,plasmius,1,0,2
+killjaykill,jacky,1,0,2
+izze,tuck,0,0,-1
+trulliam,plasmius,0,2,0
+rektangles,jacky,1,0,2
+storm,tuck,0,0,-1
+killjaykill,izze,0,2,1
+trulliam,jacky,0,2,0
+plasmius,tuck,0,0,-1
+rektangles,izze,1,0,2
+storm,killjaykill,1,1,2
+gundersen,c0sm1x,0,2,0
+carso,gib,0,2,0
+wowzers,sapphire,0,0,-1
+kihyun,d-frog,0,2,0
+gundersen,gib,0,2,0
+c0sm1x,sapphire,0,0,-1
+carso,d-frog,0,2,0
+wowzers,kihyun,0,2,1
+gundersen,sapphire,0,0,-1
+gib,d-frog,1,0,2
+c0sm1x,kihyun,1,0,2
+carso,wowzers,0,2,0
+gundersen,d-frog,0,2,0
+sapphire,kihyun,1,-1,0
+gib,wowzers,1,0,2
+c0sm1x,carso,1,0,2
+gundersen,kihyun,0,2,0
+d-frog,wowzers,1,0,2
+sapphire,carso,1,-1,0
+gib,c0sm1x,0,2,0
+gundersen,wowzers,0,2,0
+kihyun,carso,0,2,1
+d-frog,c0sm1x,0,2,0
+sapphire,gib,1,-1,0
+gundersen,carso,0,2,1
+wowzers,c0sm1x,0,2,0
+kihyun,gib,0,2,0
+d-frog,sapphire,0,0,-1
+jackkenney,red,1,-1,0
+toptierdad,miles,0,2,0
+bawstin,suitymcgee,0,2,0
+king fedora,magellan,0,2,0
+jackkenney,miles,1,-1,0
+red,suitymcgee,0,2,0
+toptierdad,magellan,0,2,0
+bawstin,king fedora,0,2,0
+jackkenney,suitymcgee,1,-1,0
+miles,magellan,1,0,2
+red,king fedora,1,1,2
+toptierdad,bawstin,0,2,0
+jackkenney,magellan,1,-1,0
+suitymcgee,king fedora,1,0,2
+miles,bawstin,1,0,2
+red,toptierdad,1,0,2
+jackkenney,king fedora,1,-1,0
+magellan,bawstin,1,0,2
+suitymcgee,toptierdad,1,0,2
+miles,red,1,1,2
+jackkenney,bawstin,1,-1,0
+king fedora,toptierdad,1,1,2
+magellan,red,1,0,2
+suitymcgee,miles,1,0,2
+jackkenney,toptierdad,1,-1,0
+bawstin,red,0,2,0
+king fedora,miles,0,2,0
+magellan,suitymcgee,0,2,0
+karma,mekk,0,0,-1
+ryse,hhhhhhhhhhhhhhh,0,2,0
+d. disciple,blaziken,0,0,-1
+weeaboo,big papi,0,2,0
+karma,hhhhhhhhhhhhhhh,0,2,0
+mekk,blaziken,1,-1,0
+ryse,big papi,0,2,0
+d. disciple,weeaboo,1,1,2
+karma,blaziken,0,0,-1
+hhhhhhhhhhhhhhh,big papi,0,2,1
+mekk,weeaboo,1,-1,0
+ryse,d. disciple,0,2,1
+karma,big papi,0,2,0
+blaziken,weeaboo,1,-1,0
+hhhhhhhhhhhhhhh,d. disciple,1,0,2
+mekk,ryse,1,-1,0
+karma,weeaboo,1,1,2
+big papi,d. disciple,1,0,2
+blaziken,ryse,1,-1,0
+hhhhhhhhhhhhhhh,mekk,0,0,-1
+karma,d. disciple,0,2,0
+weeaboo,ryse,1,1,2
+big papi,mekk,0,0,-1
+blaziken,hhhhhhhhhhhhhhh,1,-1,0
+karma,ryse,0,2,0
+d. disciple,mekk,0,0,-1
+weeaboo,hhhhhhhhhhhhhhh,0,2,0
+big papi,blaziken,0,0,-1
+eggy,cuff,0,2,0
+landry!,high-c,1,-1,0
+tucker,oh,1,0,2
+blaze,ranger mike,0,2,0
+eggy,high-c,0,2,0
+cuff,oh,0,2,0
+landry!,ranger mike,1,-1,0
+tucker,blaze,0,2,1
+eggy,oh,0,2,0
+high-c,ranger mike,0,2,0
+cuff,blaze,0,2,0
+landry!,tucker,1,-1,0
+eggy,ranger mike,0,2,0
+oh,blaze,0,2,0
+high-c,tucker,0,2,0
+cuff,landry!,0,0,-1
+eggy,blaze,0,2,0
+ranger mike,tucker,1,0,2
+oh,landry!,0,0,-1
+high-c,cuff,1,0,2
+eggy,tucker,0,2,0
+blaze,landry!,0,0,-1
+ranger mike,cuff,1,0,2
+oh,high-c,1,0,2
+eggy,landry!,0,0,-1
+tucker,cuff,1,0,2
+blaze,high-c,1,0,2
+ranger mike,oh,1,0,2
+tenrye,dueceswild21,0,2,1
+danil,proc,0,2,0
+binary clone,philyo,0,2,0
+yogi,solarbear,1,0,2
+tenrye,proc,0,2,0
+dueceswild21,philyo,0,2,0
+danil,solarbear,1,1,2
+binary clone,yogi,0,2,1
+tenrye,philyo,0,2,0
+proc,solarbear,1,0,2
+dueceswild21,yogi,0,2,0
+danil,binary clone,0,2,1
+tenrye,solarbear,0,2,1
+philyo,yogi,1,0,2
+proc,binary clone,1,0,2
+dueceswild21,danil,1,0,2
+tenrye,yogi,0,2,0
+solarbear,binary clone,0,2,0
+philyo,danil,1,0,2
+proc,dueceswild21,1,0,2
+tenrye,binary clone,0,2,0
+yogi,danil,1,0,2
+solarbear,dueceswild21,0,2,1
+philyo,proc,1,0,2
+tenrye,danil,0,2,1
+binary clone,dueceswild21,0,2,0
+yogi,proc,1,0,2
+solarbear,philyo,0,2,0
+spor,zen,0,2,0
+desseler,smba,0,2,0
+dove,portals,1,0,2
+aqua,smalleoz,0,2,0
+spor,smba,0,2,0
+zen,portals,1,0,2
+desseler,smalleoz,0,2,0
+dove,aqua,0,2,0
+spor,portals,0,2,0
+smba,smalleoz,1,0,2
+zen,aqua,1,0,2
+desseler,dove,0,2,0
+spor,smalleoz,0,2,0
+portals,aqua,1,1,2
+smba,dove,1,0,2
+zen,desseler,1,0,2
+spor,aqua,0,2,0
+smalleoz,dove,1,0,2
+portals,desseler,1,1,2
+smba,zen,0,2,0
+spor,dove,0,2,0
+aqua,desseler,1,0,2
+smalleoz,zen,1,1,2
+portals,smba,0,2,0
+spor,desseler,1,1,2
+dove,zen,0,2,0
+aqua,smba,0,2,0
+smalleoz,portals,1,0,2
+weeaboo,phobos,0,2,1
+mike,jlf,0,2,1
+sheep,flatline,0,2,0
+qtip,zuul,0,2,0
+andy,goobershadow,1,-1,0
+shonic,ryse,0,2,0
+ripple,pilot,0,2,0
+thissidedown,moros,0,2,1
+cuff,barry,0,2,0
+greenwalk,unoriginal,1,1,2
+gumble,2shotko,0,2,0
+blahguy,jobes,1,1,2
+shabo,giogio,0,2,0
+cucco puffs,high-c,1,0,2
+hyperflame,bluemarine,1,-1,0
+photonic,k-tel,0,2,1
+shroomed,weeaboo,0,2,0
+eggy,mike,0,2,1
+voorhese,sheep,0,2,0
+schythed,qtip,0,2,0
+prince abu,goobershadow,0,2,0
+hellsingulh,shonic,0,2,0
+shinobi,ripple,0,2,0
+hello,thissidedown,0,2,1
+sfat,cuff,0,2,0
+karma,unoriginal,0,2,0
+scythe,gumble,0,2,0
+dairdev1l,jobes,0,2,0
+kels,shabo,0,2,0
+ferriswheel,high-c,0,2,0
+orly,bluemarine,0,2,0
+ellis,photonic,0,2,1
+shroomed,eggy,0,2,0
+voorhese,schythed,1,1,2
+prince abu,hellsingulh,0,2,0
+shinobi,hello,0,2,0
+sfat,karma,0,2,0
+scythe,dairdev1l,1,1,2
+kels,ferriswheel,0,2,0
+orly,ellis,0,2,0
+shroomed,schythed,0,2,0
+prince abu,shinobi,0,2,0
+sfat,dairdev1l,0,2,0
+kels,orly,1,1,2
+shroomed,prince abu,0,-2,-2
+sfat,orly,0,-2,-2
+photonic,phobos,0,2,0
+bluemarine,jlf,0,2,0
+high-c,flatline,0,2,0
+shabo,zuul,0,2,0
+jobes,andy,1,0,2
+gumble,ryse,0,2,1
+unoriginal,pilot,0,2,0
+cuff,moros,0,2,0
+thissidedown,barry,0,2,0
+ripple,greenwalk,0,2,0
+shonic,2shotko,1,0,2
+goobershadow,blahguy,0,2,0
+qtip,giogio,0,2,1
+sheep,cucco puffs,0,2,0
+mike,hyperflame,0,0,-1
+weeaboo,k-tel,0,2,0
+photonic,bluemarine,0,2,0
+high-c,shabo,1,1,2
+andy,gumble,1,0,2
+unoriginal,cuff,1,0,2
+thissidedown,ripple,0,0,-1
+2shotko,goobershadow,1,0,2
+qtip,sheep,1,0,2
+mike,weeaboo,0,2,0
+hello,photonic,0,2,1
+hellsingulh,shabo,1,1,2
+voorhese,gumble,0,2,0
+eggy,cuff,0,2,0
+ellis,thissidedown,0,2,1
+ferriswheel,goobershadow,0,2,0
+scythe,sheep,0,2,1
+karma,mike,0,2,0
+hello,shabo,1,1,2
+voorhese,eggy,0,2,1
+ellis,ferriswheel,0,2,1
+scythe,karma,0,2,0
+dairdev1l,shabo,0,2,1
+kels,voorhese,0,2,0
+schythed,ellis,0,2,0
+shinobi,scythe,0,2,1
+dairdev1l,kels,0,-2,-2
+schythed,shinobi,0,-2,-2
+carso,mattmog,1,1,2
+kuhls,tangmang,1,0,2
+doubleshine,ggdoe,0,2,0
+bpow,wii-kai,0,2,0
+5-1,bdoc,0,2,0
+kibbles,kihyun,0,2,0
+luigigoshard,simian,0,2,0
+sothe,biff$$$$,0,2,0
+spor,lightning,0,2,1
+puddingpop,suplex city,0,2,0
+the fury,rope,0,2,0
+fishaman p,mars,0,0,-1
+hacky,boat,0,2,0
+mvzy,portals,0,2,1
+denec,bevan,0,2,0
+ibc,solharath,0,2,0
+westballz,mattmog,0,2,0
+desseler,tangmang,0,2,0
+mrlz,doubleshine,1,-1,0
+wakenvape,bpow,0,2,1
+darkatma,5-1,0,2,0
+nox,kibbles,0,2,1
+moy,luigigoshard,1,0,2
+markow,sothe,0,2,0
+wizzrobe,spor,0,2,0
+gundersen,puddingpop,0,2,0
+rik,the fury,0,2,0
+thegooddoctor,fishaman p,0,2,0
+kjh,hacky,0,2,0
+flashburn 117,mvzy,0,2,1
+reeve,denec,0,2,0
+parzival,ibc,0,2,1
+westballz,desseler,0,2,0
+doubleshine,wakenvape,0,2,0
+darkatma,nox,0,2,0
+luigigoshard,markow,0,2,1
+wizzrobe,gundersen,0,2,0
+rik,thegooddoctor,0,2,0
+kjh,flashburn 117,0,2,0
+reeve,parzival,0,2,0
+westballz,doubleshine,0,2,0
+darkatma,luigigoshard,0,2,0
+wizzrobe,rik,0,2,0
+kjh,reeve,0,2,1
+westballz,darkatma,0,-2,-2
+wizzrobe,kjh,0,-2,-2
+ibc,carso,0,2,0
+denec,kuhls,0,2,0
+mvzy,ggdoe,1,0,2
+hacky,wii-kai,0,2,0
+fishaman p,bdoc,0,2,0
+the fury,kihyun,1,1,2
+puddingpop,simian,1,1,2
+spor,biff$$$$,0,2,0
+sothe,lightning,0,2,0
+moy,suplex city,0,2,0
+kibbles,rope,0,2,1
+5-1,mars,0,0,-1
+bpow,boat,0,2,0
+mrlz,portals,1,-1,0
+tangmang,bevan,1,1,2
+mattmog,solharath,0,2,0
+ibc,denec,1,0,2
+ggdoe,hacky,0,2,0
+fishaman p,kihyun,1,1,2
+simian,spor,1,-1,0
+sothe,moy,0,2,1
+kibbles,5-1,0,2,1
+bpow,portals,0,2,0
+bevan,mattmog,1,0,2
+markow,denec,0,2,0
+nox,ggdoe,0,2,1
+wakenvape,kihyun,0,2,1
+desseler,spor,1,1,2
+parzival,sothe,1,0,2
+flashburn 117,kibbles,0,2,1
+thegooddoctor,bpow,0,2,0
+gundersen,mattmog,0,2,0
+markow,nox,0,2,1
+wakenvape,spor,1,0,2
+sothe,flashburn 117,0,2,0
+thegooddoctor,gundersen,0,2,0
+rik,markow,0,2,1
+reeve,spor,0,2,0
+doubleshine,sothe,1,0,2
+luigigoshard,thegooddoctor,0,2,0
+rik,reeve,0,-2,-2
+sothe,luigigoshard,0,-2,-2
+pleeba,xiivi,1,1,2
+yohobojoe,king fedora,1,-1,0
+pure,scooby doo gucci jacuzzi,0,2,1
+elephante,lay,0,2,0
+bawstin,xurk,0,2,0
+davrob01,danil,0,2,1
+yamham,rooster,1,0,2
+passion,knubs.,1,1,2
+den,solarbear,0,2,0
+simple,mo,0,2,1
+nexic,ryou,0,2,0
+modem,schlag,0,2,0
+darkwolf,karson,1,0,2
+justjoe,intern,0,2,1
+$wank,joe k,1,0,2
+dezno,zepto,0,2,0
+mew2king,xiivi,0,2,0
+tenrye,king fedora,0,2,0
+junebug,pure,0,2,0
+prz,elephante,0,2,0
+captain faceroll,bawstin,0,2,0
+reesch,davrob01,0,2,0
+homemadewaffles,rooster,0,2,0
+davidcue,knubs.,1,1,2
+s2j,den,0,2,0
+toptierdad,simple,1,1,2
+lanceinthepants,nexic,0,2,0
+thrash,modem,1,1,2
+swedish delight,karson,0,2,0
+pseudoturtle,justjoe,1,1,2
+triple r,joe k,0,2,1
+dan salvato,dezno,0,2,0
+mew2king,tenrye,0,2,0
+junebug,prz,0,2,1
+captain faceroll,reesch,0,2,0
+homemadewaffles,knubs.,0,2,0
+s2j,simple,0,2,0
+lanceinthepants,modem,0,2,0
+swedish delight,justjoe,0,2,0
+triple r,dan salvato,0,2,1
+mew2king,junebug,0,0,-1
+captain faceroll,homemadewaffles,1,1,2
+s2j,lanceinthepants,0,2,0
+swedish delight,triple r,0,2,0
+mew2king,homemadewaffles,0,-2,-2
+s2j,swedish delight,0,-2,-2
+dezno,pleeba,0,2,0
+joe k,yohobojoe,0,0,-1
+pseudoturtle,scooby doo gucci jacuzzi,0,2,0
+karson,lay,0,2,0
+thrash,xurk,0,2,1
+nexic,danil,0,2,1
+toptierdad,yamham,0,2,1
+den,passion,0,2,1
+davidcue,solarbear,0,2,0
+rooster,mo,0,2,0
+davrob01,ryou,0,2,0
+bawstin,schlag,1,0,2
+elephante,darkwolf,0,2,0
+pure,intern,0,2,0
+king fedora,$wank,0,2,0
+xiivi,zepto,1,0,2
+dezno,joe k,1,1,2
+pseudoturtle,karson,0,2,0
+thrash,nexic,1,0,2
+toptierdad,den,1,0,2
+davidcue,rooster,0,2,1
+davrob01,schlag,0,2,0
+elephante,pure,1,0,2
+king fedora,zepto,1,0,2
+knubs.,joe k,0,2,0
+reesch,pseudoturtle,0,2,1
+prz,nexic,0,2,0
+tenrye,den,0,2,1
+dan salvato,davidcue,1,1,2
+justjoe,davrob01,0,2,0
+modem,pure,1,0,2
+simple,zepto,0,2,0
+knubs.,reesch,1,0,2
+prz,tenrye,0,2,0
+davidcue,justjoe,0,2,0
+pure,simple,0,2,1
+lanceinthepants,reesch,0,2,0
+triple r,prz,0,2,1
+junebug,davidcue,1,1,2
+captain faceroll,pure,0,2,0
+lanceinthepants,triple r,0,-2,-2
+davidcue,captain faceroll,0,-2,-2
+cooran,foxcapacitor,1,0,2
+dla,drag,1,0,2
+super fang chan,anaveragekid,1,0,2
+tpwn,koopi,1,-1,0
+ringler,shotzo,0,2,0
+nekonyancer,plasmius,0,2,0
+cheato,xtreme,0,2,1
+amazerommu,herm,1,-1,0
+grab2win,jacky,0,2,1
+lsdx,schnurb,0,2,1
+dr. greenthumb,poskii,0,2,0
+doodler,dakpo,1,1,2
+mama's little baby,fannypack,1,0,2
+wolven,nscyte,0,2,0
+travist,skate,0,2,0
+elegy,cronus,0,2,0
+hungrybox,foxcapacitor,0,2,0
+trulliam,drag,0,2,0
+absentpage,anaveragekid,0,2,0
+liberate,koopi,0,2,0
+kira,ringler,0,2,0
+i4n,nekonyancer,0,2,0
+drephen,cheato,0,2,0
+blendtec,herm,0,2,0
+duck,grab2win,0,2,0
+quaz,lsdx,0,2,0
+azzu,dr. greenthumb,0,2,1
+heartstrings,dakpo,1,0,2
+n0ne,fannypack,0,2,0
+c#,wolven,0,2,1
+sago,travist,1,0,2
+mew,elegy,0,2,0
+hungrybox,trulliam,0,2,0
+absentpage,liberate,0,2,1
+kira,i4n,0,2,0
+drephen,blendtec,0,2,0
+duck,quaz,0,-2,-2
+azzu,dakpo,0,2,0
+n0ne,c#,0,2,0
+travist,mew,1,0,2
+hungrybox,absentpage,0,2,0
+kira,drephen,0,2,0
+duck,azzu,0,2,0
+n0ne,mew,0,2,0
+hungrybox,kira,0,-2,-2
+duck,n0ne,0,-2,-2
+elegy,cooran,0,2,0
+sago,dla,0,0,-1
+wolven,super fang chan,0,2,0
+fannypack,tpwn,0,0,-1
+heartstrings,shotzo,0,2,0
+dr. greenthumb,plasmius,0,2,0
+lsdx,xtreme,0,2,1
+grab2win,amazerommu,0,0,-1
+herm,jacky,1,1,2
+cheato,schnurb,0,2,1
+nekonyancer,poskii,0,2,0
+ringler,doodler,1,0,2
+koopi,mama's little baby,1,0,2
+anaveragekid,nscyte,0,2,0
+drag,skate,0,2,1
+foxcapacitor,cronus,1,1,2
+elegy,sago,1,0,2
+wolven,fannypack,0,2,0
+heartstrings,dr. greenthumb,0,2,0
+lsdx,grab2win,0,2,1
+jacky,cheato,0,2,0
+nekonyancer,doodler,1,0,2
+mama's little baby,anaveragekid,1,1,2
+drag,cronus,0,2,0
+blendtec,sago,1,0,2
+i4n,wolven,0,2,1
+liberate,heartstrings,1,1,2
+trulliam,lsdx,0,2,0
+travist,jacky,0,2,0
+c#,doodler,1,0,2
+dakpo,anaveragekid,1,0,2
+quaz,drag,0,2,0
+sago,i4n,0,2,0
+heartstrings,trulliam,1,0,2
+travist,doodler,1,1,2
+anaveragekid,quaz,1,0,2
+azzu,sago,0,2,0
+mew,trulliam,1,1,2
+absentpage,doodler,0,2,0
+drephen,quaz,0,2,0
+azzu,trulliam,0,-2,-2
+absentpage,drephen,0,-2,-2
+shroomed,prince abu,0,2,1
+sfat,orly,0,2,0
+hungrybox,kira,0,2,0
+duck,n0ne,1,1,2
+westballz,darkatma,0,2,1
+wizzrobe,kjh,0,2,0
+mew2king,homemadewaffles,0,2,0
+s2j,swedish delight,1,1,2
+shroomed,sfat,1,0,2
+hungrybox,n0ne,0,2,0
+westballz,wizzrobe,0,2,0
+mew2king,swedish delight,1,1,2
+sfat,hungrybox,0,-2,-2
+westballz,swedish delight,0,-2,-2
+davidcue,captain faceroll,1,0,2
+lanceinthepants,triple r,0,2,0
+sothe,luigigoshard,1,1,2
+rik,reeve,0,2,0
+absentpage,drephen,0,2,0
+azzu,trulliam,1,0,2
+schythed,shinobi,1,0,2
+dairdev1l,kels,1,0,2
+prince abu,captain faceroll,0,2,1
+orly,lanceinthepants,0,2,0
+kira,luigigoshard,0,2,0
+duck,rik,0,2,0
+darkatma,absentpage,0,2,0
+kjh,trulliam,0,2,1
+homemadewaffles,shinobi,0,2,1
+s2j,kels,0,2,0
+prince abu,orly,0,2,0
+kira,duck,1,0,2
+darkatma,kjh,1,1,2
+homemadewaffles,s2j,1,0,2
+mew2king,prince abu,0,2,0
+wizzrobe,duck,0,2,1
+n0ne,kjh,0,2,1
+shroomed,s2j,0,2,0
+mew2king,wizzrobe,0,-2,-2
+n0ne,shroomed,0,-2,-2
+sfat,hungrybox,1,2,3
+westballz,swedish delight,1,2,3
+hungrybox,swedish delight,0,3,0
+hungrybox,swedish delight,0,3,1
+mew2king,wizzrobe,0,3,2
+n0ne,shroomed,1,0,3
+sfat,mew2king,1,0,3
+westballz,shroomed,1,2,3
+mew2king,shroomed,0,3,1
+swedish delight,mew2king,0,3,2

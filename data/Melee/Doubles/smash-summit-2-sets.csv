@@ -1,0 +1,15 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+hungrybox,plup,ice,esam,0,3,0
+mango,s2j,shroomed,westballz,0,3,1
+armada,mew2king,silent wolf,duck,0,3,0
+pewpewu,sfat,axe,wobbles,0,3,0
+hungrybox,plup,mango,s2j,1,2,3
+armada,mew2king,pewpewu,sfat,0,3,1
+mango,s2j,armada,mew2king,1,2,3
+armada,mew2king,hungrybox,plup,0,3,1
+ice,esam,shroomed,westballz,1,1,3
+silent wolf,duck,axe,wobbles,1,0,3
+pewpewu,sfat,shroomed,westballz,0,3,0
+hungrybox,plup,axe,wobbles,0,3,1
+pewpewu,sfat,hungrybox,plup,1,1,3
+mango,s2j,hungrybox,plup,1,0,3

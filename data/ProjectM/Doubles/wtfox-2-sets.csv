@@ -1,0 +1,14 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+kraines,unoriginal,jim jam flim flam,phil collins,1,0,2
+sharkz,gato,cyan can,knitl0rd,0,2,0
+starlord,kyo,nail,bordi,0,2,0
+mew2king,hungrybox,jim jam flim flam,phil collins,0,2,1
+sharkz,gato,starlord,kyo,0,2,0
+mew2king,hungrybox,sharkz,gato,0,3,2
+mew2king,hungrybox,sharkz,gato,1,1,3
+sharkz,gato,mew2king,hungrybox,0,3,0
+cyan can,knitl0rd,nail,bordi,1,1,2
+starlord,kyo,kraines,unoriginal,0,2,0
+jim jam flim flam,phil collins,nail,bordi,0,2,0
+starlord,kyo,jim jam flim flam,phil collins,1,0,2
+sharkz,gato,jim jam flim flam,phil collins,0,3,0

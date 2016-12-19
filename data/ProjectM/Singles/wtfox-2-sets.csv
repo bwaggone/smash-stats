@@ -1,0 +1,97 @@
+P1,P2,set winner,P1Score,P2Score
+pilot,mr. z,0,2,0
+sirencresselia,bigshot,1,0,2
+hypnotoad,cheddar,0,2,0
+murphy,daundy,1,-1,0
+cyan can,happydude2,1,0,2
+sethyk,miwa,0,0,-1
+smashyoface,toucan sam,0,0,-1
+alesana,prepareyourjanus,1,-1,0
+nail,derpy,0,2,0
+derpfish,esmod,1,0,2
+bordi,sugarworms,0,2,0
+knitl0rd,ronan,0,2,0
+jim jam flim flam,youtwo,0,2,0
+lemon zest,speedley,0,0,-1
+bootyflute,samb,0,2,1
+ibeevil,fatchu,1,-1,0
+soulster,xarco,0,2,0
+hungrybox,pilot,0,2,0
+bigshot,hypnotoad,1,0,2
+sniperkirby,daundy,1,1,2
+notlightningrunner,happydude2,1,1,2
+iori,sethyk,0,2,0
+unoriginal,smashyoface,0,2,0
+sharkz,prepareyourjanus,0,2,0
+sweaters,nail,0,2,0
+metroid,esmod,1,-1,0
+anime,bordi,0,2,0
+googlyeyed,knitl0rd,0,2,0
+bohemian milk,jim jam flim flam,1,0,2
+beguiler,lemon zest,0,2,0
+eradicator,bootyflute,0,2,0
+gato,fatchu,0,2,0
+dezno,soulster,1,-1,0
+hungrybox,hypnotoad,0,2,0
+daundy,happydude2,1,0,2
+iori,unoriginal,0,2,0
+sharkz,sweaters,0,2,0
+esmod,anime,1,0,2
+googlyeyed,jim jam flim flam,0,2,0
+beguiler,eradicator,0,2,0
+gato,soulster,0,2,0
+hungrybox,happydude2,0,2,1
+iori,sharkz,0,2,0
+anime,googlyeyed,1,0,2
+beguiler,gato,1,1,2
+hungrybox,iori,0,3,1
+googlyeyed,gato,0,3,2
+hungrybox,googlyeyed,0,3,0
+hungrybox,googlyeyed,0,3,0
+sirencresselia,cheddar,1,1,2
+dezno,mr. z,1,-1,0
+fatchu,cheddar,1,-1,0
+bootyflute,murphy,0,0,-1
+lemon zest,cyan can,1,0,2
+bohemian milk,miwa,0,0,-1
+knitl0rd,toucan sam,0,0,-1
+bordi,alesana,0,0,-1
+metroid,derpy,1,-1,0
+nail,derpfish,0,2,0
+prepareyourjanus,sugarworms,0,2,0
+smashyoface,ronan,0,2,0
+sethyk,youtwo,0,2,0
+notlightningrunner,speedley,1,-1,0
+sniperkirby,samb,0,2,0
+bigshot,ibeevil,0,0,-1
+pilot,xarco,0,2,0
+mr. z,cheddar,1,0,2
+bootyflute,cyan can,0,0,-1
+bohemian milk,knitl0rd,0,2,0
+bordi,derpy,0,2,0
+nail,prepareyourjanus,0,2,0
+smashyoface,sethyk,0,2,0
+speedley,sniperkirby,1,-1,0
+bigshot,pilot,0,2,1
+sweaters,cheddar,0,2,0
+unoriginal,bootyflute,0,2,0
+daundy,bohemian milk,0,2,0
+hypnotoad,bordi,1,-1,0
+soulster,nail,1,0,2
+eradicator,smashyoface,0,2,0
+jim jam flim flam,sniperkirby,1,0,2
+esmod,bigshot,1,0,2
+sweaters,unoriginal,1,1,2
+daundy,bordi,1,0,2
+nail,eradicator,1,0,2
+sniperkirby,bigshot,0,2,0
+anime,unoriginal,0,2,0
+beguiler,bordi,0,2,0
+happydude2,eradicator,0,2,0
+sharkz,sniperkirby,0,2,1
+anime,beguiler,1,0,3
+happydude2,sharkz,1,1,3
+iori,beguiler,1,2,3
+gato,sharkz,0,3,0
+beguiler,gato,1,0,3
+googlyeyed,gato,0,3,2
