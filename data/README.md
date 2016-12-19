@@ -21,6 +21,16 @@ Sets files contain 5 columns total.
       * Set winner is 0 if player1 won, 1 if player2 won
       * Score has error codes. -1 is a DQ, -2 means no data was reported.
       
+      
+| T1P1  | T1P2  | T2P1  | T2P2  | Set Winner      | T1Score   | T2Score   |
+| ------|------ |-------|-------| --------------- | ----------| ----------|
+| Team 1 Player 1's Tag | Team 1 Player 2's Tag  | Team 2 Player 1's Tag | Team 2 Player 2's Tag | Who won the set | game count| game count|
+      
+   * Notes:
+      * Set winner is 0 if Team 1 won, 1 if Team 2 won
+      * Score has error codes. -1 is a DQ, -2 means no data was reported.
+      * **There is an issue with players who have a '|' in their tag currently.**
+      
 ##Standings files
 
 Placings are **not in sorted order**. They are relatively straightforward and h ave two columns.
