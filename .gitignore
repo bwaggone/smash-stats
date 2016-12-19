@@ -1,3 +1,5 @@
 /venv/
+/data/convert_doubles.py
 *.swp
 *.pyc
+*test*

@@ -1,0 +1,429 @@
+P1, P2, set winner, P1Score, P2Score
+superboomfan,shyguyking,0,0,-1
+daniels,boogie!,0,2,0
+onski,astumpycow,0,0,-1
+superboomfan,boogie!,0,2,0
+shyguyking,astumpycow,0,0,-1
+daniels,onski,1,1,2
+superboomfan,astumpycow,0,0,-1
+boogie!,onski,1,0,2
+shyguyking,daniels,1,-1,0
+superboomfan,onski,0,2,0
+astumpycow,daniels,1,-1,0
+boogie!,shyguyking,0,0,-1
+superboomfan,daniels,0,2,0
+onski,shyguyking,0,0,-1
+astumpycow,boogie!,1,-1,0
+isai,spaff,0,0,-1
+stonefallow,astumpyzombie,0,0,-1
+smurf,blackf00t,0,2,0
+isai,astumpyzombie,0,0,-1
+spaff,blackf00t,1,-1,0
+stonefallow,smurf,0,2,1
+isai,blackf00t,0,2,0
+astumpyzombie,smurf,1,-1,0
+spaff,stonefallow,1,-1,0
+isai,smurf,0,2,0
+blackf00t,stonefallow,1,0,2
+astumpyzombie,spaff,1,-1,0
+isai,stonefallow,0,2,0
+smurf,spaff,0,0,-1
+blackf00t,astumpyzombie,0,0,-1
+mariguas,jeremy,0,0,-1
+tot,crazyk115,0,2,0
+sonicfuzz,butcher of bakersfield,1,0,2
+mariguas,crazyk115,0,2,0
+jeremy,butcher of bakersfield,1,-1,0
+tot,sonicfuzz,0,2,0
+mariguas,butcher of bakersfield,0,2,0
+crazyk115,sonicfuzz,1,0,2
+jeremy,tot,1,-1,0
+mariguas,sonicfuzz,0,2,0
+butcher of bakersfield,tot,1,0,2
+crazyk115,jeremy,0,0,-1
+mariguas,tot,0,2,0
+sonicfuzz,jeremy,0,0,-1
+butcher of bakersfield,crazyk115,1,0,2
+tacos,freddy cougar,0,2,0
+shihman,seantos,0,2,0
+kirbstomper,2%gay,0,2,0
+tacos,seantos,0,2,0
+freddy cougar,2%gay,0,2,0
+shihman,kirbstomper,1,0,2
+tacos,2%gay,0,2,0
+seantos,kirbstomper,1,0,2
+freddy cougar,shihman,1,-1,0
+tacos,kirbstomper,0,2,0
+2%gay,shihman,1,0,2
+seantos,freddy cougar,1,1,2
+tacos,shihman,0,2,0
+kirbstomper,freddy cougar,0,2,0
+2%gay,seantos,1,0,2
+kerokeroppi,prime,0,0,-1
+bon,fig,0,2,1
+boomalready1,duncs,1,0,2
+kerokeroppi,fig,0,2,0
+prime,duncs,1,-1,0
+bon,boomalready1,0,2,0
+kerokeroppi,duncs,0,2,0
+fig,boomalready1,1,0,2
+prime,bon,1,-1,0
+kerokeroppi,boomalready1,0,2,0
+duncs,bon,1,0,2
+fig,prime,0,0,-1
+kerokeroppi,bon,0,2,1
+boomalready1,prime,0,0,-1
+duncs,fig,0,2,1
+dext3r,kohenbro,0,2,0
+jason,handles,0,2,0
+magnus combosen,milleneum,1,-1,0
+dext3r,handles,0,2,0
+kohenbro,milleneum,1,0,2
+jason,magnus combosen,0,0,-1
+dext3r,milleneum,0,2,0
+handles,magnus combosen,0,0,-1
+kohenbro,jason,1,0,2
+dext3r,magnus combosen,0,0,-1
+milleneum,jason,1,0,2
+handles,kohenbro,0,2,0
+dext3r,jason,0,2,0
+magnus combosen,kohenbro,1,-1,0
+milleneum,handles,1,0,2
+jaimehr,dr gibs,0,2,0
+jimmy joe,djltheescapade,0,0,-1
+godspeed,k-nut,1,0,2
+jaimehr,djltheescapade,0,0,-1
+dr gibs,k-nut,1,0,2
+jimmy joe,godspeed,0,2,0
+jaimehr,k-nut,0,2,0
+djltheescapade,godspeed,1,-1,0
+dr gibs,jimmy joe,1,0,2
+jaimehr,godspeed,0,2,0
+k-nut,jimmy joe,1,0,2
+djltheescapade,dr gibs,1,-1,0
+jaimehr,jimmy joe,0,2,0
+godspeed,dr gibs,0,2,0
+k-nut,djltheescapade,0,0,-1
+heropie,fen,0,2,0
+dubs,sunshinetk,0,2,0
+connor,adulix,0,2,0
+heropie,sunshinetk,0,2,0
+fen,adulix,0,2,0
+dubs,connor,1,0,2
+heropie,adulix,0,2,0
+sunshinetk,connor,1,0,2
+fen,dubs,1,0,2
+heropie,connor,0,2,0
+adulix,dubs,1,0,2
+sunshinetk,fen,0,2,0
+heropie,dubs,0,2,0
+connor,fen,0,2,0
+adulix,sunshinetk,1,0,2
+bark the shark,jet fuel,0,2,0
+d35,rhubarb,0,2,0
+p21/c,schmerka berl,0,2,0
+bark the shark,rhubarb,0,2,0
+jet fuel,schmerka berl,1,0,2
+d35,p21/c,0,2,1
+bark the shark,schmerka berl,0,2,0
+rhubarb,p21/c,1,0,2
+jet fuel,d35,1,0,2
+bark the shark,p21/c,0,2,0
+schmerka berl,d35,1,1,2
+rhubarb,jet fuel,0,2,0
+bark the shark,d35,0,2,0
+p21/c,jet fuel,0,2,0
+schmerka berl,rhubarb,0,2,0
+kimimaru,tehz,0,0,-1
+eggmode,jpeghero,0,0,-1
+starchild,moustasher,0,2,0
+kimimaru,jpeghero,0,0,-1
+tehz,moustasher,1,-1,0
+eggmode,starchild,0,2,1
+kimimaru,moustasher,0,2,0
+jpeghero,starchild,1,-2,-2
+tehz,eggmode,1,-1,0
+kimimaru,starchild,0,2,0
+moustasher,eggmode,1,0,2
+jpeghero,tehz,0,0,-1
+kimimaru,eggmode,0,2,0
+starchild,tehz,0,0,-1
+moustasher,jpeghero,0,0,-1
+near,woof,0,2,0
+hipstur,oxycontin,0,2,0
+tmakk,elitescoringguy,0,-2,-2
+near,oxycontin,0,2,0
+woof,elitescoringguy,1,0,2
+hipstur,tmakk,0,2,1
+near,elitescoringguy,0,2,0
+oxycontin,tmakk,1,-2,-2
+woof,hipstur,1,0,2
+near,tmakk,0,2,0
+elitescoringguy,hipstur,1,0,2
+oxycontin,woof,0,2,0
+near,hipstur,1,1,2
+tmakk,woof,0,2,0
+elitescoringguy,oxycontin,0,2,0
+shears,taiko,0,2,1
+bard,ohhhbreezy,0,2,0
+jimbot,broonz,1,1,2
+shears,ohhhbreezy,0,2,0
+taiko,broonz,0,2,0
+bard,jimbot,0,2,0
+shears,broonz,0,2,0
+ohhhbreezy,jimbot,0,2,0
+taiko,bard,1,0,2
+shears,jimbot,0,2,0
+broonz,bard,1,0,2
+ohhhbreezy,taiko,1,0,2
+shears,bard,0,2,1
+jimbot,taiko,1,0,2
+broonz,ohhhbreezy,0,2,0
+janitor,the professor,0,2,0
+freean,scaryman,0,2,0
+nattybroh,rabizkoshik,0,2,0
+janitor,scaryman,0,2,0
+the professor,rabizkoshik,0,2,0
+freean,nattybroh,0,2,1
+janitor,rabizkoshik,0,2,0
+scaryman,nattybroh,1,0,2
+the professor,freean,1,0,2
+janitor,nattybroh,0,2,0
+rabizkoshik,freean,1,0,2
+scaryman,the professor,1,0,2
+janitor,freean,0,2,0
+nattybroh,the professor,0,2,0
+rabizkoshik,scaryman,0,2,1
+sotoh,cat,0,2,0
+kabal,paco,0,2,0
+dusttin,multiball,0,2,0
+sotoh,paco,0,2,0
+cat,multiball,1,0,2
+kabal,dusttin,0,2,0
+sotoh,multiball,0,2,0
+paco,dusttin,1,0,2
+cat,kabal,1,0,2
+sotoh,dusttin,0,2,0
+multiball,kabal,1,0,2
+paco,cat,0,2,0
+sotoh,kabal,0,2,0
+dusttin,cat,0,2,0
+multiball,paco,1,0,2
+dajjal,blanco mano,0,2,0
+wookiee,kingcool,0,2,0
+aces,nalgas,1,0,2
+dajjal,kingcool,0,2,0
+blanco mano,nalgas,1,0,2
+wookiee,aces,0,2,0
+dajjal,nalgas,0,2,0
+kingcool,aces,1,0,2
+blanco mano,wookiee,1,0,2
+dajjal,aces,0,2,0
+nalgas,wookiee,1,0,2
+kingcool,blanco mano,0,2,0
+dajjal,wookiee,1,0,2
+aces,blanco mano,0,2,0
+nalgas,kingcool,0,2,0
+darkhorse,shwang,0,0,-1
+madrush21,lloyd-black,0,2,0
+jlo,mortech,0,2,0
+darkhorse,lloyd-black,0,2,0
+shwang,mortech,1,-1,0
+madrush21,jlo,0,2,0
+darkhorse,mortech,0,2,0
+lloyd-black,jlo,1,0,2
+shwang,madrush21,1,-1,0
+darkhorse,jlo,0,2,0
+mortech,madrush21,1,0,2
+lloyd-black,shwang,0,0,-1
+darkhorse,madrush21,0,2,1
+jlo,shwang,0,0,-1
+mortech,lloyd-black,0,2,0
+superboomfan,stonefallow,0,2,0
+darkhorse,dajjal,1,1,2
+heropie,jimmy joe,0,2,0
+bark the shark,eggmode,0,2,1
+tacos,tot,0,2,0
+janitor,kabal,0,2,0
+kerokeroppi,jason,0,2,0
+shears,near,1,1,2
+isai,onski,0,2,0
+wookiee,madrush21,0,2,0
+jaimehr,connor,0,2,0
+kimimaru,d35,0,2,0
+mariguas,kirbstomper,0,2,0
+sotoh,freean,0,2,1
+dext3r,bon,0,2,0
+hipstur,bard,0,2,1
+superboomfan,dajjal,0,2,0
+heropie,bark the shark,1,1,2
+tacos,janitor,0,2,1
+kerokeroppi,near,0,2,0
+isai,wookiee,0,2,0
+jaimehr,kimimaru,0,2,0
+mariguas,sotoh,0,2,0
+dext3r,hipstur,0,2,0
+superboomfan,bark the shark,0,3,0
+tacos,kerokeroppi,0,3,2
+isai,jaimehr,0,3,1
+mariguas,dext3r,0,3,0
+superboomfan,tacos,0,3,0
+isai,mariguas,0,3,1
+superboomfan,isai,0,3,0
+superboomfan,tacos,0,3,0
+stonefallow,darkhorse,1,-1,0
+jimmy joe,eggmode,1,0,2
+tot,kabal,0,2,0
+jason,shears,1,0,2
+onski,madrush21,0,2,0
+connor,d35,1,1,2
+kirbstomper,freean,1,1,2
+bon,bard,1,1,2
+hipstur,darkhorse,0,2,1
+sotoh,eggmode,0,2,1
+kimimaru,tot,0,2,0
+wookiee,shears,1,1,2
+near,onski,0,2,0
+janitor,d35,1,0,2
+heropie,freean,0,3,1
+dajjal,bard,0,2,0
+hipstur,sotoh,1,1,3
+kimimaru,shears,0,3,0
+near,d35,0,3,0
+heropie,dajjal,0,3,0
+kerokeroppi,sotoh,0,3,0
+bark the shark,kimimaru,0,3,0
+dext3r,near,0,3,1
+jaimehr,heropie,0,3,0
+kerokeroppi,bark the shark,0,3,0
+dext3r,jaimehr,0,3,1
+mariguas,kerokeroppi,0,3,0
+tacos,dext3r,0,3,0
+mariguas,tacos,1,2,3
+isai,tacos,1,2,3
+daniels,2%gay,0,0,-1
+jet fuel,moustasher,0,0,-1
+smurf,aces,0,2,0
+handles,multiball,0,0,-1
+butcher of bakersfield,woof,0,0,-1
+dubs,broonz,1,-1,0
+sonicfuzz,shwang,0,0,-1
+dr gibs,nattybroh,1,-1,0
+spaff,adulix,1,-1,0
+starchild,tmakk,0,0,-1
+boomalready1,blanco mano,0,0,-1
+milleneum,dusttin,1,-1,0
+shyguyking,jeremy,0,0,-1
+p21/c,taiko,0,2,0
+freddy cougar,jlo,0,0,-1
+k-nut,the professor,0,0,-1
+boogie!,magnus combosen,0,0,-1
+rhubarb,jpeghero,0,0,-1
+duncs,nalgas,0,0,-1
+fig,paco,1,-1,0
+astumpyzombie,scaryman,1,-1,0
+sunshinetk,oxycontin,1,-1,0
+crazyk115,lloyd-black,1,-1,0
+godspeed,ohhhbreezy,0,0,-1
+blackf00t,cat,1,-1,0
+schmerka berl,tehz,1,-1,0
+seantos,kingcool,1,0,2
+prime,rabizkoshik,1,-1,0
+astumpycow,djltheescapade,0,0,-1
+fen,elitescoringguy,1,-1,0
+shihman,mortech,0,2,0
+kohenbro,jimbot,1,-1,0
+daniels,jet fuel,0,1,0
+smurf,handles,0,2,0
+butcher of bakersfield,broonz,0,0,-1
+sonicfuzz,nattybroh,1,0,2
+adulix,starchild,1,-1,0
+boomalready1,dusttin,0,2,1
+shyguyking,p21/c,1,0,2
+freddy cougar,k-nut,1,-1,0
+boogie!,rhubarb,1,1,2
+duncs,paco,0,2,0
+scaryman,oxycontin,0,0,-1
+lloyd-black,godspeed,0,3,1
+cat,tehz,1,-1,0
+kingcool,rabizkoshik,0,0,-1
+astumpycow,elitescoringguy,1,-1,0
+shihman,jimbot,0,2,0
+daniels,smurf,0,2,0
+butcher of bakersfield,nattybroh,1,0,2
+starchild,boomalready1,1,0,2
+p21/c,k-nut,0,-2,-2
+rhubarb,duncs,1,0,3
+scaryman,lloyd-black,1,-1,0
+tehz,kingcool,1,-1,0
+elitescoringguy,shihman,1,0,2
+daniels,nattybroh,1,1,2
+boomalready1,p21/c,1,0,2
+duncs,lloyd-black,0,2,0
+kingcool,shihman,1,0,2
+nattybroh,p21/c,1,0,2
+duncs,shihman,1,0,2
+p21/c,shihman,1,2,3
+shihman,nattybroh,0,3,1
+2%gay,moustasher,1,-1,0
+aces,multiball,0,0,-1
+woof,dubs,0,0,-1
+shwang,dr gibs,1,-1,0
+spaff,tmakk,1,-1,0
+blanco mano,milleneum,1,-1,0
+jeremy,taiko,1,-1,0
+jlo,the professor,1,-1,0
+magnus combosen,jpeghero,0,0,-1
+nalgas,fig,1,-1,0
+astumpyzombie,sunshinetk,0,0,-1
+crazyk115,ohhhbreezy,1,-1,0
+blackf00t,schmerka berl,0,0,-1
+seantos,prime,0,0,-1
+djltheescapade,fen,1,-1,0
+mortech,kohenbro,0,0,-1
+jimbot,moustasher,1,0,2
+astumpycow,aces,1,-1,0
+rabizkoshik,woof,1,-1,0
+cat,dr gibs,1,-1,0
+godspeed,tmakk,0,0,-1
+oxycontin,milleneum,0,0,-1
+paco,taiko,0,0,-1
+boogie!,the professor,0,0,-1
+freddy cougar,magnus combosen,1,-1,0
+shyguyking,fig,0,0,-1
+dusttin,astumpyzombie,0,0,-1
+adulix,ohhhbreezy,1,-1,0
+sonicfuzz,blackf00t,0,0,-1
+broonz,seantos,1,-1,0
+handles,fen,0,0,-1
+jet fuel,mortech,1,0,2
+moustasher,aces,1,1,2
+woof,dr gibs,0,0,-1
+godspeed,oxycontin,0,0,-1
+paco,boogie!,0,2,0
+magnus combosen,shyguyking,1,-1,0
+dusttin,ohhhbreezy,0,0,-1
+sonicfuzz,seantos,0,2,1
+handles,mortech,0,2,0
+k-nut,aces,1,-1,0
+starchild,woof,0,0,-1
+butcher of bakersfield,godspeed,0,2,0
+smurf,paco,0,2,0
+elitescoringguy,shyguyking,0,2,0
+tehz,dusttin,1,-1,0
+scaryman,sonicfuzz,1,0,2
+rhubarb,handles,1,0,2
+aces,starchild,1,0,2
+butcher of bakersfield,smurf,1,0,2
+elitescoringguy,dusttin,1,0,2
+sonicfuzz,handles,1,-1,0
+lloyd-black,starchild,1,0,2
+kingcool,smurf,1,0,2
+daniels,dusttin,1,-1,0
+boomalready1,handles,1,-1,0
+starchild,smurf,1,0,2
+dusttin,handles,1,0,2
+nattybroh,smurf,0,2,0
+duncs,handles,1,0,2
+nattybroh,handles,0,2,1
+p21/c,nattybroh,1,1,3

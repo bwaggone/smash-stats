@@ -873,7 +873,7 @@ chazix,arm,1,0,2
 waldorf,quickslowdown,0,2,0
 pinju,son-in-law,1,0,2
 zamu,mesmerist,0,2,0
-af,damit,1,0,2
+lv.10,damit,1,0,2
 abadango,arm,0,2,0
 waldorf,son-in-law,0,2,1
 fwed,zamu,0,2,1
@@ -885,9 +885,9 @@ quickslowdown,pinju,1,0,2
 damit,chazix,0,2,0
 zamu,pinju,0,2,0
 son-in-law,mesmerist,0,2,0
-arm,af,1,1,2
+arm,lv.10,1,1,2
 damit,zamu,0,2,0
-son-in-law,af,0,2,1
+son-in-law,lv.10,0,2,1
 waldorf,damit,0,2,1
 serge,son-in-law,0,2,0
 waldorf,serge,1,0,2
@@ -1280,7 +1280,7 @@ log,shreddern64,1,0,2
 shreddern64,gidy,0,0,-1
 rubio,strider blue,1,0,2
 strider blue,shreddern64,0,2,0
-strider blue,af,0,2,1
+strider blue,timko,0,2,1
 rayes,log,0,2,0
 rayes,gidy,0,0,-1
 rayes,rubio,1,0,2
@@ -1290,7 +1290,7 @@ quilly,psi-guy,0,2,0
 zero,quilly,0,2,0
 zero,iiliitist,0,2,0
 zero,loe1,0,2,0
-iiliitist,af,0,2,1
+iiliitist,timko,0,2,1
 iiliitist,rubio,1,1,2
 psi-guy,rubio,0,2,1
 psi-guy,strider blue,0,2,0

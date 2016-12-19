@@ -2254,20 +2254,20 @@ liva,king fedora,1,0,2
 char,king fedora,0,-2,-2
 dirty socks,johnnycamine,1,0,2
 ce,dyldobaggins,0,0,-1
-af,stoc,0,0,-1
+timko,stoc,0,0,-1
 b17,el jefe,1,1,2
 ryan ford,johnnycamine,0,2,0
 100 grand,ce,0,0,-1
-sveet,af,0,2,0
+sveet,timko,0,2,0
 galen the wise,el jefe,0,2,1
 ryan ford,100 grand,0,2,0
 sveet,galen the wise,1,1,2
 ryan ford,galen the wise,0,2,0
 el jefe,dirty socks,0,2,0
-af,dyldobaggins,0,0,-1
+timko,dyldobaggins,0,0,-1
 ce,stoc,0,0,-1
 johnnycamine,b17,1,0,2
-el jefe,af,0,2,0
+el jefe,timko,0,2,0
 ce,b17,1,-1,0
 100 grand,el jefe,0,2,0
 sveet,b17,0,2,0

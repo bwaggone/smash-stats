@@ -1,4 +1,4 @@
-T1P1,T1P2,T2P1,P2P2,set winner, T1Score, T2Score
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
 nomis,simon,jm,ceephax,0,2,1
 azzu,knubs.,k,severian,0,2,0
 the brons kneecap,led free,hello,a link named slykbacc,1,0,2
@@ -464,14 +464,14 @@ zain,sypherphoenix,fuzzyness,brtarolg,1,1,2
 brian,legion,moment,surskim,0,2,0
 zuppy,marko64,dmac,a-wall,0,2,0
 spy,yor742,jimmypop23,wowzers,0,2,1
-af,kid,prozak,0,2,0
+beanwolf,timko,kid,prozak,0,2,0
 mew2king,hungrybox,brian,legion,0,2,0
 buttercup,mustard,colonel dog,thrash,1,0,2
 freky,yep,zuppy,marko64,1,0,2
 puddle,vdub,pillars,oven,0,2,0
 toph,scar,spy,yor742,0,2,0
 wenbobular,tanwad,dsj,goomy,1,0,2
-phish-it,emt_sol,af,0,2,0
+phish-it,emt_sol,beanwolf,timko,0,2,0
 d-money,dream,stewbird,tetsu,1,0,2
 mew2king,hungrybox,colonel dog,thrash,0,2,0
 zuppy,marko64,puddle,vdub,1,0,2
@@ -485,11 +485,11 @@ d-money,dream,moment,surskim,1,0,2
 wenbobular,tanwad,dmac,a-wall,0,2,1
 pillars,oven,jimmypop23,wowzers,1,0,2
 buttercup,mustard,kid,prozak,1,0,2
-moment,surskim,af,1,0,2
+moment,surskim,beanwolf,timko,1,0,2
 wenbobular,tanwad,spy,yor742,0,-2,-2
 jimmypop23,wowzers,freky,yep,1,1,2
 kid,prozak,brian,legion,1,0,2
-zuppy,marko64,af,0,2,1
+zuppy,marko64,beanwolf,timko,0,2,1
 colonel dog,thrash,wenbobular,tanwad,1,0,2
 stewbird,tetsu,freky,yep,1,1,2
 dsj,goomy,brian,legion,0,2,0
