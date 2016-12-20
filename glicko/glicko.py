@@ -15,13 +15,21 @@ Add an Update for beginning of a rating period. Will decay rating and RD back
 
 
 '''
+class keydefaultdict(defaultdict):
+    def __missing__(self, key):
+        if self.default_factory is None:
+            raise KeyError( key )
+        else:
+            ret = self[key] = self.default_factory(key)
+        return ret
+
 
 class Player:
-    def __init__(self):
+    def __init__(self, name):
         q = log(10) / 400.0
         self.rating = 1500
         self.RD = 350
-        self.name = "default"
+        self.name = name
         self.g_RD = 1 / sqrt(1 + 3*q*q * self.RD**2 / (pi*pi)) 
 
     def update_g_RD(self):
@@ -102,8 +110,10 @@ class Tournament:
                 player_r[p1.name] += (p2.g_RD)*(abs(1 - match_info._win_loss) - match_info.expect_s[0])
                 player_r[p2.name] += (p1.g_RD)*(match_info._win_loss - match_info.expect_s[1])
 
+                #print(p1, p2)
             for player in self._players:
-                player_d2[player.name] = 1/((q**2) * player_d2[player.name])
+                #print(self._players)
+                player_d2[player] = 1/((q**2) * player_d2[player])
 
             self._d2s = player_d2
             self._rupdateConst = player_r
@@ -112,11 +122,11 @@ class Tournament:
         
         q = log(10) / 400.0
         for player in self._players:
-            new_rating = player.rating + (q / ( ( 1 / player.RD**2 ) + (1 / self._d2s[player.name]) ) ) * self._rupdateConst[player.name]
-            new_RD = sqrt(( ( 1 / player.RD**2 ) + (1 / self._d2s[player.name]))**-1 )
-            player.rating = new_rating
-            player.RD = new_RD
-            player.update_g_RD()
+            new_rating = self._players[player].rating + (q / ( ( 1 / self._players[player].RD**2 ) + (1 / self._d2s[player]) ) ) * self._rupdateConst[player]
+            new_RD = sqrt(( ( 1 / self._players[player].RD**2 ) + (1 / self._d2s[player]))**-1 )
+            self._players[player].rating = new_rating
+            self._players[player].RD = new_RD
+            self._players[player].update_g_RD()
 
 
 
