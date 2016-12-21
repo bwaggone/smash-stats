@@ -15,13 +15,14 @@ Below is a general list of tasks to get done, stretch goals, and what has actual
 * Create and update a list of tournament slugs to scrape from
 * Modify master tournament file to scrape entrant numbers
 * Reorganize file structure for the scraper code, give a blank set of slugs to scrape from
-* Pipe data results to Glicko/Custom calculator.
+* Pipe data results to Glicko/Custom calculator. \**partially done*
 * Add exceptions to calculator, ignore results from player X on tournament Y.
 
 ####KNOWN ISSUES
 * People with pipes (|) in their tag. *Currently no way to distinguish a pipe and a sponsor separator without bombarding smash.gg with a billion API requests*. This is not an issue for doubles files, only singles.
 * Does **not** work on tournaments that run games other than smash. (Rivals of Aether, other fighting games).
 * **EVO is excluded because it is not hosted on smash.gg. It will have to be added manually to the data, or another method needs to be used. **
+*  Check into superboom vs. superboomfan for GOML, the lack of consistency is worrying.
 
 ####Future Goals:
 * ~~Scrape the smash.gg api to get tournament results~~
