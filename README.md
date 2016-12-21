@@ -9,14 +9,16 @@ Below is a general list of tasks to get done, stretch goals, and what has actual
 * Data file structure
 * Have master tournament files with a list of slugs + dates + entrants
 * 64/Melee/Brawl/PM/Smash4 Support (Scraping)
+* Define glicko rating periods, add RD Decay
 
 ####TO-DO
-* Define glicko rating periods, add RD Decay + tournament timeout
+* Add support for more than one Calendar year + tournament timeout
 * Create and update a list of tournament slugs to scrape from
 * Modify master tournament file to scrape entrant numbers
-* Reorganize file structure for the scraper code, give a blank set of slugs to scrape from
+* ~~Reorganize file structure for the scraper code~~, give a blank set of slugs to scrape from
 * Pipe data results to Glicko/Custom calculator. \**partially done*
 * Add exceptions to calculator, ignore results from player X on tournament Y.
+* **Clean the glicko calculator code holy shit it looks like a nightmare**
 
 ####KNOWN ISSUES
 * People with pipes (|) in their tag. *Currently no way to distinguish a pipe and a sponsor separator without bombarding smash.gg with a billion API requests*. This is not an issue for doubles files, only singles.
