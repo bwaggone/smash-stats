@@ -2,13 +2,13 @@ P1,P2,set winner,P1Score,P2Score
 1000,tuna,0,2,0
 duck chris,evals,1,0,2
 zergos,urpasmash,0,0,-1
-superboom,1000,0,2,0
+superboomfan,1000,0,2,0
 socrates,nyani,0,0,-1
 snorlax,evals,0,2,0
 janco,zergos,0,2,0
-superboom,socrates,0,2,0
+superboomfan,socrates,0,2,0
 snorlax,janco,1,0,2
-superboom,janco,0,-2,-2
+superboomfan,janco,0,-2,-2
 zergos,tuna,0,2,0
 nyani,duck chris,1,-1,0
 1000,urpasmash,0,0,-1
@@ -133,7 +133,7 @@ hotspank,khakis,1,0,2
 daniels,keagsbsmashin,0,2,0
 marlwolfe,khakis,0,2,0
 daniels,marlwolfe,0,-2,-2
-superboom,janco,0,2,0
+superboomfan,janco,0,2,0
 ybombb,jam,0,2,1
 tr3gthez,nintendude,0,2,0
 revan,shears,0,2,0
@@ -141,14 +141,14 @@ kerokeroppi,fck vwls,0,2,0
 fireblaster,handsometom,0,2,1
 wizzrobe,preston,0,2,0
 bark the shark,b link,0,2,1
-superboom,ybombb,0,2,0
+superboomfan,ybombb,0,2,0
 tr3gthez,revan,0,2,1
 kerokeroppi,fireblaster,0,2,0
 wizzrobe,bark the shark,0,2,0
-superboom,tr3gthez,0,3,0
+superboomfan,tr3gthez,0,3,0
 kerokeroppi,wizzrobe,0,3,2
-superboom,kerokeroppi,0,3,1
-superboom,tr3gthez,0,3,0
+superboomfan,kerokeroppi,0,3,1
+superboomfan,tr3gthez,0,3,0
 the big d,captain fabulous,0,2,0
 nesskhalifa,sextc,1,0,2
 b0n,white,0,2,0

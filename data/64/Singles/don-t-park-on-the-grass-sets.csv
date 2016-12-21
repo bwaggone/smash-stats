@@ -1,0 +1,153 @@
+P1,P2,set winner,P1Score,P2Score
+xanz,prism,1,0,2
+probers,mookie,0,2,0
+kavon,yung god,0,2,0
+superboomfan,prism,0,2,0
+kriskringle,drewgong,1,1,2
+madrush21,moze,0,2,0
+rizner,hipo,0,2,0
+jason,probers,0,2,0
+gt,jgin,0,2,0
+letsgo,kavon,0,2,0
+pizza,yungpurp,0,2,0
+superboomfan,drewgong,0,2,0
+madrush21,rizner,0,2,1
+jason,gt,0,2,0
+letsgo,pizza,0,2,1
+superboomfan,madrush21,0,2,0
+jason,letsgo,1,1,2
+superboomfan,letsgo,0,-2,-2
+yungpurp,xanz,1,-1,0
+hipo,mookie,0,2,1
+kriskringle,yung god,0,0,-1
+xanz,kavon,0,2,0
+jgin,probers,1,0,2
+hipo,moze,1,1,2
+kriskringle,prism,0,2,0
+rizner,xanz,0,2,0
+drewgong,probers,0,2,1
+pizza,moze,0,2,0
+gt,kriskringle,0,2,1
+rizner,drewgong,1,0,2
+pizza,gt,1,0,2
+jason,drewgong,0,2,0
+madrush21,gt,0,2,0
+jason,madrush21,0,-2,-2
+ngwn,m2cain,0,2,0
+brny,voidstar,0,0,-1
+nasian,daniels,0,0,-1
+mariguas,ngwn,0,2,0
+smurf,fudgeball,0,2,1
+captain l,whitegrizzly,0,2,0
+aisengobay,weirdy man,0,2,0
+hero pie,brny,0,2,0
+prime,frogge,0,2,0
+connor,nasian,0,2,0
+pewpewu,scruffy mcwonder crumpet,0,2,0
+mariguas,smurf,0,2,0
+captain l,aisengobay,0,2,0
+hero pie,prime,0,2,0
+connor,pewpewu,0,2,0
+mariguas,captain l,0,2,0
+hero pie,connor,0,2,0
+mariguas,hero pie,0,-2,-2
+scruffy mcwonder crumpet,m2cain,0,2,0
+weirdy man,voidstar,0,0,-1
+fudgeball,daniels,0,0,-1
+scruffy mcwonder crumpet,nasian,1,0,2
+frogge,brny,1,0,2
+weirdy man,whitegrizzly,0,2,0
+fudgeball,ngwn,0,2,0
+aisengobay,nasian,0,0,-1
+smurf,brny,0,2,1
+pewpewu,weirdy man,0,2,0
+prime,fudgeball,1,1,2
+aisengobay,smurf,1,0,2
+pewpewu,fudgeball,0,2,1
+connor,smurf,0,2,0
+captain l,pewpewu,0,2,1
+connor,captain l,0,-2,-2
+zurdo,fanboy,1,0,2
+mistertizye,ctg,0,0,-1
+wizzrobe,fanboy,0,2,0
+barron,akajumo,0,2,0
+bon,scootieloo,0,2,0
+t brett,travkid,0,0,-1
+nintendude,mistertizye,0,0,-1
+silentknight,darkneon,1,0,2
+mojomonkey,pzero39,0,2,0
+pluto,dusttin,0,0,-1
+wizzrobe,barron,0,2,0
+bon,t brett,0,2,0
+nintendude,darkneon,0,2,0
+mojomonkey,pluto,0,2,1
+wizzrobe,bon,0,2,0
+nintendude,mojomonkey,0,2,0
+wizzrobe,nintendude,0,-2,-2
+dusttin,zurdo,1,-1,0
+travkid,ctg,0,0,-1
+zurdo,pzero39,1,0,2
+silentknight,mistertizye,0,0,-1
+travkid,scootieloo,1,-1,0
+akajumo,fanboy,1,-1,0
+t brett,pzero39,0,2,0
+barron,silentknight,0,2,0
+pluto,scootieloo,0,2,0
+darkneon,fanboy,0,2,0
+t brett,barron,0,2,0
+pluto,darkneon,1,0,2
+mojomonkey,t brett,0,2,0
+bon,darkneon,0,2,1
+mojomonkey,bon,0,-2,-2
+dankey kang,abc,0,2,1
+barksanchez,dankey kang,0,2,0
+a la carte,lookalike,0,2,0
+spark,erk,0,2,1
+shanks,chai,0,0,-1
+fireblaster,jedisalazar,0,0,-1
+mr. slimey,littlespoon,0,2,1
+supa,-philip coast philip-,0,2,0
+touque,java boy,0,2,0
+barksanchez,a la carte,0,2,0
+spark,shanks,1,0,2
+fireblaster,mr. slimey,0,2,0
+supa,touque,0,2,0
+barksanchez,shanks,0,2,0
+fireblaster,supa,0,2,0
+barksanchez,fireblaster,0,-2,-2
+java boy,abc,0,2,1
+java boy,-philip coast philip-,1,0,2
+littlespoon,jedisalazar,0,0,-1
+chai,erk,1,-1,0
+lookalike,dankey kang,0,2,1
+spark,-philip coast philip-,0,2,0
+a la carte,littlespoon,0,2,0
+touque,erk,0,2,0
+mr. slimey,lookalike,0,2,0
+spark,a la carte,0,2,0
+touque,mr. slimey,0,2,1
+supa,spark,1,1,2
+shanks,touque,0,2,1
+spark,shanks,0,-2,-2
+superboomfan,letsgo,0,3,0
+barksanchez,fireblaster,0,3,2
+wizzrobe,nintendude,0,3,0
+mariguas,hero pie,0,3,0
+superboomfan,barksanchez,0,3,0
+wizzrobe,mariguas,1,1,3
+superboomfan,mariguas,0,3,0
+superboomfan,mariguas,0,3,0
+shanks,madrush21,1,0,3
+jason,spark,0,3,0
+mojomonkey,captain l,0,3,1
+connor,bon,0,3,1
+nintendude,madrush21,0,3,2
+hero pie,jason,0,3,0
+letsgo,mojomonkey,1,1,3
+fireblaster,connor,0,3,0
+nintendude,hero pie,1,1,3
+mojomonkey,fireblaster,1,0,3
+barksanchez,hero pie,0,3,1
+wizzrobe,fireblaster,0,3,0
+barksanchez,wizzrobe,1,0,3
+mariguas,wizzrobe,0,3,0

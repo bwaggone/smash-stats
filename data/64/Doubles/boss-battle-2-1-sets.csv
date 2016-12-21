@@ -1,0 +1,95 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+vinsanity,thrillhouse,barrels,dirtcruncher,0,2,0
+apparition the ambassador,q!,lou sanus,dasit mane,1,-1,0
+fireblaster,superboomfan,barrels,dirtcruncher,0,2,0
+vinsanity,thrillhouse,apparition the ambassador,q!,0,0,-1
+fireblaster,superboomfan,lou sanus,dasit mane,0,2,0
+barrels,dirtcruncher,apparition the ambassador,q!,0,0,-1
+fireblaster,superboomfan,apparition the ambassador,q!,0,0,-1
+lou sanus,dasit mane,vinsanity,thrillhouse,1,0,2
+fireblaster,superboomfan,vinsanity,thrillhouse,0,2,0
+lou sanus,dasit mane,barrels,dirtcruncher,1,0,2
+eg,a to the z,walkrofsky,yolft,0,2,0
+hipstur,grahamaglam,village mascot,papa,0,0,-1
+barksanchez,darkhorse,walkrofsky,yolft,0,2,1
+eg,a to the z,hipstur,grahamaglam,0,2,0
+barksanchez,darkhorse,village mascot,papa,0,0,-1
+walkrofsky,yolft,hipstur,grahamaglam,0,2,0
+barksanchez,darkhorse,hipstur,grahamaglam,0,2,0
+village mascot,papa,eg,a to the z,1,-1,0
+barksanchez,darkhorse,eg,a to the z,0,2,1
+village mascot,papa,walkrofsky,yolft,1,-1,0
+onski,d35,recneps,pintoa,0,2,0
+fumbles,maniac379,jsmirk,rocket,0,2,0
+stranded,kerokeroppi,recneps,pintoa,0,2,0
+onski,d35,fumbles,maniac379,0,2,0
+stranded,kerokeroppi,jsmirk,rocket,0,2,0
+recneps,pintoa,fumbles,maniac379,1,0,2
+stranded,kerokeroppi,fumbles,maniac379,0,2,0
+jsmirk,rocket,onski,d35,1,1,2
+stranded,kerokeroppi,onski,d35,0,2,0
+jsmirk,rocket,recneps,pintoa,0,2,0
+saltsizzle,professor_wizard,rebel scum,the drew,0,2,0
+fishaman p,meerkat,box765,bhol,0,0,-1
+shears,marbles,rebel scum,the drew,0,2,0
+saltsizzle,professor_wizard,fishaman p,meerkat,1,0,2
+shears,marbles,box765,bhol,0,0,-1
+rebel scum,the drew,fishaman p,meerkat,1,0,2
+shears,marbles,fishaman p,meerkat,0,2,0
+box765,bhol,saltsizzle,professor_wizard,1,-1,0
+shears,marbles,saltsizzle,professor_wizard,0,2,0
+box765,bhol,rebel scum,the drew,1,-1,0
+ctg,nacl,jamjar,nardwell,0,2,0
+$$$ jim $$$,piratetrips,cormander,tyhiggz,0,2,0
+ctg,nacl,cormander,tyhiggz,0,2,0
+jamjar,nardwell,$$$ jim $$$,piratetrips,1,0,2
+ctg,nacl,$$$ jim $$$,piratetrips,1,0,2
+cormander,tyhiggz,jamjar,nardwell,0,2,0
+dogg,dtan,yaron,knitephox,0,0,-1
+janitor,lorenzo,jay_mute$,whitejesus,0,2,1
+dogg,dtan,jay_mute$,whitejesus,0,2,0
+yaron,knitephox,janitor,lorenzo,1,-1,0
+dogg,dtan,janitor,lorenzo,0,2,0
+jay_mute$,whitejesus,yaron,knitephox,0,0,-1
+madrush21,da bear,gt,icactusdog,0,2,0
+dogs_johnson,b33f,mando,limesoda,0,2,0
+madrush21,da bear,mando,limesoda,0,2,0
+gt,icactusdog,dogs_johnson,b33f,1,0,2
+madrush21,da bear,dogs_johnson,b33f,1,0,2
+mando,limesoda,gt,icactusdog,0,2,0
+llcstoism,pugs,scoback,rocktimus crime,0,2,0
+komotonoto,battlecow,deathcpo,bacorn,0,2,0
+llcstoism,pugs,deathcpo,bacorn,0,2,0
+scoback,rocktimus crime,komotonoto,battlecow,1,0,2
+llcstoism,pugs,komotonoto,battlecow,0,2,1
+deathcpo,bacorn,scoback,rocktimus crime,1,0,2
+fireblaster,superboomfan,eg,a to the z,0,2,0
+llcstoism,pugs,madrush21,da bear,0,2,0
+shears,marbles,onski,d35,0,2,1
+$$$ jim $$$,piratetrips,janitor,lorenzo,0,2,0
+barksanchez,darkhorse,vinsanity,thrillhouse,0,2,0
+dogs_johnson,b33f,komotonoto,battlecow,0,2,1
+stranded,kerokeroppi,fishaman p,meerkat,0,2,0
+dogg,dtan,ctg,nacl,0,2,0
+fireblaster,superboomfan,llcstoism,pugs,0,2,0
+shears,marbles,$$$ jim $$$,piratetrips,0,2,0
+barksanchez,darkhorse,dogs_johnson,b33f,0,2,0
+stranded,kerokeroppi,dogg,dtan,1,1,2
+fireblaster,superboomfan,shears,marbles,0,3,0
+barksanchez,darkhorse,dogg,dtan,0,3,2
+fireblaster,superboomfan,barksanchez,darkhorse,0,3,0
+fireblaster,superboomfan,dogg,dtan,0,3,1
+eg,a to the z,madrush21,da bear,0,2,0
+onski,d35,janitor,lorenzo,0,2,1
+vinsanity,thrillhouse,komotonoto,battlecow,0,2,1
+fishaman p,meerkat,ctg,nacl,1,1,2
+stranded,kerokeroppi,eg,a to the z,0,2,0
+dogs_johnson,b33f,onski,d35,0,2,1
+$$$ jim $$$,piratetrips,vinsanity,thrillhouse,0,2,0
+llcstoism,pugs,ctg,nacl,1,0,2
+stranded,kerokeroppi,dogs_johnson,b33f,0,3,0
+$$$ jim $$$,piratetrips,ctg,nacl,1,1,3
+shears,marbles,stranded,kerokeroppi,1,0,3
+dogg,dtan,ctg,nacl,0,3,1
+stranded,kerokeroppi,dogg,dtan,1,1,3
+barksanchez,darkhorse,dogg,dtan,1,0,3

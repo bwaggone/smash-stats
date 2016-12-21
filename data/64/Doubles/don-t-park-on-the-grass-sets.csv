@@ -1,0 +1,43 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+xanz,dankey kang,sully,lauerman,0,2,0
+littlespoon,mcgodd,daniels,dusttin,0,0,-1
+sandbag,el paco,mold,parrotiopsis,1,-1,0
+t brett,mr. slimey,mookie,prism,0,2,0
+wizzrobe,superboomfan,xanz,dankey kang,0,2,0
+gt,ctg,a la carte,pluto,1,1,2
+barksanchez,madrush21,littlespoon,mcgodd,0,2,0
+bon,hero pie,kriskringle,rizner,0,2,0
+fireblaster,nintendude,mold,parrotiopsis,0,2,0
+touque,mojomonkey,captain l,smurf,0,2,0
+mariguas,jason,t brett,mr. slimey,0,2,0
+letsgo,pizza,legion of boomer,fudgeball,0,2,1
+wizzrobe,superboomfan,a la carte,pluto,0,2,0
+barksanchez,madrush21,bon,hero pie,0,2,0
+fireblaster,nintendude,touque,mojomonkey,0,2,0
+mariguas,jason,letsgo,pizza,0,2,0
+wizzrobe,superboomfan,barksanchez,madrush21,0,-2,-2
+fireblaster,nintendude,mariguas,jason,0,-2,-2
+legion of boomer,fudgeball,sully,lauerman,0,2,0
+captain l,smurf,daniels,dusttin,0,0,-1
+kriskringle,rizner,sandbag,el paco,0,0,-1
+gt,ctg,mookie,prism,0,2,0
+legion of boomer,fudgeball,t brett,mr. slimey,1,0,2
+captain l,smurf,mold,parrotiopsis,0,2,0
+kriskringle,rizner,littlespoon,mcgodd,1,1,2
+gt,ctg,xanz,dankey kang,0,2,0
+bon,hero pie,t brett,mr. slimey,0,2,0
+a la carte,pluto,captain l,smurf,1,1,2
+letsgo,pizza,littlespoon,mcgodd,0,2,1
+touque,mojomonkey,gt,ctg,0,2,0
+bon,hero pie,captain l,smurf,0,-2,-2
+letsgo,pizza,touque,mojomonkey,0,-2,-2
+fireblaster,nintendude,mariguas,jason,1,2,3
+wizzrobe,superboomfan,barksanchez,madrush21,0,3,0
+mariguas,jason,wizzrobe,superboomfan,1,1,3
+wizzrobe,superboomfan,fireblaster,nintendude,0,3,0
+bon,hero pie,captain l,smurf,0,3,1
+letsgo,pizza,touque,mojomonkey,0,3,2
+fireblaster,nintendude,bon,hero pie,0,3,0
+barksanchez,madrush21,letsgo,pizza,0,3,0
+fireblaster,nintendude,barksanchez,madrush21,0,3,1
+mariguas,jason,fireblaster,nintendude,1,1,3

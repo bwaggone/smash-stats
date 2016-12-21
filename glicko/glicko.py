@@ -31,11 +31,21 @@ class Player:
         self.RD = 350
         self.name = name
         self.g_RD = 1 / sqrt(1 + 3*q*q * self.RD**2 / (pi*pi)) 
+        self.num_tournaments = 0
+        self.num_sets = 0
+        self.wlr = [0, 0]
+        self.last_rp = -1
 
     def update_g_RD(self):
         q = log(10) / 400.0
         self.g_RD = 1 / sqrt(1 + 3*q*q * self.RD**2 / (pi*pi)) 
 
+    def decay_RD(self, rp, c):
+        if self.last_rp == -1:
+            raise "Usage Error: You can't update the RD for a new player"
+        else:
+            diff = rp - self.last_rp
+            self.RD = min(sqrt(self.RD**2 + (diff)*c**2), 350)
 
 '''
 Match is an object that contains players, the winner and loser,
@@ -79,15 +89,27 @@ Add a view for displaying the results and the
 '''
 
 class Tournament:
-    def __init__(self, players, matches):
+    def __init__(self, players, matches, c):
         self._matches = matches
         self._players = players
         #q = log(10) / 400
         self._d2s = defaultdict(float)
         self._rupdateConst = defaultdict(float)
+        self.setsthistournament = defaultdict(int)
+        self.c = c
         #d^2 = 1 / (q^2 + sum of all games[(g(RD_i))^2 * E(X) *  (1 - E(X)))
 
-    def update_ratings(self):
+    def update_ratings(self, rp):
+        def calc_decay(self, rp):
+            for player in self._players:
+                player.RD = min(sqrt(player.RD**2 + abs(player.last_rp - rp)*self.c**2), 350)
+                if(player.RD > 350):
+                    print("Error!")
+
+
+            return
+            #raise "NotImplementedError"
+
         def calc_d_sqrd(self):
             #Set up the d^2 dictionary from string -> float
             player_d2 = defaultdict(float)
@@ -100,6 +122,11 @@ class Tournament:
                 match_info = self._matches[i]
                 p1 = match_info._players[0]
                 p2 = match_info._players[1]
+
+                #Update the set count
+                self.setsthistournament[p1.name] += 1
+                self.setsthistournament[p2.name] += 1
+
                 #Update the sum for the denominator of d^2
                 player_d2[p1.name] += (p2.g_RD**2)*match_info.expect_s[0]*(1 - match_info.expect_s[0])
                 player_d2[p2.name] += (p1.g_RD**2)*match_info.expect_s[1]*(1 - match_info.expect_s[1])
@@ -113,20 +140,30 @@ class Tournament:
                 #print(p1, p2)
             for player in self._players:
                 #print(self._players)
-                player_d2[player] = 1/((q**2) * player_d2[player])
+                if(self.setsthistournament[player.name] != 0):
+                    try:
+                        player_d2[player.name] = 1/((q**2) * player_d2[player.name])
+                    except:
+                        print(player.name, player.num_sets)
+                        exit(-1)
 
             self._d2s = player_d2
             self._rupdateConst = player_r
-        
+        calc_decay(self, rp) 
         calc_d_sqrd(self)
         
         q = log(10) / 400.0
         for player in self._players:
-            new_rating = self._players[player].rating + (q / ( ( 1 / self._players[player].RD**2 ) + (1 / self._d2s[player]) ) ) * self._rupdateConst[player]
-            new_RD = sqrt(( ( 1 / self._players[player].RD**2 ) + (1 / self._d2s[player]))**-1 )
-            self._players[player].rating = new_rating
-            self._players[player].RD = new_RD
-            self._players[player].update_g_RD()
+            if(self.setsthistournament[player.name] != 0):
+                try:
+                    new_rating = player.rating + (q / ( ( 1 / player.RD**2 ) + (1 / self._d2s[player.name]) ) ) * self._rupdateConst[player.name]
+                    new_RD = min(sqrt(( ( 1 / player.RD**2 ) + (1 / self._d2s[player.name]))**-1 ), 350)
+                    player.rating = new_rating
+                    player.RD = new_RD
+                    player.update_g_RD()
+                except:
+                    print(player.name, player.num_sets)
+                    exit(-1)
 
 
 

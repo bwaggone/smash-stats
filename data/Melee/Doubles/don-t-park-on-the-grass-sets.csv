@@ -1,0 +1,363 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+blackout,scarecrow,zurdo,jnukes4jesus,0,2,0
+sorry,quibb,dank,hadoken,1,0,2
+haelst,toka,brawlwasbetter,amber,0,2,1
+pewpewu,sfat,blackout,scarecrow,0,2,0
+yikes,nigel,zen,namsang,0,2,0
+iceman,syphichan,dank,hadoken,0,2,1
+webwipe,mojomonkey,haelst,toka,0,2,0
+pewpewu,sfat,yikes,nigel,0,2,0
+iceman,syphichan,webwipe,mojomonkey,1,0,2
+pewpewu,sfat,webwipe,mojomonkey,0,2,0
+haelst,toka,zurdo,jnukes4jesus,0,2,0
+zen,namsang,sorry,quibb,0,2,1
+blackout,scarecrow,brawlwasbetter,amber,0,2,0
+haelst,toka,dank,hadoken,1,0,2
+zen,namsang,blackout,scarecrow,1,1,2
+yikes,nigel,dank,hadoken,0,2,0
+iceman,syphichan,blackout,scarecrow,1,1,2
+yikes,nigel,blackout,scarecrow,0,2,0
+webwipe,mojomonkey,yikes,nigel,0,-2,-2
+raito,blahcookies,wasp,yeezus,1,0,2
+triple f,piner,kackey,egg,0,2,0
+zazu,denpa,burnin taco,beerz4yearz,1,0,2
+ice,leffen,wasp,yeezus,0,2,0
+metric,buttercup,schwa,heretic,0,2,0
+mew2queen,nmw,triple f,piner,0,2,0
+tinojoe,sway,burnin taco,beerz4yearz,0,2,0
+ice,leffen,metric,buttercup,0,2,0
+mew2queen,nmw,tinojoe,sway,1,0,2
+ice,leffen,tinojoe,sway,0,2,0
+burnin taco,beerz4yearz,raito,blahcookies,1,0,2
+schwa,heretic,kackey,egg,0,2,1
+wasp,yeezus,zazu,denpa,0,2,0
+raito,blahcookies,triple f,piner,0,2,0
+schwa,heretic,wasp,yeezus,1,0,2
+metric,buttercup,raito,blahcookies,0,2,0
+mew2queen,nmw,wasp,yeezus,0,2,1
+metric,buttercup,mew2queen,nmw,1,0,2
+tinojoe,sway,mew2queen,nmw,0,-2,-2
+flex,pilldemon,stop,rumi,0,2,0
+nwchris,globe,bome,ogsupersand,0,2,0
+mexican ghost,felix,aaron g,jball,0,2,0
+hungrybox,swedish delight,flex,pilldemon,0,2,0
+punk panda,chevy,derrick,dacky,0,2,0
+psychomidget,mchi,nwchris,globe,0,2,0
+rk,bodlack,mexican ghost,felix,1,1,2
+hungrybox,swedish delight,punk panda,chevy,0,2,0
+psychomidget,mchi,mexican ghost,felix,0,2,0
+hungrybox,swedish delight,psychomidget,mchi,0,2,0
+rk,bodlack,stop,rumi,0,0,-1
+derrick,dacky,bome,ogsupersand,0,2,0
+flex,pilldemon,aaron g,jball,0,2,0
+rk,bodlack,nwchris,globe,0,2,0
+derrick,dacky,flex,pilldemon,1,1,2
+punk panda,chevy,rk,bodlack,0,2,1
+mexican ghost,felix,flex,pilldemon,1,1,2
+punk panda,chevy,flex,pilldemon,1,0,2
+psychomidget,mchi,flex,pilldemon,0,-2,-2
+monkeykills27,condor,digital,barth,0,2,0
+yon,danye,the,it,0,2,1
+dahnade,chilly,faddiaddi,pocket sand,1,0,2
+twin,javi,monkeykills27,condor,0,2,0
+im_jk,umasi,l33t,madjick,0,2,0
+oreo,theprime,yon,danye,0,2,0
+yardsale,jv,faddiaddi,pocket sand,0,2,1
+twin,javi,im_jk,umasi,0,2,0
+oreo,theprime,yardsale,jv,1,1,2
+twin,javi,yardsale,jv,0,2,0
+faddiaddi,pocket sand,digital,barth,0,2,1
+l33t,madjick,the,it,0,2,1
+monkeykills27,condor,dahnade,chilly,0,2,0
+faddiaddi,pocket sand,yon,danye,0,2,0
+l33t,madjick,monkeykills27,condor,1,1,2
+im_jk,umasi,faddiaddi,pocket sand,1,1,2
+oreo,theprime,monkeykills27,condor,0,2,0
+faddiaddi,pocket sand,oreo,theprime,1,0,2
+yardsale,jv,oreo,theprime,0,-2,-2
+bl1nd_gh0st,lmnts,mold,parrotiopsis,0,2,0
+isaac_gs,peachboss,daniels,dusttin,0,0,-1
+ohai,sdking,yorozuya volk-chan,koschka,0,2,1
+westballz,gahtzu,bl1nd_gh0st,lmnts,0,2,0
+almond,zeddy,beewesley,r0cket_wizard,1,0,2
+shoyo,chip,isaac_gs,peachboss,0,2,0
+fuck this lame ass game,arm & hammer,ohai,sdking,1,1,2
+westballz,gahtzu,beewesley,r0cket_wizard,0,2,0
+shoyo,chip,ohai,sdking,0,2,0
+westballz,gahtzu,shoyo,chip,0,2,1
+fuck this lame ass game,arm & hammer,mold,parrotiopsis,0,2,0
+almond,zeddy,daniels,dusttin,0,0,-1
+bl1nd_gh0st,lmnts,yorozuya volk-chan,koschka,1,0,2
+fuck this lame ass game,arm & hammer,isaac_gs,peachboss,0,2,0
+almond,zeddy,yorozuya volk-chan,koschka,1,0,2
+beewesley,r0cket_wizard,fuck this lame ass game,arm & hammer,0,2,0
+ohai,sdking,yorozuya volk-chan,koschka,1,0,2
+beewesley,r0cket_wizard,yorozuya volk-chan,koschka,0,2,0
+shoyo,chip,beewesley,r0cket_wizard,0,-2,-2
+grey,sassy,boarder,rinchilla,0,2,0
+ringringring,a*,dkarnage,metroxe,0,2,0
+sandbag,el paco,brass,mcwaffles,0,2,0
+wizzrobe,prince f. abu,grey,sassy,0,2,0
+pwrup!,icebit,wrackle,thomas the legend,1,0,2
+ebay,vinodh,ringringring,a*,0,2,0
+dsl_pl0x,keithrep,sandbag,el paco,0,2,0
+wizzrobe,prince f. abu,wrackle,thomas the legend,0,2,0
+ebay,vinodh,dsl_pl0x,keithrep,0,2,1
+wizzrobe,prince f. abu,ebay,vinodh,0,2,0
+sandbag,el paco,boarder,rinchilla,0,0,-1
+pwrup!,icebit,dkarnage,metroxe,0,2,0
+grey,sassy,brass,mcwaffles,1,1,2
+sandbag,el paco,ringringring,a*,0,2,1
+pwrup!,icebit,brass,mcwaffles,0,0,-1
+wrackle,thomas the legend,sandbag,el paco,0,2,0
+dsl_pl0x,keithrep,pwrup!,icebit,0,2,1
+wrackle,thomas the legend,dsl_pl0x,keithrep,1,1,2
+ebay,vinodh,dsl_pl0x,keithrep,0,-2,-2
+ziggy zanderfaul,scruffy mcwonder crumpet,bland,shineasaurusflex,1,0,2
+chai,ursa,jelijm,saxon,0,2,1
+tobi,foxy grandpa,snappy sam,spook,0,2,1
+the moon,professor pro,bland,shineasaurusflex,0,2,0
++ultra,kyza,aura,ndie,1,1,2
+rocky,spark,chai,ursa,0,2,1
+jawanga,wasabi,tobi,foxy grandpa,0,2,0
+the moon,professor pro,aura,ndie,0,2,0
+rocky,spark,jawanga,wasabi,0,2,0
+the moon,professor pro,rocky,spark,0,2,0
+tobi,foxy grandpa,ziggy zanderfaul,scruffy mcwonder crumpet,0,2,1
++ultra,kyza,jelijm,saxon,0,2,1
+bland,shineasaurusflex,snappy sam,spook,0,2,0
+tobi,foxy grandpa,chai,ursa,1,0,2
++ultra,kyza,bland,shineasaurusflex,0,2,1
+aura,ndie,chai,ursa,0,2,1
+jawanga,wasabi,+ultra,kyza,0,2,0
+aura,ndie,jawanga,wasabi,1,1,2
+rocky,spark,jawanga,wasabi,0,-2,-2
+crossie,ibm2000,hurricane,eight%,0,2,0
+green,shitty hungrybox,elfman,red lego,1,0,2
+chango,xest,selise,archon,0,2,0
+bladewise,syrox,crossie,ibm2000,0,2,0
+peachicedt,davis,mini joel,krizski,0,2,1
+wenbobular,winston,elfman,red lego,0,2,0
+cmg,tea,chango,xest,1,-1,0
+bladewise,syrox,peachicedt,davis,0,2,0
+wenbobular,winston,chango,xest,0,2,0
+bladewise,syrox,wenbobular,winston,0,2,0
+cmg,tea,hurricane,eight%,1,-1,0
+mini joel,krizski,green,shitty hungrybox,0,2,0
+crossie,ibm2000,selise,archon,1,0,2
+hurricane,eight%,elfman,red lego,1,0,2
+mini joel,krizski,selise,archon,0,2,0
+peachicedt,davis,elfman,red lego,1,0,2
+chango,xest,mini joel,krizski,1,1,2
+elfman,red lego,mini joel,krizski,1,1,2
+wenbobular,winston,mini joel,krizski,0,-2,-2
+hrmbe,haballzzz,stanky,sk,1,0,2
+epidemique,littlespoon,bunk,bangkok dangerous,0,2,0
+hambi,brujo,kev,elost,1,0,2
+silent wolf,lovage805,stanky,sk,0,2,0
+greed,puff mayne,tourist,whitegrizzly,0,2,0
+spud,aisengobay,epidemique,littlespoon,0,2,0
+balloon,nikabod,kev,elost,0,2,0
+silent wolf,lovage805,greed,puff mayne,0,2,0
+spud,aisengobay,balloon,nikabod,0,2,1
+silent wolf,lovage805,spud,aisengobay,0,2,0
+kev,elost,hrmbe,haballzzz,0,2,0
+tourist,whitegrizzly,bunk,bangkok dangerous,1,1,2
+stanky,sk,hambi,brujo,0,2,0
+kev,elost,epidemique,littlespoon,0,2,1
+bunk,bangkok dangerous,stanky,sk,1,0,2
+greed,puff mayne,kev,elost,0,2,0
+balloon,nikabod,stanky,sk,0,2,1
+greed,puff mayne,balloon,nikabod,1,-1,0
+spud,aisengobay,balloon,nikabod,0,-2,-2
+kobold,hiyro,kb,dr piper,0,2,0
+colbydude,catosat,skreww l00se,gobbleboners,1,-1,0
+mvb,gman,leo,equi,0,0,-1
+druggedfox,reno,kobold,hiyro,0,2,0
+khale,lego,davidcanfly,low5,0,2,0
+nightmare,trulliam,skreww l00se,gobbleboners,0,2,0
+golf,robbo,mvb,gman,0,2,0
+druggedfox,reno,khale,lego,0,2,0
+nightmare,trulliam,golf,robbo,0,2,0
+druggedfox,reno,nightmare,trulliam,0,2,1
+mvb,gman,kb,dr piper,1,0,2
+davidcanfly,low5,colbydude,catosat,0,2,0
+kobold,hiyro,leo,equi,0,2,0
+kb,dr piper,skreww l00se,gobbleboners,0,2,0
+davidcanfly,low5,kobold,hiyro,0,2,1
+khale,lego,kb,dr piper,0,2,0
+golf,robbo,davidcanfly,low5,1,0,2
+khale,lego,davidcanfly,low5,1,1,2
+nightmare,trulliam,davidcanfly,low5,0,-2,-2
+shiasurprise,leonidas,some moose,ham,1,0,2
+joeco,chr 23,hyo,yum,1,0,2
+pres,ezezo,stress,yield,1,0,2
+mikehaze,tai,some moose,ham,0,2,0
+polo,tko,gus,lex,0,2,0
+amsah,rudolph,hyo,yum,0,2,0
+full metal jarod,funcrazyfish,stress,yield,0,2,0
+mikehaze,tai,polo,tko,0,2,0
+amsah,rudolph,full metal jarod,funcrazyfish,0,2,0
+mikehaze,tai,amsah,rudolph,0,2,1
+stress,yield,shiasurprise,leonidas,0,2,0
+gus,lex,joeco,chr 23,0,2,0
+some moose,ham,pres,ezezo,1,0,2
+stress,yield,hyo,yum,0,2,0
+gus,lex,pres,ezezo,1,0,2
+polo,tko,stress,yield,1,0,2
+full metal jarod,funcrazyfish,pres,ezezo,0,2,0
+stress,yield,full metal jarod,funcrazyfish,1,0,2
+amsah,rudolph,full metal jarod,funcrazyfish,0,-2,-2
+ketsu,arán,rainrobb,chimpus,0,2,0
+starkiller,zanderwill,bozion,zer0cool,0,2,0
+alien,spruce lee,ode$,the jazz,0,2,0
+trif,overtriforce,ketsu,arán,0,2,0
+i-mad,crispy,giraffescanfly,koder,0,2,1
+noobking,luigi ka-master,starkiller,zanderwill,0,2,0
+leahboo,s2b,alien,spruce lee,1,0,2
+trif,overtriforce,i-mad,crispy,0,2,0
+noobking,luigi ka-master,alien,spruce lee,0,2,0
+trif,overtriforce,noobking,luigi ka-master,0,2,1
+leahboo,s2b,rainrobb,chimpus,0,2,0
+giraffescanfly,koder,bozion,zer0cool,0,2,1
+ketsu,arán,ode$,the jazz,0,2,1
+leahboo,s2b,starkiller,zanderwill,1,0,2
+giraffescanfly,koder,ketsu,arán,1,1,2
+i-mad,crispy,starkiller,zanderwill,0,2,1
+alien,spruce lee,ketsu,arán,0,2,0
+i-mad,crispy,alien,spruce lee,1,1,2
+noobking,luigi ka-master,alien,spruce lee,0,-2,-2
+sharkfist56,zapwad,ctfunction,navi,1,0,2
+jerry jurr,chi,kidlink,ox,0,2,1
+shadaxis,soggy,hugo popov,ginjew,1,0,2
+s2j,n0ne,ctfunction,navi,0,2,0
+ganobrator,salty seth,browser brown,japlorp,0,2,0
+nintendude,shunsuke,jerry jurr,chi,0,2,0
+shon,bor,hugo popov,ginjew,1,1,2
+s2j,n0ne,ganobrator,salty seth,0,2,1
+nintendude,shunsuke,hugo popov,ginjew,0,2,0
+s2j,n0ne,nintendude,shunsuke,0,2,1
+shon,bor,sharkfist56,zapwad,0,2,0
+browser brown,japlorp,kidlink,ox,1,0,2
+ctfunction,navi,shadaxis,soggy,1,0,2
+shon,bor,jerry jurr,chi,0,2,1
+kidlink,ox,shadaxis,soggy,1,1,2
+ganobrator,salty seth,shon,bor,0,2,0
+hugo popov,ginjew,shadaxis,soggy,0,2,0
+ganobrator,salty seth,hugo popov,ginjew,0,2,0
+nintendude,shunsuke,ganobrator,salty seth,0,-2,-2
+thatssoazen,mcpowerj23,dang,beefcake,0,2,0
+ajax,ec_joey,ten,rice,1,1,2
+crush,dizzkidboogie,thatssoazen,mcpowerj23,0,2,0
+tlo,torch,clutchcoffeebean,sebo,0,2,0
+toph,vish,ten,rice,1,-1,0
+ca$h morey,adpextwindong,shep,guts,1,-1,0
+crush,dizzkidboogie,tlo,torch,0,2,0
+ten,rice,shep,guts,0,2,0
+crush,dizzkidboogie,ten,rice,0,2,0
+ca$h morey,adpextwindong,dang,beefcake,1,-1,0
+clutchcoffeebean,sebo,ajax,ec_joey,1,0,2
+dang,beefcake,toph,vish,0,0,-1
+ajax,ec_joey,thatssoazen,mcpowerj23,0,2,0
+tlo,torch,dang,beefcake,0,2,0
+shep,guts,ajax,ec_joey,0,2,0
+tlo,torch,shep,guts,0,2,0
+ten,rice,tlo,torch,0,-2,-2
+burgerdon,geof t. samus,wonder,staples,0,2,0
+joe schmo,puc,snake,tri,0,2,1
+kegypt,whimsy,bupo,dozy,1,0,2
+kalamazhu,s0ft,burgerdon,geof t. samus,0,2,0
+dz,smirked,elliot,dispo,0,2,1
+homemadewaffles,fatgoku,joe schmo,puc,0,2,0
+joseidon,mayan ryan,bupo,dozy,0,2,0
+kalamazhu,s0ft,dz,smirked,0,2,1
+homemadewaffles,fatgoku,joseidon,mayan ryan,0,2,0
+kalamazhu,s0ft,homemadewaffles,fatgoku,1,0,2
+bupo,dozy,wonder,staples,0,2,0
+elliot,dispo,snake,tri,1,0,2
+burgerdon,geof t. samus,kegypt,whimsy,0,2,0
+bupo,dozy,joe schmo,puc,1,0,2
+snake,tri,burgerdon,geof t. samus,1,1,2
+dz,smirked,joe schmo,puc,0,2,0
+joseidon,mayan ryan,burgerdon,geof t. samus,0,2,1
+dz,smirked,joseidon,mayan ryan,1,0,2
+kalamazhu,s0ft,joseidon,mayan ryan,0,-2,-2
+zgetto,adamayonmike,rustin,pookie,0,2,0
+zgetto,adamayonmike,chief,smurf,0,2,0
+zgetto,adamayonmike,raxcity,$,0,2,0
+gooey,soap,bean,fullprice,1,0,2
+gooey,soap,raxcity,$,1,0,2
+salad,floyd,bean,fullprice,0,2,0
+salad,floyd,lauerman,willson,0,2,0
+smartfolk,micah,gooey,soap,1,0,2
+rustin,pookie,bean,fullprice,0,2,0
+rustin,pookie,chief,smurf,0,-2,-2
+rustin,pookie,reeves,qualp,0,2,0
+chief,smurf,salad,floyd,0,2,0
+chief,smurf,smartfolk,micah,0,2,0
+chief,smurf,reeves,qualp,0,2,0
+raxcity,$,lauerman,willson,0,2,0
+reeves,qualp,salad,floyd,0,2,1
+reeves,qualp,raxcity,$,0,2,1
+pewpewu,sfat,zgetto,adamayonmike,0,2,0
+bladewise,syrox,silent wolf,lovage805,0,2,1
+twin,javi,s2j,n0ne,1,1,2
+westballz,gahtzu,trif,overtriforce,1,0,2
+ice,leffen,homemadewaffles,fatgoku,0,2,0
+the moon,professor pro,druggedfox,reno,0,2,1
+hungrybox,swedish delight,crush,dizzkidboogie,0,2,0
+wizzrobe,prince f. abu,mikehaze,tai,0,2,1
+pewpewu,sfat,bladewise,syrox,0,2,0
+s2j,n0ne,trif,overtriforce,1,1,2
+ice,leffen,the moon,professor pro,1,1,2
+hungrybox,swedish delight,wizzrobe,prince f. abu,0,2,1
+pewpewu,sfat,trif,overtriforce,0,3,0
+the moon,professor pro,hungrybox,swedish delight,1,1,3
+pewpewu,sfat,hungrybox,swedish delight,0,3,0
+pewpewu,sfat,ice,leffen,0,3,2
+amsah,rudolph,beewesley,r0cket_wizard,0,0,-1
+ebay,vinodh,alien,spruce lee,1,-1,0
+ten,rice,oreo,theprime,1,0,2
+psychomidget,mchi,ganobrator,salty seth,0,2,0
+nightmare,trulliam,mini joel,krizski,0,2,0
+rocky,spark,balloon,nikabod,0,2,1
+kalamazhu,s0ft,yikes,nigel,0,2,0
+tinojoe,sway,chief,smurf,0,2,0
+noobking,luigi ka-master,dsl_pl0x,keithrep,1,0,2
+shoyo,chip,full metal jarod,funcrazyfish,0,2,0
+nintendude,shunsuke,flex,pilldemon,0,2,0
+yardsale,jv,tlo,torch,0,2,1
+spud,aisengobay,jawanga,wasabi,0,2,0
+wenbobular,winston,davidcanfly,low5,0,2,0
+rustin,pookie,mew2queen,nmw,0,2,1
+webwipe,mojomonkey,joseidon,mayan ryan,0,2,0
+amsah,rudolph,alien,spruce lee,0,2,0
+oreo,theprime,psychomidget,mchi,1,1,2
+nightmare,trulliam,rocky,spark,0,2,1
+kalamazhu,s0ft,tinojoe,sway,1,0,2
+dsl_pl0x,keithrep,shoyo,chip,1,0,2
+nintendude,shunsuke,yardsale,jv,0,2,0
+spud,aisengobay,wenbobular,winston,0,2,0
+rustin,pookie,webwipe,mojomonkey,1,0,2
+westballz,gahtzu,amsah,rudolph,0,2,1
+twin,javi,psychomidget,mchi,0,2,0
+silent wolf,lovage805,nightmare,trulliam,0,2,0
+zgetto,adamayonmike,tinojoe,sway,0,2,0
+mikehaze,tai,shoyo,chip,0,2,1
+crush,dizzkidboogie,nintendude,shunsuke,0,2,1
+druggedfox,reno,spud,aisengobay,0,2,0
+homemadewaffles,fatgoku,webwipe,mojomonkey,0,2,1
+westballz,gahtzu,twin,javi,1,1,2
+silent wolf,lovage805,zgetto,adamayonmike,0,2,1
+mikehaze,tai,crush,dizzkidboogie,1,0,2
+druggedfox,reno,homemadewaffles,fatgoku,1,0,2
+ice,leffen,twin,javi,0,2,0
+wizzrobe,prince f. abu,silent wolf,lovage805,1,0,2
+bladewise,syrox,crush,dizzkidboogie,0,2,1
+s2j,n0ne,homemadewaffles,fatgoku,0,2,1
+ice,leffen,silent wolf,lovage805,0,3,0
+bladewise,syrox,s2j,n0ne,0,3,2
+trif,overtriforce,ice,leffen,1,1,3
+the moon,professor pro,bladewise,syrox,0,3,0
+ice,leffen,the moon,professor pro,0,3,2
+hungrybox,swedish delight,ice,leffen,1,2,3

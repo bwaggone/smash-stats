@@ -1,0 +1,468 @@
+P1,P2,set winner,P1Score,P2Score
+aleph,snickeldorf,1,0,2
+duwang,toxic zane,0,2,0
+sid,dair,1,0,2
+pokalink,omen,0,2,0
+fenrir,technikoopa,1,-1,0
+esam,snickeldorf,1,0,2
+duwang,dair,0,2,0
+kazak,pokalink,0,2,0
+legit247,technikoopa,0,2,0
+snickeldorf,duwang,1,0,2
+kazak,legit247,0,2,1
+duwang,kazak,0,3,2
+toxic zane,sid,1,0,2
+technikoopa,aleph,0,2,0
+pokalink,sid,0,2,0
+dair,omen,1,0,2
+esam,fenrir,0,0,-1
+technikoopa,pokalink,1,0,2
+omen,esam,1,0,2
+snickeldorf,pokalink,1,0,2
+legit247,esam,1,0,2
+pokalink,esam,1,0,2
+kazak,esam,0,-2,-2
+chaboijc,dln,1,0,2
+pleiades,callidor,1,-1,0
+spamcop,legendary jay,0,2,0
+ketsu,mr.worldwide,1,-1,0
+biggymouth,frog,0,0,-1
+mvd,dln,0,2,0
+callidor,spamcop,1,0,2
+t-roy,mr.worldwide,0,2,1
+sandman,biggymouth,0,2,1
+mvd,spamcop,0,2,0
+t-roy,sandman,1,0,2
+mvd,sandman,0,2,0
+pleiades,legendary jay,1,-1,0
+biggymouth,chaboijc,0,2,0
+mr.worldwide,legendary jay,1,1,2
+callidor,ketsu,0,0,-1
+dln,frog,0,0,-1
+biggymouth,legendary jay,1,0,2
+callidor,dln,1,0,2
+spamcop,legendary jay,1,1,2
+t-roy,dln,0,2,0
+legendary jay,t-roy,0,2,1
+sandman,legendary jay,0,-2,-2
+otto,p. guraldon,0,2,1
+pryde,mommy,0,2,0
+danye,tootsie,0,2,0
+pferschaw,ita,0,2,0
+dkwill,otto,0,2,0
+sparkbeat,pryde,1,0,2
+fedvsrafa,danye,0,2,0
+fuzzio,pferschaw,0,2,1
+dkwill,pryde,0,2,0
+fedvsrafa,fuzzio,0,2,0
+dkwill,fedvsrafa,0,2,0
+pferschaw,p. guraldon,0,2,0
+danye,mommy,1,0,2
+sparkbeat,tootsie,1,1,2
+otto,ita,1,0,2
+pferschaw,mommy,0,2,1
+tootsie,ita,1,0,2
+pryde,pferschaw,0,2,1
+fuzzio,ita,1,1,2
+pryde,ita,1,1,2
+fedvsrafa,ita,0,-2,-2
+ironblayde,volke,1,1,2
+aveean,redblade,1,1,2
+tstapp,maryu,0,2,0
+qphex,noii,1,1,2
+hellraid,ro,0,2,1
+big d,volke,0,2,0
+redblade,tstapp,1,0,2
+yope,noii,0,2,0
+mxsfit,hellraid,1,0,2
+big d,tstapp,0,2,0
+yope,hellraid,0,2,0
+big d,yope,0,2,0
+aveean,maryu,0,2,0
+mxsfit,ironblayde,0,2,0
+noii,aveean,1,0,2
+redblade,qphex,1,1,2
+volke,ro,1,0,2
+mxsfit,aveean,1,1,2
+qphex,ro,1,1,2
+tstapp,aveean,0,2,0
+hellraid,ro,0,2,0
+tstapp,hellraid,1,0,2
+yope,hellraid,0,-2,-2
+sk,blazer,0,2,0
+sk,good loser chaz,0,2,0
+sk,raidenkurosaki,0,2,0
+konga,faith,0,2,0
+konga,g~man, the cosmic destroyer,0,2,0
+konga,a wild chan,0,2,0
+faith,good loser chaz,1,0,2
+champion_slug,sloth?,1,0,2
+mata,sk,0,2,0
+mata,champion_slug,0,2,0
+mata,g~man, the cosmic destroyer,1,1,2
+aimd,good loser chaz,0,2,0
+aimd,sloth?,0,2,1
+aimd,nightfury1969,0,2,0
+sloth?,blazer,0,2,0
+sloth?,a wild chan,1,0,2
+nightfury1969,faith,1,0,2
+raidenkurosaki,champion_slug,1,1,2
+g~man, the cosmic destroyer,mata,0,-2,-2
+g~man, the cosmic destroyer,aimd,0,2,0
+a wild chan,sk,0,2,0
+a wild chan,mata,1,0,2
+a wild chan,aimd,0,2,0
+skanadron,derpydtw,1,1,2
+tipster,thomas the legend,0,2,1
+spark,sass,1,-1,0
+mcwaffles,joker2012,1,-1,0
+glen koko,kavon,0,2,0
+captain l,derpydtw,0,2,0
+tipster,sass,0,2,0
+truemain,joker2012,0,2,0
+boricuaak,glen koko,0,2,0
+captain l,tipster,0,2,0
+truemain,boricuaak,0,2,0
+captain l,truemain,0,2,0
+thomas the legend,spark,0,0,-1
+glen koko,skanadron,0,2,0
+joker2012,thomas the legend,1,0,2
+sass,mcwaffles,0,0,-1
+derpydtw,kavon,0,2,0
+glen koko,thomas the legend,0,2,0
+sass,derpydtw,0,2,0
+tipster,glen koko,0,2,0
+boricuaak,sass,0,2,0
+tipster,boricuaak,0,2,1
+truemain,tipster,0,-2,-2
+jlaw2k16,shen,1,0,2
+angis,typhoon,1,-1,0
+ta-kun,haunter,0,0,-1
+manta,bleggaman,1,1,2
+unclesatan,dailo,0,2,1
+shinkou,shen,0,2,0
+typhoon,ta-kun,1,0,2
+slam jammington,bleggaman,0,2,1
+bishly,unclesatan,0,2,0
+shinkou,ta-kun,0,2,0
+slam jammington,bishly,1,1,2
+shinkou,bishly,0,2,0
+angis,haunter,1,-1,0
+unclesatan,jlaw2k16,0,2,0
+bleggaman,haunter,0,0,-1
+typhoon,manta,1,0,2
+shen,dailo,1,0,2
+unclesatan,bleggaman,1,0,2
+manta,dailo,0,2,0
+ta-kun,bleggaman,1,1,2
+slam jammington,manta,0,2,0
+bleggaman,slam jammington,1,1,2
+bishly,slam jammington,0,-2,-2
+puppetmasterg,innae,0,2,1
+copper,leo,0,2,1
+camata,rogue,0,2,1
+vulpes,bewp,0,2,1
+titan,m2cain,0,2,0
+exodia,puppetmasterg,0,2,0
+copper,camata,1,1,2
+ruff!,vulpes,0,2,0
+king,titan,0,2,0
+exodia,camata,0,2,0
+ruff!,king,0,2,0
+exodia,ruff!,0,2,0
+leo,rogue,0,2,0
+titan,innae,0,2,0
+vulpes,leo,0,2,0
+copper,bewp,1,1,2
+puppetmasterg,m2cain,0,2,0
+titan,vulpes,1,1,2
+bewp,puppetmasterg,1,1,2
+camata,vulpes,1,0,2
+king,puppetmasterg,0,2,0
+vulpes,king,1,0,2
+ruff!,king,0,-2,-2
+mgr,abra,0,2,0
+reboot,jolt,0,2,0
+kripthirteen,arán,0,2,0
+lingo,kila,1,0,2
+tbird,purplestuff,0,0,-1
+magister,mgr,0,2,0
+reboot,kripthirteen,0,2,0
+tss,kila,1,-1,0
+s3npai,tbird,0,2,0
+magister,reboot,0,2,0
+kila,s3npai,1,0,2
+magister,s3npai,0,2,0
+jolt,arán,0,2,0
+tbird,abra,1,0,2
+tss,jolt,1,-1,0
+kripthirteen,lingo,0,2,0
+mgr,purplestuff,0,0,-1
+abra,jolt,0,2,0
+kripthirteen,mgr,0,2,0
+reboot,abra,0,2,0
+kila,kripthirteen,0,2,0
+reboot,kila,0,2,0
+s3npai,reboot,0,-2,-2
+dynamov,tamashasmash,0,2,0
+kyros,professor x,1,0,2
+koder,coco,1,0,2
+etudedude,lars_beleren,0,2,0
+focus,dynamov,0,2,0
+jitio,professor x,0,2,1
+dr. robotnik,coco,0,2,0
+hungrybox,etudedude,0,2,0
+focus,jitio,0,2,0
+dr. robotnik,hungrybox,0,2,1
+focus,dr. robotnik,0,2,0
+etudedude,tamashasmash,0,2,0
+coco,kyros,0,2,0
+professor x,koder,0,2,0
+dynamov,lars_beleren,1,0,2
+etudedude,coco,0,2,0
+professor x,lars_beleren,0,2,0
+jitio,etudedude,1,0,2
+hungrybox,professor x,0,2,0
+etudedude,hungrybox,1,0,2
+dr. robotnik,hungrybox,0,-2,-2
+zantetsu,debuto,1,1,2
+chao,lex,0,0,-1
+html,ybd,1,-1,0
+mika,evan,0,2,0
+locke,debuto,0,2,0
+zerango,chao,0,0,-1
+shiny,ybd,0,2,0
+funcrazyfish,mika,0,2,1
+locke,zerango,1,1,2
+shiny,funcrazyfish,1,0,2
+zerango,funcrazyfish,1,1,2
+mika,zantetsu,0,2,0
+ybd,lex,1,1,2
+chao,html,0,0,-1
+debuto,evan,0,0,-1
+mika,lex,0,2,0
+chao,debuto,1,-1,0
+locke,mika,0,2,1
+shiny,debuto,0,2,0
+locke,shiny,0,2,0
+zerango,locke,0,-2,-2
+haelst,bluezy,1,1,2
+agias,nikkinanka,0,2,1
+agias,tcby?,0,2,0
+agias,@chaddrawsthings,0,2,0
+masai,agias,0,-2,-2
+masai,bluezy,0,2,0
+masai,nikkinanka,0,2,1
+bluezy,cb,0,2,1
+coda,the problem,0,2,0
+coda,mothra,0,2,0
+nikkinanka,tcby?,0,2,1
+nikkinanka,@chaddrawsthings,0,2,1
+bestness,agias,0,2,0
+bestness,masai,0,3,1
+bestness,coda,0,2,0
+tcby?,haelst,0,2,0
+tcby?,coda,0,2,0
+tcby?,cb,0,2,0
+@chaddrawsthings,the problem,0,0,-1
+@chaddrawsthings,bluezy,0,2,1
+@chaddrawsthings,mothra,0,2,0
+mordio,egg,1,-1,0
+purfectroony,kemba,0,2,0
+idgas,hook,0,2,1
+zach,staples,0,2,0
+braixen,egg,0,2,0
+watdafox,purfectroony,1,0,2
+thundercat,idgas,0,2,0
+espeon•ch,zach,0,2,0
+braixen,purfectroony,0,2,1
+thundercat,espeon•ch,0,2,1
+braixen,thundercat,0,3,0
+zach,mordio,0,0,-1
+idgas,kemba,1,0,2
+watdafox,hook,0,2,0
+egg,staples,1,1,2
+zach,kemba,1,1,2
+watdafox,staples,0,2,0
+purfectroony,kemba,0,2,1
+espeon•ch,watdafox,0,2,1
+purfectroony,espeon•ch,1,0,2
+thundercat,espeon•ch,0,-2,-2
+topaz,gotenks,0,2,1
+ninetales,m2,1,0,2
+ponitoss,boin,0,2,0
+jacana,frogge,0,2,1
+mr. scooty,momo,0,2,1
+len,topaz,0,2,0
+m2,ponitoss,0,2,0
+pyreeze,jacana,0,2,0
+snowman,mr. scooty,0,2,0
+len,m2,0,2,0
+pyreeze,snowman,0,2,0
+len,pyreeze,1,1,2
+ninetales,boin,0,0,-1
+mr. scooty,gotenks,0,2,0
+jacana,ninetales,0,2,1
+ponitoss,frogge,0,2,0
+topaz,momo,1,1,2
+mr. scooty,jacana,0,2,0
+ponitoss,momo,0,2,0
+m2,mr. scooty,1,0,2
+snowman,ponitoss,0,2,0
+mr. scooty,snowman,1,0,2
+len,snowman,0,-2,-2
+tote,amaru,0,2,0
+exm,coffeehamster,0,2,0
+yolo!!!!!,dongopolis,0,2,0
+md4,coolguy,0,2,0
+rcs_jr,tote,0,2,0
+linden,exm,0,2,0
+kantrip,yolo!!!!!,0,2,1
+pandarian,md4,0,2,0
+rcs_jr,linden,0,2,0
+kantrip,pandarian,1,1,2
+rcs_jr,pandarian,0,3,2
+md4,amaru,0,2,0
+yolo!!!!!,coffeehamster,0,2,0
+exm,dongopolis,0,2,0
+tote,coolguy,1,1,2
+md4,yolo!!!!!,1,0,2
+exm,coolguy,0,2,0
+linden,yolo!!!!!,0,2,0
+kantrip,exm,0,2,0
+linden,kantrip,0,2,0
+pandarian,linden,0,-2,-2
+juicypeach,4eyez95,0,0,-1
+shadowmarth-jtw,silentrain,1,0,2
+scruffy,wvm,1,1,2
+bongo,techaman,0,2,0
+firefly,juicypeach,0,2,0
+hueva,silentrain,1,1,2
+deci,wvm,0,2,0
+j^2,bongo,1,0,2
+firefly,silentrain,0,2,0
+deci,bongo,0,2,0
+firefly,deci,1,0,3
+j^2,4eyez95,0,0,-1
+wvm,shadowmarth-jtw,1,0,2
+hueva,scruffy,0,2,0
+juicypeach,techaman,1,1,2
+j^2,shadowmarth-jtw,1,1,2
+hueva,techaman,0,2,0
+silentrain,shadowmarth-jtw,0,2,0
+bongo,hueva,1,0,2
+silentrain,hueva,0,2,0
+firefly,silentrain,0,-2,-2
+duwang,deci,1,1,3
+exodia,magister,0,3,0
+big d,braixen,0,3,0
+konga,bestness,0,3,0
+mvd,rcs_jr,0,3,0
+shinkou,focus,0,3,1
+dkwill,pyreeze,0,3,1
+captain l,funcrazyfish,0,3,0
+deci,exodia,1,1,3
+big d,konga,1,2,3
+mvd,shinkou,0,3,0
+dkwill,captain l,0,3,0
+exodia,konga,0,-2,-2
+mvd,dkwill,0,-2,-2
+zerango,hellraid,0,3,1
+truemain,espeon•ch,1,0,3
+len,mata,0,3,0
+fedvsrafa,agias,1,0,3
+dr. robotnik,esam,1,0,3
+bishly,silentrain,1,1,3
+pandarian,king,0,3,2
+sandman,reboot,0,3,0
+masai,ita,0,3,1
+g~man, the cosmic destroyer,snowman,0,3,1
+thundercat,tipster,0,0,-1
+yope,locke,1,0,3
+s3npai,legendary jay,1,0,3
+ruff!,linden,0,3,0
+firefly,slam jammington,0,3,1
+kazak,hungrybox,0,2,1
+zerango,espeon•ch,1,0,3
+len,agias,0,3,0
+esam,silentrain,0,3,0
+pandarian,sandman,0,3,2
+masai,g~man, the cosmic destroyer,0,3,0
+thundercat,locke,1,0,3
+legendary jay,ruff!,1,2,3
+firefly,kazak,1,1,3
+bestness,espeon•ch,1,0,3
+braixen,len,1,1,3
+magister,esam,1,0,3
+duwang,pandarian,1,2,3
+funcrazyfish,masai,1,1,3
+pyreeze,locke,1,2,3
+focus,ruff!,0,3,1
+rcs_jr,kazak,0,3,2
+espeon•ch,len,1,0,3
+esam,pandarian,0,3,1
+masai,locke,1,2,3
+focus,rcs_jr,0,3,2
+shinkou,len,1,0,3
+captain l,esam,0,3,0
+deci,locke,1,0,3
+big d,focus,0,3,1
+len,captain l,0,-2,-2
+locke,big d,0,-2,-2
+exodia,konga,1,1,3
+mvd,dkwill,1,2,3
+konga,dkwill,1,0,3
+dkwill,konga,0,3,0
+locke,big d,1,1,3
+len,captain l,1,2,3
+mvd,big d,0,3,2
+exodia,captain l,0,3,2
+mvd,exodia,1,2,3
+konga,exodia,0,3,2
+exm,pryde,1,0,2
+dln,mr. scooty,0,0,-1
+professor x,boricuaak,0,0,-1
+manta,shiny,1,-1,0
+ponitoss,t-roy,0,0,-1
+fuzzio,kantrip,1,-1,0
+debuto,bleggaman,1,-1,0
+sass,etudedude,1,1,2
+bongo,tstapp,0,0,-1
+legit247,purfectroony,0,2,1
+kripthirteen,a wild chan,1,0,2
+puppetmasterg,nikkinanka,1,0,2
+watdafox,pokalink,0,0,-1
+ro,hueva,1,-1,0
+tcby?,vulpes,0,0,-1
+sk,kila,1,-1,0
+snickeldorf,pryde,0,2,1
+shadowmarth-jtw,dln,1,0,2
+camata,professor x,1,-1,0
+abra,shiny,1,-1,0
+aveean,ponitoss,0,2,0
+kemba,kantrip,1,-1,0
+aimd,bleggaman,1,0,2
+@chaddrawsthings,etudedude,1,-1,0
+spamcop,bongo,0,0,-1
+yolo!!!!!,legit247,1,-1,0
+ta-kun,a wild chan,0,2,1
+jitio,nikkinanka,1,1,2
+pferschaw,watdafox,1,1,2
+m2,hueva,1,0,2
+glen koko,tcby?,1,-1,0
+mika,kila,0,2,1
+snickeldorf,dln,0,2,1
+professor x,shiny,1,-1,0
+aveean,kantrip,1,1,2
+bleggaman,etudedude,1,0,2
+spamcop,legit247,1,-1,0
+ta-kun,nikkinanka,1,1,2
+watdafox,hueva,0,2,0
+tcby?,mika,0,2,0
+snickeldorf,shiny,1,0,2
+kantrip,etudedude,0,2,1
+legit247,nikkinanka,0,2,0
+watdafox,tcby?,1,0,2
+shiny,kantrip,0,2,0
+legit247,tcby?,0,2,0
+shiny,legit247,1,0,3

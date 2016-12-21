@@ -1,0 +1,516 @@
+P1,P2,set winner,P1Score,P2Score
+bodacious,kl3an,0,-2,-2
+dubs,zwephy,0,2,0
+shihman,shadow light master,0,2,0
+dajjal,xiivi,0,2,0
+tonester,yuxminato,0,2,0
+shalaka,chaos pro,0,2,0
+dfx,grunyan,0,0,-1
+superboomfan,bodacious,0,2,0
+dubs,shihman,0,2,0
+dajjal,tonester,0,2,0
+shalaka,dfx,0,0,-1
+superboomfan,dubs,0,2,0
+dajjal,shalaka,1,1,2
+superboomfan,shalaka,0,-2,-2
+zwephy,shadow light master,0,2,0
+xiivi,yuxminato,0,2,0
+chaos pro,grunyan,0,0,-1
+dfx,kl3an,1,-1,0
+tonester,zwephy,0,2,0
+shihman,xiivi,0,2,0
+bodacious,chaos pro,0,2,0
+kl3an,tonester,1,0,2
+shihman,bodacious,0,-2,-2
+dubs,tonester,0,2,0
+dajjal,shihman,0,2,0
+dubs,dajjal,0,-2,-2
+homemadewaffles,liam_butler,1,-1,0
+studstill,swiftbass,0,2,0
+killahertz,bean,0,2,0
+revan,the professor,0,2,0
+dr. grin,taiko,0,2,0
+rizner,t0mmii,0,2,0
+a la carte,aubfox,0,2,0
+hero pie,liam_butler,0,2,0
+studstill,killahertz,0,2,0
+revan,dr. grin,0,2,0
+rizner,a la carte,0,2,0
+hero pie,studstill,0,2,0
+revan,rizner,0,2,0
+hero pie,revan,0,-2,-2
+swiftbass,bean,0,2,0
+the professor,taiko,0,2,0
+t0mmii,aubfox,0,2,0
+a la carte,homemadewaffles,0,2,0
+dr. grin,swiftbass,1,1,2
+killahertz,the professor,0,2,0
+liam_butler,t0mmii,1,0,2
+a la carte,swiftbass,0,2,0
+killahertz,t0mmii,1,0,2
+studstill,a la carte,0,2,0
+rizner,t0mmii,0,2,0
+studstill,rizner,0,-2,-2
+djltheescapade,grrg,1,-1,0
+elel,waffles,0,2,0
+logic,prime,0,2,0
+maliki,masterofzoroark,0,0,-1
+imdabes,astropancakes,0,2,0
+kimimaru,reptar,0,2,0
+vudujin,atari,0,2,0
+jaimehr,grrg,0,2,0
+elel,logic,0,2,1
+maliki,imdabes,0,2,0
+kimimaru,vudujin,0,2,0
+jaimehr,elel,0,2,0
+maliki,kimimaru,1,0,2
+jaimehr,kimimaru,0,-2,-2
+waffles,prime,1,0,2
+masterofzoroark,astropancakes,1,-1,0
+reptar,atari,0,2,0
+vudujin,djltheescapade,0,0,-1
+imdabes,prime,0,2,0
+logic,astropancakes,0,2,0
+grrg,reptar,1,0,2
+vudujin,imdabes,0,2,1
+logic,reptar,1,0,2
+elel,vudujin,0,2,0
+maliki,reptar,0,2,0
+elel,maliki,0,-2,-2
+snowstorm,nyani,0,2,0
+freean,kossismoss,0,2,0
+pizza,beekle,0,2,0
+zero,nathansandwich,0,2,0
+toronto joe,themickeynick,0,2,0
+eggmode,dd,0,2,0
+dwreck,p21/c,0,2,1
+fox,snowstorm,0,2,0
+freean,pizza,0,2,0
+zero,toronto joe,0,2,0
+eggmode,dwreck,0,2,1
+fox,freean,0,2,0
+zero,eggmode,0,2,0
+fox,zero,0,-2,-2
+kossismoss,beekle,0,2,1
+nathansandwich,themickeynick,0,2,0
+dd,p21/c,1,0,2
+dwreck,nyani,0,0,-1
+toronto joe,kossismoss,0,2,0
+pizza,nathansandwich,0,2,1
+snowstorm,p21/c,0,2,1
+dwreck,toronto joe,1,0,2
+pizza,snowstorm,0,2,0
+freean,toronto joe,0,2,0
+eggmode,pizza,0,2,0
+freean,eggmode,0,-2,-2
+apparition the ambassador,silentknight,0,2,0
+connor,irish,0,2,0
+stonefallow,kingkool,0,2,0
+madrush21,firefly,0,2,0
+khakis,shwang,1,-1,0
+mrmarbles,paper tiger,0,2,0
+daniels,slartibartfast42,0,2,0
+isai,apparition the ambassador,0,2,0
+connor,stonefallow,1,0,2
+madrush21,shwang,0,2,0
+mrmarbles,daniels,0,2,0
+isai,stonefallow,0,2,0
+madrush21,mrmarbles,1,1,2
+isai,mrmarbles,0,-2,-2
+irish,kingkool,1,0,2
+firefly,khakis,0,0,-1
+paper tiger,slartibartfast42,1,0,2
+daniels,silentknight,0,2,0
+shwang,kingkool,1,0,2
+connor,firefly,0,2,0
+apparition the ambassador,slartibartfast42,0,2,0
+daniels,kingkool,1,0,2
+connor,apparition the ambassador,0,2,1
+stonefallow,kingkool,0,2,0
+madrush21,connor,0,2,0
+stonefallow,madrush21,0,-2,-2
+jpoptosis,fawnco,1,1,2
+preston,raxcity,0,2,0
+tmakk,jirachinick,0,2,0
+kort,maps,0,2,0
+hoofydough,zombieheart84,0,2,0
+daniel,sfgman,0,2,0
+nattyb,blaise,1,0,2
+stranded,fawnco,0,2,0
+preston,tmakk,0,2,1
+kort,hoofydough,0,2,1
+daniel,blaise,0,2,0
+stranded,preston,0,2,0
+kort,daniel,0,2,0
+stranded,kort,0,-2,-2
+raxcity,jirachinick,1,0,2
+maps,zombieheart84,0,2,0
+sfgman,nattyb,1,0,2
+blaise,jpoptosis,0,2,0
+hoofydough,jirachinick,0,2,0
+tmakk,maps,0,2,0
+fawnco,nattyb,1,0,2
+blaise,hoofydough,0,2,0
+tmakk,nattyb,1,0,2
+preston,blaise,0,2,0
+daniel,nattyb,0,2,0
+preston,daniel,0,-2,-2
+fry,geekliftus,1,0,2
+mokkori,yung,0,0,-1
+mr.sir,fmax,0,2,0
+lord narwhal,dhir,0,2,0
+pizzajokes,aperture,0,0,-1
+ctg,pastor,0,0,-1
+onski,sleeh,0,0,-1
+wangera,geekliftus,0,2,0
+mokkori,mr.sir,0,2,0
+lord narwhal,pizzajokes,0,2,0
+ctg,onski,0,2,0
+wangera,mokkori,0,2,0
+lord narwhal,ctg,0,2,0
+wangera,lord narwhal,0,-2,-2
+yung,fmax,1,-1,0
+dhir,aperture,0,0,-1
+pastor,sleeh,0,0,-1
+onski,fry,0,2,0
+pizzajokes,fmax,0,2,0
+mr.sir,dhir,0,2,0
+geekliftus,pastor,0,0,-1
+onski,pizzajokes,0,2,0
+mr.sir,geekliftus,0,2,0
+mokkori,onski,0,2,1
+ctg,mr.sir,0,2,1
+mokkori,ctg,0,-2,-2
+drhino,klms,1,0,2
+sedda,ragingcherry,0,2,0
+autobaun,starchild,0,2,0
+shears,bunmira,0,2,0
+hungrybox,jpeghero,0,2,0
+captain l,j,0,2,0
+tetsu0,heartsdealer,0,2,0
+dext3r,klms,0,2,0
+sedda,autobaun,0,2,0
+shears,hungrybox,0,2,0
+captain l,tetsu0,0,2,0
+dext3r,sedda,0,2,0
+shears,captain l,0,2,0
+dext3r,shears,0,-2,-2
+ragingcherry,starchild,1,-1,0
+bunmira,jpeghero,1,-1,0
+j,heartsdealer,1,0,2
+tetsu0,drhino,0,2,1
+hungrybox,starchild,1,0,2
+autobaun,jpeghero,0,2,0
+klms,heartsdealer,0,2,1
+tetsu0,starchild,1,1,2
+autobaun,klms,0,2,0
+sedda,starchild,0,2,0
+captain l,autobaun,0,2,0
+sedda,captain l,0,-2,-2
+drewgong,burnt out ninja,1,0,2
+mahie,schmerka berl,1,-1,0
+shanks,akiva,0,2,0
+janitor,branchan,0,0,-1
+krypto,collin the conqueror,1,0,2
+pete,heisenberg,0,2,0
+xor,ern,0,2,0
+wario,burnt out ninja,0,2,0
+schmerka berl,shanks,1,0,2
+janitor,collin the conqueror,0,2,0
+pete,xor,0,2,0
+wario,shanks,0,2,0
+janitor,pete,0,2,1
+wario,janitor,0,-2,-2
+mahie,akiva,1,-1,0
+branchan,krypto,1,-1,0
+heisenberg,ern,1,0,2
+xor,drewgong,0,2,0
+collin the conqueror,akiva,0,2,1
+schmerka berl,krypto,1,1,2
+burnt out ninja,ern,1,0,2
+xor,collin the conqueror,0,2,1
+krypto,ern,1,0,2
+shanks,xor,0,2,1
+pete,ern,0,2,0
+shanks,pete,0,-2,-2
+steamfriedasian,big d squirrels,0,0,-1
+smash jesus,drlight,0,2,0
+smurf,ferrero64,0,0,-1
+bark the shark,4sk,0,0,-1
+therapture_,zarfon,0,-2,-2
+hipstur,garv,0,0,-1
+tot,harmless,0,2,0
+banze,steamfriedasian,0,-2,-2
+smash jesus,smurf,0,2,0
+bark the shark,therapture_,0,-2,-2
+hipstur,tot,1,1,2
+banze,smash jesus,0,-2,-2
+bark the shark,tot,0,2,0
+banze,bark the shark,0,-2,-2
+drlight,ferrero64,0,0,-1
+4sk,zarfon,1,-1,0
+garv,harmless,1,-1,0
+hipstur,big d squirrels,0,-2,-2
+therapture_,drlight,0,-2,-2
+smurf,zarfon,0,2,0
+steamfriedasian,harmless,0,-2,-2
+hipstur,therapture_,0,-2,-2
+smurf,steamfriedasian,0,-2,-2
+smash jesus,hipstur,1,0,2
+tot,smurf,0,2,0
+hipstur,tot,0,-2,-2
+zuko,aces,0,2,0
+qubit,k-man,0,-2,-2
+lorenzo,monk,0,0,-1
+sotoh,mrryanness,0,2,0
+t brett,red,0,2,0
+nacl,big tone,0,0,-1
+annex,armor,0,2,0
+wizzrobe,zuko,0,2,0
+qubit,lorenzo,1,1,2
+sotoh,t brett,0,2,0
+nacl,annex,0,2,0
+wizzrobe,lorenzo,0,2,0
+sotoh,nacl,1,1,2
+wizzrobe,nacl,0,-2,-2
+k-man,monk,0,0,-1
+mrryanness,red,0,2,0
+big tone,armor,1,-1,0
+annex,aces,0,2,1
+t brett,k-man,0,0,-1
+qubit,mrryanness,0,2,0
+zuko,armor,0,2,0
+annex,t brett,0,2,1
+qubit,zuko,1,0,2
+lorenzo,annex,1,1,2
+sotoh,zuko,0,2,0
+annex,sotoh,0,-2,-2
+fil,matt47,1,-1,0
+robert,lookalike,0,2,0
+sheick,jazz,0,2,0
+kevorkian,phex,0,0,-1
+snorlax,mr. biz,0,2,0
+multiball,blues,0,2,0
+tacos,matt47,0,2,0
+robert,sheick,0,2,0
+morino,kevorkian,0,2,0
+snorlax,multiball,0,2,0
+tacos,robert,0,2,0
+morino,snorlax,1,0,2
+tacos,snorlax,0,-2,-2
+lookalike,jazz,0,2,0
+mr. biz,blues,0,2,0
+multiball,fil,0,0,-1
+kevorkian,lookalike,1,0,2
+sheick,phex,0,0,-1
+matt47,mr. biz,1,0,2
+multiball,lookalike,1,0,2
+sheick,mr. biz,0,2,0
+robert,lookalike,0,2,0
+morino,sheick,0,2,1
+robert,morino,0,-2,-2
+rice,r.o.m.,1,-1,0
+jay-r,zombie!,0,2,0
+bard,d-tek,0,2,0
+darkhorse,anathema,0,2,0
+duncs,whiz kid,0,2,0
+rith,god,0,0,-1
+vanillarin,sharktoast,0,0,-1
+kerokeroppi,r.o.m.,0,2,0
+jay-r,bard,0,2,0
+darkhorse,duncs,0,2,0
+rith,vanillarin,0,2,0
+kerokeroppi,jay-r,0,2,0
+darkhorse,rith,0,2,0
+kerokeroppi,darkhorse,0,-2,-2
+zombie!,d-tek,0,2,1
+anathema,whiz kid,0,2,0
+god,sharktoast,1,-1,0
+vanillarin,rice,0,0,-1
+duncs,zombie!,0,2,1
+bard,anathema,0,2,0
+r.o.m.,sharktoast,0,0,-1
+vanillarin,duncs,0,2,1
+bard,r.o.m.,0,2,0
+jay-r,vanillarin,0,2,0
+rith,bard,0,2,0
+jay-r,rith,0,-2,-2
+yam$,dankestdad,1,0,2
+bowl,bottle opener guy,0,2,0
+masterhandjob,azzy,0,2,0
+kyle tree,eggmcmuffin888,0,2,0
+yakal,grraffe,0,2,0
+yunque,myroknpancakes,0,2,0
+batterybird,edwin...,0,2,0
+tr3g the z,dankestdad,0,2,0
+bowl,masterhandjob,0,2,1
+kyle tree,yakal,0,2,0
+yunque,batterybird,0,2,1
+tr3g the z,bowl,0,2,0
+kyle tree,yunque,0,2,0
+tr3g the z,kyle tree,0,-2,-2
+bottle opener guy,azzy,0,2,0
+eggmcmuffin888,grraffe,0,2,0
+myroknpancakes,edwin...,0,2,0
+batterybird,yam$,0,2,0
+yakal,bottle opener guy,1,0,2
+masterhandjob,eggmcmuffin888,0,2,0
+dankestdad,myroknpancakes,0,2,1
+batterybird,bottle opener guy,0,2,0
+masterhandjob,dankestdad,0,2,0
+bowl,batterybird,0,2,1
+yunque,masterhandjob,1,1,2
+bowl,masterhandjob,0,-2,-2
+sugaaku,shyboy,1,0,2
+jason,skubtard,0,0,-1
+pidgezero_one,giraffe,0,2,0
+wookiee,uh what,0,2,0
+ham,tvdonk,1,0,2
+nintendude,akito555,0,2,0
+quitrage,5000candlesinthewind,0,2,0
+mariguas,shyboy,0,2,0
+jason,pidgezero_one,0,2,0
+wookiee,tvdonk,0,2,0
+nintendude,quitrage,0,2,0
+mariguas,jason,0,2,0
+wookiee,nintendude,1,1,2
+mariguas,nintendude,0,-2,-2
+skubtard,giraffe,1,0,2
+uh what,ham,1,0,2
+akito555,5000candlesinthewind,1,-1,0
+quitrage,sugaaku,0,2,0
+tvdonk,giraffe,0,2,0
+pidgezero_one,ham,0,2,0
+shyboy,5000candlesinthewind,0,0,-1
+quitrage,tvdonk,1,1,2
+pidgezero_one,shyboy,1,1,2
+jason,tvdonk,0,2,0
+wookiee,shyboy,0,2,1
+jason,wookiee,0,-2,-2
+fireblaster,nothing,0,2,0
+fireblaster,ybombb,0,-2,-2
+fireblaster,shasta,0,2,0
+nothing,cr0ak,0,0,-1
+nothing,d35,0,-2,-2
+nothing,bear,0,2,0
+the amazing busterino,derstuk,0,0,-1
+the amazing busterino,esuma,0,0,-1
+blondekid,lunchy,0,0,-1
+blondekid,bear,1,-1,0
+d35,nothing,1,1,2
+d35,derstuk,0,0,-1
+d35,han,0,2,0
+d35,esuma,0,0,-1
+weedwack,blondekid,0,0,-1
+weedwack,d35,1,0,2
+weedwack,han,0,2,0
+bear,the amazing busterino,0,0,-1
+bear,shasta,1,0,2
+ybombb,the amazing busterino,0,0,-1
+ybombb,weedwack,0,2,0
+shasta,han,1,0,2
+han,lunchy,0,0,-1
+esuma,cr0ak,0,0,-1
+wario,janitor,0,2,0
+hero pie,revan,1,0,2
+jaimehr,kimimaru,0,2,1
+wizzrobe,nacl,0,2,0
+wario,revan,0,2,0
+jaimehr,wizzrobe,1,1,2
+wario,wizzrobe,0,-2,-2
+stonefallow,wookiee,1,0,2
+nothing,daniel,0,2,0
+mokkori,rith,1,0,2
+sedda,masterhandjob,1,1,2
+nacl,wookiee,0,2,1
+kimimaru,nothing,0,2,0
+hero pie,rith,0,2,0
+janitor,masterhandjob,0,2,0
+nacl,kimimaru,1,1,2
+hero pie,janitor,0,2,0
+revan,kimimaru,0,2,0
+jaimehr,hero pie,1,1,2
+revan,hero pie,0,-2,-2
+superboomfan,shalaka,0,2,0
+banze,bark the shark,0,2,0
+tacos,snorlax,0,2,0
+fox,zero,0,2,0
+superboomfan,banze,0,2,0
+tacos,fox,0,2,0
+superboomfan,tacos,0,-2,-2
+jason,madrush21,0,2,0
+preston,d35,1,0,2
+jay-r,ctg,0,2,0
+bowl,captain l,0,2,1
+zero,jason,0,2,0
+snorlax,d35,0,2,0
+bark the shark,jay-r,0,2,1
+shalaka,bowl,0,2,0
+zero,snorlax,0,2,0
+bark the shark,shalaka,1,1,2
+banze,zero,0,2,1
+fox,shalaka,0,2,0
+banze,fox,0,-2,-2
+isai,mrmarbles,0,2,0
+fireblaster,ybombb,0,2,0
+wangera,lord narwhal,0,2,0
+dext3r,shears,0,2,0
+isai,fireblaster,0,2,0
+wangera,dext3r,0,2,0
+isai,wangera,0,-2,-2
+shanks,dajjal,1,1,2
+studstill,tot,0,2,0
+elel,morino,1,0,2
+annex,eggmode,1,1,2
+shears,dajjal,0,2,0
+lord narwhal,studstill,0,2,0
+ybombb,morino,0,2,0
+mrmarbles,eggmode,0,2,1
+shears,lord narwhal,1,1,2
+ybombb,mrmarbles,0,2,0
+fireblaster,lord narwhal,0,2,0
+dext3r,ybombb,0,2,0
+fireblaster,dext3r,0,-2,-2
+mariguas,nintendude,0,2,0
+stranded,kort,0,2,0
+kerokeroppi,darkhorse,0,2,1
+tr3g the z,kyle tree,0,2,0
+mariguas,stranded,0,2,0
+kerokeroppi,tr3g the z,0,2,1
+mariguas,kerokeroppi,0,-2,-2
+dubs,pete,1,0,2
+hipstur,rizner,0,2,0
+robert,maliki,0,2,1
+freean,sotoh,0,2,1
+kyle tree,pete,0,2,0
+darkhorse,hipstur,1,0,2
+kort,robert,0,2,0
+nintendude,freean,0,2,0
+kyle tree,hipstur,0,2,0
+kort,nintendude,0,2,0
+stranded,kyle tree,0,2,0
+tr3g the z,kort,0,2,0
+stranded,tr3g the z,0,-2,-2
+wario,wizzrobe,0,2,0
+mariguas,kerokeroppi,0,2,0
+superboomfan,tacos,0,2,1
+isai,wangera,1,1,2
+wario,mariguas,0,3,0
+superboomfan,wangera,0,3,1
+wario,superboomfan,0,3,1
+wario,superboomfan,1,0,3
+superboomfan,wario,1,0,3
+fireblaster,fox,1,0,2
+banze,dext3r,1,0,2
+stranded,hero pie,0,2,0
+revan,tr3g the z,1,0,2
+kerokeroppi,fox,0,2,0
+wizzrobe,dext3r,0,2,0
+isai,stranded,0,2,0
+tacos,tr3g the z,0,2,0
+kerokeroppi,wizzrobe,0,3,1
+isai,tacos,0,3,0
+wangera,kerokeroppi,0,3,0
+mariguas,isai,1,2,3
+wangera,isai,0,3,1
+superboomfan,wangera,0,3,1

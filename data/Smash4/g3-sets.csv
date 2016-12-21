@@ -1,0 +1,10 @@
+P1,P2,set winner,P1Score,P2Score
+texas,mdva,0,-2,-2
+norcal,southwest,0,-2,-2
+tristate,texas,0,-2,-2
+socal,midwest,0,-2,-2
+japan,norcal,0,-2,-2
+florida,mexico,1,-2,-2
+tristate,socal,1,-2,-2
+japan,mexico,0,-2,-2
+socal,japan,1,-2,-2

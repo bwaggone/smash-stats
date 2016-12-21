@@ -1,0 +1,388 @@
+P1,P2,set winner,P1Score,P2Score
+superboomfan,beans,0,2,0
+annex,nardwell,0,2,0
+llcstoism,cormander,0,2,0
+superboomfan,nardwell,0,2,0
+beans,cormander,0,2,0
+annex,llcstoism,1,0,2
+superboomfan,cormander,0,2,0
+nardwell,llcstoism,1,0,2
+beans,annex,1,0,2
+superboomfan,llcstoism,0,2,0
+cormander,annex,0,2,0
+nardwell,beans,1,0,2
+superboomfan,annex,0,2,0
+llcstoism,beans,0,2,0
+cormander,nardwell,0,2,0
+scoback,dasit mane,0,0,-1
+josephzander,icactusdog,0,2,0
+kerokeroppi,dasit mane,0,0,-1
+scoback,josephzander,0,2,0
+kerokeroppi,icactusdog,0,2,0
+dasit mane,josephzander,1,-1,0
+kerokeroppi,josephzander,0,2,0
+icactusdog,scoback,1,0,2
+kerokeroppi,scoback,0,2,0
+icactusdog,dasit mane,0,0,-1
+fumbles,jsmirk,0,2,0
+komotonoto,ocelot,0,2,0
+barksanchez,jsmirk,0,2,0
+fumbles,komotonoto,0,2,0
+barksanchez,ocelot,0,2,0
+jsmirk,komotonoto,1,0,2
+barksanchez,komotonoto,0,2,0
+ocelot,fumbles,1,0,2
+barksanchez,fumbles,0,2,0
+ocelot,jsmirk,1,1,2
+tyhiggz,mmneggs,0,2,0
+b33f,mando,0,2,0
+fireblaster,mmneggs,0,2,0
+tyhiggz,b33f,0,2,0
+fireblaster,mando,0,2,0
+mmneggs,b33f,1,0,2
+fireblaster,b33f,0,2,1
+mando,tyhiggz,1,0,2
+fireblaster,tyhiggz,0,2,0
+mando,mmneggs,0,2,0
+jay_mute$,ondas,0,2,0
+box765,ʙᴏᴅᴀᴄɪᴏᴜs,0,2,0
+shears,ondas,0,2,0
+jay_mute$,box765,0,2,0
+shears,ʙᴏᴅᴀᴄɪᴏᴜs,0,2,0
+ondas,box765,1,0,2
+shears,box765,0,2,0
+ʙᴏᴅᴀᴄɪᴏᴜs,jay_mute$,1,0,2
+shears,jay_mute$,0,2,1
+ʙᴏᴅᴀᴄɪᴏᴜs,ondas,1,1,2
+saltsizzle,yaron,0,2,0
+eg,village mascot,0,2,0
+nacl,yaron,0,2,0
+saltsizzle,eg,0,2,1
+nacl,village mascot,0,2,0
+yaron,eg,1,0,2
+nacl,eg,0,2,0
+village mascot,saltsizzle,1,0,2
+nacl,saltsizzle,0,2,0
+village mascot,yaron,0,2,1
+marbles,vondo,0,2,0
+lorenzo,yolft,0,2,0
+a to the z,bigbeaver,1,1,2
+marbles,yolft,0,2,0
+vondo,bigbeaver,1,0,2
+lorenzo,a to the z,0,2,0
+marbles,bigbeaver,0,2,0
+yolft,a to the z,1,0,2
+vondo,lorenzo,1,0,2
+marbles,a to the z,0,2,0
+bigbeaver,lorenzo,1,0,2
+yolft,vondo,0,2,0
+marbles,lorenzo,0,2,1
+a to the z,vondo,0,2,0
+bigbeaver,yolft,0,2,0
+d35,pintoa,0,2,0
+gt,lou sanus,0,2,0
+combo blaze,pintoa,0,2,0
+d35,gt,0,2,1
+combo blaze,lou sanus,0,2,0
+pintoa,gt,1,0,2
+combo blaze,gt,0,2,0
+lou sanus,d35,1,0,2
+combo blaze,d35,0,2,0
+lou sanus,pintoa,1,1,2
+supa,jedipanda,1,-1,0
+vinsanity,papa,0,0,-1
+limesoda,bacorn,0,2,0
+supa,papa,0,0,-1
+jedipanda,bacorn,1,1,2
+vinsanity,limesoda,0,2,0
+supa,bacorn,0,2,0
+papa,limesoda,1,-1,0
+jedipanda,vinsanity,1,0,2
+supa,limesoda,1,0,2
+bacorn,vinsanity,1,0,2
+papa,jedipanda,1,-1,0
+supa,vinsanity,1,-1,1
+limesoda,jedipanda,0,2,0
+bacorn,papa,0,0,-1
+da bear,recneps,1,-1,0
+hipstur,husker,0,2,0
+jamjar,bhol,0,2,0
+da bear,husker,1,-1,0
+recneps,bhol,1,1,2
+hipstur,jamjar,0,2,0
+da bear,bhol,1,-1,0
+husker,jamjar,1,1,2
+recneps,hipstur,1,0,2
+da bear,jamjar,1,-1,0
+bhol,hipstur,1,0,2
+husker,recneps,0,2,1
+da bear,hipstur,1,-1,0
+jamjar,recneps,0,2,0
+bhol,husker,0,2,0
+janitor,neph_girl,0,2,0
+pugs,dirtcruncher,0,2,0
+fishaman p,deathcpo,0,2,1
+janitor,dirtcruncher,0,2,1
+neph_girl,deathcpo,1,0,2
+pugs,fishaman p,1,0,2
+janitor,deathcpo,0,2,1
+dirtcruncher,fishaman p,1,0,2
+neph_girl,pugs,1,0,2
+janitor,fishaman p,0,2,1
+deathcpo,pugs,1,0,2
+dirtcruncher,neph_girl,0,2,0
+janitor,pugs,1,1,2
+fishaman p,neph_girl,0,2,0
+deathcpo,dirtcruncher,0,2,0
+dtan,zad,0,2,0
+onski,deep dimples,0,0,-1
+monte,walkrofsky,1,-1,0
+dtan,deep dimples,0,0,-1
+zad,walkrofsky,1,0,2
+onski,monte,0,0,-1
+dtan,walkrofsky,0,2,0
+deep dimples,monte,1,-1,0
+zad,onski,1,0,2
+dtan,monte,0,0,-1
+walkrofsky,onski,1,0,2
+deep dimples,zad,1,-1,0
+dtan,onski,0,2,0
+monte,zad,1,-1,0
+walkrofsky,deep dimples,0,0,-1
+ctg,maps,0,2,0
+madrush21,rocket,0,2,0
+professor_wizard,maniac379,0,2,1
+ctg,rocket,0,2,0
+maps,maniac379,0,2,0
+madrush21,professor_wizard,0,2,1
+ctg,maniac379,0,2,0
+rocket,professor_wizard,0,2,0
+maps,madrush21,1,0,2
+ctg,professor_wizard,0,2,0
+maniac379,madrush21,1,0,2
+rocket,maps,0,2,1
+ctg,madrush21,0,2,0
+professor_wizard,maps,0,2,1
+maniac379,rocket,1,0,2
+darkhorse,the drew,0,2,0
+dogg,elrond,0,2,0
+piratetrips,meerkat,0,2,0
+darkhorse,elrond,0,2,0
+the drew,meerkat,1,0,2
+dogg,piratetrips,0,2,0
+darkhorse,meerkat,0,2,0
+elrond,piratetrips,1,0,2
+the drew,dogg,1,0,2
+darkhorse,piratetrips,0,2,0
+meerkat,dogg,1,0,2
+elrond,the drew,1,0,2
+darkhorse,dogg,0,2,0
+piratetrips,the drew,0,2,0
+meerkat,elrond,0,2,1
+$$$ jim $$$,barrels,0,2,0
+battlecow,grahamaglam,0,2,0
+q!,whitejesus,1,-1,0
+$$$ jim $$$,grahamaglam,0,2,0
+barrels,whitejesus,1,1,2
+battlecow,q!,0,0,-1
+$$$ jim $$$,whitejesus,0,2,0
+grahamaglam,q!,0,0,-1
+barrels,battlecow,1,0,2
+$$$ jim $$$,q!,0,0,-1
+whitejesus,battlecow,1,0,2
+grahamaglam,barrels,0,2,0
+$$$ jim $$$,battlecow,0,2,0
+q!,barrels,1,-1,0
+whitejesus,grahamaglam,1,1,2
+zantetsu,rocktimus crime,0,2,0
+dogs_johnson,rebel scum,0,2,0
+apparition the ambassador,thrillhouse,1,0,2
+zantetsu,rebel scum,0,2,0
+rocktimus crime,thrillhouse,1,0,2
+dogs_johnson,apparition the ambassador,0,2,0
+zantetsu,thrillhouse,0,2,0
+rebel scum,apparition the ambassador,0,2,0
+rocktimus crime,dogs_johnson,1,0,2
+zantetsu,apparition the ambassador,0,2,0
+thrillhouse,dogs_johnson,1,0,2
+rebel scum,rocktimus crime,0,2,1
+zantetsu,dogs_johnson,0,2,1
+apparition the ambassador,rocktimus crime,0,2,0
+thrillhouse,rebel scum,0,2,1
+superboomfan,scoback,0,2,0
+zantetsu,battlecow,0,2,1
+combo blaze,lorenzo,0,2,1
+vinsanity,onski,0,2,0
+fireblaster,fumbles,1,1,2
+ctg,dogg,1,-1,0
+shears,tyhiggz,0,2,1
+dtan,pugs,0,2,0
+kerokeroppi,llcstoism,0,2,0
+$$$ jim $$$,dogs_johnson,0,2,1
+marbles,d35,0,2,0
+hipstur,limesoda,0,2,0
+barksanchez,saltsizzle,0,0,-1
+darkhorse,madrush21,1,1,2
+nacl,jay_mute$,1,-1,0
+fishaman p,jamjar,0,2,1
+superboomfan,zantetsu,0,2,0
+combo blaze,vinsanity,1,1,2
+fumbles,dogg,0,2,1
+shears,dtan,1,0,2
+kerokeroppi,$$$ jim $$$,0,2,0
+marbles,hipstur,0,2,0
+barksanchez,madrush21,0,2,1
+jay_mute$,fishaman p,1,1,2
+superboomfan,vinsanity,0,3,0
+fumbles,dtan,1,0,3
+kerokeroppi,marbles,0,3,0
+barksanchez,fishaman p,0,3,0
+superboomfan,dtan,0,3,0
+kerokeroppi,barksanchez,0,3,0
+superboomfan,kerokeroppi,0,3,1
+superboomfan,kerokeroppi,0,3,0
+scoback,battlecow,1,0,2
+lorenzo,onski,0,2,0
+fireblaster,ctg,0,0,-1
+tyhiggz,pugs,1,0,2
+llcstoism,dogs_johnson,1,1,2
+d35,limesoda,1,0,2
+saltsizzle,darkhorse,1,-1,0
+nacl,jamjar,1,-1,0
+jay_mute$,battlecow,0,2,0
+madrush21,lorenzo,1,1,2
+hipstur,fireblaster,1,0,2
+$$$ jim $$$,pugs,0,2,0
+shears,dogs_johnson,0,2,1
+dogg,limesoda,0,2,1
+combo blaze,darkhorse,0,2,1
+zantetsu,jamjar,0,2,0
+jay_mute$,lorenzo,1,1,3
+fireblaster,$$$ jim $$$,0,3,1
+shears,dogg,0,3,0
+combo blaze,zantetsu,1,2,3
+fumbles,lorenzo,1,1,3
+vinsanity,fireblaster,1,0,3
+fishaman p,shears,1,0,3
+marbles,zantetsu,1,1,3
+lorenzo,fireblaster,1,1,3
+shears,zantetsu,0,3,0
+barksanchez,fireblaster,0,3,1
+dtan,shears,0,3,0
+barksanchez,dtan,1,0,3
+kerokeroppi,dtan,0,3,1
+papa,recneps,1,-1,0
+ʙᴏᴅᴀᴄɪᴏᴜs,the drew,0,2,0
+eg,maniac379,0,2,0
+komotonoto,apparition the ambassador,0,2,1
+pintoa,neph_girl,0,2,0
+b33f,q!,0,0,-1
+vondo,monte,1,-1,0
+bhol,deathcpo,1,0,2
+box765,whitejesus,0,2,1
+bigbeaver,piratetrips,1,0,2
+bacorn,walkrofsky,1,-1,0
+mando,thrillhouse,1,0,2
+gt,professor_wizard,0,2,1
+jedipanda,da bear,0,0,-1
+ondas,elrond,0,2,1
+village mascot,maps,1,1,2
+dasit mane,rocktimus crime,1,-1,0
+lou sanus,dirtcruncher,0,0,-1
+jsmirk,barrels,0,0,-1
+yolft,deep dimples,0,0,-1
+husker,janitor,1,0,2
+mmneggs,grahamaglam,0,2,0
+yaron,meerkat,1,0,2
+supa,zad,1,-1,0
+ocelot,rebel scum,1,0,2
+a to the z,rocket,0,2,1
+cormander,recneps,0,0,-1
+ʙᴏᴅᴀᴄɪᴏᴜs,eg,1,0,2
+komotonoto,pintoa,0,2,0
+b33f,monte,1,0,2
+icactusdog,deathcpo,1,1,2
+box765,piratetrips,0,2,0
+beans,walkrofsky,0,2,0
+thrillhouse,gt,1,0,2
+annex,jedipanda,0,2,0
+ondas,maps,0,2,1
+rocktimus crime,lou sanus,1,-1,0
+jsmirk,yolft,0,2,1
+josephzander,janitor,1,1,2
+mmneggs,meerkat,0,2,0
+nardwell,zad,1,0,2
+rebel scum,a to the z,1,1,2
+cormander,eg,1,0,2
+komotonoto,monte,1,1,2
+deathcpo,box765,1,0,2
+beans,gt,0,2,0
+annex,ondas,0,2,0
+lou sanus,jsmirk,1,1,2
+janitor,mmneggs,0,2,0
+zad,a to the z,1,0,2
+eg,monte,1,0,2
+box765,beans,0,2,1
+annex,jsmirk,0,2,0
+janitor,a to the z,0,2,1
+monte,box765,0,3,1
+annex,janitor,1,2,3
+monte,janitor,1,0,3
+janitor,a to the z,1,1,3
+a to the z,janitor,1,1,3
+the drew,maniac379,1,0,2
+apparition the ambassador,neph_girl,0,2,0
+q!,vondo,1,-1,0
+whitejesus,bigbeaver,0,2,0
+mando,professor_wizard,1,-1,0
+elrond,village mascot,1,0,2
+dasit mane,dirtcruncher,1,-1,0
+barrels,deep dimples,0,0,-1
+grahamaglam,yaron,1,1,2
+ocelot,rocket,0,0,-1
+rebel scum,papa,0,0,-1
+nardwell,maniac379,1,0,2
+meerkat,apparition the ambassador,0,2,1
+josephzander,vondo,0,0,-1
+yolft,bhol,1,0,2
+rocktimus crime,whitejesus,1,-1,0
+maps,bacorn,0,0,-1
+jedipanda,professor_wizard,1,0,2
+thrillhouse,da bear,0,0,-1
+walkrofsky,village mascot,1,1,2
+piratetrips,dirtcruncher,0,0,-1
+icactusdog,barrels,0,0,-1
+b33f,husker,0,2,0
+pintoa,yaron,0,2,0
+ʙᴏᴅᴀᴄɪᴏᴜs,supa,0,0,-1
+recneps,ocelot,1,-1,0
+rebel scum,maniac379,1,0,2
+meerkat,josephzander,1,0,2
+bhol,whitejesus,1,0,2
+maps,professor_wizard,1,1,2
+thrillhouse,village mascot,1,0,2
+piratetrips,icactusdog,0,2,0
+b33f,pintoa,0,2,0
+ʙᴏᴅᴀᴄɪᴏᴜs,ocelot,1,0,2
+gt,maniac379,1,0,2
+deathcpo,josephzander,1,1,2
+komotonoto,whitejesus,0,2,0
+cormander,professor_wizard,1,0,2
+zad,village mascot,1,0,2
+mmneggs,piratetrips,1,1,2
+lou sanus,b33f,1,0,2
+ondas,ocelot,1,0,2
+maniac379,josephzander,1,0,2
+komotonoto,professor_wizard,1,1,2
+village mascot,piratetrips,1,0,2
+b33f,ocelot,0,2,0
+jsmirk,josephzander,1,0,2
+a to the z,professor_wizard,0,2,1
+eg,piratetrips,0,2,0
+beans,b33f,1,0,2
+josephzander,a to the z,1,-1,0
+eg,b33f,0,3,1
+box765,a to the z,1,-1,0
+annex,eg,1,0,3
+a to the z,eg,0,3,0
+monte,a to the z,1,-1,0
