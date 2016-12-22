@@ -1,0 +1,522 @@
+P1,P2,set winner,P1Score,P2Score
+hal_9000,siggen,0,2,0
+atrox,dvid,0,2,0
+mr.r,siggen,0,2,0
+hal_9000,atrox,1,1,2
+mr.r,dvid,0,2,0
+siggen,atrox,1,0,2
+mr.r,atrox,0,2,0
+dvid,hal_9000,1,0,2
+mr.r,hal_9000,0,2,0
+dvid,siggen,0,2,0
+istudying,tun,0,2,0
+koji,elefantkrakk,0,2,0
+thymeballoon,metanoia,0,2,1
+istudying,elefantkrakk,0,2,0
+tun,metanoia,1,0,2
+koji,thymeballoon,1,1,2
+istudying,metanoia,0,2,0
+elefantkrakk,thymeballoon,1,0,2
+tun,koji,1,0,2
+istudying,thymeballoon,0,2,1
+metanoia,koji,1,0,2
+elefantkrakk,tun,1,0,2
+istudying,koji,0,2,0
+thymeballoon,tun,0,2,0
+metanoia,elefantkrakk,0,2,0
+noqqysc,splarfie,0,2,0
+lirnesu,liron,0,2,0
+ixisnaugus,splarfie,0,2,0
+noqqysc,lirnesu,0,2,1
+ixisnaugus,liron,0,2,0
+splarfie,lirnesu,1,0,2
+ixisnaugus,lirnesu,0,2,0
+liron,noqqysc,1,0,2
+ixisnaugus,noqqysc,0,2,1
+liron,splarfie,0,2,1
+jibbmil,leg senpai,1,0,2
+ricko,friendly dps,0,2,0
+sodrek,leg senpai,0,2,0
+jibbmil,ricko,1,0,2
+sodrek,friendly dps,0,2,0
+leg senpai,ricko,1,0,2
+sodrek,ricko,0,2,0
+friendly dps,jibbmil,0,2,0
+sodrek,jibbmil,0,2,0
+friendly dps,leg senpai,1,0,2
+nanite,proxer,0,2,0
+quasi,dinner,0,2,0
+c.r.z,proxer,0,2,0
+nanite,quasi,1,1,2
+c.r.z,dinner,0,2,0
+proxer,quasi,1,0,2
+c.r.z,quasi,0,2,1
+dinner,nanite,1,0,2
+c.r.z,nanite,0,2,0
+dinner,proxer,0,2,1
+zplatter,the legendary food,0,2,0
+k2dh,fiby,0,2,0
+whoophee,the legendary food,0,2,0
+zplatter,k2dh,0,2,0
+whoophee,fiby,0,2,0
+the legendary food,k2dh,1,0,2
+whoophee,k2dh,0,2,0
+fiby,zplatter,1,0,2
+whoophee,zplatter,0,2,0
+fiby,the legendary food,0,2,1
+wiiase,gamebandit,0,2,0
+dragmire jr,redlime,0,2,1
+poopmaister6000,pad,0,2,0
+wiiase,redlime,0,2,0
+gamebandit,pad,1,1,2
+dragmire jr,poopmaister6000,1,1,2
+wiiase,pad,0,2,0
+redlime,poopmaister6000,1,1,2
+gamebandit,dragmire jr,1,1,2
+wiiase,poopmaister6000,0,2,0
+pad,dragmire jr,0,2,1
+redlime,gamebandit,1,1,2
+wiiase,dragmire jr,0,2,0
+poopmaister6000,gamebandit,0,2,0
+pad,redlime,1,0,2
+fat pepol,losviken,0,2,0
+fisk,haukon,0,2,0
+izaw,losviken,0,2,0
+fat pepol,fisk,0,2,0
+izaw,haukon,0,2,0
+losviken,fisk,1,0,2
+izaw,fisk,0,2,0
+haukon,fat pepol,1,0,2
+izaw,fat pepol,0,2,0
+haukon,losviken,0,2,0
+gregs,isaia,0,2,0
+sadman,tsondere,0,2,1
+spyroul,pilot,0,2,0
+gregs,tsondere,0,2,0
+isaia,pilot,1,0,2
+sadman,spyroul,1,0,2
+gregs,pilot,0,2,0
+tsondere,spyroul,1,0,2
+isaia,sadman,1,0,2
+gregs,spyroul,0,2,0
+pilot,sadman,1,1,2
+tsondere,isaia,0,2,0
+gregs,sadman,0,2,0
+spyroul,isaia,0,2,0
+pilot,tsondere,0,2,0
+badr,terbilux,0,2,0
+pact,jiichan,0,2,0
+jumper!,g3,0,2,1
+badr,jiichan,0,2,0
+terbilux,g3,1,0,2
+pact,jumper!,1,1,2
+badr,g3,0,2,0
+jiichan,jumper!,1,0,2
+terbilux,pact,1,1,2
+badr,jumper!,0,2,0
+g3,pact,1,1,2
+jiichan,terbilux,0,2,0
+badr,pact,0,2,0
+jumper!,terbilux,0,2,0
+g3,jiichan,0,2,0
+frenzy,sky,0,2,0
+mental,revilox,0,2,0
+smashsk,sky,0,2,0
+frenzy,mental,0,2,0
+smashsk,revilox,0,2,0
+sky,mental,1,1,2
+smashsk,mental,0,2,0
+revilox,frenzy,1,1,2
+smashsk,frenzy,0,2,0
+revilox,sky,0,2,1
+scarlet,tiberius,0,2,1
+sak,pangu,1,1,2
+m,tiberius,0,2,0
+scarlet,sak,0,2,0
+m,pangu,0,2,0
+tiberius,sak,0,2,0
+m,sak,0,2,0
+pangu,scarlet,1,0,2
+m,scarlet,0,2,0
+pangu,tiberius,1,0,2
+suntherion,jurgemaister,0,0,-1
+baselard,kasparno,0,2,1
+snasen,jurgemaister,0,0,-1
+suntherion,baselard,0,2,0
+snasen,kasparno,0,2,0
+jurgemaister,baselard,1,-1,0
+snasen,baselard,0,2,0
+kasparno,suntherion,1,0,2
+snasen,suntherion,0,2,1
+kasparno,jurgemaister,0,0,-1
+alias,pews,0,2,0
+wosic,alcadeias,0,2,0
+grøten,z,0,2,0
+alias,alcadeias,0,2,0
+pews,z,1,0,2
+wosic,grøten,0,2,0
+alias,z,0,2,0
+alcadeias,grøten,1,0,2
+pews,wosic,1,0,2
+alias,grøten,0,2,0
+z,wosic,1,0,2
+alcadeias,pews,1,1,2
+alias,wosic,0,2,0
+grøten,pews,0,2,0
+z,alcadeias,1,1,2
+teluoborg,geekodot,0,2,0
+bach,taclite,0,2,0
+riksto,geekodot,0,2,0
+teluoborg,bach,0,2,0
+riksto,taclite,0,2,0
+geekodot,bach,1,0,2
+riksto,bach,0,2,0
+taclite,teluoborg,1,0,2
+riksto,teluoborg,0,2,0
+taclite,geekodot,0,2,0
+zora,terrorcheese,0,2,0
+captainjack,dw,0,2,0
+deo,terrorcheese,0,2,0
+zora,captainjack,0,2,0
+deo,dw,0,2,0
+terrorcheese,captainjack,1,0,2
+deo,captainjack,0,2,0
+dw,zora,1,0,2
+deo,zora,0,2,0
+dw,terrorcheese,0,2,0
+vesp,nillen20,0,2,0
+hompaz,pz,0,2,0
+rekzius,nillen20,0,2,0
+vesp,hompaz,0,2,1
+rekzius,pz,0,2,0
+nillen20,hompaz,1,0,2
+rekzius,hompaz,0,2,1
+pz,vesp,0,2,0
+rekzius,vesp,0,2,0
+pz,nillen20,0,2,0
+jebu,scorpio kiddo,0,2,0
+shing,ace,0,2,0
+awesomebee,nintendork,0,2,0
+jebu,ace,0,2,0
+scorpio kiddo,nintendork,0,2,0
+shing,awesomebee,1,0,2
+jebu,nintendork,0,2,1
+ace,awesomebee,1,0,2
+scorpio kiddo,shing,1,0,2
+jebu,awesomebee,0,2,0
+nintendork,shing,1,1,2
+ace,scorpio kiddo,0,2,0
+jebu,shing,0,2,0
+awesomebee,scorpio kiddo,0,2,0
+nintendork,ace,0,2,0
+muru,blu,0,2,0
+jenzo,m1,0,2,0
+bollefar,blu,0,2,0
+muru,jenzo,0,2,0
+bollefar,m1,0,2,1
+blu,jenzo,1,0,2
+bollefar,jenzo,1,0,2
+m1,muru,1,0,2
+bollefar,muru,0,2,1
+m1,blu,0,2,0
+lentross,robiin,0,2,1
+i lift,hammern,0,2,0
+mumfy,kekkeri,0,2,0
+lentross,hammern,0,0,-1
+robiin,kekkeri,1,0,2
+i lift,mumfy,0,2,0
+lentross,kekkeri,0,2,1
+hammern,mumfy,1,0,2
+robiin,i lift,0,2,0
+lentross,mumfy,1,1,2
+kekkeri,i lift,1,0,2
+hammern,robiin,1,1,2
+lentross,i lift,0,2,0
+mumfy,robiin,1,1,2
+kekkeri,hammern,0,2,0
+zartzu,torogami,0,2,0
+legic,g-sen,0,2,0
+son gohan,taiki,0,2,0
+zartzu,g-sen,0,2,0
+torogami,taiki,1,0,2
+legic,son gohan,0,2,0
+zartzu,taiki,0,2,0
+g-sen,son gohan,1,0,2
+torogami,legic,1,0,2
+zartzu,son gohan,0,2,0
+taiki,legic,1,0,2
+g-sen,torogami,0,2,0
+zartzu,legic,1,1,2
+son gohan,torogami,0,2,0
+taiki,g-sen,0,2,0
+ulf,devilgamer,0,2,0
+philern,theredmage,0,2,0
+gardex,devilgamer,0,2,0
+ulf,philern,0,2,0
+gardex,theredmage,0,2,1
+devilgamer,philern,1,1,2
+gardex,philern,0,2,0
+theredmage,ulf,1,1,2
+gardex,ulf,0,2,0
+theredmage,devilgamer,0,2,0
+willz,spikeuvm,0,2,0
+gray,sjaleks,0,2,0
+queen,libeck,1,1,2
+willz,sjaleks,0,2,0
+spikeuvm,libeck,1,0,2
+gray,queen,1,1,2
+willz,libeck,0,2,1
+sjaleks,queen,1,0,2
+spikeuvm,gray,1,0,2
+willz,queen,0,2,0
+libeck,gray,1,1,2
+sjaleks,spikeuvm,0,2,1
+willz,gray,0,2,0
+queen,spikeuvm,0,2,0
+libeck,sjaleks,0,2,0
+chard,nemui,0,2,0
+lufos,lort,0,2,0
+drolo,hal,0,2,0
+chard,lort,0,2,0
+nemui,hal,1,1,2
+lufos,drolo,0,2,0
+chard,hal,0,2,0
+lort,drolo,1,0,2
+nemui,lufos,1,0,2
+chard,drolo,0,2,0
+hal,lufos,1,0,2
+lort,nemui,1,0,2
+chard,lufos,1,1,2
+drolo,nemui,0,2,0
+hal,lort,1,0,2
+shido,erafloaty,0,2,0
+warheart,veghard,0,2,0
+urg,emperor,0,2,0
+shido,veghard,0,2,0
+erafloaty,emperor,1,-1,0
+warheart,urg,0,2,0
+shido,emperor,0,2,0
+veghard,urg,0,2,1
+erafloaty,warheart,1,0,2
+shido,urg,0,2,0
+emperor,warheart,1,0,2
+veghard,erafloaty,0,2,0
+shido,warheart,0,2,0
+urg,erafloaty,0,0,-1
+emperor,veghard,1,0,2
+ham,rullekake,0,2,0
+kafka,taka,1,0,2
+zht,rullekake,0,2,0
+ham,kafka,0,2,0
+zht,taka,0,2,0
+rullekake,kafka,1,0,2
+zht,kafka,0,2,0
+taka,ham,0,2,1
+zht,ham,0,2,1
+taka,rullekake,0,2,0
+bryggiz,zayko,0,2,0
+tag,athic blaze,0,2,0
+rastabru,bamboocarpet,0,2,0
+bryggiz,athic blaze,0,2,0
+zayko,bamboocarpet,1,0,2
+tag,rastabru,0,2,0
+bryggiz,bamboocarpet,0,2,0
+athic blaze,rastabru,1,0,2
+zayko,tag,1,0,2
+bryggiz,rastabru,1,1,2
+bamboocarpet,tag,1,0,2
+athic blaze,zayko,0,2,0
+bryggiz,tag,1,0,2
+rastabru,zayko,0,2,0
+bamboocarpet,athic blaze,0,2,0
+biscuit,notoriouslanser,0,2,0
+corgi lord,potato head,0,2,0
+boombucket,milki,0,2,0
+biscuit,potato head,0,2,0
+notoriouslanser,milki,0,2,1
+corgi lord,boombucket,0,2,0
+biscuit,milki,0,2,0
+potato head,boombucket,1,0,2
+notoriouslanser,corgi lord,1,0,2
+biscuit,boombucket,0,2,0
+milki,corgi lord,1,0,2
+potato head,notoriouslanser,0,2,0
+biscuit,corgi lord,0,2,1
+boombucket,notoriouslanser,0,2,0
+milki,potato head,0,2,0
+theepicpirate,wulf,0,2,0
+endeby,born 2 sd,0,2,0
+gerdef,gongong,0,2,1
+theepicpirate,born 2 sd,0,2,0
+wulf,gongong,1,0,2
+endeby,gerdef,0,2,0
+theepicpirate,gongong,0,2,0
+born 2 sd,gerdef,1,0,2
+wulf,endeby,1,0,2
+theepicpirate,gerdef,0,2,0
+gongong,endeby,1,0,2
+born 2 sd,wulf,0,2,0
+theepicpirate,endeby,0,2,0
+gerdef,wulf,0,2,0
+gongong,born 2 sd,0,2,0
+vaataji,hobolord,0,2,0
+themaik,joat,1,1,2
+miguel,hobolord,0,2,0
+vaataji,themaik,0,2,0
+miguel,joat,0,2,0
+hobolord,themaik,1,1,2
+miguel,themaik,0,2,0
+joat,vaataji,1,1,2
+miguel,vaataji,1,0,2
+joat,hobolord,0,2,1
+lunar,laffen,0,2,0
+yungfluff,quepasacontigo,0,2,0
+jm,laffen,0,2,0
+lunar,yungfluff,0,2,0
+jm,quepasacontigo,0,2,0
+laffen,yungfluff,1,0,2
+jm,yungfluff,0,2,0
+quepasacontigo,lunar,0,2,1
+jm,lunar,0,2,0
+quepasacontigo,laffen,0,2,0
+evilized,vetikke,0,2,0
+kanaribird,glitch,0,2,0
+mm720,spongeofdoom,1,0,2
+evilized,glitch,0,2,0
+vetikke,spongeofdoom,1,1,2
+kanaribird,mm720,0,2,0
+evilized,spongeofdoom,0,2,0
+glitch,mm720,1,0,2
+vetikke,kanaribird,1,0,2
+evilized,mm720,0,2,0
+spongeofdoom,kanaribird,1,0,2
+glitch,vetikke,1,0,2
+evilized,kanaribird,0,2,0
+mm720,vetikke,1,0,2
+spongeofdoom,glitch,0,2,0
+mr.r,lunar,0,2,0
+evilized,thymeballoon,0,2,0
+deo,awesomebee,0,2,0
+rekzius,teluoborg,0,2,0
+izaw,taka,0,2,0
+shido,poopmaister6000,0,2,0
+gregs,libeck,0,2,0
+lufos,jumper!,0,2,0
+sodrek,miguel,0,2,0
+theepicpirate,noqqysc,1,1,2
+snasen,jenzo,0,2,0
+lentross,wosic,1,0,2
+c.r.z,rastabru,0,2,0
+biscuit,zplatter,0,2,1
+m,ulf,0,2,0
+legic,frenzy,1,0,2
+istudying,kanaribird,0,2,0
+jm,atrox,1,1,2
+riksto,hompaz,0,2,0
+jebu,zora,0,2,0
+wiiase,warheart,0,2,0
+zht,fat pepol,0,2,0
+badr,chard,0,2,1
+willz,spyroul,0,2,0
+ixisnaugus,endeby,0,2,0
+vaataji,ricko,1,1,2
+alias,i lift,0,2,0
+muru,suntherion,1,0,2
+whoophee,corgi lord,0,2,0
+tag,quasi,0,2,1
+smashsk,zartzu,0,2,1
+gardex,scarlet,1,1,2
+mr.r,evilized,0,2,0
+deo,rekzius,1,0,2
+izaw,shido,0,2,0
+gregs,lufos,0,2,0
+sodrek,noqqysc,0,2,0
+snasen,wosic,0,2,0
+c.r.z,biscuit,1,1,2
+m,frenzy,0,2,0
+istudying,atrox,0,2,0
+riksto,jebu,0,2,0
+wiiase,zht,0,2,0
+badr,willz,0,2,1
+ixisnaugus,ricko,0,2,0
+alias,suntherion,1,1,2
+whoophee,tag,0,2,1
+smashsk,scarlet,0,2,0
+mr.r,rekzius,0,2,1
+izaw,gregs,1,1,2
+sodrek,snasen,0,2,0
+biscuit,m,1,0,2
+istudying,riksto,0,2,0
+wiiase,badr,0,2,1
+ixisnaugus,suntherion,0,2,0
+whoophee,smashsk,0,2,0
+mr.r,gregs,0,3,0
+sodrek,m,0,3,0
+istudying,wiiase,0,3,2
+ixisnaugus,whoophee,0,2,0
+mr.r,sodrek,0,3,1
+istudying,ixisnaugus,0,3,2
+mr.r,istudying,0,3,2
+mr.r,sodrek,0,3,0
+lunar,thymeballoon,1,1,2
+awesomebee,teluoborg,1,1,2
+taka,poopmaister6000,1,0,2
+libeck,jumper!,0,2,0
+miguel,theepicpirate,1,1,2
+jenzo,lentross,1,0,2
+rastabru,zplatter,1,0,2
+ulf,legic,1,1,2
+kanaribird,jm,1,0,2
+hompaz,zora,1,0,2
+warheart,fat pepol,0,2,1
+chard,spyroul,0,2,0
+endeby,vaataji,1,0,2
+i lift,muru,1,1,2
+corgi lord,quasi,0,2,0
+zartzu,gardex,0,2,1
+scarlet,thymeballoon,1,0,2
+tag,teluoborg,0,2,0
+alias,poopmaister6000,0,2,0
+ricko,libeck,0,2,0
+willz,theepicpirate,0,2,1
+zht,lentross,0,2,0
+jebu,zplatter,0,2,1
+atrox,legic,0,2,1
+frenzy,jm,1,1,2
+c.r.z,zora,0,2,0
+wosic,warheart,1,1,2
+noqqysc,chard,1,0,2
+lufos,vaataji,1,1,2
+shido,muru,0,2,0
+deo,corgi lord,0,2,1
+evilized,zartzu,1,0,2
+thymeballoon,tag,1,0,2
+alias,ricko,0,2,0
+willz,zht,1,1,2
+jebu,atrox,0,2,0
+jm,c.r.z,1,0,2
+warheart,chard,1,0,2
+vaataji,shido,1,0,2
+deo,zartzu,1,0,2
+biscuit,tag,1,0,2
+snasen,alias,1,1,2
+izaw,zht,0,2,1
+rekzius,jebu,1,0,2
+smashsk,c.r.z,0,2,0
+suntherion,chard,0,2,0
+badr,shido,0,2,0
+riksto,zartzu,1,1,2
+tag,alias,1,1,3
+izaw,jebu,0,3,2
+smashsk,suntherion,1,0,3
+badr,zartzu,0,3,2
+wiiase,alias,0,3,1
+whoophee,izaw,0,3,0
+gregs,suntherion,0,3,0
+m,badr,1,0,3
+wiiase,whoophee,1,2,3
+gregs,badr,1,0,3
+sodrek,whoophee,0,3,0
+ixisnaugus,badr,0,3,2
+sodrek,ixisnaugus,0,3,1
+istudying,sodrek,1,1,3

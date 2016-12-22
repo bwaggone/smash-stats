@@ -1,0 +1,16 @@
+P1,P2,set winner,P1Score,P2Score
+netherlands,norway 3,0,-2,-2
+sweden 1,finland,0,-2,-2
+team sodrek (germany),norway 2,0,-2,-2
+norway 1,sweden 2,0,-2,-2
+netherlands,sweden 1,0,-2,-2
+team sodrek (germany),norway 1,0,-2,-2
+netherlands,team sodrek (germany),1,-2,-2
+team sodrek (germany),netherlands,1,-2,-2
+netherlands,team sodrek (germany),0,-2,-2
+norway 3,finland,1,-2,-2
+norway 2,sweden 2,0,-2,-2
+norway 1,finland,0,-2,-2
+sweden 1,norway 2,0,-2,-2
+norway 1,sweden 1,0,-2,-2
+netherlands,norway 1,0,-2,-2

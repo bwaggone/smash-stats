@@ -1,0 +1,50 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+pappin,guerrilla,ck,pyrrhus,1,1,2
+the moon,dj nintendo,spamus,sena,0,2,0
+uncle mojo,fearless,tx toast,edgeboy,0,2,0
+tr0y,ss | brother rob,nixon,ecoli,0,2,0
+strawhat,nk,pip,tyler,0,0,-1
+cuno,armand,sparkswordkirby,lucidity,1,1,2
+goon,limbose,rufio,gree,0,2,0
+bestrin,kingly,brentos,exotonic,0,2,0
+betch,nabz,bc,whispy,0,2,0
+thunderzreign,sosa,ck,pyrrhus,0,2,0
+the moon,dj nintendo,uncle mojo,fearless,0,2,0
+mew2king,ally,tr0y,ss | brother rob,0,2,0
+luck,umbreon,strawhat,nk,0,2,0
+lunchables,oracle,sparkswordkirby,lucidity,0,2,0
+jason waterfalls,shokio,goon,limbose,0,2,0
+ipunchkidsz,aero,bestrin,kingly,0,2,0
+boiko,strong bad,betch,nabz,1,-1,0
+thunderzreign,sosa,the moon,dj nintendo,0,2,0
+mew2king,ally,luck,umbreon,0,2,0
+lunchables,oracle,jason waterfalls,shokio,0,2,1
+ipunchkidsz,aero,betch,nabz,0,2,0
+thunderzreign,sosa,mew2king,ally,1,0,2
+lunchables,oracle,ipunchkidsz,aero,1,0,2
+mew2king,ally,ipunchkidsz,aero,0,3,2
+mew2king,ally,thunderzreign,sosa,1,1,3
+thunderzreign,sosa,mew2king,ally,0,-2,-2
+spamus,sena,tx toast,edgeboy,1,0,2
+boiko,strong bad,pappin,guerrilla,1,-1,0
+bestrin,kingly,tx toast,edgeboy,1,1,2
+goon,limbose,nixon,ecoli,0,2,0
+sparkswordkirby,lucidity,pip,tyler,0,0,-1
+strawhat,nk,cuno,armand,0,2,0
+tr0y,ss | brother rob,rufio,gree,0,2,0
+uncle mojo,fearless,brentos,exotonic,0,2,0
+ck,pyrrhus,bc,whispy,0,2,0
+pappin,guerrilla,tx toast,edgeboy,1,0,2
+goon,limbose,sparkswordkirby,lucidity,0,2,0
+strawhat,nk,tr0y,ss | brother rob,0,2,0
+uncle mojo,fearless,ck,pyrrhus,0,2,0
+luck,umbreon,tx toast,edgeboy,0,2,0
+the moon,dj nintendo,goon,limbose,0,2,0
+betch,nabz,strawhat,nk,1,1,2
+jason waterfalls,shokio,uncle mojo,fearless,1,0,2
+luck,umbreon,the moon,dj nintendo,0,2,1
+strawhat,nk,uncle mojo,fearless,1,0,2
+lunchables,oracle,luck,umbreon,0,2,1
+thunderzreign,sosa,uncle mojo,fearless,0,2,0
+lunchables,oracle,thunderzreign,sosa,1,0,2
+ipunchkidsz,aero,thunderzreign,sosa,1,0,3

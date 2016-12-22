@@ -1,0 +1,11 @@
+P1,P2,set winner,P1Score,P2Score
+denmark,scotland,1,0,1
+norway,sweden,0,-2,-2
+germany,scotland,0,-2,-2
+north america,norway,1,-1,0
+germany,norway,0,-2,-2
+germany,norway,0,-2,-2
+north america,denmark,1,-1,0
+scotland,sweden,1,-2,-2
+denmark,sweden,1,-2,-2
+norway,sweden,0,-2,-2

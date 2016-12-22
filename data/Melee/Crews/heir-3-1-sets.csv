@@ -1,0 +1,30 @@
+P1,P2,set winner,P1Score,P2Score
+austria,scotland,0,-2,-2
+england,belgium,0,-2,-2
+france,switzerland,0,-2,-2
+germany,republic of ireland,0,-2,-2
+usa,norway,0,-2,-2
+netherlands,wales,0,-2,-2
+spain,northern ireland,0,-2,-2
+sweden,austria,1,-2,-2
+england,france,0,-2,-2
+germany,usa,0,-2,-2
+netherlands,spain,0,-2,-2
+austria,england,0,-2,-2
+germany,netherlands,1,-2,-2
+austria,netherlands,0,-2,-2
+austria,sweden,1,-2,-2
+sweden,austria,0,-2,-2
+belgium,switzerland,0,0,-1
+republic of ireland,norway,1,-2,-2
+wales,northern ireland,1,-2,-2
+spain,scotland,0,-2,-2
+usa,belgium,0,-2,-2
+france,norway,0,-2,-2
+sweden,northern ireland,0,-2,-2
+spain,usa,0,-2,-2
+france,sweden,1,-2,-2
+england,spain,0,-2,-2
+germany,sweden,1,-2,-2
+england,sweden,1,-2,-2
+netherlands,sweden,1,-2,-2

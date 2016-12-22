@@ -1,0 +1,133 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+mew2king,ally,obamallama,hubes,0,0,-1
+harlock,kamikaze,quilly,dare2dream,1,1,2
+dyr,saj,giganterra,moose,0,2,0
+xzax,samsora,chanchan,taletalon,0,2,0
+mew2king,ally,quilly,dare2dream,0,2,0
+dyr,saj,xzax,samsora,1,0,2
+mew2king,ally,xzax,samsora,0,2,0
+mew2king,ally,xzax,samsora,0,-2,-2
+obamallama,hubes,harlock,kamikaze,1,-1,0
+giganterra,moose,chanchan,taletalon,0,2,0
+dyr,saj,harlock,kamikaze,0,2,1
+quilly,dare2dream,giganterra,moose,0,2,1
+dyr,saj,quilly,dare2dream,0,2,0
+xzax,samsora,dyr,saj,0,2,1
+chuck nasty,makibaz,soronajo,drcudahy,0,2,0
+pink fresh,captainzack,bigus wigus,oak,0,2,0
+james,hertz,karbine,agent x,1,-1,0
+nairo,zero,chuck nasty,makibaz,0,2,0
+pink fresh,captainzack,karbine,agent x,0,2,0
+nairo,zero,pink fresh,captainzack,0,2,0
+nairo,zero,pink fresh,captainzack,0,-2,-2
+bigus wigus,oak,james,hertz,0,0,-1
+karbine,agent x,soronajo,drcudahy,1,0,2
+chuck nasty,makibaz,bigus wigus,oak,0,2,0
+soronajo,drcudahy,chuck nasty,makibaz,1,0,2
+pink fresh,captainzack,chuck nasty,makibaz,0,2,0
+larry lurr,anti,jman3,boneless,0,2,1
+larry lurr,anti,fatality,scatt,0,-2,-2
+larry lurr,anti,fatality,scatt,0,2,1
+larry lurr,anti,soberd,sideb,0,2,0
+chrispy,bsquared,cook,withinar,1,0,2
+tatsyu,xsaoxsurvivorx,jman3,boneless,1,0,2
+jman3,boneless,treble,that1blakkkid,0,2,1
+cook,withinar,tatsyu,xsaoxsurvivorx,0,2,0
+cook,withinar,jman3,boneless,0,2,1
+fatality,scatt,cook,withinar,0,2,0
+fatality,scatt,cook,withinar,0,2,0
+fatality,scatt,treble,that1blakkkid,0,2,1
+treble,that1blakkkid,chrispy,bsquared,0,2,0
+soberd,sideb,tatsyu,xsaoxsurvivorx,1,0,2
+jswiss,devinchi,rango,gottoms,1,0,2
+abadango,kameme,jefecaminador,lsxandrew,0,2,1
+deezus,miloni,zora,cylent,0,2,0
+mr.e,vinnie,rango,gottoms,0,2,0
+abadango,kameme,deezus,miloni,0,2,1
+mr.e,vinnie,abadango,kameme,1,0,2
+abadango,kameme,mr.e,vinnie,0,-2,-2
+jefecaminador,lsxandrew,zora,cylent,0,2,1
+deezus,miloni,jswiss,devinchi,0,2,0
+rango,gottoms,jefecaminador,lsxandrew,0,2,0
+deezus,miloni,rango,gottoms,0,2,0
+mr.e,vinnie,deezus,miloni,0,2,0
+salem,ryuga,sergio,one more,0,2,0
+doctor b,biscuit,methacrylate,a-n too,0,2,0
+nakat,void,arma,nicole,0,0,-1
+jjrockets,mystearica,aeroux,stylo.ren,0,2,0
+salem,ryuga,doctor b,biscuit,0,2,0
+nakat,void,jjrockets,mystearica,0,2,0
+salem,ryuga,nakat,void,0,2,1
+salem,ryuga,nakat,void,0,-2,-2
+sergio,one more,methacrylate,a-n too,1,0,2
+arma,nicole,aeroux,stylo.ren,1,-1,0
+jjrockets,mystearica,methacrylate,a-n too,0,2,0
+doctor b,biscuit,aeroux,stylo.ren,0,2,0
+jjrockets,mystearica,doctor b,biscuit,0,2,0
+nakat,void,jjrockets,mystearica,0,2,0
+pugwest,marss,oblivion wing,kasotai,0,2,0
+fye,zguh,tara,dmx,0,2,0
+mjg,ned,hills,q.e.d.,0,0,-1
+gng,grey,music,branstar,0,2,0
+pugwest,marss,fye,zguh,0,2,0
+mjg,ned,gng,grey,0,2,0
+pugwest,marss,mjg,ned,0,2,0
+pugwest,marss,mjg,ned,0,-2,-2
+oblivion wing,kasotai,tara,dmx,1,0,2
+hills,q.e.d.,music,branstar,1,-1,0
+gng,grey,tara,dmx,0,2,0
+fye,zguh,music,branstar,0,2,0
+gng,grey,fye,zguh,1,1,2
+mjg,ned,fye,zguh,0,-2,-2
+squirrel,ruse,uno,mercyscene,0,2,0
+mvd,esam,squirrel,ruse,0,2,0
+umbrionknight,lewton,tmacc,fail whale,1,1,2
+zinoto,tyroy,pucks,sunshine,0,2,0
+nom,ksev,flow yo,treuce,0,2,0
+mvd,esam,tmacc,fail whale,0,2,0
+zinoto,tyroy,nom,ksev,0,2,1
+mvd,esam,zinoto,tyroy,0,2,1
+mvd,esam,zinoto,tyroy,0,-2,-2
+flow yo,treuce,uno,mercyscene,0,2,0
+flow yo,treuce,pucks,sunshine,0,2,0
+umbrionknight,lewton,squirrel,ruse,0,2,0
+tmacc,fail whale,flow yo,treuce,1,1,2
+nom,ksev,umbrionknight,lewton,0,2,0
+flow yo,treuce,nom,ksev,1,0,2
+zinoto,tyroy,nom,ksev,0,2,0
+mr.r,istudying,crimepoop,bob ross,0,2,0
+muse,kaze,slowjoe,joe barrels,0,2,0
+mkleo,day,retaelous,pupfury,0,0,-1
+ping warrior,spankyj,k.i.d.goggles,draxsel,1,1,2
+mr.r,istudying,muse,kaze,0,2,0
+mkleo,day,k.i.d.goggles,draxsel,0,2,1
+mr.r,istudying,mkleo,day,1,-2,-2
+mkleo,day,mr.r,istudying,0,-2,-2
+crimepoop,bob ross,slowjoe,joe barrels,1,0,2
+retaelous,pupfury,ping warrior,spankyj,1,-1,0
+k.i.d.goggles,draxsel,slowjoe,joe barrels,0,2,1
+muse,kaze,ping warrior,spankyj,1,0,2
+k.i.d.goggles,draxsel,ping warrior,spankyj,1,0,2
+mr.r,istudying,ping warrior,spankyj,0,2,0
+mew2king,ally,mkleo,day,1,0,2
+abadango,kameme,salem,ryuga,1,0,2
+nairo,zero,mvd,esam,0,2,0
+larry lurr,anti,pugwest,marss,1,0,2
+mkleo,day,salem,ryuga,0,3,1
+nairo,zero,pugwest,marss,0,3,0
+mkleo,day,nairo,zero,1,0,3
+nairo,zero,mkleo,day,0,3,2
+xzax,samsora,mr.r,istudying,1,1,2
+mr.e,vinnie,nakat,void,1,0,2
+pink fresh,captainzack,zinoto,tyroy,1,1,2
+fatality,scatt,mjg,ned,1,1,2
+abadango,kameme,mr.r,istudying,1,1,2
+mew2king,ally,nakat,void,0,2,0
+larry lurr,anti,zinoto,tyroy,0,2,0
+mvd,esam,mjg,ned,0,2,0
+mr.r,istudying,mew2king,ally,1,0,3
+larry lurr,anti,mvd,esam,0,3,2
+pugwest,marss,mew2king,ally,0,3,2
+salem,ryuga,larry lurr,anti,0,3,0
+pugwest,marss,salem,ryuga,1,2,3
+mkleo,day,salem,ryuga,0,3,2

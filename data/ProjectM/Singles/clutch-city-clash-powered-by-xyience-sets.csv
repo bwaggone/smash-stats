@@ -1,0 +1,364 @@
+P1,P2,set winner,P1Score,P2Score
+hard reid,ecoli,0,2,0
+miyo,xariot,0,2,0
+pk wizkid,cfh,0,2,0
+thunderzreign,ecoli,0,2,0
+hard reid,cfh,0,2,0
+miyo,pk wizkid,0,2,0
+thunderzreign,xariot,0,2,0
+ecoli,cfh,1,0,2
+hard reid,miyo,0,2,0
+thunderzreign,cfh,0,2,0
+xariot,pk wizkid,0,2,1
+ecoli,miyo,1,0,2
+thunderzreign,pk wizkid,0,2,0
+cfh,miyo,1,0,2
+xariot,hard reid,1,0,2
+thunderzreign,miyo,0,2,0
+pk wizkid,hard reid,1,0,2
+xariot,ecoli,0,2,1
+thunderzreign,hard reid,1,0,2
+pk wizkid,ecoli,0,2,1
+cfh,xariot,1,0,2
+ck,windindi,0,2,0
+volume,limbose,0,2,1
+americandreamer,king boolean,1,0,2
+lunchables,windindi,0,2,0
+ck,king boolean,0,2,0
+volume,americandreamer,0,2,0
+lunchables,limbose,0,2,0
+windindi,king boolean,1,0,2
+ck,volume,0,2,1
+lunchables,king boolean,0,2,0
+limbose,americandreamer,0,2,0
+windindi,volume,1,0,2
+lunchables,americandreamer,0,2,0
+king boolean,volume,1,0,2
+limbose,ck,1,0,2
+lunchables,volume,0,2,0
+americandreamer,ck,1,0,2
+limbose,windindi,0,2,0
+lunchables,ck,0,2,0
+americandreamer,windindi,0,2,0
+king boolean,limbose,1,0,2
+darkgun,tx toast,0,2,0
+rayzorium,nixon,0,2,0
+km,nubpai,0,2,0
+sosa,tx toast,0,2,0
+darkgun,nubpai,0,2,0
+rayzorium,km,0,2,0
+sosa,nixon,0,2,0
+tx toast,nubpai,0,2,0
+darkgun,rayzorium,0,2,1
+sosa,nubpai,0,2,0
+nixon,km,0,2,1
+tx toast,rayzorium,1,0,2
+sosa,km,0,2,0
+nubpai,rayzorium,1,0,2
+nixon,darkgun,1,0,2
+sosa,rayzorium,0,2,0
+km,darkgun,1,1,2
+nixon,tx toast,0,2,0
+sosa,darkgun,0,2,0
+km,tx toast,1,0,2
+nubpai,nixon,1,0,2
+nk,the raven,0,2,0
+intern,rufio,0,2,0
+demo,perfect light,1,-1,0
+ipunchkidsz,the raven,0,2,0
+nk,perfect light,0,2,0
+intern,demo,0,0,-1
+ipunchkidsz,rufio,0,2,0
+the raven,perfect light,0,2,1
+nk,intern,0,2,0
+ipunchkidsz,perfect light,0,2,0
+rufio,demo,0,0,-1
+the raven,intern,1,0,2
+ipunchkidsz,demo,0,0,-1
+perfect light,intern,1,0,2
+rufio,nk,1,0,2
+ipunchkidsz,intern,0,2,0
+demo,nk,1,-1,0
+rufio,the raven,1,1,2
+ipunchkidsz,nk,0,2,0
+demo,the raven,1,-1,0
+perfect light,rufio,1,1,2
+axxo,scout,0,2,0
+pappin,berry,0,2,0
+magmios,law,0,2,0
+strong bad,scout,0,2,0
+axxo,law,0,2,0
+pappin,magmios,0,2,0
+strong bad,berry,0,2,0
+scout,law,0,2,0
+axxo,pappin,0,2,1
+strong bad,law,0,2,0
+berry,magmios,1,0,2
+scout,pappin,1,0,2
+strong bad,magmios,0,2,0
+law,pappin,1,0,2
+berry,axxo,1,0,2
+strong bad,pappin,0,2,0
+magmios,axxo,1,0,2
+berry,scout,1,0,2
+strong bad,axxo,0,2,1
+magmios,scout,0,2,0
+law,berry,1,0,2
+vaerix,slugimus,0,2,0
+goon,todayyz,1,1,2
+stuffles,liaem,0,2,1
+luck,slugimus,0,2,0
+vaerix,liaem,0,2,0
+goon,stuffles,0,2,0
+luck,todayyz,0,2,1
+slugimus,liaem,1,0,2
+vaerix,goon,0,2,0
+luck,liaem,0,2,0
+todayyz,stuffles,0,2,0
+slugimus,goon,1,0,2
+luck,stuffles,0,2,0
+liaem,goon,1,0,2
+todayyz,vaerix,1,1,2
+luck,goon,0,2,0
+stuffles,vaerix,1,0,2
+todayyz,slugimus,0,2,0
+luck,vaerix,0,2,1
+stuffles,slugimus,0,2,0
+liaem,todayyz,1,0,2
+fearless,pixel beat,0,2,0
+yoloyoshi,fsck,0,2,0
+bigdaddyhadee,cory,1,0,2
+oracle,pixel beat,0,2,0
+fearless,cory,0,2,0
+yoloyoshi,bigdaddyhadee,0,2,0
+oracle,fsck,0,2,0
+pixel beat,cory,1,0,2
+fearless,yoloyoshi,0,2,0
+oracle,cory,0,2,0
+fsck,bigdaddyhadee,0,2,0
+pixel beat,yoloyoshi,1,0,2
+oracle,bigdaddyhadee,0,2,0
+cory,yoloyoshi,1,0,2
+fsck,fearless,1,0,2
+oracle,yoloyoshi,0,2,0
+bigdaddyhadee,fearless,1,0,2
+fsck,pixel beat,0,2,0
+oracle,fearless,0,2,1
+bigdaddyhadee,pixel beat,0,2,0
+cory,fsck,0,2,0
+phorcys,jisui,0,2,0
+tapsody,akt,0,2,0
+squeemos,bleh27,0,2,1
+ally,jisui,1,-1,0
+phorcys,bleh27,0,2,0
+tapsody,squeemos,0,2,1
+ally,akt,1,-2,-2
+jisui,bleh27,1,0,2
+phorcys,tapsody,0,2,0
+ally,bleh27,1,-1,0
+akt,squeemos,0,2,0
+jisui,tapsody,1,0,2
+ally,squeemos,1,-1,0
+bleh27,tapsody,1,0,2
+akt,phorcys,1,0,2
+ally,tapsody,1,-2,-2
+squeemos,phorcys,1,0,2
+akt,jisui,0,2,0
+ally,phorcys,1,-1,0
+squeemos,jisui,0,2,0
+bleh27,akt,1,0,2
+strawhat,edgeboy,0,2,0
+pyrrhus,bombchu,0,2,0
+bc,sparkswordkirby,1,0,2
+s2j,edgeboy,1,0,2
+strawhat,sparkswordkirby,1,0,2
+pyrrhus,bc,1,0,2
+s2j,bombchu,1,0,2
+edgeboy,sparkswordkirby,0,2,1
+strawhat,pyrrhus,0,2,0
+s2j,sparkswordkirby,1,0,2
+bombchu,bc,1,0,2
+edgeboy,pyrrhus,1,1,2
+s2j,bc,1,0,2
+sparkswordkirby,pyrrhus,0,2,0
+bombchu,strawhat,1,0,2
+s2j,pyrrhus,1,0,2
+bc,strawhat,1,0,2
+bombchu,edgeboy,1,0,2
+s2j,strawhat,1,0,2
+bc,edgeboy,1,0,2
+sparkswordkirby,bombchu,0,2,0
+lucky,adrenaline,0,2,0
+shanic77,#rekt,0,2,0
+jaywalker,guerrilla,0,2,0
+lucky,#rekt,0,2,1
+adrenaline,guerrilla,1,0,2
+shanic77,jaywalker,0,2,1
+lucky,guerrilla,0,2,1
+#rekt,jaywalker,1,0,2
+adrenaline,shanic77,1,0,2
+lucky,jaywalker,1,1,2
+guerrilla,shanic77,1,0,2
+#rekt,adrenaline,1,1,2
+lucky,shanic77,1,1,2
+jaywalker,adrenaline,0,2,0
+guerrilla,#rekt,0,2,1
+armand,cilan,0,2,0
+snooklet,pil0t,0,2,0
+bestrin,jtk,0,2,0
+jason waterfalls,cilan,0,2,0
+armand,jtk,0,2,0
+snooklet,bestrin,0,2,0
+jason waterfalls,pil0t,0,2,0
+cilan,jtk,1,1,2
+armand,snooklet,1,1,2
+jason waterfalls,jtk,0,2,0
+pil0t,bestrin,1,0,2
+cilan,snooklet,1,0,2
+jason waterfalls,bestrin,0,2,0
+jtk,snooklet,1,0,2
+pil0t,armand,1,0,2
+jason waterfalls,snooklet,0,2,0
+bestrin,armand,1,1,2
+pil0t,cilan,1,0,2
+jason waterfalls,armand,0,2,0
+bestrin,cilan,0,2,0
+jtk,pil0t,0,2,0
+uncle mojo,tyler,0,2,0
+brother rob,jotty,0,2,0
+nakedtree,taro,0,2,0
+uncle mojo,jotty,0,2,0
+tyler,taro,1,0,2
+brother rob,nakedtree,0,2,0
+uncle mojo,taro,0,2,0
+jotty,nakedtree,1,0,2
+tyler,brother rob,1,0,2
+uncle mojo,nakedtree,0,2,0
+taro,brother rob,1,0,2
+jotty,tyler,0,2,0
+uncle mojo,brother rob,0,2,0
+nakedtree,tyler,0,2,0
+taro,jotty,0,2,0
+shokio,gree,0,2,0
+dex!,brentos,0,2,0
+anime,jxera,0,2,1
+shokio,brentos,0,2,0
+gree,jxera,1,0,2
+dex!,anime,1,0,2
+shokio,jxera,0,2,0
+brentos,anime,1,0,2
+gree,dex!,1,0,2
+shokio,anime,0,2,0
+jxera,dex!,0,2,0
+brentos,gree,0,2,0
+shokio,dex!,0,2,0
+anime,gree,0,2,0
+jxera,brentos,0,2,0
+aero,the real marzbar,0,2,0
+betch,sena,0,2,0
+kingly,spamus,0,2,0
+aero,sena,0,2,0
+the real marzbar,spamus,0,2,1
+betch,kingly,0,2,0
+aero,spamus,0,2,0
+sena,kingly,1,0,2
+the real marzbar,betch,1,0,2
+aero,kingly,0,2,0
+spamus,betch,1,0,2
+sena,the real marzbar,1,0,2
+aero,betch,0,2,0
+kingly,the real marzbar,0,2,0
+spamus,sena,0,2,0
+gs fuzz,pray,0,2,0
+tr0y,stardust_wingman,0,2,0
+nabz,tw!nk,0,2,0
+gs fuzz,stardust_wingman,0,2,0
+pray,tw!nk,1,0,2
+tr0y,nabz,0,2,1
+gs fuzz,tw!nk,0,2,0
+stardust_wingman,nabz,1,0,2
+pray,tr0y,1,0,2
+gs fuzz,nabz,0,2,1
+tw!nk,tr0y,1,1,2
+stardust_wingman,pray,1,0,2
+gs fuzz,tr0y,0,2,0
+nabz,pray,0,2,0
+tw!nk,stardust_wingman,0,2,0
+boiko,lucidity,0,2,0
+arsenals,ultimo,0,2,0
+jedijakethemystical,pope,0,2,1
+boiko,ultimo,0,2,0
+lucidity,pope,0,2,1
+arsenals,jedijakethemystical,0,2,0
+boiko,pope,0,2,0
+ultimo,jedijakethemystical,0,2,0
+lucidity,arsenals,1,0,2
+boiko,jedijakethemystical,0,2,0
+pope,arsenals,1,0,2
+ultimo,lucidity,1,0,2
+boiko,arsenals,0,2,0
+jedijakethemystical,lucidity,1,0,2
+pope,ultimo,0,2,0
+lunchables,tapsody,1,-1,0
+aero,vaerix,0,2,0
+uncle mojo,arsenals,0,2,0
+boiko,ck,0,2,0
+ipunchkidsz,darkgun,0,2,0
+phorcys,brother rob,0,2,1
+strong bad,nk,0,2,1
+sparkswordkirby,thunderzreign,1,-2,-2
+sosa,snooklet,0,2,0
+shokio,axxo,0,2,0
+luck,strawhat,0,2,0
+hard reid,fearless,1,0,2
+oracle,anime,0,2,1
+shanic77,betch,1,0,2
+gs fuzz,jaywalker,0,2,0
+jason waterfalls,tr0y,0,2,0
+tapsody,aero,1,0,2
+uncle mojo,boiko,1,0,2
+ipunchkidsz,phorcys,1,0,2
+strong bad,thunderzreign,1,0,2
+sosa,shokio,0,2,0
+luck,fearless,0,2,0
+oracle,betch,0,2,0
+gs fuzz,jason waterfalls,0,2,0
+aero,boiko,1,0,2
+phorcys,thunderzreign,1,0,2
+sosa,luck,0,2,0
+oracle,gs fuzz,1,1,2
+boiko,thunderzreign,1,0,3
+sosa,gs fuzz,0,3,0
+thunderzreign,sosa,1,1,3
+sosa,thunderzreign,1,0,3
+thunderzreign,sosa,1,1,3
+snooklet,axxo,1,1,2
+strawhat,hard reid,1,1,2
+anime,shanic77,1,0,2
+jaywalker,tr0y,1,0,2
+lunchables,vaerix,1,-1,0
+arsenals,ck,1,0,2
+darkgun,brother rob,1,0,2
+nk,sparkswordkirby,0,2,1
+tapsody,axxo,1,0,2
+uncle mojo,hard reid,1,0,2
+ipunchkidsz,shanic77,0,-2,-2
+strong bad,tr0y,0,2,0
+shokio,vaerix,0,2,1
+fearless,ck,0,2,0
+betch,brother rob,0,2,0
+jason waterfalls,nk,0,2,1
+axxo,hard reid,1,1,2
+ipunchkidsz,strong bad,0,2,0
+shokio,fearless,0,2,1
+betch,jason waterfalls,1,0,2
+oracle,hard reid,0,2,0
+luck,ipunchkidsz,0,2,1
+phorcys,shokio,0,2,1
+aero,jason waterfalls,0,2,1
+oracle,luck,0,3,0
+phorcys,aero,1,0,3
+boiko,oracle,0,3,1
+gs fuzz,aero,1,2,3
+boiko,aero,0,3,1
+thunderzreign,boiko,0,3,0
