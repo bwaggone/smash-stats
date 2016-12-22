@@ -1,0 +1,38 @@
+P1,P2,set winner,P1Score,P2Score
+qd,sebastian,0,2,0
+nyx,tarn,1,-1,0
+ruby,mugutu,1,-1,0
+v115,qd,0,2,0
+10tc,figy,1,0,2
+adam grakowsky,c#,0,0,-1
+chibo,thpt,0,2,0
+salem,tarn,0,0,-1
+vincessant,jedisquid,0,2,0
+mikeray4,mugutu,0,2,0
+ish,pidgezero_one,0,2,0
+v115,figy,0,2,0
+adam grakowsky,chibo,1,1,2
+salem,vincessant,0,2,0
+mikeray4,ish,0,2,0
+v115,chibo,0,2,1
+salem,mikeray4,0,2,0
+v115,salem,0,3,2
+v115,salem,1,1,3
+salem,v115,0,3,2
+pidgezero_one,sebastian,1,1,2
+thpt,nyx,0,0,-1
+10tc,ruby,0,0,-1
+sebastian,mugutu,0,2,0
+jedisquid,tarn,0,0,-1
+thpt,c#,0,0,-1
+10tc,qd,1,0,2
+adam grakowsky,sebastian,0,2,0
+figy,jedisquid,0,2,0
+ish,thpt,0,2,0
+vincessant,qd,0,2,1
+adam grakowsky,figy,0,2,0
+ish,vincessant,1,0,2
+mikeray4,adam grakowsky,0,2,0
+chibo,vincessant,0,2,0
+mikeray4,chibo,0,2,0
+salem,mikeray4,0,3,0

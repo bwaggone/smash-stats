@@ -30,7 +30,7 @@ class Player:
         self.rating = 1500
         self.RD = 350
         self.name = name
-        self.g_RD = 1 / sqrt(1 + 3*q*q * self.RD**2 / (pi*pi)) 
+        self._g_RD = 1 / sqrt(1 + 3*q*q * self.RD**2 / (pi*pi)) 
         self.num_tournaments = 0
         self.num_sets = 0
         self.wlr = [0, 0]
@@ -38,14 +38,15 @@ class Player:
 
     def update_g_RD(self):
         q = log(10) / 400.0
-        self.g_RD = 1 / sqrt(1 + 3*q*q * self.RD**2 / (pi*pi)) 
+        self._g_RD = 1 / sqrt(1 + 3*q*q * self.RD**2 / (pi*pi)) 
 
     def decay_RD(self, rp, c):
-        if self.last_rp == -1:
+        if self.last_rp == -1 or rp < self.last_rp:
             raise "Usage Error: You can't update the RD for a new player"
         else:
             diff = rp - self.last_rp
             self.RD = min(sqrt(self.RD**2 + (diff)*c**2), 350)
+            self.last_rp = rp
 
 '''
 Match is an object that contains players, the winner and loser,
@@ -64,9 +65,9 @@ class Match:
         self._winner = win_loss
         self._win_loss = win_loss
         #Once we know the players, we can get the expected outcome.
-        pt1 = ((self._players[1].g_RD)*((self._players[0].rating - self._players[1].rating)/-400.0)) 
-        pt2 = ((self._players[0].g_RD)*((self._players[1].rating - self._players[0].rating)/-400.0)) 
-        self.expect_s = [(1 /(1 + 10**(pt1))), (1 / (1 + 10**(pt2)))]
+        pt1 = ((self._players[1]._g_RD)*((self._players[0].rating - self._players[1].rating)/-400.0)) 
+        pt2 = ((self._players[0]._g_RD)*((self._players[1].rating - self._players[0].rating)/-400.0)) 
+        self._expect_s = [(1 /(1 + 10**(pt1))), (1 / (1 + 10**(pt2)))]
 
 '''
 The Tournament Object is what is used to update the glicko ratings of the players within a single rating period.
@@ -95,7 +96,7 @@ class Tournament:
         #q = log(10) / 400
         self._d2s = defaultdict(float)
         self._rupdateConst = defaultdict(float)
-        self.setsthistournament = defaultdict(int)
+        self._setsthistournament = defaultdict(int)
         self.c = c
         #d^2 = 1 / (q^2 + sum of all games[(g(RD_i))^2 * E(X) *  (1 - E(X)))
 
@@ -124,23 +125,23 @@ class Tournament:
                 p2 = match_info._players[1]
 
                 #Update the set count
-                self.setsthistournament[p1.name] += 1
-                self.setsthistournament[p2.name] += 1
+                self._setsthistournament[p1.name] += 1
+                self._setsthistournament[p2.name] += 1
 
                 #Update the sum for the denominator of d^2
-                player_d2[p1.name] += (p2.g_RD**2)*match_info.expect_s[0]*(1 - match_info.expect_s[0])
-                player_d2[p2.name] += (p1.g_RD**2)*match_info.expect_s[1]*(1 - match_info.expect_s[1])
+                player_d2[p1.name] += (p2._g_RD**2)*match_info._expect_s[0]*(1 - match_info._expect_s[0])
+                player_d2[p2.name] += (p1._g_RD**2)*match_info._expect_s[1]*(1 - match_info._expect_s[1])
 
                 #Update the sum for the constant used to update ranking of a player
 
                 #match_info.win_loss is zero if p1 wins, one if p1 losses. For the formula we need the opposite
-                player_r[p1.name] += (p2.g_RD)*(abs(1 - match_info._win_loss) - match_info.expect_s[0])
-                player_r[p2.name] += (p1.g_RD)*(match_info._win_loss - match_info.expect_s[1])
+                player_r[p1.name] += (p2._g_RD)*(abs(1 - match_info._win_loss) - match_info._expect_s[0])
+                player_r[p2.name] += (p1._g_RD)*(match_info._win_loss - match_info._expect_s[1])
 
                 #print(p1, p2)
             for player in self._players:
                 #print(self._players)
-                if(self.setsthistournament[player.name] != 0):
+                if(self._setsthistournament[player.name] != 0):
                     try:
                         player_d2[player.name] = 1/((q**2) * player_d2[player.name])
                     except:
@@ -154,7 +155,7 @@ class Tournament:
         
         q = log(10) / 400.0
         for player in self._players:
-            if(self.setsthistournament[player.name] != 0):
+            if(self._setsthistournament[player.name] != 0):
                 try:
                     new_rating = player.rating + (q / ( ( 1 / player.RD**2 ) + (1 / self._d2s[player.name]) ) ) * self._rupdateConst[player.name]
                     new_RD = min(sqrt(( ( 1 / player.RD**2 ) + (1 / self._d2s[player.name]))**-1 ), 350)

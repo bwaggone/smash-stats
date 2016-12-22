@@ -7,6 +7,9 @@ import os
 import numpy as np
 
 sixtyfour_dir = '../data/64/Singles/'
+melee_dir = '../data/Melee/Singles/'
+brawl_dir = '../data/Brawl/Singles/'
+smash4_dir = '../data/Smash4/Singles/'
 
 ## Set the Rating Period Length to Two Weeks
 rp_length = 2
@@ -16,18 +19,17 @@ rp_length = 2
 
 rp_decay = 78
 average_rd = 75
+
+#From the glicko formula
 c_val = sqrt(((350**2) - average_rd**2) / (rp_decay**2))
 
-#files = (os.listdir(os.getcwd() + '/../data/64/Singles/'))
 tournaments = []
 all_players = keydefaultdict(Player)
 all_matches = []
 
-#for f in files:
-#    if 'sets' in f:
-#        tournaments.append(f)
 
-#f = open(sixtyfour_dir + 'tournaments.csv', 'r')
+
+#Get tournaments in sorted order.
 first = 1
 with open(sixtyfour_dir + 'tournaments.csv') as stream:
     has_header = csv.Sniffer().has_header(stream.read(1024))
@@ -43,12 +45,12 @@ with open(sixtyfour_dir + 'tournaments.csv') as stream:
             first = 0
         else:
             tnmt_array = np.append(tnmt_array, np.array([tourney_data[0], tourney_data[2], tourney_data[3]]).reshape(1,3), axis = 0)
-#Get tournaments in sorted order.
+
 sorted_tourneys = tnmt_array[tnmt_array[:,1].argsort()]
 
 
-#prev_rp = ((datetime.datetime.strptime(sorted_tourneys[0][1], "%Y-%m-%d") - datetime.datetime(2016, 1, 1)).days) / 14
-#current_rp = prev_rp
+
+
 prev_rp = -1
 for tourney in sorted_tourneys:
     current_matches = []
@@ -70,10 +72,11 @@ for tourney in sorted_tourneys:
             current_players = np.append(current_players, all_players[set_data[0]])
             current_players = np.append(current_players, all_players[set_data[1]])
 
-            #Check if the set was a bye
+            #Check if the set was a DQ
             if(int(set_data[3]) == -1 or int(set_data[4] == -1)):
                 continue
 
+            #Update the number of sets and win/loss
             all_players[set_data[0]].num_sets += 1
             all_players[set_data[1]].num_sets += 1
             if(not int(set_data[2])):
@@ -84,17 +87,22 @@ for tourney in sorted_tourneys:
                 all_players[set_data[1]].wlr[0] += 1
 
             current_matches.append(Match([all_players[set_data[0]], all_players[set_data[1]]], int(set_data[2])))
+
         #Figure out the current rating period and set each player's last rating period accordingly.
         current_rp = (datetime.datetime.strptime(tourney[1], "%Y-%m-%d") - datetime.datetime(2016, 1, 1)).days/14
         current_players = np.unique(current_players)
         for player in current_players:
             if player.last_rp == -1:
                 player.last_rp = current_rp
+
+        #If we're in a new rating period, or we're the last tournament, then update the ratings
         if(prev_rp != current_rp or tourney == sorted_tourneys[len(sorted_tourneys - 1)]):
             rp_tournaments = Tournament(current_players, current_matches, c_val)
             rp_tournaments.update_ratings(current_rp)
         prev_rp = current_rp
     
+
+#Take care of decay with respect to the current rating period.
 first = 1
 for player in all_players:
     all_players[player].decay_RD(26, c_val)

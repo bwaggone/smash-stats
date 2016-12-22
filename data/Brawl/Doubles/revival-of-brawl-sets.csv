@@ -1,0 +1,11 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+eazy,ish,nyx,ruby,0,0,-1
+pidgezero_one,v115,vincessant,salem,1,0,2
+adam grakowsky,mikeray4,nyx,ruby,0,0,-1
+eazy,ish,pidgezero_one,v115,1,1,2
+adam grakowsky,mikeray4,vincessant,salem,0,2,0
+nyx,ruby,pidgezero_one,v115,1,-1,0
+adam grakowsky,mikeray4,pidgezero_one,v115,0,2,1
+vincessant,salem,eazy,ish,0,2,0
+adam grakowsky,mikeray4,eazy,ish,1,1,2
+vincessant,salem,nyx,ruby,0,0,-1
