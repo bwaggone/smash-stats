@@ -591,7 +591,7 @@ jibca,allpain,1,-1,0
 james j,leahboo,1,0,2
 vapid,ragingcherry,1,0,2
 stoozyfloozy,whiskey milk,1,-1,0
-khale,g~man, the cosmic destroyer,0,2,0
+khale,g~man the cosmic destroyer,0,2,0
 bicycle,panic,1,0,2
 ky,allpain,0,-2,-2
 leahboo,ragingcherry,1,0,2
@@ -601,15 +601,15 @@ ky,ragingcherry,0,2,0
 alphicans,khale,0,2,0
 ky,alphicans,0,2,1
 james j,vapid,1,0,2
-g~man, the cosmic destroyer,bicycle,0,2,0
+g~man the cosmic destroyer,bicycle,0,2,0
 panic,jibca,0,2,0
 whiskey milk,vapid,0,2,0
 leahboo,stoozyfloozy,0,0,-1
-allpain,g~man, the cosmic destroyer,1,1,2
+allpain,g~man the cosmic destroyer,1,1,2
 panic,whiskey milk,0,2,0
-leahboo,g~man, the cosmic destroyer,1,0,2
+leahboo,g~man the cosmic destroyer,1,0,2
 ragingcherry,panic,1,1,2
-khale,g~man, the cosmic destroyer,0,2,0
+khale,g~man the cosmic destroyer,0,2,0
 panic,khale,1,0,2
 alphicans,khale,0,-2,-2
 walrus,kevin,1,0,2
@@ -3471,13 +3471,13 @@ rula,jflex,0,2,1
 wavebringer,phil,1,0,2
 bimbo mexico,dunk,0,2,0
 l,theprime,0,2,0
-mango,rula,0,2,0
+mang0,rula,0,2,0
 sung475,phil,1,0,2
 abate,bimbo mexico,0,2,1
 mikehaze,l,0,2,0
-mango,phil,0,2,0
+mang0,phil,0,2,0
 abate,mikehaze,0,2,0
-mango,abate,0,-2,-2
+mang0,abate,0,-2,-2
 veklor,bork,0,2,1
 store-bought pancakes,q,1,1,2
 lock,brand,0,2,0
@@ -3731,7 +3731,7 @@ hungrybox,eddy mexico,0,3,1
 macd,druggedfox,1,1,3
 westballz,gahtzu,0,3,1
 shroomed,nintendude,1,0,3
-mango,abate,0,3,1
+mang0,abate,0,3,1
 n0ne,hugs,1,2,3
 axe,zhu,0,3,1
 alex19,wizzrobe,0,3,2
@@ -3741,12 +3741,12 @@ mew2king,sfat,1,1,3
 ppmd,lucky,0,3,2
 hungrybox,druggedfox,0,3,0
 westballz,nintendude,1,2,3
-mango,hugs,0,3,0
+mang0,hugs,0,3,0
 axe,alex19,0,3,0
 armada,ice,0,3,0
 sfat,ppmd,1,1,3
 hungrybox,nintendude,0,3,0
-mango,axe,1,1,3
+mang0,axe,1,1,3
 armada,ppmd,0,-2,-2
 hungrybox,axe,0,-2,-2
 kalamazhu,ka-master,0,3,1
@@ -3802,19 +3802,19 @@ plup,s2j,0,3,0
 duck,colbol,1,1,3
 pewpewu,druggedfox,0,3,1
 nintendude,mew2king,0,3,1
-mango,plup,0,3,1
+mang0,plup,0,3,1
 ice,colbol,0,3,0
 sfat,pewpewu,0,3,2
-nintendude,mango,0,-2,-2
+nintendude,mang0,0,-2,-2
 ice,sfat,0,-2,-2
 armada,ppmd,0,3,1
 hungrybox,axe,0,3,1
 armada,hungrybox,0,3,1
-armada,mango,1,1,3
-mango,armada,1,1,3
-nintendude,mango,1,0,3
+armada,mang0,1,1,3
+mang0,armada,1,1,3
+nintendude,mang0,1,0,3
 ice,sfat,1,2,3
-ppmd,mango,1,0,3
+ppmd,mang0,1,0,3
 axe,sfat,0,3,0
-mango,axe,0,3,0
-hungrybox,mango,1,2,3
+mang0,axe,0,3,0
+hungrybox,mang0,1,2,3

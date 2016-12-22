@@ -1,14 +1,14 @@
 P1,P2,set winner,P1Score,P2Score
 mesh$,rarebitfiend,1,0,2
-£30,-,sleeper,0,2,0
+£30-,sleeper,0,2,0
 lars,markovic,0,2,0
 aspro,c2,0,0,-1
 pogopeanut,beatthat,0,2,0
 armada,rarebitfiend,0,2,0
-£30,-,lars,0,2,1
+£30-,lars,0,2,1
 maxy,aspro,0,2,0
 gardex,pogopeanut,0,2,1
-armada,£30,-,0,2,0
+armada,£30-,0,2,0
 maxy,gardex,0,2,0
 armada,maxy,0,-2,-2
 sleeper,markovic,1,0,2
@@ -18,9 +18,9 @@ lars,c2,0,0,-1
 rarebitfiend,beatthat,0,2,1
 pogopeanut,markovic,0,2,0
 lars,rarebitfiend,0,2,0
-£30,-,pogopeanut,0,2,0
+£30-,pogopeanut,0,2,0
 gardex,lars,0,2,0
-£30,-,gardex,0,-2,-2
+£30-,gardex,0,-2,-2
 cheez,zabu,0,2,0
 ryuker,jerooney,0,2,0
 riff,the trashman,0,2,0
@@ -377,7 +377,7 @@ amsah,endeby,0,2,0
 jadde,jmyl,0,2,1
 baxon,desucakes,0,2,0
 zíng,epikfaal,1,0,2
-ice,£30,-,0,2,0
+ice,£30-,0,2,0
 coen,yeniths,0,2,0
 adamayonmike,dero,0,2,0
 zorc,monopenisguy,0,2,0
@@ -421,7 +421,7 @@ helmet,explo,1,0,2
 hanyuuki,pureevil,1,-1,0
 endeby,jmyl,0,2,0
 desucakes,zíng,1,0,2
-£30,-,yeniths,0,2,0
+£30-,yeniths,0,2,0
 dero,monopenisguy,0,2,1
 pureskillz,belia,1,0,2
 meo,kaese,0,2,1
@@ -437,7 +437,7 @@ jim morrison,explo,0,2,0
 dalung,pureevil,0,2,0
 $tijn,endeby,0,2,0
 jules,zíng,0,2,1
-blaze,£30,-,0,2,0
+blaze,£30-,0,2,0
 random-ness,dero,0,2,0
 deathgazer,belia,0,2,1
 haotwo,meo,0,2,0

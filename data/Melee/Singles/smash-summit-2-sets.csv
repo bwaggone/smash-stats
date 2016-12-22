@@ -5,14 +5,14 @@ plup,pewpewu,0,3,1
 mew2king,ice,0,3,2
 hungrybox,s2j,0,3,1
 wobbles,sfat,1,1,3
-mango,duck,0,3,1
+mang0,duck,0,3,1
 westballz,silent wolf,0,3,0
 armada,axe,0,3,0
 plup,mew2king,1,0,3
 hungrybox,sfat,0,3,0
-mango,westballz,0,3,2
+mang0,westballz,0,3,2
 armada,mew2king,1,0,3
-hungrybox,mango,0,3,2
+hungrybox,mang0,0,3,2
 mew2king,hungrybox,1,1,3
 hungrybox,armada,1,2,3
 armada,hungrybox,0,3,1
@@ -27,6 +27,6 @@ axe,duck,0,3,1
 shroomed,sfat,0,3,2
 plup,axe,0,3,0
 armada,shroomed,0,3,1
-mango,plup,0,3,2
-armada,mango,0,3,0
+mang0,plup,0,3,2
+armada,mang0,0,3,0
 mew2king,armada,1,0,3

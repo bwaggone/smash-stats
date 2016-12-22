@@ -3,16 +3,16 @@ hungrybox,rael,0,3,1
 sfat,s2j,0,3,1
 westballz,arc,0,3,1
 axe,gahtzu,0,3,0
-mango,valdo,0,3,0
+mang0,valdo,0,3,0
 lucky,wizzrobe,1,0,3
 mew2king,tafokints,0,3,0
 shroomed,wobbles,1,2,3
 hungrybox,sfat,0,3,1
 westballz,axe,0,3,2
-mango,wizzrobe,0,3,1
+mang0,wizzrobe,0,3,1
 mew2king,wobbles,0,3,1
 hungrybox,westballz,0,-2,-2
-mango,mew2king,0,-2,-2
+mang0,mew2king,0,-2,-2
 mojo,roy the boy,0,3,0
 toast,stripes,1,0,3
 jf,king,0,3,1
@@ -47,7 +47,7 @@ westballz,king,0,0,-1
 tafokints,zhea,0,0,-1
 axe,volume,0,0,-1
 wobbles,stripes,0,0,-1
-mango,jf,0,0,-1
+mang0,jf,0,0,-1
 rael,mojo,0,0,-1
 lucky,ginta,0,0,-1
 wizzrobe,tuesday,0,0,-1
@@ -59,7 +59,7 @@ hungrybox,s2j,0,-2,-2
 sfat,valdo,0,-2,-2
 westballz,tafokints,0,-2,-2
 axe,wobbles,0,-2,-2
-mango,rael,0,-2,-2
+mang0,rael,0,-2,-2
 lucky,wizzrobe,0,-2,-2
 mew2king,arc,0,-2,-2
 shroomed,gahtzu,0,-2,-2
@@ -72,12 +72,12 @@ ginta,tuesday,0,-2,-2
 spacewaste,roy the boy,0,-2,-2
 anti,s.o.s.,0,-2,-2
 hungrybox,westballz,0,3,0
-mango,mew2king,0,3,1
-hungrybox,mango,0,3,2
-hungrybox,mango,0,3,2
+mang0,mew2king,0,3,1
+hungrybox,mang0,0,3,2
+hungrybox,mang0,0,3,2
 wizzrobe,s2j,0,3,2
 sfat,axe,1,2,3
 westballz,wizzrobe,0,3,2
 mew2king,axe,1,1,3
 westballz,axe,0,3,1
-mango,westballz,0,3,1
+mang0,westballz,0,3,1

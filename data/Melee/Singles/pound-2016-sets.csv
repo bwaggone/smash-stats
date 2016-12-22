@@ -431,9 +431,9 @@ hazygoose,kalvar,0,2,0
 hazygoose,ogs gosu,0,2,0
 supadice2,tack,1,0,2
 supadice2,gaijilla,0,2,0
-mango,freky,0,2,0
-mango,wawa,0,2,0
-mango,hazygoose,0,2,0
+mang0,freky,0,2,0
+mang0,wawa,0,2,0
+mang0,hazygoose,0,2,0
 frostbyte,tagless,0,-2,-2
 kalvar,jorge,0,2,0
 kalvar,wawa,0,2,1
@@ -1701,13 +1701,13 @@ husband,ronzell,1,0,2
 amsa,prince abu,0,2,0
 n0ne,ronzell,0,2,0
 amsa,n0ne,0,-2,-2
-mango,jflex,0,-2,-2
+mang0,jflex,0,-2,-2
 chillindude,zgetto,1,1,2
 colbol,captain smuckers,0,2,0
 the moon,mafia,1,1,2
-mango,zgetto,0,2,0
+mang0,zgetto,0,2,0
 colbol,mafia,0,-2,-2
-mango,colbol,0,-2,-2
+mang0,colbol,0,-2,-2
 lawn chair,zodiac,0,2,0
 lint,llama,0,2,0
 travis,arcadia,0,2,0
@@ -1901,18 +1901,18 @@ hungrybox,wizzrobe,0,2,0
 infinitenumbers,mikehaze,0,2,1
 laudandus,swedish delight,1,0,2
 gravy,professor pro,1,1,2
-mango,colbol,0,2,0
+mang0,colbol,0,2,0
 gahtzu,s2j,1,1,2
 plup,nintendude,1,1,2
 sfat,hax,1,1,2
 hungrybox,infinitenumbers,0,3,0
 swedish delight,professor pro,0,3,2
-mango,s2j,0,3,2
+mang0,s2j,0,3,2
 nintendude,hax,1,0,3
 hungrybox,swedish delight,0,3,0
-mango,hax,1,2,3
+mang0,hax,1,2,3
 hungrybox,hax,0,3,0
-hungrybox,mango,0,3,1
+hungrybox,mang0,0,3,1
 amsa,captain smuckers,0,2,0
 druggedfox,pewpewu,1,0,2
 dj nintendo,crush,0,2,1
@@ -1939,7 +1939,7 @@ nintendude,laudandus,1,2,3
 s2j,wizzrobe,0,3,1
 plup,colbol,0,3,0
 laudandus,s2j,0,3,1
-mango,plup,0,3,0
+mang0,plup,0,3,0
 swedish delight,laudandus,0,3,0
-mango,swedish delight,0,3,2
-hax,mango,1,0,3
+mang0,swedish delight,0,3,2
+hax,mang0,1,0,3

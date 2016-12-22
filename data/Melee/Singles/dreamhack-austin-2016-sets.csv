@@ -157,7 +157,7 @@ sfat,schythed,0,0,-1
 spoonfullofpasta,day,0,0,-1
 wizzrobe,yardo,0,0,-1
 tirno,legion,0,0,-1
-mango,cloud,0,0,-1
+mang0,cloud,0,0,-1
 pest killa,sunflowergirls,0,0,-1
 dizzkidboogie,pkjoey,0,0,-1
 esam,blues clues,0,0,-1
@@ -181,7 +181,7 @@ axe,fehrar,0,2,0
 the moon,gar,0,2,0
 sfat,spoonfullofpasta,0,2,0
 wizzrobe,tirno,0,2,0
-mango,pest killa,0,2,0
+mang0,pest killa,0,2,0
 dizzkidboogie,esam,1,1,2
 macd,nerin,0,2,0
 wobbles,pax,0,2,0
@@ -193,19 +193,19 @@ hungrybox,chillindude,0,2,0
 lucky,duck,0,2,1
 axe,the moon,0,2,0
 sfat,wizzrobe,0,2,1
-mango,esam,0,2,0
+mang0,esam,0,2,0
 macd,wobbles,0,2,0
 mew2king,crush,0,2,0
 s2j,nintendude,1,1,2
 hungrybox,lucky,0,3,1
 axe,sfat,1,2,3
-mango,macd,0,3,1
+mang0,macd,0,3,1
 mew2king,nintendude,0,3,0
 hungrybox,sfat,0,3,1
-mango,mew2king,1,0,3
+mang0,mew2king,1,0,3
 hungrybox,mew2king,0,3,2
-hungrybox,mango,1,1,3
-mango,hungrybox,0,3,2
+hungrybox,mang0,1,1,3
+mang0,hungrybox,0,3,2
 zap101,jf,1,1,2
 bobo,drewzey,1,1,2
 ram,sloth-behr,0,2,0
@@ -265,6 +265,6 @@ axe,wobbles,0,3,1
 wizzrobe,nintendude,0,3,0
 lucky,axe,0,3,2
 sfat,wizzrobe,1,1,3
-mango,lucky,0,3,0
-wizzrobe,mango,1,1,3
-mew2king,mango,1,1,3
+mang0,lucky,0,3,0
+wizzrobe,mang0,1,1,3
+mew2king,mang0,1,1,3
