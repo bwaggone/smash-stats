@@ -92,11 +92,13 @@ for tourney in sorted_tourneys:
         current_rp = (datetime.datetime.strptime(tourney[1], "%Y-%m-%d") - datetime.datetime(2016, 1, 1)).days/14
         current_players = np.unique(current_players)
         for player in current_players:
+            player.num_tournaments += 1
             if player.last_rp == -1:
                 player.last_rp = current_rp
 
         #If we're in a new rating period, or we're the last tournament, then update the ratings
-        if(prev_rp != current_rp or tourney == sorted_tourneys[len(sorted_tourneys - 1)]):
+        #if(prev_rp != current_rp or tourney == sorted_tourneys[len(sorted_tourneys - 1)]):
+        if(prev_rp != current_rp or tourney[0] == sorted_tourneys[len(sorted_tourneys) - 1][0]):
             rp_tournaments = Tournament(current_players, current_matches, c_val)
             rp_tournaments.update_ratings(current_rp)
         prev_rp = current_rp
@@ -108,14 +110,14 @@ for player in all_players:
     all_players[player].decay_RD(26, c_val)
     if first:
         first = 0
-        rankings = np.array([all_players[player].name, all_players[player].rating, all_players[player].RD, all_players[player].num_sets, all_players[player].wlr[0], all_players[player].wlr[1] ])
-        rankings.shape = (1,6)
-    rankings = np.append(rankings, np.array([all_players[player].name, all_players[player].rating, all_players[player].RD, all_players[player].num_sets, all_players[player].wlr[0], all_players[player].wlr[1] ]).reshape(1,6),axis=0)
+        rankings = np.array([all_players[player].name, all_players[player].rating, all_players[player].RD, all_players[player].num_sets, all_players[player].wlr[0], all_players[player].wlr[1], all_players[player].num_tournaments ])
+        rankings.shape = (1,7)
+    rankings = np.append(rankings, np.array([all_players[player].name, all_players[player].rating, all_players[player].RD, all_players[player].num_sets, all_players[player].wlr[0], all_players[player].wlr[1], all_players[player].num_tournaments ]).reshape(1,7),axis=0)
 
 
 final = rankings[rankings[:,1].argsort()[::-1]]
 f = open("64SinglesGlicko.csv", 'w')
-f.write("player,rating,rd,sets,wins,losses\n")
+f.write("player,rating,rd,sets,wins,losses,tournaments\n")
 for pl in final:
     f.write(",".join(pl) + '\n')
 

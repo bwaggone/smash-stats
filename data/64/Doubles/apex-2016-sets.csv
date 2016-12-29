@@ -1,0 +1,23 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+zarc,jc_chill,whuck,dount,1,0,2
+mr.sir,eliot,costaricancool,jdeezel,0,2,0
+peasantloaf,massimo,hotahota,elvis,1,0,2
+pika,myk,phut,truffleshuffle,0,0,-1
+fireblaster,zeppelin,whuck,dount,0,2,0
+nardwell,jamjar,mr.sir,eliot,1,0,2
+star king,cobr,hotahota,elvis,0,2,0
+bp,sedda,pika,myk,0,2,0
+fireblaster,zeppelin,mr.sir,eliot,0,2,0
+star king,cobr,bp,sedda,0,2,0
+fireblaster,zeppelin,star king,cobr,1,0,3
+star king,cobr,fireblaster,zeppelin,0,3,0
+pika,myk,zarc,jc_chill,0,2,1
+hotahota,elvis,costaricancool,jdeezel,0,2,0
+nardwell,jamjar,peasantloaf,massimo,1,1,2
+whuck,dount,phut,truffleshuffle,0,0,-1
+pika,myk,hotahota,elvis,1,0,2
+peasantloaf,massimo,whuck,dount,1,1,2
+mr.sir,eliot,hotahota,elvis,0,2,0
+bp,sedda,whuck,dount,0,2,0
+mr.sir,eliot,bp,sedda,1,0,2
+fireblaster,zeppelin,bp,sedda,0,3,0

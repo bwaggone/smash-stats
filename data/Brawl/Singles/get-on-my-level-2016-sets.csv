@@ -1,0 +1,126 @@
+P1,P2,set winner,P1Score,P2Score
+monk,therapture_,0,0,-1
+ak,arcana,0,2,0
+o9 shard,low expectations,0,2,0
+ally,monk,0,2,0
+ak,o9 shard,0,2,0
+ally,ak,0,2,0
+ally,ak,0,2,0
+arcana,low expectations,1,0,2
+o9 shard,therapture_,0,0,-1
+monk,low expectations,0,2,0
+o9 shard,monk,0,2,0
+ak,o9 shard,0,2,0
+anti,faffly,0,2,0
+dunston,nyani,0,0,-1
+tarextherex,shanook,0,2,0
+jakat,swail,1,-1,0
+anti,dunston,0,2,0
+tarextherex,swail,0,2,0
+anti,tarextherex,0,2,0
+anti,tarextherex,0,2,0
+faffly,nyani,0,0,-1
+shanook,jakat,0,0,-1
+swail,faffly,0,2,1
+dunston,shanook,0,2,0
+swail,dunston,1,1,2
+tarextherex,dunston,0,2,1
+v115,summer was fun,0,0,-1
+famous,polarbair,0,0,-1
+hell-dew,ethanrg,1,-1,0
+ashley,smashlopez64,0,0,-1
+v115,famous,0,2,0
+ethanrg,ashley,1,0,2
+v115,ashley,0,2,0
+v115,ashley,0,2,0
+summer was fun,polarbair,1,-1,0
+hell-dew,smashlopez64,0,0,-1
+ethanrg,polarbair,0,2,0
+famous,hell-dew,0,0,-1
+ethanrg,famous,0,2,0
+ashley,ethanrg,0,2,0
+holy,jackl,0,2,0
+nolzor,bendr,1,-1,0
+ray kalm,aedrenaline,1,1,2
+mittens,wakka,1,0,2
+holy,bendr,0,2,0
+aedrenaline,wakka,0,2,1
+holy,aedrenaline,0,2,0
+holy,ray kalm,0,2,0
+jackl,nolzor,0,0,-1
+ray kalm,mittens,0,2,0
+wakka,jackl,0,2,0
+bendr,ray kalm,1,0,2
+wakka,ray kalm,1,0,2
+aedrenaline,ray kalm,1,0,2
+alphicans,doggyness,0,2,0
+quote,wisifox,1,-1,0
+red x,1000,0,2,0
+tantaco,nial,0,2,0
+alphicans,wisifox,0,0,-1
+red x,tantaco,0,2,0
+alphicans,red x,0,2,1
+alphicans,red x,0,2,1
+doggyness,quote,0,0,-1
+1000,nial,1,0,2
+tantaco,doggyness,0,2,0
+wisifox,nial,1,-1,0
+tantaco,nial,0,2,1
+red x,tantaco,0,2,0
+san,kider,0,2,0
+no~m,evmaster,0,2,0
+dkbill,nick fury,0,2,0
+blitz,pixie,1,-1,0
+san,no~m,0,2,0
+dkbill,pixie,0,2,0
+san,dkbill,1,0,2
+dkbill,san,0,2,0
+kider,evmaster,0,2,0
+nick fury,blitz,0,0,-1
+pixie,kider,0,2,0
+no~m,nick fury,0,2,0
+pixie,no~m,1,0,2
+san,no~m,0,2,0
+[t.t.d] pbk l emg l blacktwins13,mourin,0,2,0
+ce,jams,1,0,2
+firefly,dude,0,0,-1
+zorc,diablomablo,0,2,1
+[t.t.d] pbk l emg l blacktwins13,jams,0,2,1
+firefly,zorc,1,-1,0
+[t.t.d] pbk l emg l blacktwins13,zorc,0,2,0
+[t.t.d] pbk l emg l blacktwins13,jams,0,3,2
+mourin,ce,0,2,0
+dude,diablomablo,1,-1,0
+firefly,mourin,1,-1,0
+jams,diablomablo,0,2,0
+mourin,jams,1,0,2
+zorc,jams,1,0,2
+croi,danceman360,0,2,0
+sawrik,mugutu,1,1,2
+meekspeedy,moss,0,2,0
+a2e,kazik,0,2,0
+croi,mugutu,0,2,0
+meekspeedy,a2e,0,2,0
+croi,meekspeedy,1,1,2
+meekspeedy,croi,1,0,2
+danceman360,sawrik,0,2,0
+moss,kazik,0,2,0
+a2e,danceman360,0,2,0
+mugutu,moss,1,1,2
+a2e,moss,0,2,0
+croi,a2e,0,2,0
+ally,croi,0,3,0
+holy,alphicans,1,2,3
+anti,[t.t.d] pbk l emg l blacktwins13,0,3,0
+v115,dkbill,0,3,1
+ally,alphicans,0,3,1
+anti,v115,1,2,3
+ally,v115,0,3,2
+ally,v115,1,2,3
+v115,ally,1,1,3
+croi,holy,1,0,3
+[t.t.d] pbk l emg l blacktwins13,dkbill,0,3,2
+anti,holy,0,3,0
+alphicans,[t.t.d] pbk l emg l blacktwins13,0,-2,-2
+anti,alphicans,0,3,0
+v115,anti,0,3,0

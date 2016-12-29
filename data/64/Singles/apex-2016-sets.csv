@@ -1,0 +1,127 @@
+P1,P2,set winner,P1Score,P2Score
+stephanie,massimo,1,-1,0
+jamjar,lecceo,0,2,0
+bacorn,hotahota,1,-1,0
+dount,myk,0,2,0
+bonerstorm,zane,0,0,-1
+stranded,massimo,0,2,0
+jamjar,hotahota,0,2,0
+sedda,dount,0,2,0
+zeppelin,bonerstorm,0,2,0
+stranded,jamjar,0,-2,-2
+sedda,zeppelin,0,-2,-2
+lecceo,bacorn,0,0,-1
+bonerstorm,stephanie,0,0,-1
+dount,lecceo,0,2,0
+hotahota,myk,0,2,0
+massimo,zane,0,0,-1
+bonerstorm,dount,0,-2,-2
+hotahota,massimo,0,-2,-2
+jc_chill,costaricancool,1,0,2
+dizzle,superkirby,0,2,0
+eliot,peasantloaf,1,-1,0
+driftintheabyss,7blanks,1,0,2
+dfx,dimension,0,2,1
+elmustachio,puddn,0,0,-1
+fireblaster,costaricancool,0,2,0
+dizzle,peasantloaf,0,2,0
+nta,7blanks,0,2,1
+dfx,elmustachio,0,2,0
+fireblaster,dizzle,0,-2,-2
+nta,dfx,0,-2,-2
+superkirby,eliot,0,0,-1
+dimension,puddn,0,0,-1
+elmustachio,jc_chill,1,0,2
+7blanks,superkirby,0,2,0
+peasantloaf,driftintheabyss,0,2,0
+costaricancool,dimension,0,2,0
+jc_chill,7blanks,0,-2,-2
+peasantloaf,costaricancool,0,-2,-2
+truffleshuffle,pandemonium,0,2,0
+scratch,cuppajoe,0,2,0
+nardwell,elvis,1,0,2
+whuck,locamash,0,0,-1
+mr.sir,zarc,0,2,0
+hbrw-hammer,master j.j.,0,2,0
+cobr,truffleshuffle,0,2,0
+scratch,elvis,0,2,0
+maliki,whuck,0,2,0
+mr.sir,hbrw-hammer,0,2,0
+cobr,scratch,0,-2,-2
+maliki,mr.sir,0,-2,-2
+cuppajoe,nardwell,0,2,0
+zarc,master j.j.,0,2,0
+hbrw-hammer,pandemonium,1,1,2
+whuck,cuppajoe,0,2,0
+elvis,locamash,0,0,-1
+truffleshuffle,zarc,0,2,1
+pandemonium,whuck,0,-2,-2
+elvis,truffleshuffle,0,-2,-2
+bubby,jdeezel,0,2,1
+kelvinheit,sph,0,2,0
+phut,gaymer,0,2,0
+imperium,pika,1,-1,0
+mr. wang,pochilin,0,2,0
+star king,bubby,0,2,0
+kelvinheit,phut,1,0,2
+ctg,pika,0,2,0
+bp,mr. wang,0,2,0
+star king,phut,0,-2,-2
+ctg,bp,0,-2,-2
+sph,gaymer,0,2,0
+mr. wang,jdeezel,0,2,0
+pika,sph,1,1,2
+kelvinheit,imperium,0,0,-1
+bubby,pochilin,1,1,2
+mr. wang,sph,0,-2,-2
+kelvinheit,pochilin,0,-2,-2
+stranded,jamjar,0,2,1
+sedda,zeppelin,0,2,0
+star king,phut,0,2,0
+ctg,bp,0,2,0
+fireblaster,dizzle,0,2,0
+nta,dfx,1,0,2
+cobr,scratch,0,2,0
+maliki,mr.sir,1,1,2
+stranded,sedda,0,2,0
+star king,ctg,0,2,0
+fireblaster,dfx,0,2,1
+cobr,mr.sir,0,2,0
+stranded,star king,0,-2,-2
+fireblaster,cobr,0,-2,-2
+elvis,truffleshuffle,0,2,0
+pandemonium,whuck,1,0,2
+peasantloaf,costaricancool,0,2,0
+jc_chill,7blanks,1,0,2
+kelvinheit,pochilin,0,2,1
+mr. wang,sph,0,2,0
+hotahota,massimo,0,2,1
+bonerstorm,dount,1,0,2
+jamjar,elvis,0,2,0
+zeppelin,whuck,0,2,0
+phut,peasantloaf,0,2,0
+bp,7blanks,0,2,0
+dizzle,kelvinheit,1,0,2
+nta,mr. wang,0,2,1
+scratch,hotahota,0,2,0
+maliki,dount,0,2,0
+jamjar,zeppelin,1,0,2
+phut,bp,1,0,2
+kelvinheit,nta,1,1,2
+scratch,maliki,1,0,2
+mr.sir,zeppelin,1,0,2
+dfx,bp,0,2,1
+ctg,nta,1,0,2
+sedda,maliki,0,2,0
+zeppelin,dfx,0,-2,-2
+nta,sedda,0,-2,-2
+stranded,star king,0,3,1
+fireblaster,cobr,0,3,2
+stranded,fireblaster,0,3,1
+stranded,star king,0,3,0
+nta,sedda,0,3,2
+zeppelin,dfx,1,0,3
+star king,nta,0,3,0
+cobr,dfx,0,3,0
+star king,cobr,0,3,0
+fireblaster,star king,1,0,3

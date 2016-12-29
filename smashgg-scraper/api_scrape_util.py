@@ -1,4 +1,5 @@
 import time
+import requests
 import json
 from collections import *
 
@@ -14,7 +15,7 @@ api_sets_postfix = '?expand[]=sets'
 name_exceptions_type1 = ["TimKO | AF" , "Lv. 10 | AF"]
 
 def sanatize_name(name):
-    return (name.split('|', 1)[-1]).lower().replace('"', '').split('|', 1)[-1].lstrip()
+    return (name.split('|', 1)[-1]).lower().replace('"', '').split('|', 1)[-1].lstrip().replace(',','')
 
 def sanatize_doubles(name):
     tmp = name.split('/')
@@ -57,5 +58,9 @@ class event:
                 self.entrants[entrant["id"]] = sanatize_doubles(entrant["name"])
                 self.placings[entrant["id"]] = entrant["finalPlacement"]
             else:
+                #r = requests.get("https://api.smash.gg/entrant/" + str(entrant["id"]))
+                #entrant_data = json.loads(r.text)
+                #print(entrant_data["entities"]["attendee"][0]["gamerTag"])
+                #self.entrants[entrant["id"]] = entrant_data["entities"]["attendee"][0]["gamerTag"]
                 self.entrants[entrant["id"]] = sanatize_name(entrant["name"])
                 self.placings[entrant["id"]] = entrant["finalPlacement"]
