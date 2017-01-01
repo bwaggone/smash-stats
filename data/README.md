@@ -60,13 +60,13 @@ There is now a file to fix all incorrectly scrapped names. To use, all you need 
 
 | name | game | to |
 | ------------ | -----| ------|
-| the wrong name to be changes | the game of the player | the name to change it to |
+| the wrong name to be changed | the game of the player | the name to change it to |
 
 So for example, a fix involving mang0 would look like,
 
 | name | game | to |
 | ------------ | -----| ------|
-| mang0 | Melee | mang0 |
+| mango | Melee | mang0 |
 
   * Notes
     * Game is **case sensitive**. It must follow the exact name of the game's folder.
