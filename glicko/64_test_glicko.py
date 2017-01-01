@@ -53,6 +53,9 @@ sorted_tourneys = tnmt_array[tnmt_array[:,1].argsort()]
 
 prev_rp = -1
 for tourney in sorted_tourneys:
+    #if(tourney[0] == "wtfox-2"):
+    #    print("skipped")
+    #    continue
     current_matches = []
     current_players = np.array([])
     with open(sixtyfour_dir + tourney[0] + '-sets.csv') as stream:

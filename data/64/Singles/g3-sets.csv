@@ -108,15 +108,15 @@ connor,irish,0,2,0
 stonefallow,kingkool,0,2,0
 madrush21,firefly,0,2,0
 khakis,shwang,1,-1,0
-mrmarbles,paper tiger,0,2,0
+marbles,paper tiger,0,2,0
 daniels,slartibartfast42,0,2,0
 isai,apparition the ambassador,0,2,0
 connor,stonefallow,1,0,2
 madrush21,shwang,0,2,0
-mrmarbles,daniels,0,2,0
+marbles,daniels,0,2,0
 isai,stonefallow,0,2,0
-madrush21,mrmarbles,1,1,2
-isai,mrmarbles,0,-2,-2
+madrush21,marbles,1,1,2
+isai,marbles,0,-2,-2
 irish,kingkool,1,0,2
 firefly,khakis,0,0,-1
 paper tiger,slartibartfast42,1,0,2
@@ -451,7 +451,7 @@ bark the shark,shalaka,1,1,2
 banze,zero,0,2,1
 fox,shalaka,0,2,0
 banze,fox,0,-2,-2
-isai,mrmarbles,0,2,0
+isai,marbles,0,2,0
 fireblaster,ybombb,0,2,0
 wangera,lord narwhal,0,2,0
 dext3r,shears,0,2,0
@@ -465,9 +465,9 @@ annex,eggmode,1,1,2
 shears,dajjal,0,2,0
 lord narwhal,studstill,0,2,0
 ybombb,morino,0,2,0
-mrmarbles,eggmode,0,2,1
+marbles,eggmode,0,2,1
 shears,lord narwhal,1,1,2
-ybombb,mrmarbles,0,2,0
+ybombb,marbles,0,2,0
 fireblaster,lord narwhal,0,2,0
 dext3r,ybombb,0,2,0
 fireblaster,dext3r,0,-2,-2

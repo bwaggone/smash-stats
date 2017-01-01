@@ -326,14 +326,14 @@ madrush21,train_town,0,2,0
 justin,krutchby,0,2,0
 kort,zibba,0,2,0
 cyoonit,pokeiman_master,0,2,0
-mrmarbles,cooljoe,0,2,0
+marbles,cooljoe,0,2,0
 elel,kaddy,0,2,0
 kerokeroppi,pewpewu,0,2,1
 madrush21,justin,0,2,0
 kort,cyoonit,0,2,0
-mrmarbles,elel,0,2,0
+marbles,elel,0,2,0
 kerokeroppi,madrush21,0,2,0
-kort,mrmarbles,0,2,0
+kort,marbles,0,2,0
 kerokeroppi,kort,0,-2,-2
 kaddy,4 phri,0,0,-1
 krutchby,hail_sagan,0,0,-1
@@ -348,9 +348,9 @@ elel,train_town,0,2,0
 cyoonit,funkykong,0,2,0
 justin,pewpewu,0,2,0
 elel,cyoonit,1,0,2
-mrmarbles,justin,0,2,0
+marbles,justin,0,2,0
 madrush21,cyoonit,1,0,2
-mrmarbles,cyoonit,0,-2,-2
+marbles,cyoonit,0,-2,-2
 juan doe,duffman,1,0,2
 moosh_da_moosh,uprowr,0,2,0
 hayrow,deku,0,2,0
@@ -598,7 +598,7 @@ superboomfan,wizzrobe,0,3,1
 lorenzo,sax,1,0,2
 nothing,masterhandjob,0,2,0
 sheermadness,dogg,0,2,0
-mrmarbles,the dark gentleman,0,2,1
+marbles,the dark gentleman,0,2,1
 nintendude,dfx,0,2,1
 preston,the protagonist,1,0,2
 snorlax,saltsizzle,0,2,1
@@ -614,7 +614,7 @@ wookiee,señorhen10r,0,2,0
 zero,sax,0,2,0
 firo,nothing,0,2,1
 lord narwhal,sheermadness,0,2,1
-barksanchez,mrmarbles,0,2,0
+barksanchez,marbles,0,2,0
 nta,nintendude,0,2,1
 shalaka,the protagonist,0,2,0
 banze,snorlax,0,2,0
