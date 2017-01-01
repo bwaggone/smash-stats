@@ -53,3 +53,23 @@ This file has a list of tournament slugs and dates. There is one per folder, and
       * The tournaments file is created/appended automatically when running get_data.py
       * It can be configured to convert from date to epoch time, if that floats your boat.
       * **It is not in any sorted or chronological order.**
+
+# Name Fixes
+
+There is now a file to fix all incorrectly scrapped names. To use, all you need to do is a add a line to the name_fixes.csv file. It follows this format:
+
+| name | game | to |
+| ------------ | -----| ------|
+| the wrong name to be changes | the game of the player | the name to change it to |
+
+So for example, a fix involving mang0 would look like,
+
+| name | game | to |
+| ------------ | -----| ------|
+| mang0 | Melee | mang0 |
+
+  * Notes
+    * Game is **case sensitive**. It must follow the exact name of the game's folder.
+    * I currently only wrote this to work for singles, doubles support coming soon (tm).
+    * If you mess up, just write a new line to fix your mistake.
+    * I have it replace the trailing comma, to prevent partial ending string matches (superboom->superboomfan turns superboomfan->superboomfanfan). Technically this can still be a problem for a player like, player1->player2, could cause someone ith the name theplayer1->theplayer2. Assuming player1 and theplayer1 are two separate players, this can be a problem. I'll replace this with regex eventually.
