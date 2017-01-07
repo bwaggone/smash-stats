@@ -2,6 +2,7 @@ from collections import *
 from trueskill import Rating, quality_1vs1, rate_1vs1 
 import csv
 import numpy as np
+from util import *
 
 # Trueskill Implementation courtesy of http://trueskill.org/
 
@@ -51,10 +52,11 @@ with open(sixtyfour_dir + 'tournaments.csv') as stream:
         else:
             tnmt_array = np.append(tnmt_array, np.array([tourney_data[0], tourney_data[2], tourney_data[3]]).reshape(1,3), axis = 0)
 
+#tourneys_64 = tourney_csvreader(0)
+#print(tourneys_64)
+#print(tnmt_array)
+#sorted_tourneys = tourneys_64[tourneys_64[:,1].argsort()]
 sorted_tourneys = tnmt_array[tnmt_array[:,1].argsort()]
-
-
-
 
 for tourney in sorted_tourneys:
     #if(tourney[0] == "wtfox-2"):
@@ -111,4 +113,3 @@ for pl in final:
     f.write(",".join(pl) + '\n')
 
 f.close()
-
