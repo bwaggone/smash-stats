@@ -1,0 +1,79 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+bees,crypto,hallenium,fuzzy,1,0,2
+zipemup,pongo,golly,hordan,1,0,2
+leo,warm up,ducky,veemontamer,0,0,-1
+brokegod,mythos,tarn,godzillionaire,0,0,-1
+lil red,bitkizzy,king will,thegount,1,0,2
+frenchyy,hollow,i,jubal,1,0,2
+relay,fan,snorley,e,1,-1,0
+virgman,ookami,idk6395,vulpae,0,2,0
+manny,day,hallenium,fuzzy,0,2,0
+duffo,kiki,vikkikitty,child,0,2,0
+rideae,cashmere,golly,hordan,0,2,0
+riotlettuce,dyr,danstrife,hoover,0,2,0
+scatt,fatality,leo,warm up,0,2,1
+blank,~muteace~,xmas,zeta,0,0,-1
+8bitman,salem,brokegod,mythos,0,2,0
+jabe,craziecuban,diesel,jewinggum,0,2,1
+mvd,esam,king will,thegount,0,2,0
+myran,kidg,caskan,tribal,0,2,0
+samsora,saj,i,jubal,0,2,0
+nickriddle,xaltis,blitzking,wonderbread,0,2,1
+mew2king,mr.e,snorley,e,0,2,0
+zen,vanguard,koleslaw,rob,1,0,2
+ross,tachyon,virgman,ookami,0,2,0
+snarkie,roguepenguin,kdr.,sarap,0,2,0
+manny,day,duffo,kiki,0,2,1
+rideae,cashmere,riotlettuce,dyr,0,2,1
+scatt,fatality,blank,~muteace~,0,2,1
+8bitman,salem,jabe,craziecuban,0,2,0
+mvd,esam,myran,kidg,0,2,1
+samsora,saj,nickriddle,xaltis,0,2,0
+mew2king,mr.e,koleslaw,rob,0,2,0
+ross,tachyon,snarkie,roguepenguin,0,2,0
+manny,day,rideae,cashmere,0,2,0
+scatt,fatality,8bitman,salem,1,0,2
+mvd,esam,samsora,saj,0,2,1
+mew2king,mr.e,ross,tachyon,1,0,2
+manny,day,8bitman,salem,1,1,2
+mvd,esam,ross,tachyon,0,2,0
+8bitman,salem,mvd,esam,0,3,1
+8bitman,salem,mew2king,mr.e,0,3,1
+kdr.,sarap,bees,crypto,0,2,1
+zen,vanguard,zipemup,pongo,0,2,0
+blitzking,wonderbread,ducky,veemontamer,0,2,0
+caskan,tribal,tarn,godzillionaire,0,0,-1
+diesel,jewinggum,lil red,bitkizzy,0,2,0
+xmas,zeta,frenchyy,hollow,1,-1,0
+danstrife,hoover,relay,fan,0,0,-1
+vikkikitty,child,idk6395,vulpae,0,2,0
+kdr.,sarap,virgman,ookami,1,0,2
+zen,vanguard,snorley,e,0,2,0
+blitzking,wonderbread,i,jubal,1,1,2
+caskan,tribal,king will,thegount,1,1,2
+diesel,jewinggum,brokegod,mythos,0,2,0
+frenchyy,hollow,leo,warm up,1,0,2
+danstrife,hoover,golly,hordan,0,2,0
+vikkikitty,child,hallenium,fuzzy,0,2,0
+jabe,craziecuban,virgman,ookami,0,2,0
+blank,~muteace~,zen,vanguard,0,2,0
+riotlettuce,dyr,i,jubal,0,2,1
+duffo,kiki,king will,thegount,0,2,0
+snarkie,roguepenguin,diesel,jewinggum,0,2,0
+koleslaw,rob,leo,warm up,0,2,0
+nickriddle,xaltis,danstrife,hoover,0,2,0
+myran,kidg,vikkikitty,child,1,1,2
+jabe,craziecuban,blank,~muteace~,0,2,1
+riotlettuce,dyr,duffo,kiki,1,1,2
+snarkie,roguepenguin,koleslaw,rob,0,2,1
+nickriddle,xaltis,vikkikitty,child,1,1,2
+samsora,saj,jabe,craziecuban,0,2,0
+mew2king,mr.e,duffo,kiki,0,2,0
+rideae,cashmere,snarkie,roguepenguin,1,1,2
+scatt,fatality,vikkikitty,child,0,2,0
+samsora,saj,mew2king,mr.e,1,1,2
+snarkie,roguepenguin,scatt,fatality,1,0,2
+manny,day,mew2king,mr.e,1,1,2
+ross,tachyon,scatt,fatality,1,1,2
+mew2king,mr.e,scatt,fatality,0,2,1
+mvd,esam,mew2king,mr.e,1,2,3

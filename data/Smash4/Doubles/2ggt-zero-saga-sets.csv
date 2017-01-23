@@ -1,0 +1,214 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+nurse,frededish,stealthy,diablo,1,0,2
+ac,charliedaking,technicals,brosinex,0,2,1
+athena,hitaku,felix,r1hkami,0,2,0
+charger,thatonerider,lolo,chinito,0,2,0
+ikez,tco,kvp,echo,1,0,2
+ikki,pato-superquack,dr.feelgood,var,0,2,0
+roguepenguin,ryo,rix,king louie,0,2,0
+eon,dynamo,bowser,mayo,0,2,0
+mog,flare,jedi,oko,1,0,2
+dath,jjrockets,shade,asa,0,2,0
+oki,willyo,valor,staz,0,2,1
+nairo,zero,stealthy,diablo,0,2,1
+ac,charliedaking,athena,hitaku,1,1,2
+mrconcon,zinoto,charger,thatonerider,0,2,0
+tltc,falln,kvp,echo,0,2,0
+captainzack,pink fresh,ikki,pato-superquack,0,2,0
+roguepenguin,ryo,eon,dynamo,0,2,1
+vinnie,mr.e,jedi,oko,0,2,0
+dath,jjrockets,oki,willyo,0,2,0
+nairo,zero,athena,hitaku,0,2,0
+mrconcon,zinoto,tltc,falln,0,2,0
+captainzack,pink fresh,roguepenguin,ryo,0,2,0
+vinnie,mr.e,dath,jjrockets,1,0,2
+nairo,zero,mrconcon,zinoto,0,2,0
+captainzack,pink fresh,dath,jjrockets,1,0,2
+nairo,zero,dath,jjrockets,0,2,0
+technicals,brosinex,felix,r1hkami,0,2,0
+rix,king louie,bowser,mayo,0,2,0
+shade,asa,valor,staz,1,1,2
+oki,willyo,nurse,frededish,0,2,0
+jedi,oko,technicals,brosinex,1,0,2
+eon,dynamo,lolo,chinito,0,2,0
+ikki,pato-superquack,ikez,tco,0,2,0
+kvp,echo,dr.feelgood,var,0,2,0
+charger,thatonerider,rix,king louie,0,2,0
+ac,charliedaking,mog,flare,0,2,0
+stealthy,diablo,valor,staz,0,2,0
+oki,willyo,technicals,brosinex,1,0,2
+eon,dynamo,ikki,pato-superquack,0,2,0
+kvp,echo,charger,thatonerider,1,0,2
+ac,charliedaking,stealthy,diablo,1,0,2
+tltc,falln,technicals,brosinex,0,2,1
+athena,hitaku,eon,dynamo,0,2,1
+vinnie,mr.e,charger,thatonerider,0,2,0
+roguepenguin,ryo,stealthy,diablo,0,2,1
+tltc,falln,athena,hitaku,1,0,2
+vinnie,mr.e,roguepenguin,ryo,0,2,0
+captainzack,pink fresh,athena,hitaku,0,2,0
+mrconcon,zinoto,vinnie,mr.e,1,0,2
+captainzack,pink fresh,vinnie,mr.e,1,0,2
+dath,jjrockets,vinnie,mr.e,0,-2,-2
+shoe,bang!,gloomy,lumen,0,2,0
+zan,l.u.c.y,redux,doomlion,0,2,1
+locus,amac,nano,maiko,0,2,1
+luck7,zion,navi,boat,0,2,1
+prodigy,teb,kwon,rawknee,0,2,0
+dunkmaster ragna,daddy;)kins,j.p.,pixl,0,2,1
+trevonte,soronie,blinx,eikelmann,0,2,1
+slither2hunter,kswz,shine,arkistor,0,2,1
+nico pls,leo itou,spakfuls,cedgehog,0,2,0
+gpik,arikie,prophet,edgar,1,1,2
+ally,larry lurr,shoe,bang!,0,2,0
+zan,l.u.c.y,locus,amac,0,2,1
+zenyou,pugwest,luck7,zion,0,2,0
+samsora,dark wizzy,prodigy,teb,0,2,0
+tweek,false,dunkmaster ragna,daddy;)kins,0,2,1
+trevonte,soronie,slither2hunter,kswz,0,2,0
+rich brown,tyrant,nico pls,leo itou,0,2,0
+nietono,9b,prophet,edgar,0,2,1
+ally,larry lurr,zan,l.u.c.y,0,2,0
+zenyou,pugwest,samsora,dark wizzy,0,2,1
+tweek,false,trevonte,soronie,0,2,0
+rich brown,tyrant,nietono,9b,1,0,2
+ally,larry lurr,zenyou,pugwest,0,2,0
+tweek,false,nietono,9b,0,2,0
+ally,larry lurr,tweek,false,1,0,2
+redux,doomlion,nano,maiko,0,2,1
+blinx,eikelmann,shine,arkistor,1,0,2
+prophet,edgar,gloomy,lumen,0,2,0
+nico pls,leo itou,redux,doomlion,1,0,2
+slither2hunter,kswz,navi,boat,0,2,0
+dunkmaster ragna,daddy;)kins,kwon,rawknee,0,2,0
+prodigy,teb,j.p.,pixl,0,2,0
+luck7,zion,shine,arkistor,0,2,1
+locus,amac,spakfuls,cedgehog,0,2,0
+shoe,bang!,gpik,arikie,0,2,0
+prophet,edgar,redux,doomlion,0,2,1
+slither2hunter,kswz,dunkmaster ragna,daddy;)kins,1,0,2
+prodigy,teb,luck7,zion,0,2,0
+locus,amac,shoe,bang!,0,2,0
+samsora,dark wizzy,prophet,edgar,0,2,1
+zan,l.u.c.y,dunkmaster ragna,daddy;)kins,1,1,2
+rich brown,tyrant,prodigy,teb,1,0,2
+trevonte,soronie,locus,amac,1,0,2
+samsora,dark wizzy,dunkmaster ragna,daddy;)kins,0,2,0
+prodigy,teb,locus,amac,0,2,0
+nietono,9b,samsora,dark wizzy,0,2,0
+zenyou,pugwest,prodigy,teb,0,2,0
+nietono,9b,zenyou,pugwest,0,2,0
+ally,larry lurr,nietono,9b,0,-2,-2
+kanye,sd_god,taquitos,khan,0,2,0
+z,vash,seabass,hydra,0,2,0
+2manycooks,alphicans,scourge,gshark,0,2,0
+houston,twerkmastr,wailing walrus,miiself,0,0,-1
+pollo,snoop,blu,barrelroll,0,2,0
+imfree,sav_dre,keplar,kuroid,0,2,1
+legit,soulimar,dougles,granny smith,0,2,0
+regi shikimi,ic,rvrproduct,skynerd,0,2,0
+saturn,malk,wave,blatz!,1,-1,0
+zxl,ghost,hori,rickles,0,2,1
+komorikiri,mr.r,kanye,sd_god,0,2,0
+z,vash,2manycooks,alphicans,1,0,2
+elegant,aarvark,houston,twerkmastr,0,2,1
+dyr,prince ramen,pollo,snoop,0,2,0
+void,nakat,imfree,sav_dre,0,2,0
+legit,soulimar,regi shikimi,ic,0,2,1
+scatt,fatality,wave,blatz!,0,2,0
+wii twerk trainer,saj,zxl,ghost,0,2,0
+komorikiri,mr.r,2manycooks,alphicans,0,2,0
+elegant,aarvark,dyr,prince ramen,0,2,0
+void,nakat,legit,soulimar,0,2,0
+scatt,fatality,wii twerk trainer,saj,0,2,0
+komorikiri,mr.r,elegant,aarvark,0,2,0
+void,nakat,scatt,fatality,0,2,1
+komorikiri,mr.r,void,nakat,0,2,1
+seabass,hydra,scourge,gshark,1,1,2
+dougles,granny smith,rvrproduct,skynerd,1,1,2
+zxl,ghost,taquitos,khan,0,2,0
+wave,blatz!,scourge,gshark,1,0,2
+regi shikimi,ic,wailing walrus,miiself,0,2,0
+imfree,sav_dre,blu,barrelroll,0,2,1
+pollo,snoop,keplar,kuroid,0,2,0
+houston,twerkmastr,rvrproduct,skynerd,0,2,0
+z,vash,saturn,malk,0,0,-1
+kanye,sd_god,hori,rickles,0,2,0
+zxl,ghost,scourge,gshark,0,2,0
+regi shikimi,ic,imfree,sav_dre,0,2,0
+pollo,snoop,houston,twerkmastr,1,1,2
+z,vash,kanye,sd_god,0,2,1
+dyr,prince ramen,zxl,ghost,1,1,2
+2manycooks,alphicans,regi shikimi,ic,0,2,0
+wii twerk trainer,saj,houston,twerkmastr,0,2,0
+legit,soulimar,z,vash,1,0,2
+zxl,ghost,2manycooks,alphicans,1,1,2
+wii twerk trainer,saj,z,vash,1,1,2
+scatt,fatality,2manycooks,alphicans,1,0,2
+elegant,aarvark,z,vash,0,2,0
+2manycooks,alphicans,elegant,aarvark,1,1,2
+void,nakat,elegant,aarvark,0,-2,-2
+ssb100,jesus,orpheus,submediant,0,2,0
+jk,lycan,pairoducks,jehtt,0,2,0
+aphro,sm,berto,croc,1,-1,0
+socalgohan,tempo,flo,nova!,0,2,0
+razo,sura,kinkreet,potter,0,2,0
+emblem,kafei,blackdynowright,mijo,1,0,2
+seagull joe,jerm,fslink,idk,0,2,0
+sean,villain,solidpieces,raycharoen,0,2,0
+fox16,page,glacer,telmo,1,0,2
+kiraflax,pu55yk1ng,oat,cetra,0,2,0
+mkleo,dabuz,ssb100,jesus,0,2,0
+jk,lycan,berto,croc,0,2,0
+ss,k9sbruce,socalgohan,tempo,0,2,0
+day,nicko,razo,sura,0,2,0
+abadango,kameme,blackdynowright,mijo,0,2,0
+seagull joe,jerm,sean,villain,1,0,2
+salem,6wx,glacer,telmo,0,2,0
+xzax,rice,kiraflax,pu55yk1ng,1,1,2
+mkleo,dabuz,jk,lycan,0,2,0
+ss,k9sbruce,day,nicko,0,2,0
+abadango,kameme,sean,villain,0,2,0
+salem,6wx,kiraflax,pu55yk1ng,0,2,0
+mkleo,dabuz,ss,k9sbruce,0,2,0
+abadango,kameme,salem,6wx,1,1,2
+mkleo,dabuz,salem,6wx,1,1,2
+pairoducks,jehtt,aphro,sm,0,0,-1
+fslink,idk,solidpieces,raycharoen,0,2,0
+xzax,rice,orpheus,submediant,0,2,0
+glacer,telmo,pairoducks,jehtt,1,0,2
+seagull joe,jerm,flo,nova!,0,2,0
+blackdynowright,mijo,kinkreet,potter,0,2,0
+razo,sura,emblem,kafei,1,1,2
+socalgohan,tempo,fslink,idk,0,2,0
+berto,croc,fox16,page,1,1,2
+ssb100,jesus,oat,cetra,0,2,0
+xzax,rice,pairoducks,jehtt,0,2,1
+seagull joe,jerm,blackdynowright,mijo,0,2,0
+emblem,kafei,socalgohan,tempo,0,2,0
+fox16,page,ssb100,jesus,1,0,2
+day,nicko,xzax,rice,0,2,1
+jk,lycan,seagull joe,jerm,0,2,1
+kiraflax,pu55yk1ng,emblem,kafei,1,1,2
+sean,villain,ssb100,jesus,0,2,0
+day,nicko,jk,lycan,0,2,0
+emblem,kafei,sean,villain,1,0,2
+abadango,kameme,day,nicko,0,2,0
+ss,k9sbruce,sean,villain,0,2,0
+abadango,kameme,ss,k9sbruce,0,2,0
+mkleo,dabuz,abadango,kameme,0,-2,-2
+nairo,zero,salem,6wx,0,3,2
+tweek,false,komorikiri,mr.r,1,1,3
+nairo,zero,komorikiri,mr.r,1,2,3
+komorikiri,mr.r,nairo,zero,1,0,3
+nairo,zero,komorikiri,mr.r,0,3,1
+void,nakat,vinnie,mr.e,0,3,2
+ally,larry lurr,abadango,kameme,0,3,2
+mkleo,dabuz,nietono,9b,0,3,0
+dath,jjrockets,elegant,aarvark,1,1,3
+void,nakat,ally,larry lurr,0,3,1
+mkleo,dabuz,elegant,aarvark,0,3,2
+tweek,false,void,nakat,1,2,3
+salem,6wx,mkleo,dabuz,0,3,0
+void,nakat,salem,6wx,1,2,3
+nairo,zero,salem,6wx,0,3,0

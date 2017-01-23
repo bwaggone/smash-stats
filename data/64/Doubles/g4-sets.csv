@@ -1,0 +1,93 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+p21,c,natty,eggmcmuffin888,hunter,0,2,0
+rizner,village mascot,dcmaster,superflopp,0,2,0
+sonicfuzz,aces,jesusisking,gaggleforce,0,2,0
+jaimehr,superboomfan,p21,c,natty,0,2,0
+hydra,kimimaru,smash jesus,jimmy joe,0,2,0
+joshi,nintendude,rizner,village mascot,0,2,0
+ctg,nacl,sonicfuzz,aces,0,2,0
+jaimehr,superboomfan,hydra,kimimaru,0,2,0
+joshi,nintendude,ctg,nacl,0,2,0
+jaimehr,superboomfan,joshi,nintendude,0,-2,-2
+sonicfuzz,aces,eggmcmuffin888,hunter,0,2,1
+smash jesus,jimmy joe,dcmaster,superflopp,0,2,0
+p21,c,natty,jesusisking,gaggleforce,0,2,0
+sonicfuzz,aces,rizner,village mascot,0,2,0
+smash jesus,jimmy joe,p21,c,natty,0,2,0
+hydra,kimimaru,sonicfuzz,aces,0,2,0
+ctg,nacl,smash jesus,jimmy joe,0,2,0
+hydra,kimimaru,ctg,nacl,0,-2,-2
+silentknight,starchild,iacme,inukem,1,-1,0
+capos,duff man,minusev,penance,0,2,0
+the protagonist,collin,rockmix,b vu,0,2,0
+shalaka,alvin,iacme,inukem,0,2,0
+kerokeroppi,daniels,onski,blondekid,1,0,2
+k y s k,taimai,capos,duff man,0,2,0
+madrush21,dtan,the protagonist,collin,0,2,0
+shalaka,alvin,onski,blondekid,0,2,0
+k y s k,taimai,madrush21,dtan,0,2,1
+shalaka,alvin,k y s k,taimai,0,-2,-2
+the protagonist,collin,silentknight,starchild,0,0,-1
+kerokeroppi,daniels,minusev,penance,0,0,-1
+iacme,inukem,rockmix,b vu,0,2,0
+the protagonist,collin,capos,duff man,0,2,0
+kerokeroppi,daniels,iacme,inukem,0,2,0
+onski,blondekid,the protagonist,collin,1,0,2
+madrush21,dtan,kerokeroppi,daniels,0,2,0
+the protagonist,collin,madrush21,dtan,0,-2,-2
+d35,broonz,mortech,monkey,0,2,0
+paco,dr. grin,supernuggit,rift,0,2,0
+tr3gthez,tacos,d35,broonz,0,2,0
+shears,moonshoe,freean,duncs,0,2,0
+zero,strandead,paco,dr. grin,0,2,0
+sotoh,wookiee,t-beau,the yid,0,2,0
+tr3gthez,tacos,shears,moonshoe,0,2,0
+zero,strandead,sotoh,wookiee,0,2,1
+tr3gthez,tacos,zero,strandead,0,-2,-2
+t-beau,the yid,mortech,monkey,1,1,2
+freean,duncs,supernuggit,rift,0,2,0
+mortech,monkey,paco,dr. grin,1,1,2
+freean,duncs,d35,broonz,0,2,0
+shears,moonshoe,paco,dr. grin,0,2,1
+sotoh,wookiee,freean,duncs,0,2,0
+shears,moonshoe,sotoh,wookiee,0,-2,-2
+greenblob,tonester,dixoncider,moustasher,0,2,0
+maze,taiko,iowndisgam,fearlesscaboos,0,0,-1
+shihman,letsgo,unbredmonkeyx,shibō,0,2,0
+mariguas,dext3r,greenblob,tonester,0,2,0
+kyle tree,janitor,llcstoism,bon,0,2,1
+barksanchez,darkhorse,maze,taiko,0,2,0
+handsometom,cobr,shihman,letsgo,1,1,2
+mariguas,dext3r,kyle tree,janitor,0,2,0
+barksanchez,darkhorse,shihman,letsgo,0,2,1
+mariguas,dext3r,barksanchez,darkhorse,0,-2,-2
+handsometom,cobr,dixoncider,moustasher,0,2,0
+llcstoism,bon,iowndisgam,fearlesscaboos,0,0,-1
+greenblob,tonester,unbredmonkeyx,shibō,0,2,0
+handsometom,cobr,maze,taiko,0,2,0
+llcstoism,bon,greenblob,tonester,0,2,0
+kyle tree,janitor,handsometom,cobr,1,0,2
+shihman,letsgo,llcstoism,bon,0,2,0
+handsometom,cobr,shihman,letsgo,0,-2,-2
+jaimehr,superboomfan,joshi,nintendude,0,3,0
+shalaka,alvin,k y s k,taimai,1,2,3
+tr3gthez,tacos,zero,strandead,0,3,1
+mariguas,dext3r,barksanchez,darkhorse,0,3,0
+jaimehr,superboomfan,k y s k,taimai,0,3,0
+tr3gthez,tacos,mariguas,dext3r,1,1,3
+jaimehr,superboomfan,mariguas,dext3r,0,3,1
+jaimehr,superboomfan,tr3gthez,tacos,0,3,1
+hydra,kimimaru,madrush21,dtan,1,1,3
+the protagonist,collin,ctg,nacl,1,0,3
+shears,moonshoe,shihman,letsgo,1,0,3
+handsometom,cobr,sotoh,wookiee,0,3,1
+barksanchez,darkhorse,madrush21,dtan,0,3,1
+zero,strandead,ctg,nacl,0,3,0
+shalaka,alvin,shihman,letsgo,0,3,0
+joshi,nintendude,handsometom,cobr,0,3,0
+barksanchez,darkhorse,zero,strandead,1,1,3
+shalaka,alvin,joshi,nintendude,0,3,2
+k y s k,taimai,zero,strandead,0,3,1
+tr3gthez,tacos,shalaka,alvin,0,3,0
+k y s k,taimai,tr3gthez,tacos,1,2,3
+mariguas,dext3r,tr3gthez,tacos,1,1,3

@@ -35,7 +35,7 @@ events = {}
 for event_id in event_phases:
     r = requests.get(api_prefix + 'event/' + str(event_id) + api_entrant_postfix)
     evnt_data = json.loads(r.text)
-    events[evnt_data["entities"]["event"]["id"]] = event(event_id, evnt_data["entities"]["event"]["name"], evnt_data["entities"]["event"]["videogameId"], evnt_data["entities"]["event"]["type"])
+    events[evnt_data["entities"]["event"]["id"]] = Event(event_id, evnt_data["entities"]["event"]["name"], evnt_data["entities"]["event"]["videogameId"], evnt_data["entities"]["event"]["type"])
     tmp = evnt_data["entities"]["entrants"]
     events[evnt_data["entities"]["event"]["id"]].add_entrants(tmp)
 

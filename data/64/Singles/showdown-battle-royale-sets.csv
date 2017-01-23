@@ -1,0 +1,46 @@
+P1,P2,set winner,P1Score,P2Score
+drill,meatbeef,1,0,2
+jsmirk,b33f,0,0,-1
+velocity jones,dogs_johnson,0,0,-1
+xyk,gallyg,0,0,-1
+the drew,bacorn,0,0,-1
+lorenzo,meatbeef,0,2,0
+box,maze,1,1,2
+tyhiggz,jsmirk,0,2,0
+scoback,velocity jones,0,2,0
+pugs,xyk,0,2,1
+andykins,rocket,0,2,0
+llcstoism,the drew,0,2,0
+eg,ace,0,2,0
+lorenzo,maze,0,2,0
+tyhiggz,scoback,1,0,2
+pugs,andykins,0,2,0
+llcstoism,eg,0,2,1
+lorenzo,scoback,0,-2,-2
+pugs,llcstoism,0,-2,-2
+ace,drill,0,2,0
+rocket,b33f,0,0,-1
+xyk,dogs_johnson,0,0,-1
+velocity jones,gallyg,0,0,-1
+box,bacorn,0,0,-1
+ace,the drew,0,2,0
+rocket,xyk,0,2,0
+velocity jones,jsmirk,1,0,2
+box,meatbeef,0,0,-1
+tyhiggz,ace,0,2,0
+maze,rocket,0,2,1
+eg,jsmirk,0,2,0
+andykins,box,0,2,0
+tyhiggz,maze,0,-2,-2
+eg,andykins,0,-2,-2
+lorenzo,scoback,0,3,1
+pugs,llcstoism,0,3,1
+lorenzo,pugs,1,0,3
+pugs,lorenzo,1,1,3
+lorenzo,pugs,0,3,2
+tyhiggz,maze,0,3,1
+eg,andykins,1,1,3
+scoback,tyhiggz,0,3,0
+llcstoism,andykins,1,0,3
+scoback,andykins,1,0,3
+lorenzo,andykins,0,3,0

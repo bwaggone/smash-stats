@@ -1,0 +1,87 @@
+P1,P2,set winner,P1Score,P2Score
+catastrophe,blitz,0,2,0
+mr. satan,the real mr. m,0,2,0
+jazz,drcraig,1,0,2
+red squirrel,avium,1,0,2
+trk,okami,0,2,0
+insomniac,scot!,0,2,0
+mercify,same,1,0,2
+vaar,amnitsuj,0,2,0
+brochacho,cupcake,1,1,2
+whittom,papi,1,0,2
+tehhah,kubrick,1,0,2
+boomer4747,ifyouputagun,1,0,2
+the moon,catastrophe,0,2,0
+spiritgoon,failsafe,1,0,2
+hba jesse,mr. satan,0,2,0
+dj,drcraig,0,2,0
+twebb,avium,0,2,0
+telemonic,voxiii,0,2,1
+g$,trk,0,2,0
+iamseven,insomniac,0,2,1
+kjh,same,0,2,0
+buzz,draggiez,0,2,0
+clutch,vaar,0,2,0
+masquerade,cupcake,0,2,0
+dj nintendo,papi,0,2,0
+ohffy,seba,1,0,2
+turtle,kubrick,0,2,0
+sonofashepherd,ifyouputagun,0,2,1
+the moon,failsafe,0,2,0
+hba jesse,dj,0,2,1
+twebb,telemonic,0,2,0
+g$,iamseven,0,2,0
+kjh,buzz,0,2,0
+clutch,masquerade,0,2,0
+dj nintendo,seba,0,2,0
+turtle,sonofashepherd,0,2,0
+the moon,hba jesse,0,2,0
+twebb,g$,1,0,2
+kjh,clutch,0,2,0
+dj nintendo,turtle,0,2,0
+the moon,g$,0,3,0
+kjh,dj nintendo,0,3,1
+the moon,kjh,0,3,0
+the moon,dj nintendo,0,-2,-2
+ifyouputagun,blitz,0,2,0
+ohffy,the real mr. m,1,0,2
+papi,jazz,0,2,0
+cupcake,red squirrel,0,2,0
+draggiez,okami,1,0,2
+same,scot!,0,2,0
+insomniac,mercify,0,2,0
+voxiii,amnitsuj,0,2,0
+avium,brochacho,0,2,0
+drcraig,whittom,0,2,0
+spiritgoon,tehhah,1,0,2
+catastrophe,boomer4747,1,1,2
+ifyouputagun,kubrick,1,0,2
+the real mr. m,papi,0,2,0
+cupcake,vaar,1,1,2
+okami,same,0,2,0
+insomniac,trk,1,0,2
+voxiii,avium,1,1,2
+drcraig,mr. satan,1,0,2
+tehhah,boomer4747,1,0,2
+iamseven,kubrick,0,2,1
+telemonic,the real mr. m,0,2,1
+dj,vaar,0,2,0
+failsafe,okami,0,2,0
+sonofashepherd,trk,1,0,2
+seba,avium,1,0,2
+masquerade,mr. satan,1,0,2
+buzz,boomer4747,1,0,2
+iamseven,telemonic,1,1,2
+dj,failsafe,0,2,0
+trk,avium,0,2,0
+mr. satan,boomer4747,0,2,0
+clutch,telemonic,0,2,0
+turtle,dj,0,2,0
+hba jesse,trk,1,1,2
+twebb,mr. satan,0,2,0
+clutch,turtle,1,0,2
+trk,twebb,1,0,2
+g$,turtle,0,2,1
+dj nintendo,twebb,0,2,0
+g$,dj nintendo,1,1,3
+kjh,dj nintendo,1,1,3

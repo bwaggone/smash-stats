@@ -32,7 +32,7 @@ def split_doubles_names(name, doubles):
     else:
         return name
 
-class event:
+class Event:
     def __init__(self, event_id, event_name, gameId, _format):
         self.event_id = event_id
         self.event_name = event_name

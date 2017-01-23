@@ -40,11 +40,11 @@ with open(sixtyfour_dir + 'tournaments.csv') as stream:
     column = 1
     for tourney_data in incsv:
         if first:
-            tnmt_array = np.array([tourney_data[0], tourney_data[2], tourney_data[3]])
+            tnmt_array = np.array([tourney_data[1], tourney_data[3], tourney_data[4]])
             tnmt_array.shape = (1,3)
             first = 0
         else:
-            tnmt_array = np.append(tnmt_array, np.array([tourney_data[0], tourney_data[2], tourney_data[3]]).reshape(1,3), axis = 0)
+            tnmt_array = np.append(tnmt_array, np.array([tourney_data[1], tourney_data[3], tourney_data[4]]).reshape(1,3), axis = 0)
 
 sorted_tourneys = tnmt_array[tnmt_array[:,1].argsort()]
 

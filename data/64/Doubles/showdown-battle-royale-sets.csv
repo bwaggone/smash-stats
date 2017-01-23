@@ -1,0 +1,17 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+theagedone,nick,oh-nos,red,0,0,-1
+pugs,llcstoism,theagedone,nick,0,2,0
+tyhiggz,xyk,maze,jsmirk,0,2,1
+eg,andykins,reject,the drew,0,2,0
+rocket,scoback,lorenzo,velocity jones,1,0,2
+pugs,llcstoism,tyhiggz,xyk,0,2,1
+eg,andykins,lorenzo,velocity jones,0,2,1
+pugs,llcstoism,eg,andykins,0,3,2
+pugs,llcstoism,eg,andykins,0,3,1
+rocket,scoback,oh-nos,red,0,0,-1
+rocket,scoback,reject,the drew,0,2,0
+maze,jsmirk,theagedone,nick,0,2,0
+tyhiggz,xyk,rocket,scoback,1,0,2
+lorenzo,velocity jones,maze,jsmirk,0,2,0
+rocket,scoback,lorenzo,velocity jones,1,1,2
+eg,andykins,lorenzo,velocity jones,0,3,2

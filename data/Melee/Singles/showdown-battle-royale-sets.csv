@@ -1,0 +1,108 @@
+P1,P2,set winner,P1Score,P2Score
+invader slim,moggle,0,3,0
+2shadez,food,0,3,0
+soulpech,zo9ine,0,2,0
+dirtboy,ntf,0,3,0
+skate,fathr,0,3,0
+morsecode762,npv,0,3,0
+yungbitch,rayboyp,0,0,-1
+nexic,dogma,0,3,0
+noj,gooz,0,2,1
+ceephax,drill,0,3,1
+yata,vexis,1,-1,0
+lain,bump,0,2,0
+yono,railz,0,3,0
+techboy,vaatu,0,0,-1
+deku,ellipsis,0,3,0
+anther,invader slim,0,3,0
+2shadez,soulpech,1,1,3
+dirtboy,skate,0,3,0
+morsecode762,yungbitch,0,3,0
+nexic,noj,0,3,0
+ceephax,vexis,0,3,0
+lain,yono,0,0,-1
+techboy,deku,0,3,0
+anther,soulpech,0,3,1
+dirtboy,morsecode762,1,0,3
+nexic,ceephax,0,3,2
+lain,techboy,1,1,3
+anther,morsecode762,0,-2,-2
+nexic,techboy,0,-2,-2
+food,zo9ine,1,-1,0
+ntf,fathr,1,1,3
+npv,rayboyp,0,0,-1
+dogma,gooz,0,3,1
+drill,yata,0,0,-1
+bump,railz,1,-2,-2
+vaatu,ellipsis,1,-1,0
+deku,moggle,0,3,0
+yono,zo9ine,1,-2,-2
+vexis,fathr,0,3,0
+noj,npv,1,0,3
+yungbitch,dogma,1,0,3
+skate,drill,0,3,0
+2shadez,railz,0,3,0
+invader slim,ellipsis,1,0,3
+deku,zo9ine,0,3,0
+vexis,npv,1,2,3
+dogma,skate,1,1,3
+2shadez,ellipsis,0,3,0
+dirtboy,deku,0,3,0
+soulpech,npv,0,3,0
+lain,skate,0,3,0
+ceephax,2shadez,0,3,0
+dirtboy,soulpech,0,-2,-2
+lain,ceephax,0,-2,-2
+anther,morsecode762,1,2,3
+nexic,techboy,1,2,3
+morsecode762,techboy,0,3,0
+morsecode762,anther,0,3,1
+dirtboy,soulpech,1,2,3
+lain,ceephax,0,3,0
+anther,soulpech,0,3,1
+nexic,lain,1,2,3
+anther,lain,0,3,1
+techboy,anther,1,0,3
+invader slim,food,0,0,-1
+yungbitch,drill,0,3,1
+noj,yata,0,0,-1
+railz,deku,1,-1,0
+yono,vaatu,0,0,-1
+gooz,rayboyp,1,-1,0
+fathr,bump,0,0,-1
+ntf,invader slim,1,0,2
+ellipsis,moggle,1,-1,0
+2shadez,yungbitch,1,-1,0
+zo9ine,noj,0,0,-1
+npv,deku,1,0,2
+dogma,yono,0,0,-1
+skate,rayboyp,0,0,-1
+vexis,fathr,1,-1,0
+invader slim,moggle,0,2,1
+yungbitch,zo9ine,0,0,-1
+deku,dogma,0,0,-1
+skate,fathr,0,0,-1
+invader slim,yungbitch,1,1,2
+deku,skate,0,2,0
+yungbitch,deku,1,0,3
+noj,bump,1,-1,0
+2shadez,gooz,0,0,-1
+ellipsis,vaatu,1,-1,0
+ntf,railz,1,-1,0
+vexis,yata,1,-1,0
+rayboyp,drill,1,-1,0
+npv,food,1,-1,0
+bump,2shadez,1,-1,0
+vaatu,railz,1,-1,0
+yata,drill,1,-1,0
+yono,food,0,0,-1
+dogma,2shadez,0,0,-1
+fathr,railz,0,0,-1
+moggle,drill,1,-1,0
+zo9ine,yono,0,0,-1
+dogma,fathr,1,-1,0
+drill,zo9ine,0,0,-1
+invader slim,fathr,0,0,-1
+skate,drill,0,2,0
+invader slim,skate,1,-1,0
+yungbitch,skate,0,-2,-2

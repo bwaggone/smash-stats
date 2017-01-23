@@ -1,0 +1,404 @@
+P1,P2,set winner,P1Score,P2Score
+hunter,hashi,0,2,0
+tonester,rodan,0,2,0
+squallette,heartsdealer,1,-1,0
+jollie,whiz kid,0,2,0
+mariguas,hunter,0,2,0
+aces,tonester,1,0,2
+janitor,heartsdealer,0,2,0
+letsgo,jollie,0,2,0
+mariguas,tonester,0,2,0
+janitor,letsgo,0,2,0
+mariguas,janitor,0,-2,-2
+jollie,hashi,0,2,0
+heartsdealer,rodan,0,2,0
+aces,squallette,0,0,-1
+hunter,whiz kid,0,2,0
+jollie,heartsdealer,0,2,0
+aces,hunter,0,2,0
+tonester,jollie,0,2,0
+letsgo,aces,0,2,0
+tonester,letsgo,0,-2,-2
+oxycontin,k,1,-1,0
+darv,iamlazee,0,2,0
+big d squirrels,foxnard,0,0,-1
+zero,k,0,2,0
+dusttin,automatic,1,0,2
+handsometom,darv,0,2,0
+llcstoism,big d squirrels,0,0,-1
+zero,automatic,0,2,0
+handsometom,llcstoism,0,2,0
+zero,handsometom,0,-2,-2
+big d squirrels,oxycontin,0,0,-1
+dusttin,iamlazee,0,2,0
+k,foxnard,0,0,-1
+big d squirrels,darv,1,0,2
+dusttin,k,0,2,0
+automatic,darv,0,2,0
+llcstoism,dusttin,0,2,0
+automatic,llcstoism,0,-2,-2
+danny,showtime,1,-1,0
+duncs,spammalanche,0,2,0
+louieg,howdy,1,0,2
+silentknight,greenblob,1,1,2
+k y s k,showtime,0,2,0
+logic,duncs,0,2,1
+ctg,howdy,0,2,0
+bard,greenblob,0,2,0
+k y s k,logic,0,2,0
+ctg,bard,0,2,0
+k y s k,ctg,0,-2,-2
+greenblob,danny,0,2,0
+howdy,spammalanche,0,2,0
+duncs,louieg,0,2,0
+showtime,silentknight,1,0,2
+greenblob,howdy,0,2,0
+duncs,silentknight,0,2,1
+logic,greenblob,0,2,0
+bard,duncs,0,2,0
+logic,bard,0,-2,-2
+blues,hydra,1,0,2
+ringedge,austntatious,0,2,0
+big tone,noelkitten,1,-1,0
+strandead,hydra,0,2,0
+moonshoe,dr. grin,1,1,2
+kyle tree,ringedge,0,2,0
+bon,noelkitten,0,2,0
+strandead,dr. grin,0,2,0
+kyle tree,bon,0,2,0
+strandead,kyle tree,0,-2,-2
+noelkitten,blues,1,0,2
+moonshoe,austntatious,0,2,0
+hydra,big tone,0,2,0
+blues,ringedge,1,1,2
+moonshoe,hydra,1,1,2
+dr. grin,ringedge,0,2,0
+bon,hydra,1,0,2
+dr. grin,hydra,0,-2,-2
+magitech,mikelangelo,1,-1,0
+nfreak,beets,1,-1,0
+dance!!,phex,0,0,-1
+drewgong,inukem,1,1,2
+superboomfan,mikelangelo,0,2,0
+village mascot,beets,0,2,0
+darkhorse,dance!!,0,2,0
+d35,inukem,0,2,0
+superboomfan,village mascot,0,2,0
+darkhorse,d35,0,2,0
+superboomfan,darkhorse,0,-2,-2
+inukem,magitech,0,0,-1
+dance!!,nfreak,0,0,-1
+beets,phex,0,0,-1
+mikelangelo,drewgong,1,0,2
+inukem,dance!!,0,2,0
+beets,drewgong,1,0,2
+village mascot,inukem,1,0,2
+d35,drewgong,0,2,0
+inukem,d35,0,-2,-2
+fractal,maze,1,-1,0
+izze,luigikid,1,0,2
+fearlesscaboos,nadamoor,0,2,1
+aerodet,supernuggit,1,1,2
+barksanchez,maze,0,2,0
+smash jesus,luigikid,0,2,0
+dtan,fearlesscaboos,0,2,0
+blondekid,supernuggit,0,2,0
+barksanchez,smash jesus,0,2,1
+dtan,blondekid,0,2,0
+barksanchez,dtan,0,-2,-2
+supernuggit,fractal,0,0,-1
+fearlesscaboos,izze,1,0,2
+luigikid,nadamoor,0,2,0
+maze,aerodet,0,2,0
+supernuggit,izze,0,2,1
+luigikid,maze,1,0,2
+smash jesus,supernuggit,0,2,0
+blondekid,maze,0,2,0
+smash jesus,blondekid,0,-2,-2
+tipc,sunkin,0,2,0
+jesusisking,gibbles,1,0,2
+dixoncider,fish,0,0,-1
+wizzrobe,tipc,0,2,0
+pizza,quitrage,1,0,2
+joshi,gibbles,1,-1,0
+eggmode,dixoncider,0,2,1
+wizzrobe,quitrage,0,2,0
+gibbles,eggmode,1,0,2
+wizzrobe,eggmode,0,-2,-2
+dixoncider,sunkin,0,2,0
+pizza,jesusisking,0,2,0
+tipc,fish,0,2,0
+dixoncider,joshi,0,0,-1
+pizza,tipc,0,2,0
+quitrage,dixoncider,0,2,0
+gibbles,pizza,1,0,2
+quitrage,pizza,0,-2,-2
+sfat,the yid,1,0,2
+taiko,bottle opener guy,0,2,0
+tanuki,myroknpancakes,1,0,2
+reno,minusev,0,0,-1
+dext3r,the yid,0,2,0
+natty,taiko,1,0,2
+nacl,myroknpancakes,0,2,0
+jimmy joe,reno,0,2,0
+dext3r,taiko,0,2,0
+nacl,jimmy joe,0,2,0
+dext3r,nacl,0,-2,-2
+reno,sfat,0,0,-1
+myroknpancakes,bottle opener guy,1,0,2
+natty,tanuki,0,2,0
+the yid,minusev,0,2,0
+reno,bottle opener guy,1,0,2
+natty,the yid,0,2,1
+taiko,bottle opener guy,0,2,0
+jimmy joe,natty,0,2,0
+taiko,jimmy joe,0,-2,-2
+brown_omega253,b vu,0,0,-1
+ham,garv,0,2,0
+shug,jedisalazar,0,2,0
+grrg,dankestdad,0,2,0
+isai,brown_omega253,0,2,0
+hipstur,ham,1,-1,0
+butt solo,shug,0,2,0
+madrush21,grrg,0,2,0
+isai,ham,0,2,0
+butt solo,madrush21,0,2,0
+isai,butt solo,0,-2,-2
+grrg,b vu,0,2,0
+shug,garv,1,0,2
+hipstur,jedisalazar,1,-1,0
+brown_omega253,dankestdad,1,1,2
+grrg,garv,1,0,2
+jedisalazar,dankestdad,1,0,2
+ham,garv,0,2,0
+madrush21,dankestdad,0,2,0
+ham,madrush21,0,-2,-2
+t-beau,monkey,0,2,0
+broonz,jackkenney,0,2,0
+nathansandwich,static,0,2,0
+tarn,penance,1,-1,0
+taimai,t-beau,0,2,0
+smurf,broonz,0,2,0
+jaimehr,nathansandwich,0,2,0
+duff man,penance,0,2,0
+taimai,smurf,0,2,0
+jaimehr,duff man,0,2,0
+taimai,jaimehr,0,-2,-2
+penance,monkey,1,-1,0
+nathansandwich,jackkenney,0,2,0
+broonz,static,1,0,2
+t-beau,tarn,0,0,-1
+monkey,nathansandwich,0,2,0
+static,t-beau,0,2,0
+smurf,monkey,0,2,0
+duff man,static,0,2,0
+smurf,duff man,0,-2,-2
+gaggleforce,cody,1,0,2
+fmax,pizza jokes,1,1,2
+mortech,rockmix,0,2,0
+kerokeroppi,cody,0,2,0
+p21/c,batterybird,0,0,-1
+wookiee,pizza jokes,1,1,2
+the protagonist,mortech,0,2,0
+kerokeroppi,p21/c,0,2,0
+pizza jokes,the protagonist,1,1,2
+kerokeroppi,the protagonist,0,-2,-2
+mortech,gaggleforce,1,0,2
+batterybird,fmax,1,-1,0
+cody,rockmix,0,2,0
+gaggleforce,wookiee,1,0,2
+fmax,cody,1,0,2
+p21/c,wookiee,1,0,2
+pizza jokes,cody,0,2,0
+wookiee,pizza jokes,0,-2,-2
+mickeyrat,awesomethesauce,0,0,-1
+sd master,ejmp,0,0,-1
+eggmcmuffin888,dr-wumbo,0,2,0
+yu-kun,mickeyrat,0,0,-1
+paco,moustasher,0,2,0
+shears,sd master,0,0,-1
+freean,eggmcmuffin888,0,2,0
+yu-kun,paco,0,2,0
+shears,freean,0,2,0
+yu-kun,shears,0,-2,-2
+eggmcmuffin888,awesomethesauce,0,0,-1
+moustasher,ejmp,0,2,0
+mickeyrat,dr-wumbo,1,-1,0
+eggmcmuffin888,sd master,0,0,-1
+moustasher,dr-wumbo,0,2,0
+paco,eggmcmuffin888,0,2,0
+freean,moustasher,0,2,0
+paco,freean,0,-2,-2
+codytappen,hungrybox,1,0,2
+sonicfuzz,ken,1,1,2
+acestarthe3rd,iacme,1,-1,0
+dankpank,mr baninawi,0,2,0
+alvin,hungrybox,0,2,0
+capos,ken,1,0,2
+sotoh,iacme,0,2,0
+shihman,dankpank,0,2,0
+alvin,ken,0,2,0
+sotoh,shihman,0,2,1
+alvin,sotoh,0,-2,-2
+dankpank,codytappen,0,2,0
+iacme,sonicfuzz,1,0,2
+capos,acestarthe3rd,0,0,-1
+hungrybox,mr baninawi,1,0,2
+dankpank,sonicfuzz,0,2,1
+capos,mr baninawi,0,2,0
+ken,dankpank,1,-1,0
+shihman,capos,0,2,0
+dankpank,shihman,0,-2,-2
+dad's musical erasers,dr. light,0,0,-1
+kevorkian,nickelbackstreetboy,1,0,2
+redeagle2000,olbus,1,-1,0
+albinosaurus,engdrew,1,0,2
+shalaka,dad's musical erasers,1,-1,0
+rizner,nickelbackstreetboy,1,1,2
+kimimaru,olbus,0,2,0
+daniels,engdrew,0,2,0
+dad's musical erasers,nickelbackstreetboy,1,0,2
+kimimaru,daniels,0,2,0
+nickelbackstreetboy,kimimaru,0,-2,-2
+engdrew,dr. light,0,0,-1
+olbus,kevorkian,0,2,0
+rizner,redeagle2000,0,0,-1
+shalaka,albinosaurus,1,-1,0
+engdrew,olbus,1,0,2
+rizner,albinosaurus,0,2,0
+dad's musical erasers,olbus,1,0,2
+daniels,rizner,0,2,1
+olbus,daniels,0,-2,-2
+ditto,thissideup,0,2,0
+cagt,superflopp,0,2,0
+seantos,ceephax,0,2,0
+tr3gthez,ditto,0,2,0
+starchild,collin,1,-1,0
+nintendude,cagt,0,2,0
+onski,seantos,0,2,0
+tr3gthez,collin,0,2,0
+nintendude,onski,0,2,1
+tr3gthez,nintendude,0,-2,-2
+seantos,thissideup,0,0,-1
+starchild,superflopp,1,-1,0
+ditto,ceephax,0,2,0
+seantos,cagt,1,1,2
+superflopp,ditto,0,2,0
+collin,cagt,0,2,0
+onski,superflopp,0,2,0
+collin,onski,0,-2,-2
+my buddy mike,muse,0,2,0
+jame,fry,1,0,2
+kieuarty,neat,1,0,2
+tacos,my buddy mike,0,2,0
+subtle,spark,0,2,0
+cobr,fry,0,2,0
+captain l,neat,0,2,0
+tacos,subtle,0,2,0
+cobr,captain l,0,2,0
+tacos,cobr,0,-2,-2
+neat,muse,1,0,2
+spark,jame,0,2,0
+my buddy mike,kieuarty,0,2,0
+muse,fry,0,2,1
+spark,my buddy mike,0,2,0
+subtle,muse,0,2,0
+captain l,spark,0,2,0
+subtle,captain l,0,-2,-2
+mariguas,janitor,0,2,0
+zero,handsometom,1,0,2
+k y s k,ctg,0,2,0
+strandead,kyle tree,0,2,1
+superboomfan,darkhorse,0,2,0
+barksanchez,dtan,0,2,0
+wizzrobe,eggmode,0,2,0
+dext3r,nacl,0,2,0
+isai,butt solo,0,2,0
+taimai,jaimehr,0,2,0
+kerokeroppi,the protagonist,0,2,0
+yu-kun,shears,0,2,0
+alvin,sotoh,0,2,0
+nickelbackstreetboy,kimimaru,1,0,2
+tr3gthez,nintendude,0,2,0
+tacos,cobr,0,2,0
+mariguas,handsometom,0,2,0
+k y s k,strandead,0,2,0
+superboomfan,barksanchez,0,2,0
+wizzrobe,dext3r,0,2,1
+isai,taimai,1,0,2
+kerokeroppi,yu-kun,0,2,1
+alvin,kimimaru,0,2,0
+tr3gthez,tacos,1,1,2
+mariguas,k y s k,1,0,3
+superboomfan,wizzrobe,1,0,3
+taimai,kerokeroppi,1,0,3
+alvin,tacos,0,3,1
+k y s k,wizzrobe,0,3,0
+kerokeroppi,alvin,1,0,3
+k y s k,alvin,0,-2,-2
+tonester,madrush21,1,0,2
+automatic,duff man,0,2,1
+logic,pizza jokes,0,2,0
+dr. grin,freean,1,0,2
+inukem,shihman,1,0,2
+smash jesus,daniels,0,2,0
+quitrage,onski,1,1,2
+taiko,captain l,0,2,1
+ham,letsgo,1,0,2
+smurf,llcstoism,1,1,2
+wookiee,bard,0,2,0
+paco,hydra,0,2,1
+dankpank,d35,1,0,2
+olbus,blondekid,1,0,2
+collin,pizza,0,2,0
+subtle,jimmy joe,1,0,2
+cobr,madrush21,0,2,0
+nintendude,automatic,0,2,0
+nickelbackstreetboy,logic,1,0,2
+sotoh,freean,1,0,2
+shears,shihman,0,2,0
+the protagonist,smash jesus,0,2,1
+jaimehr,onski,0,2,0
+butt solo,taiko,0,2,0
+nacl,letsgo,0,2,1
+eggmode,llcstoism,0,2,0
+dtan,wookiee,0,2,0
+darkhorse,paco,0,2,0
+kyle tree,d35,0,2,0
+ctg,blondekid,0,2,0
+zero,collin,0,2,0
+janitor,jimmy joe,0,2,0
+cobr,nintendude,0,2,0
+logic,freean,1,1,2
+shears,the protagonist,0,2,1
+jaimehr,butt solo,0,2,0
+nacl,eggmode,0,2,0
+dtan,darkhorse,0,2,0
+kyle tree,ctg,0,2,0
+zero,janitor,0,2,0
+dext3r,cobr,0,2,0
+barksanchez,freean,0,2,0
+strandead,shears,0,2,0
+handsometom,jaimehr,1,0,2
+tr3gthez,nacl,0,2,0
+kimimaru,dtan,1,0,2
+yu-kun,kyle tree,0,2,0
+isai,zero,0,2,0
+dext3r,barksanchez,0,3,0
+strandead,jaimehr,1,2,3
+tr3gthez,dtan,0,3,1
+yu-kun,isai,0,3,1
+taimai,dext3r,1,2,3
+tacos,jaimehr,0,3,0
+mariguas,tr3gthez,0,3,2
+superboomfan,yu-kun,0,3,0
+dext3r,tacos,0,3,0
+mariguas,superboomfan,1,0,3
+wizzrobe,dext3r,0,-2,-2
+kerokeroppi,superboomfan,0,-2,-2
+k y s k,alvin,1,1,3
+alvin,superboomfan,0,3,2
+wizzrobe,dext3r,1,1,3
+kerokeroppi,superboomfan,1,0,3
+dext3r,superboomfan,1,0,3
+k y s k,superboomfan,1,0,3

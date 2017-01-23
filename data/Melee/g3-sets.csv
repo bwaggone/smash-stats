@@ -1,0 +1,13 @@
+P1,P2,set winner,P1Score,P2Score
+university of washington,uc irvine,1,2,5
+georgia tech,stony brook university,0,-2,-2
+university of arizona,uc irvine,1,4,5
+york university,georgia tech,1,-2,-2
+uc irvine,georgia tech,0,-2,-2
+team ken,team axe,0,-2,-2
+team westballz,team hbox,1,-2,-2
+team sfat,team hugs,0,-2,-2
+team scar,team pewpewu,1,-2,-2
+team ken,team hbox,1,-2,-2
+team sfat,team pewpewu,0,-2,-2
+team hbox,team sfat,0,-2,-2

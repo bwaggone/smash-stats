@@ -1,0 +1,218 @@
+P1,P2,set winner,P1Score,P2Score
+lyme,yeti,1,0,2
+hungrybox,yeti,0,2,0
+darkgenex,soup,0,0,-1
+prof,kirro,0,2,0
+dingo,brimiq,0,2,0
+hungrybox,darkgenex,0,2,0
+prof,dingo,0,2,0
+hungrybox,prof,0,2,0
+hungrybox,prof,0,-2,-2
+brimiq,lyme,1,0,2
+lyme,kirro,0,2,1
+soup,yeti,1,-1,0
+darkgenex,lyme,1,1,2
+dingo,yeti,1,1,2
+lyme,yeti,1,0,2
+prof,yeti,0,2,0
+mew2king,picofarad,0,2,0
+mew2king,noghrilla,0,2,0
+mew2king,lad,0,-2,-2
+mew2king,krazie,0,2,0
+picofarad,therm,0,2,0
+picofarad,whatarethose,0,-2,-2
+picofarad,lad,1,0,2
+noghrilla,lad,0,2,1
+noghrilla,lad,1,0,2
+noghrilla,mrblazinasian,0,2,0
+therm,krazie,0,2,0
+whatarethose,mrblazinasian,0,2,0
+laine,whatarethose,1,-2,-2
+lad,therm,0,2,0
+lad,laine,0,2,0
+krazie,whatarethose,0,2,0
+ashortbuspileup,brophet,0,2,1
+sfat,ashortbuspileup,0,2,0
+rza,golly,1,0,2
+smashbob squarepants,n337,0,2,0
+aly,robocop,0,2,0
+sfat,golly,0,2,0
+smashbob squarepants,aly,0,2,0
+sfat,smashbob squarepants,0,2,1
+sfat,smashbob squarepants,0,-2,-2
+robocop,brophet,1,0,2
+brophet,n337,0,2,0
+rza,ashortbuspileup,1,0,2
+golly,brophet,0,2,1
+aly,ashortbuspileup,0,2,0
+golly,aly,1,0,2
+smashbob squarepants,aly,0,2,0
+tipman,tru,0,-2,-2
+wizzrobe,tipman,0,-2,-2
+wevans,ringzzy,0,2,1
+derdian,mediocre,0,2,1
+ragnarock,en,0,2,0
+wizzrobe,wevans,0,-2,-2
+derdian,ragnarock,0,-2,-2
+wizzrobe,derdian,0,-2,-2
+wizzrobe,derdian,0,-2,-2
+en,tru,0,-2,-2
+en,mediocre,1,-2,-2
+ringzzy,tipman,0,-2,-2
+wevans,mediocre,1,-2,-2
+ragnarock,ringzzy,0,-2,-2
+mediocre,ragnarock,1,-2,-2
+derdian,ragnarock,0,-2,-2
+pascetti,hitomi j puff,0,2,1
+the moon,pascetti,0,2,0
+baj,bebopbeepboop,0,0,-1
+ridz,house rat,0,0,-1
+mr good luck,stereotypicalmexican,0,2,1
+the moon,baj,0,2,0
+ridz,mr good luck,1,1,2
+the moon,mr good luck,0,2,0
+the moon,mr good luck,0,-2,-2
+stereotypicalmexican,hitomi j puff,0,2,0
+stereotypicalmexican,house rat,0,0,-1
+bebopbeepboop,pascetti,1,-1,0
+baj,stereotypicalmexican,1,0,2
+ridz,pascetti,0,2,0
+stereotypicalmexican,ridz,1,0,2
+mr good luck,ridz,0,2,0
+rest,bricktop,1,-1,0
+professor pro,bricktop,0,2,0
+independent,keenan,1,-1,0
+fabio,paradoxchris,0,2,1
+wreck,shieldz,0,0,-1
+professor pro,keenan,0,2,0
+fabio,wreck,1,0,2
+professor pro,wreck,0,2,0
+professor pro,keenan,0,-2,-2
+shieldz,rest,0,0,-1
+shieldz,paradoxchris,1,-1,0
+independent,bricktop,1,-1,0
+keenan,paradoxchris,0,0,-1
+fabio,bricktop,0,2,0
+keenan,fabio,0,2,0
+wreck,keenan,1,0,2
+afmbot,spookmaster,1,-1,0
+colbol,spookmaster,0,2,0
+repsguy,good handwriting,0,2,0
+barraca,arbeder128,0,2,0
+c15,purplecube,0,2,0
+colbol,repsguy,0,2,0
+barraca,c15,0,2,1
+colbol,barraca,0,2,0
+colbol,barraca,0,-2,-2
+purplecube,afmbot,0,0,-1
+purplecube,arbeder128,1,0,2
+good handwriting,spookmaster,1,-1,0
+repsguy,arbeder128,1,1,2
+c15,spookmaster,0,2,0
+arbeder128,c15,0,2,1
+barraca,arbeder128,0,2,0
+syrox,sunshinestatefishing,0,2,0
+nasty$lckback,big t,1,1,2
+envy,scazern,0,2,0
+biggpappa,a.i.,0,2,0
+syrox,big t,0,2,0
+envy,biggpappa,0,2,0
+syrox,envy,0,2,1
+syrox,envy,0,-2,-2
+sunshinestatefishing,nasty$lckback,0,2,1
+scazern,a.i.,1,0,2
+biggpappa,sunshinestatefishing,0,2,0
+big t,a.i.,0,2,0
+biggpappa,big t,0,2,0
+envy,biggpappa,0,2,1
+gahtzu,the gerogerigegege,0,2,0
+sworddancer,phoenix2448,0,2,0
+oaty,prophet,0,2,0
+relno,sizzler,0,2,0
+gahtzu,sworddancer,0,2,0
+oaty,relno,0,2,0
+gahtzu,oaty,0,2,0
+gahtzu,oaty,0,-2,-2
+the gerogerigegege,phoenix2448,0,2,0
+prophet,sizzler,1,0,2
+relno,the gerogerigegege,0,2,0
+sworddancer,sizzler,1,0,2
+relno,sizzler,0,2,0
+oaty,relno,0,2,0
+drunksloth,supercres,0,2,0
+glitched,shaggy,0,2,0
+sinbad,pisces,0,2,0
+animal control,butler,0,2,0
+drunksloth,glitched,0,2,0
+sinbad,animal control,0,2,0
+drunksloth,sinbad,0,2,0
+drunksloth,sinbad,0,-2,-2
+supercres,shaggy,1,-1,0
+pisces,butler,0,2,0
+animal control,shaggy,0,-2,-2
+glitched,pisces,0,2,0
+animal control,glitched,1,1,2
+sinbad,glitched,0,2,0
+porkchops,lush,0,0,-1
+sr-cue,stackdolla$,0,2,0
+a rookie,snailure,0,2,0
+krudo,kai,0,2,0
+porkchops,sr-cue,1,1,2
+a rookie,krudo,0,2,0
+sr-cue,a rookie,1,0,2
+a rookie,porkchops,0,-2,-2
+lush,stackdolla$,1,-1,0
+snailure,kai,1,0,2
+krudo,stackdolla$,0,2,0
+porkchops,kai,0,2,0
+krudo,porkchops,1,1,2
+sr-cue,porkchops,1,-2,-2
+kpan,pidove,0,2,0
+sam:),the_g3nt,0,-2,-2
+mrlz,bolder,0,2,0
+hoogie,fieryvale47,0,2,0
+kpan,sam:),0,2,0
+mrlz,hoogie,0,2,0
+kpan,mrlz,1,-2,-2
+mrlz,kpan,0,-2,-2
+pidove,the_g3nt,1,-2,-2
+bolder,fieryvale47,1,0,2
+hoogie,the_g3nt,0,-2,-2
+sam:),fieryvale47,0,-2,-2
+hoogie,sam:),1,-2,-2
+kpan,sam:),0,-2,-2
+syrox,gahtzu,1,0,2
+the moon,mrlz,0,2,1
+colbol,drunksloth,0,2,0
+professor pro,a rookie,0,2,0
+hungrybox,gahtzu,0,2,0
+wizzrobe,the moon,0,2,0
+mew2king,colbol,0,2,0
+sfat,professor pro,0,2,1
+hungrybox,wizzrobe,1,0,3
+mew2king,sfat,1,1,3
+wizzrobe,sfat,0,3,0
+wizzrobe,mew2king,1,2,3
+mew2king,wizzrobe,0,3,1
+envy,oaty,1,0,2
+mr good luck,kpan,1,0,2
+barraca,sinbad,1,1,2
+keenan,porkchops,1,0,2
+drunksloth,oaty,1,0,2
+a rookie,kpan,1,1,2
+syrox,sinbad,0,2,0
+mrlz,porkchops,0,2,0
+prof,oaty,1,0,2
+derdian,kpan,1,0,2
+lad,syrox,1,0,2
+smashbob squarepants,mrlz,1,0,2
+gahtzu,oaty,0,2,0
+the moon,kpan,0,2,0
+colbol,syrox,1,1,2
+professor pro,mrlz,0,2,1
+gahtzu,the moon,1,1,2
+syrox,professor pro,0,2,1
+mew2king,the moon,0,3,0
+hungrybox,syrox,0,3,1
+mew2king,hungrybox,0,3,0
+sfat,mew2king,1,2,3

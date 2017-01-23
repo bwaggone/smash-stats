@@ -1,0 +1,21 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+red squirrel,mr. satan,papi,same,0,2,0
+jazz,insomniac,sonofashepherd,tehhah,1,0,2
+swanson,ohffy,avium,vaar,1,0,2
+the moon,dj nintendo,red squirrel,mr. satan,0,2,0
+corona17,earthboundy,iamseven,telemonic,1,0,2
+gunblade,risen,sonofashepherd,tehhah,0,2,0
+counter,failsafe,avium,vaar,0,2,1
+the moon,dj nintendo,iamseven,telemonic,0,2,0
+gunblade,risen,counter,failsafe,0,2,1
+the moon,dj nintendo,gunblade,risen,0,3,0
+the moon,dj nintendo,gunblade,risen,0,3,0
+avium,vaar,papi,same,0,2,0
+corona17,earthboundy,jazz,insomniac,0,2,0
+red squirrel,mr. satan,swanson,ohffy,0,2,0
+avium,vaar,sonofashepherd,tehhah,1,0,2
+corona17,earthboundy,red squirrel,mr. satan,0,2,0
+iamseven,telemonic,sonofashepherd,tehhah,1,1,2
+counter,failsafe,corona17,earthboundy,0,2,0
+sonofashepherd,tehhah,counter,failsafe,1,1,2
+gunblade,risen,counter,failsafe,0,3,0

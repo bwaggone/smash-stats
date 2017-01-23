@@ -1,0 +1,1065 @@
+P1,P2,set winner,P1Score,P2Score
+armada,mombacat,0,2,0
+shy,tastygoldfish,1,1,2
+lotus,reker,0,2,0
+mittens,pk_fired,0,2,1
+monib,jesus,0,2,0
+kampy,jewellery,1,0,2
+hayd,langkow,1,0,2
+whoopiecow,chubell,0,2,0
+armada,tastygoldfish,0,2,0
+lotus,mittens,1,0,2
+monib,jewellery,0,2,0
+langkow,whoopiecow,0,2,0
+armada,mittens,0,2,0
+monib,langkow,0,2,0
+armada,monib,0,2,0
+mombacat,shy,1,0,2
+reker,pk_fired,1,0,2
+jesus,kampy,0,2,0
+hayd,chubell,0,2,0
+whoopiecow,shy,0,2,0
+jewellery,pk_fired,1,0,2
+lotus,jesus,1,0,2
+tastygoldfish,hayd,0,2,1
+whoopiecow,pk_fired,1,0,2
+jesus,tastygoldfish,0,2,0
+mittens,pk_fired,1,-1,0
+langkow,jesus,1,0,2
+pk_fired,jesus,0,2,1
+monib,pk_fired,0,-2,-2
+kabbage$$,coro,0,2,0
+nintnt,doggyness,0,2,0
+ecto,katahri,0,2,0
+moky,redmist,0,2,0
+drumrollpls,lacroix,1,0,2
+cyan,bcrypt,0,0,-1
+brizzy,akbiggs,1,-1,0
+n0ne,kabbage$$,0,2,0
+nintnt,ecto,0,2,1
+moky,lacroix,0,2,0
+cyan,akbiggs,0,2,0
+n0ne,nintnt,0,2,0
+moky,cyan,0,2,0
+n0ne,moky,0,2,1
+doggyness,katahri,1,0,2
+redmist,drumrollpls,1,0,2
+bcrypt,brizzy,0,0,-1
+akbiggs,coro,0,2,0
+lacroix,katahri,0,2,0
+ecto,drumrollpls,0,2,0
+kabbage$$,bcrypt,0,0,-1
+akbiggs,lacroix,1,0,2
+ecto,kabbage$$,0,2,0
+nintnt,lacroix,1,0,2
+cyan,ecto,1,1,2
+lacroix,ecto,0,2,0
+moky,lacroix,0,-2,-2
+mang0,colony,0,2,0
+interfere,bozomozo,0,2,0
+sqiddwr,alpha-infinity,0,2,0
+symes,gobi,0,2,0
+jam,toby,0,0,-1
+stylz,grassmanmatt,0,0,-1
+hex,mohummus,0,2,0
+rumble,brandingo,1,1,2
+mang0,interfere,0,2,0
+sqiddwr,symes,0,2,0
+jam,stylz,0,2,0
+hex,brandingo,0,2,0
+mang0,sqiddwr,0,2,0
+jam,hex,0,2,0
+mang0,jam,0,2,0
+colony,bozomozo,0,2,0
+alpha-infinity,gobi,1,0,2
+toby,grassmanmatt,0,0,-1
+mohummus,rumble,1,0,2
+brandingo,colony,0,2,0
+stylz,gobi,1,0,2
+symes,toby,0,0,-1
+interfere,rumble,1,0,2
+brandingo,gobi,0,2,0
+symes,rumble,1,1,2
+sqiddwr,brandingo,0,2,0
+hex,rumble,0,2,0
+sqiddwr,hex,0,2,0
+jam,sqiddwr,0,-2,-2
+leffen,kupo,0,2,0
+toodee,burnyay,0,2,0
+lxix,theycallmechris,0,2,0
+mugifi,whatislove,0,0,-1
+k,tomce,0,2,0
+neth,sink-swim,0,2,0
+yardsale,shakey,0,2,0
+linksta,mushroomcap,0,2,0
+leffen,toodee,0,2,0
+lxix,mugifi,0,2,0
+k,neth,0,2,0
+yardsale,linksta,0,2,0
+leffen,lxix,0,2,0
+k,yardsale,1,0,2
+leffen,yardsale,0,2,0
+kupo,burnyay,0,2,0
+theycallmechris,whatislove,0,0,-1
+tomce,sink-swim,0,2,1
+shakey,mushroomcap,1,0,2
+linksta,kupo,0,2,1
+neth,theycallmechris,0,2,0
+mugifi,tomce,0,2,0
+toodee,mushroomcap,0,2,0
+linksta,neth,0,2,0
+mugifi,toodee,1,0,2
+lxix,linksta,0,2,1
+k,toodee,0,2,0
+lxix,k,1,0,2
+yardsale,k,0,-2,-2
+mew2king,vell,0,2,0
+rudo,joebigs,0,2,0
+sawrik,longdog,0,2,0
+wakka,hero,1,0,2
+garbage prince,dethslayr,0,2,0
+halaa,umi,1,0,2
+pikapika!,spaceghost,0,2,1
+check,pure_bazurek,0,2,1
+mew2king,rudo,0,2,0
+sawrik,hero,0,2,1
+garbage prince,umi,0,2,0
+pikapika!,check,0,2,0
+mew2king,sawrik,0,2,0
+garbage prince,pikapika!,1,0,2
+mew2king,pikapika!,0,2,0
+vell,joebigs,1,0,2
+longdog,wakka,1,0,2
+dethslayr,halaa,1,0,2
+spaceghost,pure_bazurek,0,2,0
+check,joebigs,1,0,2
+umi,wakka,1,0,2
+hero,halaa,0,2,0
+rudo,spaceghost,0,2,1
+joebigs,wakka,1,0,2
+hero,rudo,1,0,2
+sawrik,wakka,0,2,0
+garbage prince,rudo,0,2,1
+sawrik,garbage prince,0,2,0
+pikapika!,sawrik,0,-2,-2
+nintendude,paul the beast,0,2,0
+insomnia,marko,0,2,0
+maher,judzuu,0,2,0
+mootumog,amilk,1,-1,0
+jamrun,roi,0,2,0
+morale,tobi,0,0,-1
+summonedfist,spoopy,0,2,0
+radar,tvfish15,0,2,0
+nintendude,insomnia,0,2,0
+maher,amilk,1,0,2
+jamrun,morale,0,2,0
+summonedfist,radar,0,2,0
+nintendude,amilk,0,2,0
+jamrun,summonedfist,0,2,0
+nintendude,jamrun,0,2,0
+paul the beast,marko,0,2,1
+judzuu,mootumog,0,2,0
+roi,tobi,0,2,0
+spoopy,tvfish15,1,1,2
+radar,paul the beast,0,2,0
+morale,judzuu,0,2,0
+maher,roi,0,2,0
+insomnia,tvfish15,0,2,0
+radar,morale,0,2,0
+maher,insomnia,1,0,2
+amilk,radar,1,0,2
+summonedfist,insomnia,0,2,0
+radar,summonedfist,1,0,2
+jamrun,summonedfist,0,-2,-2
+shroomed,radicalfox,0,2,0
+the salty smasher,term,0,2,0
+syphichan,marlwolfe,1,1,2
+luka,soft serve,0,2,1
+emento,dunk,1,0,2
+kidney thief,reah,0,2,0
+nuisance,docukid,1,-1,0
+savage,doublepappa,0,2,0
+shroomed,the salty smasher,0,2,0
+marlwolfe,luka,1,1,2
+dunk,kidney thief,0,2,1
+docukid,savage,1,0,2
+shroomed,luka,0,2,0
+dunk,savage,0,2,0
+shroomed,dunk,0,2,0
+radicalfox,term,0,2,0
+syphichan,soft serve,0,2,0
+emento,reah,0,2,0
+nuisance,doublepappa,1,-1,0
+docukid,radicalfox,1,0,2
+kidney thief,syphichan,1,1,2
+marlwolfe,emento,0,2,0
+the salty smasher,doublepappa,0,2,0
+radicalfox,syphichan,1,1,2
+marlwolfe,the salty smasher,0,2,0
+luka,syphichan,0,2,0
+savage,marlwolfe,0,2,1
+luka,savage,1,1,2
+dunk,savage,0,-2,-2
+lucky,havana club,0,2,0
+lamb,mado,1,0,2
+hvac,snow,0,0,-1
+grapefruit,metaknight0,1,0,2
+liquid,pocket,0,2,0
+caelan,shasha,0,2,0
+plat,kidracula,0,2,0
+jaw,muse,0,2,0
+lucky,mado,0,2,0
+hvac,metaknight0,1,0,2
+liquid,caelan,0,2,1
+plat,jaw,0,2,0
+lucky,metaknight0,0,2,0
+liquid,plat,0,2,1
+lucky,liquid,0,2,0
+havana club,lamb,1,0,2
+snow,grapefruit,1,-1,0
+pocket,shasha,0,2,0
+kidracula,muse,0,2,0
+jaw,lamb,1,1,2
+caelan,grapefruit,1,0,2
+hvac,pocket,0,2,0
+mado,kidracula,0,2,0
+lamb,grapefruit,1,1,2
+hvac,mado,1,0,2
+metaknight0,grapefruit,0,2,0
+plat,mado,0,2,0
+metaknight0,plat,1,0,2
+liquid,plat,0,-2,-2
+sfat,spikeymike,0,2,0
+mommy,kong,1,0,2
+mprime,tkthoughts,0,0,-1
+empire,sirreginald,0,2,1
+emanon,chrono,0,2,0
+mambo,bqx,0,0,-1
+n0z1ck,flerr,0,2,0
+gamma,pure,0,2,1
+sfat,kong,0,2,0
+mprime,empire,0,2,1
+emanon,mambo,0,2,0
+n0z1ck,gamma,0,2,0
+sfat,mprime,0,2,0
+emanon,n0z1ck,0,2,1
+sfat,emanon,0,2,1
+spikeymike,mommy,0,2,0
+tkthoughts,sirreginald,1,-1,0
+chrono,bqx,0,0,-1
+flerr,pure,0,2,0
+gamma,spikeymike,1,0,2
+mambo,sirreginald,1,0,2
+empire,chrono,0,2,1
+kong,flerr,1,0,2
+spikeymike,sirreginald,1,0,2
+empire,flerr,1,1,2
+mprime,sirreginald,0,2,1
+n0z1ck,flerr,0,2,1
+mprime,n0z1ck,1,1,2
+emanon,n0z1ck,0,-2,-2
+pewpewu,hobbes,0,2,0
+gamarad,memes,1,1,2
+lil brown,roller,0,0,-1
+shchoo,djnour,0,2,0
+poop,aedrenaline,0,2,0
+ce,acsl,1,0,2
+rabbit,perhapsman,0,2,0
+bstubs,jon,1,0,2
+pewpewu,memes,0,2,0
+lil brown,shchoo,0,2,0
+poop,acsl,0,2,0
+rabbit,jon,0,2,0
+pewpewu,lil brown,0,2,0
+poop,rabbit,0,2,0
+pewpewu,poop,0,2,0
+hobbes,gamarad,0,2,0
+roller,djnour,1,-1,0
+aedrenaline,ce,0,2,0
+perhapsman,bstubs,0,2,0
+jon,hobbes,0,2,0
+acsl,djnour,0,2,0
+shchoo,aedrenaline,0,2,0
+memes,perhapsman,1,0,2
+jon,acsl,0,2,0
+shchoo,perhapsman,1,1,2
+lil brown,jon,1,0,2
+rabbit,perhapsman,0,2,0
+jon,rabbit,1,0,2
+poop,rabbit,0,-2,-2
+keon,acholight,0,2,1
+rf!,root,1,0,2
+thurmiz,schmav,1,0,2
+greener,schmav,0,2,0
+greener,imyt,1,1,2
+greener,capitainemitaine,0,2,0
+greener,low expectations,0,2,0
+coastward,seb,0,2,0
+coastward,byod,0,2,0
+coastward,imyt,0,-2,-2
+root,capitainemitaine,1,1,2
+macd,keon,0,2,0
+macd,thurmiz,0,2,0
+macd,greener,0,2,0
+macd,coastward,0,2,0
+seb,schmav,1,0,2
+schmav,keon,1,0,2
+schmav,capitainemitaine,0,2,0
+byod,acholight,1,0,2
+imyt,keon,0,2,0
+imyt,coastward,1,1,2
+imyt,root,0,2,0
+imyt,ccoftw,0,2,0
+capitainemitaine,gnat,0,2,1
+ccoftw,rf!,0,2,0
+acholight,seb,1,0,2
+low expectations,gnat,0,2,0
+low expectations,keon,1,0,2
+low expectations,ccoftw,0,2,0
+druggedfox,verthm,0,2,0
+wisifox,therapture_,0,2,0
+m3k,enjoy,0,2,0
+mcdonl,bartok,0,0,-1
+kyle,thoobs,0,2,0
+ubll black mage,broc,1,-1,0
+infernojesus,mossman,0,2,1
+arcana,pokno,1,0,2
+druggedfox,wisifox,0,2,0
+m3k,mcdonl,0,2,0
+kyle,broc,0,2,0
+infernojesus,pokno,0,2,0
+druggedfox,m3k,0,2,0
+kyle,infernojesus,0,2,0
+druggedfox,kyle,0,2,0
+verthm,therapture_,0,2,0
+enjoy,bartok,0,0,-1
+thoobs,ubll black mage,0,0,-1
+mossman,arcana,0,2,0
+pokno,verthm,0,2,0
+broc,enjoy,0,2,0
+mcdonl,thoobs,1,0,2
+wisifox,mossman,1,0,2
+pokno,broc,0,2,0
+thoobs,mossman,0,2,0
+m3k,pokno,0,2,0
+infernojesus,thoobs,0,2,0
+m3k,infernojesus,1,0,2
+kyle,infernojesus,0,-2,-2
+ice,gouf,0,0,-1
+l2p,noire,0,2,0
+sasha,eastea,0,2,0
+yansnow,qk shkz,0,2,0
+saus,reubthedoob,0,2,0
+keagsbsmashin,shanook,0,2,0
+ot eric,magicwan,0,2,0
+nate$,ryanlightman,1,0,2
+ice,l2p,0,2,0
+sasha,yansnow,0,2,0
+saus,keagsbsmashin,0,2,0
+ot eric,ryanlightman,0,2,0
+ice,sasha,0,2,0
+saus,ot eric,0,2,0
+ice,saus,0,2,0
+gouf,noire,1,-1,0
+eastea,qk shkz,0,2,0
+reubthedoob,shanook,0,2,0
+magicwan,nate$,0,2,1
+ryanlightman,noire,0,2,0
+keagsbsmashin,eastea,1,1,2
+yansnow,reubthedoob,1,0,2
+l2p,magicwan,0,2,0
+ryanlightman,eastea,1,0,2
+reubthedoob,l2p,1,0,2
+sasha,eastea,0,2,0
+ot eric,l2p,1,0,2
+sasha,l2p,0,2,1
+saus,sasha,0,-2,-2
+duck,commish,0,2,0
+ego,attacking zack,0,2,0
+seeray,snivy102,0,2,1
+thunder mlee,sn3aky,1,-1,0
+windrose,ir,0,2,0
+_dj_mana_,aully,1,0,2
+cmac,melpyx,0,2,1
+maltrez,deepfriedtickles,1,0,2
+duck,ego,0,2,0
+seeray,sn3aky,0,2,0
+windrose,aully,0,2,0
+cmac,deepfriedtickles,0,2,0
+duck,seeray,0,2,0
+windrose,cmac,0,2,0
+duck,windrose,0,2,0
+commish,attacking zack,1,1,2
+snivy102,thunder mlee,0,2,0
+ir,_dj_mana_,0,2,0
+melpyx,maltrez,0,2,0
+deepfriedtickles,attacking zack,0,2,0
+aully,snivy102,1,0,2
+sn3aky,ir,0,2,1
+ego,melpyx,0,2,1
+deepfriedtickles,snivy102,1,0,2
+sn3aky,ego,1,0,2
+seeray,snivy102,0,2,0
+cmac,ego,0,2,0
+seeray,cmac,0,-2,-2
+windrose,seeray,0,-2,-2
+hugs,fyore,0,2,0
+dayman,ilikeswamperts,0,2,0
+rileyreads,life,0,2,1
+starcutter,prohybrid,1,0,2
+juggleguy,bolvelt,0,2,0
+toez,luna,0,2,0
+european greazemans,ready set goats!,0,2,0
+aqux,summer was fun,0,0,-1
+hugs,dayman,0,2,0
+rileyreads,prohybrid,0,2,0
+juggleguy,toez,0,2,0
+european greazemans,aqux,1,0,2
+hugs,rileyreads,0,2,0
+juggleguy,aqux,0,2,1
+hugs,juggleguy,0,2,0
+fyore,ilikeswamperts,0,0,-1
+life,starcutter,1,1,2
+bolvelt,luna,0,2,0
+ready set goats!,summer was fun,0,0,-1
+european greazemans,fyore,0,2,0
+toez,starcutter,0,2,1
+prohybrid,bolvelt,1,0,2
+dayman,ready set goats!,0,2,0
+european greazemans,toez,0,2,0
+bolvelt,dayman,0,2,1
+rileyreads,european greazemans,1,0,2
+aqux,bolvelt,1,0,2
+european greazemans,bolvelt,0,2,0
+juggleguy,european greazemans,0,-2,-2
+westballz,reggie,0,0,-1
+iridium,samyboy03,1,0,2
+firefly,rbag,1,-1,0
+zukon,letsduet,1,-1,0
+cmg,samson,0,2,0
+13uck5h0t,risu,0,0,-1
+guero,pickl,0,2,0
+aguos,sircitrus,0,2,0
+westballz,samyboy03,0,2,0
+rbag,letsduet,0,2,0
+cmg,13uck5h0t,0,2,0
+guero,aguos,0,2,0
+westballz,rbag,0,2,0
+cmg,guero,0,2,0
+westballz,cmg,0,2,0
+reggie,iridium,1,-1,0
+firefly,zukon,1,-1,0
+samson,risu,0,0,-1
+pickl,sircitrus,0,2,0
+aguos,iridium,0,2,0
+13uck5h0t,zukon,0,0,-1
+letsduet,samson,0,2,1
+samyboy03,pickl,0,2,0
+aguos,13uck5h0t,0,2,0
+letsduet,samyboy03,0,2,0
+rbag,aguos,1,0,2
+guero,letsduet,0,2,0
+aguos,guero,1,0,2
+cmg,guero,0,-2,-2
+mike haze,porkwings,0,0,-1
+jim,whitekneegrow,1,0,2
+kim yung un,dr.shots,1,0,2
+strega,kuebiko,0,2,0
+zorc,kamikazefuneral,0,2,0
+njwc,ouro,1,0,2
+villain,tokaji,0,2,0
+bratic,sempaikush,1,0,2
+mike haze,whitekneegrow,0,2,0
+dr.shots,strega,0,2,0
+zorc,ouro,0,2,0
+villain,sempaikush,0,2,0
+mike haze,dr.shots,0,2,0
+zorc,villain,0,2,0
+mike haze,zorc,0,2,0
+porkwings,jim,1,-1,0
+kim yung un,kuebiko,0,2,0
+kamikazefuneral,njwc,0,2,0
+tokaji,bratic,1,0,2
+sempaikush,jim,0,2,0
+ouro,kim yung un,1,0,2
+strega,kamikazefuneral,0,2,0
+whitekneegrow,bratic,0,2,1
+sempaikush,kim yung un,1,0,2
+strega,whitekneegrow,0,2,0
+dr.shots,kim yung un,1,1,2
+villain,strega,0,2,0
+kim yung un,villain,0,2,0
+zorc,kim yung un,0,-2,-2
+wizzrobe,kido,0,2,0
+northballz,truth,0,2,0
+ap renekton,cap,0,2,0
+hotboi,prismoid,0,2,0
+damian tyson,trickster,0,2,1
+silo,veranibbles,1,0,2
+lahti,kappa,0,2,0
+kwik,milk,0,2,1
+wizzrobe,northballz,0,2,0
+ap renekton,hotboi,0,2,0
+damian tyson,veranibbles,0,2,0
+lahti,kwik,0,2,1
+wizzrobe,ap renekton,0,2,0
+damian tyson,lahti,0,2,0
+wizzrobe,damian tyson,0,2,0
+kido,truth,1,0,2
+cap,prismoid,0,2,0
+trickster,silo,0,2,1
+kappa,milk,1,0,2
+kwik,truth,0,2,0
+veranibbles,cap,0,2,1
+hotboi,trickster,0,2,0
+northballz,milk,1,0,2
+kwik,veranibbles,0,2,0
+hotboi,milk,1,0,2
+ap renekton,kwik,0,2,0
+lahti,milk,0,2,0
+ap renekton,lahti,1,-1,0
+damian tyson,lahti,0,-2,-2
+swedish delight,joey,0,2,0
+restez,disdeyn,0,2,0
+joatguy,musichael,0,2,0
+dlos,koala,0,0,-1
+ib,andu,0,2,0
+ziren,tyuip,0,2,0
+xtal,tristan taylor,0,2,0
+raisin bran,vorde,0,2,0
+swedish delight,restez,0,2,0
+joatguy,dlos,0,2,0
+ib,ziren,0,2,0
+xtal,raisin bran,0,2,0
+swedish delight,joatguy,0,2,0
+ib,xtal,0,2,0
+swedish delight,ib,0,2,0
+joey,disdeyn,0,2,0
+musichael,koala,0,0,-1
+andu,tyuip,0,2,0
+tristan taylor,vorde,1,0,2
+raisin bran,joey,0,2,0
+ziren,musichael,0,2,0
+dlos,andu,1,0,2
+restez,vorde,0,2,0
+raisin bran,ziren,1,1,2
+andu,restez,1,0,2
+joatguy,ziren,1,1,2
+xtal,restez,0,2,1
+ziren,xtal,0,2,0
+ib,ziren,0,-2,-2
+the moon,brandermeer,0,2,0
+rossmpossm,ross,1,0,2
+slush,sjipz0r,0,2,0
+sheepnado,guccipivotmaster4000,0,2,1
+sedimentary rock,thursday boots,0,2,0
+di guy,gemigumi,0,2,0
+anjo,burke092,0,2,0
+snice,danson,0,2,0
+the moon,ross,0,2,0
+slush,sheepnado,0,2,0
+sedimentary rock,di guy,0,2,0
+anjo,snice,0,2,0
+the moon,slush,0,2,0
+sedimentary rock,anjo,1,1,2
+the moon,anjo,0,2,0
+brandermeer,rossmpossm,0,2,0
+sjipz0r,guccipivotmaster4000,1,0,2
+thursday boots,gemigumi,1,0,2
+burke092,danson,1,0,2
+snice,brandermeer,1,1,2
+di guy,guccipivotmaster4000,0,2,0
+sheepnado,gemigumi,0,2,0
+ross,danson,0,2,0
+brandermeer,di guy,1,1,2
+sheepnado,ross,1,0,2
+slush,di guy,0,2,1
+sedimentary rock,ross,0,2,0
+slush,sedimentary rock,1,0,2
+anjo,sedimentary rock,0,-2,-2
+professor pro,thesuslur14,0,2,0
+eon,radical raymondd,0,2,0
+marko64,$lik,0,2,0
+mrl3gume,tuna,1,1,2
+star,weez,0,2,0
+sunshine,joel,1,0,2
+rappsody,rewind,0,2,0
+shrub,near,0,2,1
+professor pro,eon,0,2,0
+marko64,tuna,0,2,0
+star,joel,0,2,0
+rappsody,shrub,0,2,0
+professor pro,marko64,0,2,0
+star,rappsody,0,2,0
+professor pro,star,0,2,0
+thesuslur14,radical raymondd,0,2,0
+$lik,mrl3gume,1,0,2
+weez,sunshine,0,2,0
+rewind,near,1,0,2
+shrub,thesuslur14,1,0,2
+joel,mrl3gume,0,2,0
+tuna,weez,1,0,2
+eon,near,0,2,0
+thesuslur14,joel,1,0,2
+weez,eon,1,0,2
+marko64,joel,0,2,1
+rappsody,eon,1,1,2
+marko64,eon,0,2,1
+star,marko64,0,-2,-2
+smuv,igneous rock,1,1,2
+krispysmooth,koebeldwill,0,2,0
+scooch,weeb,0,0,-1
+tranimal,hatcrab,0,2,0
+dio,trevor,1,1,2
+looke,vampire,0,2,0
+cheung,javqa,0,2,0
+hungrybox,igneous rock,0,2,0
+krispysmooth,scooch,0,2,0
+tranimal,trevor,0,2,0
+looke,cheung,0,2,0
+hungrybox,krispysmooth,0,2,0
+tranimal,looke,0,2,0
+hungrybox,tranimal,0,2,0
+koebeldwill,weeb,0,2,0
+hatcrab,dio,0,2,0
+vampire,javqa,1,0,2
+cheung,smuv,1,0,2
+trevor,koebeldwill,0,2,0
+scooch,hatcrab,1,0,2
+igneous rock,javqa,0,2,0
+smuv,trevor,0,2,0
+hatcrab,igneous rock,1,0,2
+krispysmooth,smuv,1,1,2
+looke,igneous rock,0,2,1
+smuv,looke,1,1,2
+tranimal,looke,0,-2,-2
+ryan ford,mox,0,2,0
+north dr,keo,1,0,2
+kao,alliecat,1,0,2
+chirka,patrick,1,0,2
+brtarolg,boomyx,0,0,-1
+dog wearing sunglasses,durandal,0,2,0
+shady,sackofwine,0,2,0
+kenzz,cardoso,1,1,2
+ryan ford,keo,0,2,0
+alliecat,patrick,1,1,2
+brtarolg,dog wearing sunglasses,0,2,0
+shady,cardoso,0,2,0
+ryan ford,patrick,0,2,0
+brtarolg,shady,0,2,0
+ryan ford,brtarolg,0,2,0
+mox,north dr,0,2,0
+kao,chirka,1,-1,0
+boomyx,durandal,1,-1,0
+sackofwine,kenzz,1,-1,0
+cardoso,mox,1,0,2
+dog wearing sunglasses,chirka,0,2,0
+alliecat,durandal,0,2,0
+keo,kenzz,0,2,0
+mox,dog wearing sunglasses,1,0,2
+alliecat,keo,1,0,2
+patrick,dog wearing sunglasses,1,0,2
+shady,keo,0,2,0
+dog wearing sunglasses,shady,0,2,1
+brtarolg,dog wearing sunglasses,0,-2,-2
+kjh,j-bear,0,2,0
+brwn,bah-la-kay,1,0,2
+kaizon,austyp,0,2,0
+i-dog,malex,0,2,1
+vanitas,yarfy,0,2,0
+moniker,wransky,0,2,0
+heartbreaker,bravo,0,2,1
+taro,gig,1,0,2
+kjh,bah-la-kay,0,2,0
+kaizon,i-dog,1,0,2
+vanitas,moniker,0,2,0
+heartbreaker,gig,0,2,0
+kjh,i-dog,0,2,0
+vanitas,heartbreaker,0,2,0
+kjh,vanitas,0,2,0
+j-bear,brwn,0,2,0
+austyp,malex,1,0,2
+yarfy,wransky,1,0,2
+bravo,taro,0,2,0
+gig,j-bear,1,1,2
+moniker,malex,1,1,2
+kaizon,wransky,0,2,0
+bah-la-kay,bravo,1,0,2
+j-bear,malex,1,0,2
+kaizon,bravo,1,0,2
+i-dog,malex,1,1,2
+heartbreaker,bravo,1,1,2
+malex,bravo,1,0,2
+vanitas,bravo,0,-2,-2
+dj nintendo,maritlage227,0,2,0
+colt,biggusher,1,-1,0
+lonebutterfish,dude,0,2,0
+burnaby,thugric,0,0,-1
+phake,tagless lauren,0,2,0
+skylan,masterdong,1,1,2
+maruku,dutch,0,2,0
+om,mrhappy,0,2,0
+dj nintendo,biggusher,0,2,0
+lonebutterfish,burnaby,0,2,0
+phake,masterdong,0,2,0
+maruku,om,1,0,2
+dj nintendo,lonebutterfish,0,2,0
+phake,om,0,2,0
+dj nintendo,phake,1,1,2
+maritlage227,colt,0,0,-1
+dude,thugric,0,0,-1
+tagless lauren,skylan,1,0,2
+dutch,mrhappy,1,0,2
+maruku,maritlage227,0,2,0
+masterdong,dude,0,2,0
+burnaby,skylan,1,0,2
+biggusher,mrhappy,1,0,2
+maruku,masterdong,0,2,0
+skylan,mrhappy,0,2,0
+lonebutterfish,maruku,0,2,0
+om,skylan,0,2,0
+lonebutterfish,om,0,2,0
+dj nintendo,lonebutterfish,0,-2,-2
+kage the warrior,silo,0,2,0
+nostalgickitty,goldenpants,0,0,-1
+stickman,night,0,2,1
+nabi,sandrin,0,2,0
+alpha dash,hippo,0,2,0
+monarchy,golf,1,0,2
+dope,g pipes,1,1,2
+mtown,relaxalax,1,0,2
+kage the warrior,nostalgickitty,0,2,0
+stickman,nabi,0,2,0
+alpha dash,golf,0,2,0
+g pipes,relaxalax,0,2,0
+kage the warrior,stickman,0,2,0
+alpha dash,g pipes,0,2,0
+kage the warrior,alpha dash,0,2,0
+silo,goldenpants,0,0,-1
+night,sandrin,0,2,0
+hippo,monarchy,0,2,0
+dope,mtown,0,2,0
+relaxalax,silo,1,1,2
+golf,night,1,1,2
+nabi,hippo,1,0,2
+nostalgickitty,dope,1,0,2
+silo,night,1,0,2
+hippo,dope,0,2,0
+stickman,night,0,2,1
+g pipes,hippo,1,0,2
+stickman,hippo,1,0,2
+alpha dash,hippo,0,-2,-2
+prince abu,paladin,0,2,0
+elu,pruben,0,2,1
+vrudssbm,shel,1,1,2
+mgeezus,crimson,0,2,0
+nightmare,lil mayo,0,2,0
+harvest,vidya_james,0,2,0
+krisp,krizski,1,0,2
+sag,special events,0,2,0
+prince abu,elu,0,2,0
+shel,mgeezus,1,0,2
+nightmare,harvest,0,2,0
+krizski,sag,0,2,0
+prince abu,mgeezus,0,2,0
+nightmare,krizski,0,2,0
+prince abu,nightmare,0,2,1
+paladin,pruben,0,2,0
+vrudssbm,crimson,0,2,0
+lil mayo,vidya_james,1,0,2
+krisp,special events,0,2,0
+sag,paladin,0,2,0
+harvest,vrudssbm,1,1,2
+shel,vidya_james,0,2,0
+elu,krisp,0,2,1
+sag,vrudssbm,1,0,2
+shel,elu,1,0,2
+mgeezus,vrudssbm,0,2,0
+krizski,elu,0,2,0
+mgeezus,krizski,0,2,0
+nightmare,mgeezus,0,-2,-2
+androyd,tsuinami,0,2,1
+androyd,cosman,0,2,0
+slippy,diablomablo,0,2,0
+slippy,saggystardust,1,0,2
+canadianbank,discowinter,0,2,0
+canadianbank,hobbes,1,0,2
+kale,diablomablo,0,2,0
+kale,androyd,1,0,2
+butterysmooth,bandit,0,2,0
+butterysmooth,canadianbank,1,0,2
+hobbes,slippy,0,2,1
+hobbes,tsuinami,0,2,1
+hobbes,neologism,1,0,2
+saggystardust,kale,0,2,1
+saggystardust,hobbes,1,0,2
+fork,canadianbank,0,2,0
+fork,saggystardust,0,2,0
+fork,cosman,0,2,0
+fork,g$,0,2,1
+datmawson,bandit,1,-1,0
+cosman,discowinter,0,2,1
+cosman,bandit,0,2,0
+neologism,androyd,0,2,0
+neologism,butterysmooth,0,2,0
+neologism,datmawson,0,2,0
+g$,androyd,0,2,0
+g$,hobbes,0,2,0
+g$,neologism,0,-2,-2
+g$,neologism,0,2,0
+weon-x,jarido,1,-1,0
+blizz,maresch,0,2,1
+youngster joey,riot,0,2,0
+soda,nicholas fletcher,0,2,0
+coffeeblack,viceroy,0,2,0
+grim,simba,1,0,2
+flood,leaf,1,-1,0
+jp3,dqking,0,2,0
+jarido,blizz,1,0,2
+youngster joey,soda,1,0,2
+coffeeblack,simba,0,2,0
+leaf,jp3,0,2,0
+blizz,soda,0,2,1
+coffeeblack,leaf,0,2,0
+blizz,coffeeblack,1,0,2
+weon-x,maresch,1,-1,0
+riot,nicholas fletcher,0,2,0
+viceroy,grim,0,2,0
+flood,dqking,1,-1,0
+jp3,maresch,1,1,2
+simba,riot,0,2,0
+youngster joey,viceroy,0,2,1
+jarido,dqking,0,2,0
+maresch,simba,1,0,2
+youngster joey,jarido,0,2,0
+soda,simba,0,2,0
+leaf,youngster joey,0,2,0
+soda,leaf,0,2,0
+blizz,soda,0,-2,-2
+quaff,m3che,0,2,0
+heartstrings,gerb,0,2,0
+leather daddy,gigglyfart,1,0,2
+seanye,puke,0,2,0
+trulliam,lopsided,0,2,0
+fancey,vanillarin,0,0,-1
+duck chris,narutogod666,0,2,0
+hinglemccringleberry,axiom,1,-1,0
+quaff,heartstrings,0,2,0
+gigglyfart,seanye,0,2,0
+trulliam,fancey,0,2,0
+duck chris,axiom,1,0,2
+quaff,gigglyfart,0,2,0
+trulliam,axiom,0,2,0
+quaff,trulliam,1,1,2
+m3che,gerb,1,0,2
+leather daddy,puke,0,0,-1
+lopsided,vanillarin,0,0,-1
+narutogod666,hinglemccringleberry,0,0,-1
+duck chris,gerb,1,0,2
+fancey,leather daddy,0,2,0
+seanye,lopsided,0,2,0
+heartstrings,narutogod666,0,2,0
+gerb,fancey,1,0,2
+seanye,heartstrings,1,0,2
+gigglyfart,fancey,1,0,2
+axiom,heartstrings,1,0,2
+fancey,heartstrings,1,1,2
+quaff,heartstrings,0,-2,-2
+dirt,johnnytsunamie,0,0,-1
+severian,yung,0,2,1
+kid,jules,0,2,0
+captain crunch,ero,0,0,-1
+jankz,swail,1,-1,0
+4serial,kevin,1,-1,0
+bananashark,swing first,0,0,-1
+mittens,dirt,0,2,0
+severian,kid,1,0,2
+captain crunch,swail,0,2,0
+kevin,bananashark,0,2,1
+mittens,kid,0,2,1
+captain crunch,kevin,0,2,0
+mittens,captain crunch,1,0,2
+yung,jules,0,2,0
+ero,jankz,0,0,-1
+4serial,swing first,0,0,-1
+bananashark,johnnytsunamie,0,2,1
+swail,yung,1,0,2
+severian,ero,0,0,-1
+dirt,4serial,0,0,-1
+bananashark,yung,0,2,1
+severian,dirt,0,2,0
+kid,bananashark,0,2,1
+kevin,severian,0,2,1
+kid,kevin,0,2,0
+mittens,kid,0,-2,-2
+sauc3,toph,0,0,-1
+bubs,ragecage,0,2,0
+jp,luxy,0,2,1
+clam,objection,1,-1,0
+plum,papay,1,-1,0
+twto,coinm,0,2,0
+king quiggles,jkcc,0,0,-1
+turtle,urpasmash,0,0,-1
+sauc3,bubs,0,2,0
+jp,objection,0,2,0
+papay,twto,0,2,0
+king quiggles,turtle,0,2,0
+sauc3,jp,1,1,2
+papay,king quiggles,1,0,2
+jp,king quiggles,0,2,1
+toph,ragecage,1,-1,0
+luxy,clam,0,0,-1
+plum,coinm,1,-1,0
+jkcc,urpasmash,1,-1,0
+turtle,ragecage,0,2,1
+twto,luxy,1,0,2
+objection,coinm,0,2,0
+bubs,urpasmash,0,0,-1
+turtle,luxy,1,1,2
+objection,bubs,1,0,2
+sauc3,luxy,0,2,0
+papay,bubs,1,0,2
+sauc3,bubs,0,2,0
+king quiggles,sauc3,0,-2,-2
+armada,captain crunch,0,2,0
+nintendude,mike haze,1,0,2
+armada,mike haze,0,-2,-2
+kim yung un,king quiggles,0,2,0
+quaff,sauc3,1,0,2
+star,pk_fired,0,2,1
+jam,marko64,0,2,1
+kim yung un,sauc3,1,0,2
+star,jam,0,2,0
+captain crunch,sauc3,1,1,2
+nintendude,star,0,2,0
+sauc3,nintendude,0,-2,-2
+hungrybox,jp,0,2,0
+hugs,wizzrobe,1,0,2
+hungrybox,wizzrobe,0,-2,-2
+kid,tranimal,1,0,2
+ib,heartstrings,0,-2,-2
+juggleguy,neologism,1,1,2
+yardsale,looke,0,2,1
+tranimal,ib,1,0,2
+neologism,yardsale,1,0,2
+jp,ib,1,0,2
+hugs,yardsale,0,2,0
+ib,hugs,0,-2,-2
+mang0,trulliam,0,2,0
+duck,swedish delight,1,-1,0
+mang0,swedish delight,0,-2,-2
+liquid,lahti,0,2,0
+blizz,k,1,0,2
+cmg,bravo,0,2,0
+dj nintendo,guero,0,2,0
+liquid,k,1,1,2
+cmg,dj nintendo,1,1,2
+trulliam,k,0,2,0
+duck,dj nintendo,1,-1,0
+trulliam,dj nintendo,0,-2,-2
+leffen,coffeeblack,0,2,0
+macd,professor pro,0,2,1
+leffen,macd,0,-2,-2
+dog wearing sunglasses,g$,1,0,2
+european greazemans,anjo,1,0,2
+sqiddwr,dunk,1,0,2
+damian tyson,mgeezus,0,2,0
+g$,anjo,0,2,0
+dunk,damian tyson,1,0,2
+coffeeblack,g$,1,0,2
+professor pro,damian tyson,0,2,0
+g$,professor pro,0,-2,-2
+mew2king,fork,0,2,1
+the moon,druggedfox,0,2,0
+mew2king,the moon,0,-2,-2
+kyle,hippo,0,2,1
+alpha dash,infernojesus,1,1,2
+jamrun,lonebutterfish,0,2,1
+brtarolg,summonedfist,1,0,2
+kyle,infernojesus,0,2,1
+jamrun,summonedfist,0,2,0
+fork,kyle,1,1,2
+druggedfox,jamrun,0,2,0
+kyle,druggedfox,0,-2,-2
+westballz,prince abu,0,2,0
+ice,n0ne,0,2,1
+westballz,ice,0,-2,-2
+coastward,n0z1ck,1,0,2
+moky,sawrik,0,2,0
+pikapika!,plat,0,2,0
+vanitas,imyt,0,2,0
+n0z1ck,moky,1,0,2
+pikapika!,vanitas,1,0,2
+prince abu,moky,0,2,1
+n0ne,vanitas,0,2,1
+prince abu,n0ne,0,-2,-2
+shroomed,kage the warrior,0,2,1
+pewpewu,ryan ford,0,2,1
+shroomed,pewpewu,0,-2,-2
+zorc,seeray,1,1,2
+soda,poop,1,0,2
+windrose,savage,0,2,0
+saus,rabbit,0,2,0
+seeray,poop,1,0,2
+windrose,saus,1,0,2
+kage the warrior,poop,0,2,0
+ryan ford,saus,0,2,0
+kage the warrior,ryan ford,0,-2,-2
+lucky,phake,0,2,0
+sfat,kjh,1,0,2
+lucky,kjh,0,-2,-2
+sedimentary rock,monib,1,1,2
+mittens,sasha,0,2,0
+ziren,emanon,1,0,2
+nightmare,lacroix,0,2,1
+monib,mittens,0,2,1
+emanon,nightmare,0,2,1
+phake,monib,1,1,2
+sfat,emanon,0,2,0
+monib,sfat,0,-2,-2
+armada,wizzrobe,0,3,0
+lucky,kjh,0,3,0
+leffen,the moon,0,3,0
+mew2king,macd,0,3,0
+hungrybox,mike haze,0,3,1
+shroomed,pewpewu,0,3,2
+mang0,swedish delight,0,3,1
+westballz,ice,0,3,0
+armada,lucky,0,3,0
+leffen,mew2king,0,3,2
+hungrybox,shroomed,0,3,1
+mang0,westballz,1,2,3
+armada,leffen,1,1,3
+hungrybox,westballz,0,3,1
+leffen,hungrybox,0,3,2
+leffen,mang0,0,3,1
+dj nintendo,kyle,0,3,0
+professor pro,ib,0,3,0
+prince abu,monib,0,3,0
+sfat,sauc3,0,3,1
+hugs,g$,0,3,0
+n0ne,trulliam,0,3,1
+kage the warrior,nintendude,1,2,3
+druggedfox,ryan ford,1,1,3
+wizzrobe,dj nintendo,0,3,1
+kjh,professor pro,1,1,3
+the moon,prince abu,0,3,2
+macd,sfat,0,3,1
+mike haze,hugs,1,2,3
+pewpewu,n0ne,1,2,3
+swedish delight,nintendude,0,3,0
+ice,ryan ford,0,3,2
+wizzrobe,professor pro,0,3,0
+the moon,macd,0,3,2
+hugs,n0ne,1,2,3
+swedish delight,ice,1,2,3
+mang0,wizzrobe,0,3,0
+shroomed,the moon,0,3,1
+mew2king,n0ne,1,1,3
+lucky,ice,0,3,0
+mang0,shroomed,0,3,1
+n0ne,lucky,1,1,4
+armada,mang0,1,1,3
+westballz,lucky,1,0,3
+mang0,lucky,0,3,1
+hungrybox,mang0,1,1,3

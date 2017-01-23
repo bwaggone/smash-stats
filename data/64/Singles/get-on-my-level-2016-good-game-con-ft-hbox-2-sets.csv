@@ -1,0 +1,181 @@
+P1,P2,set winner,P1Score,P2Score
+1000,tuna,0,2,0
+duck chris,evals,1,0,2
+zergos,urpasmash,0,0,-1
+superboomfan,1000,0,2,0
+socrates,nyani,0,0,-1
+snorlax,evals,0,2,0
+janco,zergos,0,2,0
+superboomfan,socrates,0,2,0
+snorlax,janco,1,0,2
+superboomfan,janco,0,-2,-2
+zergos,tuna,0,2,0
+nyani,duck chris,1,-1,0
+1000,urpasmash,0,0,-1
+zergos,evals,0,2,0
+duck chris,1000,1,0,2
+socrates,zergos,0,2,0
+snorlax,1000,0,2,0
+socrates,snorlax,0,-2,-2
+luka,blizz,0,0,-1
+sunshine,cardoso,1,1,2
+caelan,cortese187,1,-1,0
+kerokeroppi,luka,0,2,0
+nesskhalifa,wincancel,0,2,0
+derek #squats,cardoso,0,2,0
+fck vwls,cortese187,0,2,0
+kerokeroppi,nesskhalifa,0,2,0
+derek #squats,fck vwls,1,1,2
+kerokeroppi,fck vwls,0,-2,-2
+cortese187,blizz,0,2,0
+wincancel,sunshine,0,2,0
+luka,caelan,0,2,1
+cortese187,cardoso,0,2,0
+wincancel,luka,0,2,0
+nesskhalifa,cortese187,0,2,0
+derek #squats,wincancel,0,2,0
+nesskhalifa,derek #squats,0,-2,-2
+ego,hero,0,0,-1
+mourin,starcutter,0,2,0
+no~m,jmabate,0,2,0
+wizzrobe,ego,0,2,0
+kyle,vanillarin,0,2,0
+sextc,mourin,0,2,0
+preston,no~m,0,2,0
+wizzrobe,kyle,0,2,0
+sextc,preston,1,0,2
+wizzrobe,preston,0,-2,-2
+no~m,hero,0,2,0
+vanillarin,starcutter,0,2,0
+ego,jmabate,1,0,2
+no~m,mourin,0,2,0
+vanillarin,jmabate,0,2,1
+kyle,no~m,0,2,1
+sextc,vanillarin,0,2,0
+kyle,sextc,0,-2,-2
+dude,turtlpower,1,-1,0
+neth,smashlopez64,0,0,-1
+tr3gthez,turtlpower,0,2,0
+ivor,shake,0,2,1
+nintendude,neth,0,2,0
+mr.sir,vidya_james,0,2,0
+tr3gthez,ivor,0,2,0
+nintendude,mr.sir,0,2,0
+tr3gthez,nintendude,0,-2,-2
+vidya_james,dude,0,0,-1
+shake,smashlopez64,0,0,-1
+vidya_james,neth,1,0,2
+shake,turtlpower,0,2,0
+ivor,neth,0,2,0
+mr.sir,shake,0,2,0
+ivor,mr.sir,0,-2,-2
+rf!,guccipivotmaster4000,1,-1,0
+ir,ubll black mage,0,0,-1
+revan,guccipivotmaster4000,0,2,0
+broly,adrian,0,2,1
+shears,ir,0,2,0
+enneielle,rythemretrn,0,2,0
+revan,broly,0,2,0
+shears,enneielle,0,2,0
+revan,shears,0,-2,-2
+rythemretrn,rf!,0,0,-1
+adrian,ubll black mage,0,0,-1
+rythemretrn,ir,0,2,0
+adrian,guccipivotmaster4000,0,2,0
+broly,rythemretrn,0,2,1
+enneielle,adrian,0,2,0
+broly,enneielle,0,-2,-2
+arctic,umi,0,2,1
+blueman,qk shkz,0,2,0
+bark the shark,arctic,0,2,0
+b0n,cwic-beam,0,2,0
+b link,blueman,0,2,0
+captain fabulous,whoopiecow,0,2,0
+bark the shark,b0n,0,2,1
+b link,captain fabulous,0,2,1
+bark the shark,b link,0,-2,-2
+whoopiecow,umi,0,2,0
+cwic-beam,qk shkz,0,2,0
+whoopiecow,blueman,1,1,2
+cwic-beam,arctic,0,2,0
+b0n,blueman,0,2,0
+captain fabulous,cwic-beam,0,2,0
+b0n,captain fabulous,0,-2,-2
+izoo,theycallmechris,0,2,1
+sven stormbeard,salt,1,0,2
+fireblaster,izoo,0,2,0
+the big d,h2o,0,2,0
+handsometom,salt,0,2,0
+sunflower,white,1,1,2
+fireblaster,the big d,0,2,1
+handsometom,white,0,2,0
+fireblaster,handsometom,0,-2,-2
+sunflower,theycallmechris,0,2,0
+h2o,sven stormbeard,0,2,0
+sunflower,salt,1,0,2
+h2o,izoo,0,2,0
+the big d,salt,0,2,0
+white,h2o,0,2,0
+the big d,white,0,-2,-2
+khakis,tokaji,0,2,0
+keagsbsmashin,colt,0,2,0
+ybombb,khakis,0,2,0
+daniels,hotspank,0,2,1
+jam,keagsbsmashin,0,2,0
+marlwolfe,polarbair,0,2,0
+ybombb,daniels,0,2,0
+jam,marlwolfe,0,2,0
+ybombb,jam,0,-2,-2
+polarbair,tokaji,1,1,2
+hotspank,colt,0,2,0
+tokaji,keagsbsmashin,1,0,2
+hotspank,khakis,1,0,2
+daniels,keagsbsmashin,0,2,0
+marlwolfe,khakis,0,2,0
+daniels,marlwolfe,0,-2,-2
+superboomfan,janco,0,2,0
+ybombb,jam,0,2,1
+tr3gthez,nintendude,0,2,0
+revan,shears,0,2,0
+kerokeroppi,fck vwls,0,2,0
+fireblaster,handsometom,0,2,1
+wizzrobe,preston,0,2,0
+bark the shark,b link,0,2,1
+superboomfan,ybombb,0,2,0
+tr3gthez,revan,0,2,1
+kerokeroppi,fireblaster,0,2,0
+wizzrobe,bark the shark,0,2,0
+superboomfan,tr3gthez,0,3,0
+kerokeroppi,wizzrobe,0,3,2
+superboomfan,kerokeroppi,0,3,1
+superboomfan,tr3gthez,0,3,0
+the big d,captain fabulous,0,2,0
+nesskhalifa,sextc,1,0,2
+b0n,white,0,2,0
+kyle,derek #squats,1,0,2
+daniels,enneielle,1,0,2
+socrates,mr.sir,1,0,2
+broly,marlwolfe,1,0,2
+ivor,snorlax,1,0,2
+janco,the big d,0,2,1
+jam,sextc,1,0,2
+nintendude,b0n,0,2,0
+shears,derek #squats,1,0,2
+fck vwls,enneielle,0,2,0
+handsometom,mr.sir,0,2,0
+preston,marlwolfe,0,2,0
+b link,snorlax,0,2,1
+janco,sextc,1,1,2
+nintendude,derek #squats,1,0,2
+fck vwls,handsometom,1,0,2
+preston,b link,1,0,2
+bark the shark,sextc,0,2,0
+fireblaster,derek #squats,1,1,2
+revan,handsometom,0,2,1
+ybombb,b link,0,2,0
+bark the shark,derek #squats,1,1,3
+revan,ybombb,0,3,0
+tr3gthez,derek #squats,0,3,2
+wizzrobe,revan,1,1,3
+tr3gthez,revan,0,3,1
+kerokeroppi,tr3gthez,1,0,3

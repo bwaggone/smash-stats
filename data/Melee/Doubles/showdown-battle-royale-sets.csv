@@ -1,0 +1,11 @@
+T1P1,T1P2,T2P1,P2P2,set winner,T1Score,T2Score
+lucy,dirtboy,2shadez,nexic,0,3,2
+techboy,anther,morsecode762,lain,0,3,2
+deku,invader slim,2shadez,nexic,1,0,3
+lucy,dirtboy,techboy,anther,1,0,3
+deku,invader slim,morsecode762,lain,1,0,3
+2shadez,nexic,techboy,anther,1,0,3
+deku,invader slim,techboy,anther,1,0,3
+morsecode762,lain,lucy,dirtboy,0,3,0
+deku,invader slim,lucy,dirtboy,1,0,3
+morsecode762,lain,2shadez,nexic,0,3,0

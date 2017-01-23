@@ -1,0 +1,5 @@
+P1,P2,set winner,P1Score,P2Score
+japan,usa,1,7,10
+mexicaneu,usa,1,3,9
+mexicaneu,japan,1,8,10
+usa,japan,0,12,10

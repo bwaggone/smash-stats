@@ -1,0 +1,219 @@
+P1,P2,set winner,P1Score,P2Score
+juushichi,blaze,0,0,-1
+jjk,tard,0,2,0
+rex,red,0,2,1
+anther,blaze,0,0,-1
+juushichi,red,0,2,1
+jjk,rex,0,2,0
+anther,tard,0,2,0
+blaze,red,1,-1,0
+juushichi,jjk,1,0,2
+anther,red,0,2,0
+tard,rex,1,0,2
+blaze,jjk,1,-1,0
+anther,rex,0,2,0
+red,jjk,1,0,2
+tard,juushichi,1,0,2
+anther,jjk,0,2,1
+rex,juushichi,1,0,2
+tard,blaze,0,0,-1
+anther,juushichi,0,2,0
+rex,blaze,0,0,-1
+red,tard,0,2,0
+nickriddle,fathr,0,2,0
+samn,alfastryke,0,2,0
+gooz,sugar,0,2,1
+dirtboy,fathr,0,2,0
+nickriddle,sugar,0,2,0
+samn,gooz,0,2,0
+dirtboy,alfastryke,0,2,0
+fathr,sugar,1,0,2
+nickriddle,samn,1,0,2
+dirtboy,sugar,0,2,0
+alfastryke,gooz,1,1,2
+fathr,samn,1,0,2
+dirtboy,gooz,0,2,0
+sugar,samn,1,0,2
+alfastryke,nickriddle,1,0,2
+dirtboy,samn,1,1,2
+gooz,nickriddle,1,0,2
+alfastryke,fathr,0,2,0
+dirtboy,nickriddle,0,2,0
+gooz,fathr,0,2,0
+sugar,alfastryke,0,2,0
+techboy,yuko_ray,0,0,-1
+toph,jawsome,0,2,0
+noj,deus ex jinora,0,2,0
+morsecode762,yuko_ray,0,0,-1
+techboy,deus ex jinora,0,2,0
+toph,noj,0,2,1
+morsecode762,jawsome,0,2,0
+yuko_ray,deus ex jinora,1,-1,0
+techboy,toph,0,2,0
+morsecode762,deus ex jinora,0,2,0
+jawsome,noj,0,2,1
+yuko_ray,toph,1,-1,0
+morsecode762,noj,0,2,1
+deus ex jinora,toph,1,0,2
+jawsome,techboy,1,0,2
+morsecode762,toph,0,2,0
+noj,techboy,1,0,2
+jawsome,yuko_ray,0,0,-1
+morsecode762,techboy,1,0,2
+noj,yuko_ray,0,0,-1
+deus ex jinora,jawsome,0,2,0
+lucy,npv,1,-1,0
+yono,hyro,0,2,0
+zen,lonk,1,1,2
+xyk,npv,0,2,0
+lucy,lonk,1,1,2
+yono,zen,0,2,1
+xyk,hyro,0,2,0
+npv,lonk,1,0,2
+lucy,yono,1,-1,0
+xyk,lonk,0,2,0
+hyro,zen,1,1,2
+npv,yono,1,0,2
+xyk,zen,0,2,0
+lonk,yono,1,0,2
+hyro,lucy,1,0,2
+xyk,yono,0,2,1
+zen,lucy,0,0,-1
+hyro,npv,0,2,0
+xyk,lucy,0,0,-1
+zen,npv,0,2,0
+lonk,hyro,0,2,0
+drill,delta,1,0,2
+drill,solarflare,1,0,2
+food,drill,0,2,0
+food,blitz,1,0,2
+food,delta,0,2,1
+rayboyp,drill,1,-1,0
+rayboyp,food,1,-1,0
+rayboyp,blitz,1,-1,0
+eyeheartlovetap,drill,0,2,0
+eyeheartlovetap,food,0,2,0
+eyeheartlovetap,rayboyp,0,0,-1
+eyeheartlovetap,blitz,1,1,2
+eyeheartlovetap,delta,0,2,0
+eyeheartlovetap,solarflare,0,2,1
+blitz,drill,0,2,0
+blitz,delta,0,2,0
+blitz,solarflare,0,2,1
+delta,rayboyp,0,0,-1
+delta,solarflare,1,0,2
+solarflare,food,0,2,1
+solarflare,rayboyp,0,0,-1
+lordy,ally jr,0,2,0
+loki,vexis,0,2,0
+loe1,supadragonyoshi,0,2,0
+lordy,vexis,0,2,0
+ally jr,supadragonyoshi,1,0,2
+loki,loe1,0,2,0
+lordy,supadragonyoshi,1,1,2
+vexis,loe1,1,1,2
+ally jr,loki,1,0,2
+lordy,loe1,0,2,1
+supadragonyoshi,loki,0,2,0
+vexis,ally jr,0,2,0
+lordy,loki,0,2,0
+loe1,ally jr,0,2,0
+supadragonyoshi,vexis,0,2,0
+lain,zo9ine,0,2,0
+yata,railz,0,2,0
+tavi,daddy's kisses,0,0,-1
+carls493,zo9ine,0,2,0
+lain,daddy's kisses,0,0,-1
+yata,tavi,0,2,1
+carls493,railz,0,2,0
+zo9ine,daddy's kisses,0,0,-1
+lain,yata,0,2,0
+carls493,daddy's kisses,0,0,-1
+railz,tavi,1,0,2
+zo9ine,yata,1,0,2
+carls493,tavi,0,2,0
+daddy's kisses,yata,1,-1,0
+railz,lain,1,0,2
+carls493,yata,0,2,1
+tavi,lain,0,2,1
+railz,zo9ine,0,2,0
+carls493,lain,0,2,1
+tavi,zo9ine,0,2,0
+daddy's kisses,railz,1,-1,0
+solharath,iyb aids,0,2,0
+soulpech,reptoknight,0,0,-1
+frost,ellipsis,0,2,1
+solharath,reptoknight,0,0,-1
+iyb aids,ellipsis,1,0,2
+soulpech,frost,0,2,0
+solharath,ellipsis,0,2,1
+reptoknight,frost,1,-1,0
+iyb aids,soulpech,1,0,2
+solharath,frost,0,2,1
+ellipsis,soulpech,1,0,2
+reptoknight,iyb aids,1,-1,0
+solharath,soulpech,1,1,2
+frost,iyb aids,0,2,0
+ellipsis,reptoknight,0,0,-1
+anther,food,0,2,0
+lain,toph,0,2,1
+soulpech,zen,0,2,1
+dirtboy,loki,0,2,0
+xyk,ellipsis,0,2,0
+supadragonyoshi,yata,1,1,2
+blitz,rex,0,2,1
+morsecode762,gooz,0,0,-1
+samn,loe1,0,2,0
+solharath,lonk,0,2,0
+carls493,noj,0,2,0
+jjk,solarflare,0,2,1
+techboy,tavi,0,2,1
+eyeheartlovetap,juushichi,0,2,0
+lordy,sugar,0,2,0
+yono,frost,0,2,0
+anther,lain,0,2,1
+soulpech,dirtboy,1,1,2
+xyk,yata,0,2,1
+blitz,morsecode762,0,2,1
+samn,solharath,0,2,0
+carls493,jjk,0,2,1
+techboy,eyeheartlovetap,0,2,0
+lordy,yono,0,2,1
+anther,dirtboy,0,2,0
+xyk,blitz,0,2,0
+samn,carls493,0,2,0
+techboy,lordy,1,0,2
+anther,xyk,0,2,0
+samn,lordy,1,0,3
+anther,lordy,0,3,0
+anther,dirtboy,0,2,0
+food,toph,0,2,1
+zen,loki,1,0,2
+ellipsis,supadragonyoshi,1,-1,0
+rex,gooz,1,0,2
+loe1,lonk,0,2,1
+noj,solarflare,1,0,2
+tavi,juushichi,0,2,1
+sugar,frost,1,1,2
+yono,food,0,2,0
+eyeheartlovetap,loki,0,2,1
+jjk,supadragonyoshi,0,2,1
+solharath,gooz,1,1,2
+morsecode762,loe1,0,2,0
+yata,solarflare,1,0,2
+soulpech,tavi,0,2,1
+lain,frost,0,2,1
+yono,eyeheartlovetap,1,0,2
+jjk,gooz,0,2,0
+morsecode762,solarflare,0,2,0
+soulpech,lain,1,1,2
+blitz,eyeheartlovetap,1,0,2
+dirtboy,jjk,0,2,1
+techboy,morsecode762,1,0,2
+carls493,lain,1,1,2
+eyeheartlovetap,dirtboy,1,1,2
+morsecode762,lain,1,0,2
+samn,dirtboy,1,0,2
+xyk,lain,1,1,2
+dirtboy,lain,0,2,0
+lordy,dirtboy,1,1,2

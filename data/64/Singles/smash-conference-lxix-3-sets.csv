@@ -1,0 +1,69 @@
+P1,P2,set winner,P1Score,P2Score
+zero,mr.sir,0,0,-1
+da_bear,howdy,1,-1,0
+tubby!,caleb,0,2,0
+kerokeroppi,zero,0,0,-1
+grahamaglam,hoofy,1,0,2
+ctg,ocelot,0,2,0
+loto,yrn,0,2,0
+dtan,tarn,0,0,-1
+cane ut,slappymcnutz,0,2,0
+shears,sk,0,2,0
+antwon420,sinbad,0,2,0
+wizzrobe,howdy,0,0,-1
+bamster,dam_tewton,1,1,2
+marbles,david barker,0,2,0
+greginator,meowmix,0,2,0
+barksanchez,tubby!,0,2,0
+deathcpo,fil,0,2,0
+sheermadness,therm,0,2,0
+señorhen10r,superderekfan,0,2,1
+kerokeroppi,hoofy,0,2,0
+ctg,loto,0,2,1
+dtan,cane ut,0,2,0
+shears,antwon420,0,2,0
+wizzrobe,dam_tewton,0,2,0
+marbles,greginator,0,2,0
+barksanchez,deathcpo,0,2,0
+sheermadness,señorhen10r,0,2,0
+kerokeroppi,ctg,0,2,0
+dtan,shears,0,2,0
+wizzrobe,marbles,0,2,0
+barksanchez,sheermadness,0,2,0
+kerokeroppi,dtan,1,2,3
+wizzrobe,barksanchez,0,3,0
+dtan,wizzrobe,1,1,3
+wizzrobe,kerokeroppi,0,3,0
+superderekfan,mr.sir,0,0,-1
+sinbad,da_bear,0,0,-1
+yrn,caleb,0,2,0
+superderekfan,therm,0,2,0
+fil,tubby!,0,2,0
+meowmix,david barker,1,0,2
+bamster,howdy,0,0,-1
+sinbad,sk,0,2,0
+slappymcnutz,tarn,0,2,0
+yrn,ocelot,0,2,1
+grahamaglam,zero,0,0,-1
+antwon420,superderekfan,1,0,2
+cane ut,fil,1,0,2
+loto,david barker,0,2,0
+hoofy,bamster,1,1,2
+señorhen10r,sinbad,0,2,1
+deathcpo,slappymcnutz,0,2,0
+greginator,yrn,0,2,0
+dam_tewton,grahamaglam,0,2,0
+superderekfan,fil,1,0,2
+loto,bamster,0,2,0
+señorhen10r,deathcpo,0,2,1
+greginator,dam_tewton,0,2,0
+marbles,fil,0,2,0
+sheermadness,loto,1,1,2
+ctg,señorhen10r,0,2,0
+shears,greginator,0,2,0
+marbles,loto,0,3,0
+ctg,shears,0,3,0
+kerokeroppi,marbles,0,3,0
+barksanchez,ctg,0,3,2
+kerokeroppi,barksanchez,0,3,0
+dtan,kerokeroppi,1,0,3

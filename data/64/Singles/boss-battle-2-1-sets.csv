@@ -66,18 +66,18 @@ nacl,saltsizzle,0,2,0
 village mascot,yaron,0,2,1
 marbles,vondo,0,2,0
 lorenzo,yolft,0,2,0
-a to the z,bigbeaver,1,1,2
+a to tr3gthez,bigbeaver,1,1,2
 marbles,yolft,0,2,0
 vondo,bigbeaver,1,0,2
-lorenzo,a to the z,0,2,0
+lorenzo,a to tr3gthez,0,2,0
 marbles,bigbeaver,0,2,0
-yolft,a to the z,1,0,2
+yolft,a to tr3gthez,1,0,2
 vondo,lorenzo,1,0,2
-marbles,a to the z,0,2,0
+marbles,a to tr3gthez,0,2,0
 bigbeaver,lorenzo,1,0,2
 yolft,vondo,0,2,0
 marbles,lorenzo,0,2,1
-a to the z,vondo,0,2,0
+a to tr3gthez,vondo,0,2,0
 bigbeaver,yolft,0,2,0
 d35,pintoa,0,2,0
 gt,lou sanus,0,2,0
@@ -296,7 +296,7 @@ mmneggs,grahamaglam,0,2,0
 yaron,meerkat,1,0,2
 supa,zad,1,-1,0
 ocelot,rebel scum,1,0,2
-a to the z,rocket,0,2,1
+a to tr3gthez,rocket,0,2,1
 cormander,recneps,0,0,-1
 ʙᴏᴅᴀᴄɪᴏᴜs,eg,1,0,2
 komotonoto,pintoa,0,2,0
@@ -312,7 +312,7 @@ jsmirk,yolft,0,2,1
 josephzander,janitor,1,1,2
 mmneggs,meerkat,0,2,0
 nardwell,zad,1,0,2
-rebel scum,a to the z,1,1,2
+rebel scum,a to tr3gthez,1,1,2
 cormander,eg,1,0,2
 komotonoto,monte,1,1,2
 deathcpo,box765,1,0,2
@@ -320,16 +320,16 @@ beans,gt,0,2,0
 annex,ondas,0,2,0
 lou sanus,jsmirk,1,1,2
 janitor,mmneggs,0,2,0
-zad,a to the z,1,0,2
+zad,a to tr3gthez,1,0,2
 eg,monte,1,0,2
 box765,beans,0,2,1
 annex,jsmirk,0,2,0
-janitor,a to the z,0,2,1
+janitor,a to tr3gthez,0,2,1
 monte,box765,0,3,1
 annex,janitor,1,2,3
 monte,janitor,1,0,3
-janitor,a to the z,1,1,3
-a to the z,janitor,1,1,3
+janitor,a to tr3gthez,1,1,3
+a to tr3gthez,janitor,1,1,3
 the drew,maniac379,1,0,2
 apparition the ambassador,neph_girl,0,2,0
 q!,vondo,1,-1,0
@@ -377,12 +377,12 @@ komotonoto,professor_wizard,1,1,2
 village mascot,piratetrips,1,0,2
 b33f,ocelot,0,2,0
 jsmirk,josephzander,1,0,2
-a to the z,professor_wizard,0,2,1
+a to tr3gthez,professor_wizard,0,2,1
 eg,piratetrips,0,2,0
 beans,b33f,1,0,2
-josephzander,a to the z,1,-1,0
+josephzander,a to tr3gthez,1,-1,0
 eg,b33f,0,3,1
-box765,a to the z,1,-1,0
+box765,a to tr3gthez,1,-1,0
 annex,eg,1,0,3
-a to the z,eg,0,3,0
-monte,a to the z,1,-1,0
+a to tr3gthez,eg,0,3,0
+monte,a to tr3gthez,1,-1,0
