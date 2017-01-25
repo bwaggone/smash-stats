@@ -45,9 +45,9 @@ Placings are **not in sorted order**. They are relatively straightforward and ha
 
 This file has a list of tournament slugs and dates. There is one per folder, and three total columns.
 
-| Tournament | startAt | endAt | Entrants |
-| ------------ | --------------| -----| ------|
-| Tournament Slug | Starting date (YYYY-MM-DD) | Ending date (YYYY-MM-DD) | Number of entrants |
+| Tournament | slug | startAt | endAt | Entrants |
+| ------------ | ---- |--------------| -----| ------|
+| Tournament Name | Tournament Slug (smash.gg url) | Starting date (YYYY-MM-DD) | Ending date (YYYY-MM-DD) | Number of entrants |
 
    * Notes:
       * The tournaments file is created/appended automatically when running get_data.py
