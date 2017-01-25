@@ -20,26 +20,26 @@ kafka,niar,1,1,2
 hungrybox,neologism,0,2,0
 dayman,niar,0,2,0
 seen,kafka,0,2,0
-eon,| straywolf,1,-1,0
+eon,straywolf,1,-1,0
 brizzy,jyrow,0,2,0
 maverlck21,indecisive,1,-1,0
-zhu,| straywolf,0,2,0
+zhu,straywolf,0,2,0
 eon,indecisive,0,2,0
 brizzy,maverlck21,0,0,-1
 zhu,jyrow,0,2,0
-| straywolf,indecisive,0,2,1
+straywolf,indecisive,0,2,1
 eon,brizzy,1,0,2
 zhu,indecisive,0,2,0
 jyrow,maverlck21,0,0,-1
-| straywolf,brizzy,1,0,2
+straywolf,brizzy,1,0,2
 zhu,maverlck21,0,0,-1
 indecisive,brizzy,1,1,2
 jyrow,eon,1,0,2
 zhu,brizzy,0,2,0
 maverlck21,eon,1,-1,0
-jyrow,| straywolf,0,0,-1
+jyrow,straywolf,0,0,-1
 zhu,eon,0,2,0
-maverlck21,| straywolf,1,-1,0
+maverlck21,straywolf,1,-1,0
 indecisive,jyrow,0,2,0
 mado,squeakie,0,2,0
 marteeen,mossman,1,0,2
@@ -193,7 +193,7 @@ kjh,slush,0,2,0
 monib,lotus,0,2,0
 mew2king,karma (jp),0,2,0
 morsecode762,cylinder,0,2,0
-prince f. abu,g pipes,0,2,0
+prince abu,g pipes,0,2,0
 jamrun,zhao_guang,0,2,0
 duck,truckasaurus,0,2,0
 windrose,ferox,0,2,0
@@ -212,7 +212,7 @@ mado,legend,1,0,2
 kirbykaze,hyprid,0,2,0
 kjh,monib,0,2,0
 mew2king,morsecode762,0,2,0
-prince f. abu,jamrun,0,2,0
+prince abu,jamrun,0,2,0
 duck,windrose,0,2,0
 trulliam,vanitas,0,2,1
 armada,toph,0,2,0
@@ -221,7 +221,7 @@ macd,kage,0,2,1
 n0ne,coffeeblack,0,2,0
 hungrybox,legend,0,2,0
 kirbykaze,kjh,1,0,2
-mew2king,prince f. abu,0,2,0
+mew2king,prince abu,0,2,0
 duck,trulliam,0,2,1
 armada,ryan ford,0,2,0
 macd,n0ne,0,2,1
@@ -274,26 +274,26 @@ kage,jamrun,0,2,0
 zhu,hyprid,0,2,0
 toph,plat,0,2,1
 trulliam,fork,0,2,0
-prince f. abu,moky,0,2,0
+prince abu,moky,0,2,0
 kirbykaze,damian tyson,0,2,0
 legend,nightmare,0,2,1
 coffeeblack,kage,0,2,1
 zhu,toph,0,2,0
-trulliam,prince f. abu,1,1,2
+trulliam,prince abu,1,1,2
 kirbykaze,legend,0,2,0
 kjh,coffeeblack,1,1,2
 duck,zhu,1,1,2
-ryan ford,prince f. abu,1,1,2
+ryan ford,prince abu,1,1,2
 n0ne,kirbykaze,1,0,2
 coffeeblack,zhu,0,-2,-2
-prince f. abu,kirbykaze,0,-2,-2
+prince abu,kirbykaze,0,-2,-2
 armada,macd,0,3,0
 hungrybox,mew2king,1,2,3
 armada,mew2king,0,3,0
 armada,hungrybox,1,1,3
 hungrybox,armada,1,1,3
 coffeeblack,zhu,1,0,3
-prince f. abu,kirbykaze,1,0,3
+prince abu,kirbykaze,1,0,3
 hungrybox,zhu,0,3,0
 macd,kirbykaze,1,1,3
 hungrybox,kirbykaze,0,3,0

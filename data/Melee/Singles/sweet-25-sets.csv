@@ -183,10 +183,10 @@ caucasian asian,tree,1,0,2
 fire,ncr0,1,0,2
 nix,josephdn,0,2,0
 nix,mongoose,1,1,2
-prince f. abu,techboy,0,2,1
-prince f. abu,fire,0,2,1
-prince f. abu,holiday,0,2,0
-prince f. abu,mingee,0,-2,-2
+prince abu,techboy,0,2,1
+prince abu,fire,0,2,1
+prince abu,holiday,0,2,0
+prince abu,mingee,0,-2,-2
 tm,nexic,0,2,0
 tm,techboy,0,-2,-2
 tm,yungbitch,0,2,0
@@ -433,14 +433,14 @@ paz,parzival,0,2,0
 tran,paz,0,-2,-2
 ice,woley,0,2,0
 vro,anther,1,0,2
-prince f. abu,mingee,0,2,0
+prince abu,mingee,0,2,0
 ginger,coffeeblack,0,2,0
 duck,heartstrings,0,2,0
 yoyo,shaeden,0,2,0
 kjh,juggleguy,0,2,0
 cal,morsecode762,1,0,2
 ice,anther,0,3,0
-prince f. abu,ginger,1,1,3
+prince abu,ginger,1,1,3
 duck,yoyo,0,3,1
 kjh,morsecode762,0,3,0
 ice,ginger,0,3,1
@@ -468,12 +468,12 @@ juggleguy,paz,0,2,0
 woley,tm,1,0,2
 trix,coffeeblack,1,1,2
 anther,heartstrings,0,3,0
-prince f. abu,juggleguy,0,3,1
+prince abu,juggleguy,0,3,1
 yoyo,tm,0,3,1
 morsecode762,coffeeblack,1,1,3
-anther,prince f. abu,1,1,3
+anther,prince abu,1,1,3
 yoyo,coffeeblack,0,3,0
-duck,prince f. abu,0,3,0
+duck,prince abu,0,3,0
 ginger,yoyo,0,3,2
 duck,ginger,0,3,0
 kjh,duck,0,3,1
