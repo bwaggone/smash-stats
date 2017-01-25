@@ -13,25 +13,22 @@ Below is a general list of tasks to get done, stretch goals, and what has actual
 ####TO-DO
 * Write an update function that will grab all tournaments yet to be recorded, update the data, fix any possible name discrepencies, and move (or link) the data to a folder of the user's choosing. (For use with /smash-site-static/)
 * Glicko Calculator (Needs quick change)
+  * Add support for more than one Calendar year + tournament timeout
 * Trueskill Calculator (Needs quick change)
-* Add support for more than one Calendar year + tournament timeout
-* Create and update a list of tournament slugs to scrape from
-* ~~Reorganize file structure for the scraper code~~
 * Pipe data results to Glicko/Custom calculator. \**partially done*
 * Add exceptions to calculator, ignore results from player X on tournament Y.
-* **Clean the glicko calculator code holy shit it looks like a nightmare**
+* Scrape from challonge
 
 ####KNOWN ISSUES
 * People with pipes (|) in their tag. *Currently no way to distinguish a pipe and a sponsor separator without bombarding smash.gg with a billion API requests*. This is not an issue for doubles files, only singles.
 * Does **not** work on tournaments that run games other than smash. (Rivals of Aether, other fighting games).
 * **EVO is excluded because it is not hosted on smash.gg. It will have to be added manually to the data, or another method needs to be used. **
-*  Consistency between names needs to be manually fixed. Ex: Some tournaments list mang0 as mango, and superboomfan as superboom. The goal is to maintain a "fix" file to run and check all applicable files for the player. (Partially addressed, a name_fixes file is included now)
 
 ####Future Goals:
 * ~~Scrape the smash.gg api to get tournament results~~
 * Make the glicko calculator standalone (maybe a python package?)
 * ~~Output the results to a csv~~
-* Add a predictor for a head to head given current Glicko ratings
+* Add a predictor for a head to head given current ratings (using different rating systems)
 * Use the predictor to model the likelihood of player X winning tournament Y
 
 ### Data Guarantees and Glicko
