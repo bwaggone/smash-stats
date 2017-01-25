@@ -1,4 +1,5 @@
 import requests
+import sys
 import time
 import json
 from collections import *
@@ -8,14 +9,12 @@ import csv
 import progressbar
 
 threads = []
+all_slugs = {}
 lock = threading.RLock()
+slug_lock = threading.RLock()
 
 def tourn_scraper(slug):
-    #slug = raw_input("What is the tournament slug?\n")
-
-    #r = requests.get('https://api.smash.gg/tournament/the-big-house-6?expand[]=phase&expand[]=groups&expand[]=event')
     r = requests.get('https://api.smash.gg/tournament/' + slug + '?expand[]=phase&expand[]=groups&expand[]=event')
-    #r = requests.get('https://api.smash.gg/phase_group/76016?expand[]=sets&expand[]=standings&expand[]=selections')
     data = json.loads(r.text)
 
     tournament_dates = [time.strftime('%Y-%m-%d', time.localtime(data["entities"]["tournament"]["startAt"])),time.strftime('%Y-%m-%d', time.localtime(data["entities"]["tournament"]["endAt"]))]
@@ -62,7 +61,15 @@ def tourn_scraper(slug):
                 break;
        
         #64, why do you have a "game" called YOLO? pls
-        if(not_found or events[event].game == "YOLO" or events[event].game == ""):
+
+        #Corner Cases: Lane Shift - Shine 2016
+        #              Character Crews - Pound 2016
+        #              Low Tiers: Multiple events
+        #              YOLO - Smash 64 in general
+        #              Big Brother Teams - Eden
+
+
+        if(not_found or events[event].game == "YOLO" or events[event].game == "" or events[event].format == "Crews" or ("Lane Shift" in events[event].event_name) or ("Crews" in events[event].event_name) or ("Low Tier" in events[event].event_name) or ("Teams" in events[event].event_name)):
             #print("Skipping 1 event")
             continue
         
@@ -71,23 +78,31 @@ def tourn_scraper(slug):
         try:
             master = open(master_file)
             master.close()
-            master = open(master_file, "a")
-            master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
-            master.close()
+            check = False
+            with open(master_file, "r") as master:
+                for line in master:
+                    if slug in line:
+                        check = True
+
+            if(not check):
+                master = open(master_file, "a")
+                master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
+                master.close()
         except:
             master = open(master_file, "a+")
             master.write("Tournament,startDate,endDate,entrants\n")
             master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
             master.close()
+
         lock.release()
         filename = "../data/" + events[event].game + "/" + events[event].format + "/" + slug + "-sets.csv" 
-        #print("Working on " + filename + "...")
+        # print("Working on " + filename + "...")
 
 
         #####PROGRESS BAR CODE ##########
-        #num_of_groups = 0
-        #bar = progressbar.ProgressBar(maxval=len(events[event].groups),widgets=[progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
-        #bar.start()
+        # num_of_groups = 0
+        # bar = progressbar.ProgressBar(maxval=len(events[event].groups),widgets=[progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
+        # bar.start()
         #################################
         
         f = open(filename, "w")
@@ -99,12 +114,16 @@ def tourn_scraper(slug):
             f.write("P1,P2,set winner,P1Score,P2Score\n")
         
         for group in events[event].groups:
-            #num_of_groups += 1
-            #bar.update(num_of_groups)
+            # num_of_groups += 1
+            # bar.update(num_of_groups)
 
             results = requests.get(api_prefix + 'phase_group/' +  str(group) + api_sets_postfix)
             result_data = json.loads(results.text)
             #print("Retrieving sets from group #:" + str(group))
+
+            if(result_data["entities"]["groups"]["hasSets"] == False):
+                continue
+            
             for _set in result_data["entities"]["sets"]:
                 p1 = _set["entrant1Id"]
                 p2 = _set["entrant2Id"]
@@ -127,8 +146,8 @@ def tourn_scraper(slug):
                 except:
                     f.write((events[event].entrants[p1] + ',' + events[event].entrants[p2] + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) +'\n').encode('utf-8'))
 
-        #bar.finish()
-        #print("Wrote Results to " + filename)
+        # bar.finish()
+        # print("Wrote Results to " + filename)
         f.close()
 
         filename = "../data/" + events[event].game + "/" + events[event].format + "/" + slug + "-standings.csv" 
@@ -144,7 +163,10 @@ def tourn_scraper(slug):
             except:
                 f.write((split_doubles_names(events[event].entrants[placing], doubles) + "," + str(events[event].placings[placing]) + "\n").encode('utf-8'))
         f.close()
-    print("finishing" + slug)
+    slug_lock.acquire()
+    # print("Finished " + slug)
+    all_slugs.pop(slug, None)
+    slug_lock.release()
 
 
 slug_file = "../data/slugs.csv"
@@ -154,41 +176,26 @@ slug_list = list(reader)
 iterations = len(slug_list[1::])
 for i in range(1,iterations):
     slug = slug_list[i][1]
+    slug_lock.acquire()
+    all_slugs[slug] = slug
+    slug_lock.release()
     t = threading.Thread(target=tourn_scraper, args=(slug,))
     threads.append(t)
-    print("Starting" + slug_list[i][1])
     t.start()
 
-    #At this point we have every event with all group numbers, so we can use each one to look up set information.
-    #Once we have set information, we can output to csv (after translating entrantId -> name)
+while(threading.activeCount() != 1):
+    sys.stdout.write("Threads Remaining: {0}\r".format(threading.activeCount()))
+    sys.stdout.flush()
+    time.sleep(0.5)
 
+for thread in threads:
+    # print("Threads Remaining: {0}\r".format(threading.activeCount(),))
+    thread.join()
 
+# slug_list = ["pound-2016", "shine-2016"]
 
+# for i in range(0,2):
+    # print("Redoing Failed Tournament: " + slug_list[i])
+    # tourn_scraper(slug_list[i]);
 
-    #   Get the game / event via request
-    #   r = requests.get(api_prefix + 'event/' + str(event_phases.key))
-    #   Save the game name, type, phase ids and groups to one object
-
-    #   Event Contains:
-    #       Several Phases
-    #       Phase Contains:
-    #           Several Groups
-    #           Group Contains:
-    #               Sets
-    #               Set contains:
-    #                   Players
-    #                   Winner
-
-
-    #======
-    #=TODO=
-    #======
-    #Create a class for event
-    #Create a class for phase
-    #Create a class for group
-    #Create a class of set
-    #Create a lookup table from entrantID to player name
-
-    #After we get the results, spit them out into a csv
-    #Read the CSV into the glicko calc
-
+print(all_slugs)

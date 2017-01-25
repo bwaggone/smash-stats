@@ -7,9 +7,7 @@ import progressbar
 
 slug = raw_input("What is the tournament slug?\n")
 
-#r = requests.get('https://api.smash.gg/tournament/the-big-house-6?expand[]=phase&expand[]=groups&expand[]=event')
 r = requests.get('https://api.smash.gg/tournament/' + slug + '?expand[]=phase&expand[]=groups&expand[]=event')
-#r = requests.get('https://api.smash.gg/phase_group/76016?expand[]=sets&expand[]=standings&expand[]=selections')
 data = json.loads(r.text)
 
 tournament_dates = [time.strftime('%Y-%m-%d', time.localtime(data["entities"]["tournament"]["startAt"])),time.strftime('%Y-%m-%d', time.localtime(data["entities"]["tournament"]["endAt"]))]
@@ -56,7 +54,8 @@ for event in events:
             break;
    
     #64, why do you have a "game" called YOLO? pls
-    if(not_found or events[event].game == "YOLO" or events[event].game == ""):
+    #Also crews is just a pain in the ass, skipppp
+    if(not_found or events[event].game == "YOLO" or events[event].game == "" or events[event].format == "Crews" or ("Lane Shift" in events[event].event_name) or ("Crews" in events[event].event_name) or ("Low Tier" in events[event].event_name) or ("Big Brother" in events[event].event_name)):
         print("Skipping 1 event")
         continue
     
@@ -64,9 +63,16 @@ for event in events:
     try:
         master = open(master_file)
         master.close()
-        master = open(master_file, "a")
-        master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
-        master.close()
+        check = False
+        with open(master_file, "r") as master:
+            for line in master:
+                if slug in line:
+                    check = True
+
+        if(not check):
+            master = open(master_file, "a")
+            master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
+            master.close()
     except:
         master = open(master_file, "a+")
         master.write("Tournament,startDate,endDate,entrants\n")
@@ -137,38 +143,4 @@ for event in events:
         except:
             f.write((split_doubles_names(events[event].entrants[placing], doubles) + "," + str(events[event].placings[placing]) + "\n").encode('utf-8'))
     f.close()
-
-
-#At this point we have every event with all group numbers, so we can use each one to look up set information.
-#Once we have set information, we can output to csv (after translating entrantId -> name)
-
-
-
-
-#   Get the game / event via request
-#   r = requests.get(api_prefix + 'event/' + str(event_phases.key))
-#   Save the game name, type, phase ids and groups to one object
-
-#   Event Contains:
-#       Several Phases
-#       Phase Contains:
-#           Several Groups
-#           Group Contains:
-#               Sets
-#               Set contains:
-#                   Players
-#                   Winner
-
-
-#======
-#=TODO=
-#======
-#Create a class for event
-#Create a class for phase
-#Create a class for group
-#Create a class of set
-#Create a lookup table from entrantID to player name
-
-#After we get the results, spit them out into a csv
-#Read the CSV into the glicko calc
 

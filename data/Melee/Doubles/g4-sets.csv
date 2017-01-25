@@ -83,25 +83,25 @@ khale,lego,gangly,telemonic,0,2,0
 nintendoking,kev$,skate,kellz,0,2,0
 khale,lego,nintendoking,kev$,1,0,2
 hungry pigeon,sk92,nintendoking,kev$,0,-2,-2
+cola,blue jay,launch,flex36,0,2,0
 echopath,6 lasers,pinkfluffycuddlebunny,jotinos,0,2,0
-phex,usleon,echopath,6 lasers,0,2,0
-phex,usleon,zilo,rk,0,-2,-2
-phex,usleon,zilo,rk,0,2,0
-jackkenney,@ashkon_,pinkfluffycuddlebunny,jotinos,0,2,0
-jackkenney,@ashkon_,cola,blue jay,0,2,1
+c4d,megaman,g,beely,0,2,0
+alan,shroomed,cola,blue jay,0,2,0
 shamunt,fear,jackkenney,@ashkon_,0,2,1
-shamunt,fear,zilo,rk,1,0,2
+phex,usleon,echopath,6 lasers,0,2,0
+zilo,rk,c4d,megaman,0,2,0
+alan,shroomed,shamunt,fear,0,2,0
+phex,usleon,zilo,rk,0,2,0
+alan,shroomed,phex,usleon,0,2,0
+c4d,megaman,launch,flex36,0,2,0
+jackkenney,@ashkon_,pinkfluffycuddlebunny,jotinos,0,2,0
+cola,blue jay,g,beely,0,2,0
+c4d,megaman,echopath,6 lasers,0,2,0
+jackkenney,@ashkon_,cola,blue jay,0,2,1
 shamunt,fear,c4d,megaman,0,2,1
 zilo,rk,jackkenney,@ashkon_,0,2,0
-zilo,rk,c4d,megaman,0,2,0
-c4d,megaman,echopath,6 lasers,0,2,0
-c4d,megaman,launch,flex36,0,2,0
-c4d,megaman,g,beely,0,2,0
-alan,shroomed,phex,usleon,0,2,0
-alan,shroomed,shamunt,fear,0,2,0
-alan,shroomed,cola,blue jay,0,2,0
-cola,blue jay,launch,flex36,0,2,0
-cola,blue jay,g,beely,0,2,0
+shamunt,fear,zilo,rk,1,0,2
+phex,usleon,zilo,rk,0,-2,-2
 kwang,rymo,liban$,ashley,0,2,1
 _milktea,suzarya,yep,remioli,1,1,2
 bi,dano,slayr,kuradoberi,1,1,2
@@ -228,27 +228,27 @@ bacon,thebiggestc,albinosaurus,cab,0,2,0
 calvin,dragmire jr,zbert,aeoluxar,1,0,2
 bacon,thebiggestc,zbert,aeoluxar,0,2,0
 gocutiego,dew,bacon,thebiggestc,0,-2,-2
-darkatma,frootloop,vortex,equal,1,1,2
-darkatma,frootloop,donb,rainbow,0,2,0
-darkatma,frootloop,eikelmann,whatisfear,0,-2,-2
-darkatma,frootloop,lmnts,jameps,0,2,0
-vortex,equal,gemini,electroswoosh,0,2,0
-vortex,equal,eikelmann,whatisfear,0,2,0
-pkp,octobear,easton,maverick,0,2,0
-pkp,octobear,cmg,veklor,1,0,2
-donb,rainbow,pkp,octobear,0,2,0
-donb,rainbow,pinkdeaf1,shaqfu,0,2,0
-donb,rainbow,eikelmann,whatisfear,1,0,2
-sazeny,puff,pkp,octobear,1,1,2
-gemini,electroswoosh,sazeny,puff,1,1,2
-gemini,electroswoosh,easton,maverick,0,2,0
-pinkdeaf1,shaqfu,djdriftking.97,chals,0,2,0
-pinkdeaf1,shaqfu,sazeny,puff,0,2,0
-pinkdeaf1,shaqfu,cmg,veklor,0,2,0
-eikelmann,whatisfear,pinkdeaf1,shaqfu,0,2,0
-eikelmann,whatisfear,cmg,veklor,0,2,0
 lmnts,jameps,djdriftking.97,chals,0,2,1
+sazeny,puff,pkp,octobear,1,1,2
+gemini,electroswoosh,easton,maverick,0,2,0
+pinkdeaf1,shaqfu,cmg,veklor,0,2,0
+darkatma,frootloop,lmnts,jameps,0,2,0
+donb,rainbow,pkp,octobear,0,2,0
+vortex,equal,gemini,electroswoosh,0,2,0
+eikelmann,whatisfear,pinkdeaf1,shaqfu,0,2,0
+darkatma,frootloop,donb,rainbow,0,2,0
+vortex,equal,eikelmann,whatisfear,0,2,0
+darkatma,frootloop,vortex,equal,1,1,2
+pinkdeaf1,shaqfu,djdriftking.97,chals,0,2,0
+gemini,electroswoosh,sazeny,puff,1,1,2
+pkp,octobear,easton,maverick,0,2,0
 lmnts,jameps,cmg,veklor,1,0,2
+pinkdeaf1,shaqfu,sazeny,puff,0,2,0
+pkp,octobear,cmg,veklor,1,0,2
+donb,rainbow,pinkdeaf1,shaqfu,0,2,0
+eikelmann,whatisfear,cmg,veklor,0,2,0
+donb,rainbow,eikelmann,whatisfear,1,0,2
+darkatma,frootloop,eikelmann,whatisfear,0,-2,-2
 kramepie,tilt,doom,s2b,1,1,2
 kramepie,tilt,rap!d,nathansandwich,0,2,0
 vite,milk$,jackzilla,645development,0,2,0
@@ -375,27 +375,27 @@ eggy,hyunnies,groovy green hat,danimals,0,2,1
 treble,aubfox,friend,birdperson,0,2,0
 eggy,hyunnies,treble,aubfox,0,2,0
 luigikid,mchi,eggy,hyunnies,0,-2,-2
-rice,ten,heisenberg,yosemite dabbs,0,2,0
-wamsa,anjo,sneazi,wishengrad,0,2,0
-jame,geruyop,gimli,quiteballin,1,-1,0
-law,y.n.c.,klagsy,aspen,0,2,0
-axe,plup,rice,ten,0,2,0
-grandma's cleavage,irish,wamsa,anjo,1,-1,0
-koopatroopa895,imyt,gimli,quiteballin,0,2,0
-kevorkian,atomsk,law,y.n.c.,0,2,0
-axe,plup,wamsa,anjo,0,2,0
-koopatroopa895,imyt,kevorkian,atomsk,0,2,0
-axe,plup,koopatroopa895,imyt,0,2,0
-law,y.n.c.,heisenberg,yosemite dabbs,0,2,0
-gimli,quiteballin,sneazi,wishengrad,0,2,0
-grandma's cleavage,irish,jame,geruyop,1,-1,0
-rice,ten,klagsy,aspen,0,2,0
-law,y.n.c.,gimli,quiteballin,0,2,1
-jame,geruyop,rice,ten,1,-1,0
-wamsa,anjo,law,y.n.c.,0,2,0
-kevorkian,atomsk,rice,ten,0,2,0
-wamsa,anjo,kevorkian,atomsk,1,0,2
 koopatroopa895,imyt,kevorkian,atomsk,0,-2,-2
+koopatroopa895,imyt,kevorkian,atomsk,0,2,0
+koopatroopa895,imyt,gimli,quiteballin,0,2,0
+wamsa,anjo,kevorkian,atomsk,1,0,2
+wamsa,anjo,law,y.n.c.,0,2,0
+wamsa,anjo,sneazi,wishengrad,0,2,0
+rice,ten,klagsy,aspen,0,2,0
+rice,ten,heisenberg,yosemite dabbs,0,2,0
+kevorkian,atomsk,rice,ten,0,2,0
+kevorkian,atomsk,law,y.n.c.,0,2,0
+law,y.n.c.,klagsy,aspen,0,2,0
+law,y.n.c.,heisenberg,yosemite dabbs,0,2,0
+law,y.n.c.,gimli,quiteballin,0,2,1
+grandma's cleavage,irish,wamsa,anjo,1,-1,0
+grandma's cleavage,irish,jame,geruyop,1,-1,0
+axe,plup,koopatroopa895,imyt,0,2,0
+axe,plup,wamsa,anjo,0,2,0
+axe,plup,rice,ten,0,2,0
+jame,geruyop,rice,ten,1,-1,0
+jame,geruyop,gimli,quiteballin,1,-1,0
+gimli,quiteballin,sneazi,wishengrad,0,2,0
 the meadow,flashburn 117,deadstorm,pancho,0,-2,-2
 timemuffinphd,pilot,jimmynojohns,papanojohns,0,-2,-2
 kirbykid,brandonthehighschooler,nochill,führer,0,-2,-2
@@ -721,34 +721,34 @@ captain faceroll,cdk,l,nmw,0,2,0
 rustin,fatgoku,tafokints,r2dliu,0,2,0
 abate,eddy mexico,captain faceroll,cdk,1,0,2
 rustin,fatgoku,captain faceroll,cdk,0,-2,-2
+reno,lucky,adamayonmike,zgetto,0,2,1
+axe,plup,crush,satdaddy,0,0,-1
+leffen,ice,redd,zain,0,2,0
+westballz,prince f. abu,ken,el fuego,1,0,2
+reno,lucky,axe,plup,1,0,2
+leffen,ice,ken,el fuego,0,2,0
+axe,plup,leffen,ice,0,-2,-2
+tirno,gar,bigwenz,juggleguy,0,2,0
+zhu,cactuar,scape,joshuwasha,0,2,0
+jkj,subtle,mrpbody,neeco,0,0,-1
+dr. z,taj,brtarolg,crunch,1,1,2
+j666,jace,nikabod,balloon,0,2,0
 わっち(watch),rudolph,davis,zeldafreak,0,0,-1
 silentspectre,tang,andymosity,q,1,1,2
+brick,eggz,yams,hdbryan,1,1,2
+tirno,gar,zhu,cactuar,1,1,2
+jkj,subtle,brtarolg,crunch,0,2,0
+j666,jace,わっち(watch),rudolph,0,2,0
+andymosity,q,yams,hdbryan,0,2,1
 crush,satdaddy,zhu,cactuar,1,-1,0
 adamayonmike,zgetto,jkj,subtle,0,2,0
-j666,jace,わっち(watch),rudolph,0,2,0
-j666,jace,nikabod,balloon,0,2,0
-redd,zain,andymosity,q,0,2,1
-andymosity,q,yams,hdbryan,0,2,1
-axe,plup,crush,satdaddy,0,0,-1
-axe,plup,leffen,ice,0,-2,-2
-leffen,ice,redd,zain,0,2,0
-leffen,ice,ken,el fuego,0,2,0
-ken,el fuego,reno,lucky,0,-2,-2
-ken,el fuego,zhu,cactuar,0,2,0
 westballz,prince f. abu,j666,jace,0,2,0
-westballz,prince f. abu,redd,zain,1,0,2
-westballz,prince f. abu,ken,el fuego,1,0,2
-reno,lucky,adamayonmike,zgetto,0,2,1
-reno,lucky,redd,zain,0,2,0
-reno,lucky,axe,plup,1,0,2
-zhu,cactuar,scape,joshuwasha,0,2,0
+redd,zain,andymosity,q,0,2,1
 zhu,cactuar,adamayonmike,zgetto,0,2,1
-jkj,subtle,brtarolg,crunch,0,2,0
-jkj,subtle,mrpbody,neeco,0,0,-1
-tirno,gar,bigwenz,juggleguy,0,2,0
-tirno,gar,zhu,cactuar,1,1,2
-dr. z,taj,brtarolg,crunch,1,1,2
-brick,eggz,yams,hdbryan,1,1,2
+westballz,prince f. abu,redd,zain,1,0,2
+ken,el fuego,zhu,cactuar,0,2,0
+reno,lucky,redd,zain,0,2,0
+ken,el fuego,reno,lucky,0,-2,-2
 druggedfox,macd,logos,luigi ka-master,0,2,0
 dj nintendo,the moon,n0ne,blea gelo,0,2,1
 gahtzu,colbol,syrox,bladewise,1,1,2

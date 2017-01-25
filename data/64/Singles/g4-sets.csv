@@ -19,24 +19,24 @@ aces,hunter,0,2,0
 tonester,jollie,0,2,0
 letsgo,aces,0,2,0
 tonester,letsgo,0,-2,-2
-oxycontin,k,1,-1,0
-darv,iamlazee,0,2,0
-big d squirrels,foxnard,0,0,-1
-zero,k,0,2,0
-dusttin,automatic,1,0,2
-handsometom,darv,0,2,0
-llcstoism,big d squirrels,0,0,-1
-zero,automatic,0,2,0
-handsometom,llcstoism,0,2,0
-zero,handsometom,0,-2,-2
 big d squirrels,oxycontin,0,0,-1
-dusttin,iamlazee,0,2,0
-k,foxnard,0,0,-1
 big d squirrels,darv,1,0,2
-dusttin,k,0,2,0
-automatic,darv,0,2,0
+big d squirrels,foxnard,0,0,-1
+oxycontin,k,1,-1,0
+llcstoism,big d squirrels,0,0,-1
 llcstoism,dusttin,0,2,0
+darv,iamlazee,0,2,0
 automatic,llcstoism,0,-2,-2
+automatic,darv,0,2,0
+zero,automatic,0,2,0
+zero,k,0,2,0
+zero,handsometom,0,-2,-2
+k,foxnard,0,0,-1
+handsometom,llcstoism,0,2,0
+handsometom,darv,0,2,0
+dusttin,automatic,1,0,2
+dusttin,k,0,2,0
+dusttin,iamlazee,0,2,0
 danny,showtime,1,-1,0
 duncs,spammalanche,0,2,0
 louieg,howdy,1,0,2
@@ -115,24 +115,24 @@ luigikid,maze,1,0,2
 smash jesus,supernuggit,0,2,0
 blondekid,maze,0,2,0
 smash jesus,blondekid,0,-2,-2
+gibbles,eggmode,1,0,2
+gibbles,pizza,1,0,2
 tipc,sunkin,0,2,0
-jesusisking,gibbles,1,0,2
-dixoncider,fish,0,0,-1
+tipc,fish,0,2,0
 wizzrobe,tipc,0,2,0
-pizza,quitrage,1,0,2
+wizzrobe,quitrage,0,2,0
+wizzrobe,eggmode,0,-2,-2
+quitrage,dixoncider,0,2,0
+quitrage,pizza,0,-2,-2
 joshi,gibbles,1,-1,0
 eggmode,dixoncider,0,2,1
-wizzrobe,quitrage,0,2,0
-gibbles,eggmode,1,0,2
-wizzrobe,eggmode,0,-2,-2
 dixoncider,sunkin,0,2,0
-pizza,jesusisking,0,2,0
-tipc,fish,0,2,0
 dixoncider,joshi,0,0,-1
+dixoncider,fish,0,0,-1
 pizza,tipc,0,2,0
-quitrage,dixoncider,0,2,0
-gibbles,pizza,1,0,2
-quitrage,pizza,0,-2,-2
+pizza,quitrage,1,0,2
+pizza,jesusisking,0,2,0
+jesusisking,gibbles,1,0,2
 sfat,the yid,1,0,2
 taiko,bottle opener guy,0,2,0
 tanuki,myroknpancakes,1,0,2

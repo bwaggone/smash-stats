@@ -240,33 +240,33 @@ vikkikitty,dj jack,kwaz,cagt,0,2,0
 jk,lycan,mono,s4rbassi,0,2,0
 vikkikitty,dj jack,jk,lycan,1,1,2
 jtails,zenyou,jk,lycan,0,-2,-2
-hark,pilgrim,vermillion,c4,1,0,2
-shoyo james,schwapple,cardstealer,mathematrix,0,0,-1
-heroofwinds,death arcana,string cheese,captainslow,0,0,-1
-zinoto,ned,shibō,sd master,0,2,0
+cardstealer,mathematrix,string cheese,captainslow,1,-1,0
 9tales,meowmc,cpu_2,dad,0,2,0
-phuzix,rideae,cbkreme,zerango,0,2,0
+9tales,meowmc,string cheese,captainslow,0,2,0
+vermillion,c4,cbkreme,zerango,0,2,0
 xeno,sunblaze,slow hand,buckstrom,1,0,2
 aarvark,elegant,vermillion,c4,0,2,0
-shoyo james,schwapple,heroofwinds,death arcana,0,2,0
-zinoto,ned,9tales,meowmc,0,2,0
-phuzix,rideae,slow hand,buckstrom,0,2,0
 aarvark,elegant,shoyo james,schwapple,0,2,0
-zinoto,ned,phuzix,rideae,0,2,0
 aarvark,elegant,zinoto,ned,0,2,1
-cardstealer,mathematrix,string cheese,captainslow,1,-1,0
-shibō,sd master,cpu_2,dad,1,0,2
-cbkreme,zerango,xeno,sunblaze,0,2,0
-slow hand,buckstrom,hark,pilgrim,1,0,2
-9tales,meowmc,string cheese,captainslow,0,2,0
-heroofwinds,death arcana,cpu_2,dad,0,2,0
-vermillion,c4,cbkreme,zerango,0,2,0
-hark,pilgrim,9tales,meowmc,1,0,2
-heroofwinds,death arcana,vermillion,c4,1,0,2
+shoyo james,schwapple,cardstealer,mathematrix,0,0,-1
 shoyo james,schwapple,9tales,meowmc,0,2,0
-phuzix,rideae,vermillion,c4,1,0,2
 shoyo james,schwapple,vermillion,c4,0,2,1
+shoyo james,schwapple,heroofwinds,death arcana,0,2,0
+slow hand,buckstrom,hark,pilgrim,1,0,2
+hark,pilgrim,9tales,meowmc,1,0,2
+hark,pilgrim,vermillion,c4,1,0,2
+zinoto,ned,9tales,meowmc,0,2,0
 zinoto,ned,shoyo james,schwapple,0,-2,-2
+zinoto,ned,phuzix,rideae,0,2,0
+zinoto,ned,shibō,sd master,0,2,0
+phuzix,rideae,vermillion,c4,1,0,2
+phuzix,rideae,slow hand,buckstrom,0,2,0
+phuzix,rideae,cbkreme,zerango,0,2,0
+cbkreme,zerango,xeno,sunblaze,0,2,0
+shibō,sd master,cpu_2,dad,1,0,2
+heroofwinds,death arcana,vermillion,c4,1,0,2
+heroofwinds,death arcana,cpu_2,dad,0,2,0
+heroofwinds,death arcana,string cheese,captainslow,0,0,-1
 pollo,snoop,thephoeater,dave,0,2,0
 tltc,stark,ashley,nick fury,0,2,0
 koolaid,hackoru,lui$,smurf,0,2,0
