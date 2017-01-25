@@ -18,6 +18,7 @@ def tourn_scraper(slug):
     data = json.loads(r.text)
 
     tournament_dates = [time.strftime('%Y-%m-%d', time.localtime(data["entities"]["tournament"]["startAt"])),time.strftime('%Y-%m-%d', time.localtime(data["entities"]["tournament"]["endAt"]))]
+    tournament_name = data["entities"]["tournament"]["name"]
 
     phase_ids = []
     event_ids = []
@@ -69,7 +70,7 @@ def tourn_scraper(slug):
         #              Big Brother Teams - Eden
 
 
-        if(not_found or events[event].game == "YOLO" or events[event].game == "" or events[event].format == "Crews" or ("Lane Shift" in events[event].event_name) or ("Crews" in events[event].event_name) or ("Low Tier" in events[event].event_name) or ("Teams" in events[event].event_name)):
+        if(not_found or events[event].game == "YOLO" or events[event].game == "" or events[event].format == "Crews" or ("Lane Shift" in events[event].event_name) or ("Crews" in events[event].event_name) or ("Low Tier" in events[event].event_name) or ("Teams" in events[event].event_name) or ("Ladder" in events[event].event_name)):
             #print("Skipping 1 event")
             continue
         
@@ -86,12 +87,12 @@ def tourn_scraper(slug):
 
             if(not check):
                 master = open(master_file, "a")
-                master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
+                master.write(tournament_name + "," + slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
                 master.close()
         except:
             master = open(master_file, "a+")
-            master.write("Tournament,startDate,endDate,entrants\n")
-            master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
+            master.write("Tournament,slug,startDate,endDate,entrants\n")
+            master.write(tournament_name + "," + slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
             master.close()
 
         lock.release()

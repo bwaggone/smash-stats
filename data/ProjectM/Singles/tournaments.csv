@@ -1,8 +1,8 @@
-Tournament,startDate,endDate,entrants
-smash-n-splash-2-1,2016-06-11,2016-06-12,234
-wtfox-2,2016-07-02,2016-07-04,49
-low-tier-city-4,2016-06-18,2016-06-20,233
-clutch-city-clash-powered-by-xyience,2016-08-06,2016-08-08,106
-beast-6,2016-02-18,2016-02-21,160
-heir-3-1,2016-08-18,2016-08-21,192
-showdown-battle-royale,2016-12-10,2016-12-11,54
+Tournament,slug,startDate,endDate,entrants
+Smash'N'Splash 2,smash-n-splash-2-1,2016-06-11,2016-06-12,234
+WTFox 2,wtfox-2,2016-07-02,2016-07-04,49
+Showdown: Battle Royale,showdown-battle-royale,2016-12-10,2016-12-11,54
+Low Tier City 4,low-tier-city-4,2016-06-18,2016-06-20,233
+Clutch City Clash - Powered by Xyience,clutch-city-clash-powered-by-xyience,2016-08-06,2016-08-08,106
+Heir 3,heir-3-1,2016-08-18,2016-08-21,192
+BEAST 6,beast-6,2016-02-18,2016-02-21,160

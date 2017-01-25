@@ -19,24 +19,24 @@ aces,hunter,0,2,0
 tonester,jollie,0,2,0
 letsgo,aces,0,2,0
 tonester,letsgo,0,-2,-2
-big d squirrels,oxycontin,0,0,-1
-big d squirrels,darv,1,0,2
-big d squirrels,foxnard,0,0,-1
 oxycontin,k,1,-1,0
-llcstoism,big d squirrels,0,0,-1
-llcstoism,dusttin,0,2,0
 darv,iamlazee,0,2,0
-automatic,llcstoism,0,-2,-2
-automatic,darv,0,2,0
-zero,automatic,0,2,0
+big d squirrels,foxnard,0,0,-1
 zero,k,0,2,0
-zero,handsometom,0,-2,-2
-k,foxnard,0,0,-1
-handsometom,llcstoism,0,2,0
-handsometom,darv,0,2,0
 dusttin,automatic,1,0,2
-dusttin,k,0,2,0
+handsometom,darv,0,2,0
+llcstoism,big d squirrels,0,0,-1
+zero,automatic,0,2,0
+handsometom,llcstoism,0,2,0
+zero,handsometom,0,-2,-2
+big d squirrels,oxycontin,0,0,-1
 dusttin,iamlazee,0,2,0
+k,foxnard,0,0,-1
+big d squirrels,darv,1,0,2
+dusttin,k,0,2,0
+automatic,darv,0,2,0
+llcstoism,dusttin,0,2,0
+automatic,llcstoism,0,-2,-2
 danny,showtime,1,-1,0
 duncs,spammalanche,0,2,0
 louieg,howdy,1,0,2
@@ -283,28 +283,28 @@ seantos,thissideup,0,0,-1
 starchild,superflopp,1,-1,0
 ditto,ceephax,0,2,0
 seantos,cagt,1,1,2
-superflopp,ditto,0,2,0
+superflopp,ditto,0,2,1
 collin,cagt,0,2,0
 onski,superflopp,0,2,0
 collin,onski,0,-2,-2
-my buddy mike,muse,0,2,0
+captain l,spark,0,2,0
+captain l,neat,0,2,0
+muse,fry,0,2,1
 jame,fry,1,0,2
 kieuarty,neat,1,0,2
-tacos,my buddy mike,0,2,0
-subtle,spark,0,2,0
-cobr,fry,0,2,0
-captain l,neat,0,2,0
-tacos,subtle,0,2,0
 cobr,captain l,0,2,0
-tacos,cobr,0,-2,-2
-neat,muse,1,0,2
+cobr,fry,0,2,0
 spark,jame,0,2,0
-my buddy mike,kieuarty,0,2,0
-muse,fry,0,2,1
 spark,my buddy mike,0,2,0
-subtle,muse,0,2,0
-captain l,spark,0,2,0
 subtle,captain l,0,-2,-2
+subtle,muse,0,2,0
+subtle,spark,0,2,0
+neat,muse,1,0,2
+tacos,cobr,0,-2,-2
+tacos,subtle,0,2,0
+tacos,my buddy mike,0,2,0
+my buddy mike,muse,0,2,0
+my buddy mike,kieuarty,0,2,0
 mariguas,janitor,0,2,0
 zero,handsometom,1,0,2
 k y s k,ctg,0,2,0

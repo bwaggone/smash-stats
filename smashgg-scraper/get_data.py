@@ -12,6 +12,8 @@ data = json.loads(r.text)
 
 tournament_dates = [time.strftime('%Y-%m-%d', time.localtime(data["entities"]["tournament"]["startAt"])),time.strftime('%Y-%m-%d', time.localtime(data["entities"]["tournament"]["endAt"]))]
 
+tournament_name = data["entities"]["tournament"]["name"]
+
 phase_ids = []
 event_ids = []
 event_phases = defaultdict(list)
@@ -55,7 +57,7 @@ for event in events:
    
     #64, why do you have a "game" called YOLO? pls
     #Also crews is just a pain in the ass, skipppp
-    if(not_found or events[event].game == "YOLO" or events[event].game == "" or events[event].format == "Crews" or ("Lane Shift" in events[event].event_name) or ("Crews" in events[event].event_name) or ("Low Tier" in events[event].event_name) or ("Big Brother" in events[event].event_name)):
+    if(not_found or events[event].game == "YOLO" or events[event].game == "" or events[event].format == "Crews" or ("Lane Shift" in events[event].event_name) or ("Crews" in events[event].event_name) or ("Low Tier" in events[event].event_name) or ("Big Brother" in events[event].event_name) or ("Ladder" in events[event].event_name)):
         print("Skipping 1 event")
         continue
     
@@ -71,12 +73,12 @@ for event in events:
 
         if(not check):
             master = open(master_file, "a")
-            master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
+            master.write(tournament_name + "," + slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
             master.close()
     except:
         master = open(master_file, "a+")
-        master.write("Tournament,startDate,endDate,entrants\n")
-        master.write(slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
+        master.write("Tournament,slug,startDate,endDate,entrants\n")
+        master.write(tournament_name + "," + slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
         master.close()
     
     filename = "../data/" + events[event].game + "/" + events[event].format + "/" + slug + "-sets.csv" 

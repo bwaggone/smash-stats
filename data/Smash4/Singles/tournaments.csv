@@ -1,28 +1,25 @@
 Tournament,slug,startDate,endDate,entrants
-2ggc-genesis-saga-1,2017-01-14,2017-01-15,466
-don-t-park-on-the-grass,2016-12-17,2016-12-19,201
-the-big-house-6,2016-10-07,2016-10-09,777
-pax-arena,2016-01-29,2016-01-31,49
-ugc-smash-open,2016-12-02,2016-12-05,205
-low-tier-city-4,2016-06-18,2016-06-20,317
-syndicate-2016,2016-09-10,2016-09-11,320
-clutch-city-clash-powered-by-xyience,2016-08-06,2016-08-08,241
-wtfox-2,2016-07-02,2016-07-04,174
-eclipse-2,2016-10-20,2016-10-22,175
-ugc-smash-open,2016-12-02,2016-12-05,63
-canada-cup-2016,2016-10-28,2016-10-30,184
-ugc-smash-open,2016-12-02,2016-12-05,140
-ceo-2016,2016-06-24,2016-06-27,906
-get-on-my-level-2016-good-game-con-ft-hbox-2,2016-05-20,2016-05-22,489
-beast-6,2016-02-18,2016-02-21,267
-super-smash-con-2016,2016-08-11,2016-08-14,1272
-pound-2016,2016-04-02,2016-04-03,513
-smash-n-splash-2-1,2016-06-11,2016-06-12,261
-g3,2016-01-15,2016-01-18,1096
-g4,2017-01-20,2017-01-23,1012
-smash-conference-lxix-3,2017-01-07,2017-01-07,225
-2ggt-zero-saga,2016-12-16,2016-12-19,361
-showdown-battle-royale,2016-12-10,2016-12-11,134
-ktar-xix,2016-11-19,2016-11-19,455
-mm6,2017-01-07,2017-01-08,285
-shine-2016,2016-08-26,2016-08-28,483
+2GGC: Genesis Saga,2ggc-genesis-saga-1,2017-01-14,2017-01-15,466
+Midwest Mayhem 6,mm6,2017-01-07,2017-01-08,285
+2GGT: ZeRo Saga - One Year Anniversary,2ggt-zero-saga,2016-12-16,2016-12-19,361
+Don't Park On The Grass,don-t-park-on-the-grass,2016-12-17,2016-12-19,201
+The Big House 6,the-big-house-6,2016-10-07,2016-10-09,777
+PAX Arena,pax-arena,2016-01-29,2016-01-31,49
+UGC Smash Open,ugc-smash-open,2016-12-02,2016-12-05,205
+SMASH CONFERENCE LXIX,smash-conference-lxix-3,2017-01-07,2017-01-07,225
+Low Tier City 4,low-tier-city-4,2016-06-18,2016-06-20,317
+Syndicate 2016,syndicate-2016,2016-09-10,2016-09-11,320
+Clutch City Clash - Powered by Xyience,clutch-city-clash-powered-by-xyience,2016-08-06,2016-08-08,241
+Showdown: Battle Royale,showdown-battle-royale,2016-12-10,2016-12-11,134
+WTFox 2,wtfox-2,2016-07-02,2016-07-04,174
+Eclipse 2,eclipse-2,2016-10-20,2016-10-22,175
+Canada Cup 2016,canada-cup-2016,2016-10-28,2016-10-30,184
+CEO 2016,ceo-2016,2016-06-24,2016-06-27,906
+Get On My Level 2016,get-on-my-level-2016-good-game-con-ft-hbox-2,2016-05-20,2016-05-22,489
+BEAST 6,beast-6,2016-02-18,2016-02-21,267
+Super Smash Con 2016,super-smash-con-2016,2016-08-11,2016-08-14,1272
+Pound 2016,pound-2016,2016-04-02,2016-04-03,513
+Smash'N'Splash 2,smash-n-splash-2-1,2016-06-11,2016-06-12,261
+Shine 2016,shine-2016,2016-08-26,2016-08-28,483
+Genesis 3,g3,2016-01-15,2016-01-18,1096
+Genesis 4,g4,2017-01-20,2017-01-23,1012

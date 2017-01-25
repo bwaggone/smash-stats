@@ -1,40 +1,30 @@
 Tournament,slug,startDate,endDate,entrants
-battle-of-the-five-gods,2016-03-17,2016-03-20,20
-dreamhack-winter-2016,2016-11-25,2016-11-26,242
-dreamhack-austin-2016,2016-05-06,2016-05-08,404
-smash-summit-2,2016-04-21,2016-04-25,16
-pax-arena,2016-01-29,2016-01-31,62
-syndicate-2016,2016-09-10,2016-09-11,209
-beast-6,2016-02-18,2016-02-21,410
-heir-3-1,2016-08-18,2016-08-21,473
-sweet-25,2017-01-14,2017-01-14,63
-smash-summit-2,2016-04-21,2016-04-25,9
-low-tier-city-4,2016-06-18,2016-06-20,294
-clutch-city-clash-powered-by-xyience,2016-08-06,2016-08-08,270
-sweet-25,2017-01-14,2017-01-14,232
-super-smash-con-2016,2016-08-11,2016-08-14,940
-smash-summit-3,2016-11-03,2016-11-06,4
-wtfox-2,2016-07-02,2016-07-04,292
-eclipse-2,2016-10-20,2016-10-22,247
-smash-summit-3,2016-11-03,2016-11-06,16
-ceo-2016,2016-06-24,2016-06-27,678
-canada-cup-2016,2016-10-28,2016-10-30,232
-get-on-my-level-2016-good-game-con-ft-hbox-2,2016-05-20,2016-05-22,509
-shine-2016,2016-08-26,2016-08-28,399
-pound-2016,2016-04-02,2016-04-03,933
-don-t-park-on-the-grass,2016-12-17,2016-12-19,640
-g3,2016-01-15,2016-01-18,1828
-smash-n-splash-2-1,2016-06-11,2016-06-12,459
-ugc-smash-open,2016-12-02,2016-12-05,21
-ugc-smash-open,2016-12-02,2016-12-05,255
-don-t-park-on-the-grass,2016-12-17,2016-12-19,48
-the-big-house-6,2016-10-07,2016-10-09,673
-heir-3-1,2016-08-18,2016-08-21,8
-the-big-house-6,2016-10-07,2016-10-09,1563
-g4,2017-01-20,2017-01-23,1704
-smash-conference-lxix-3,2017-01-07,2017-01-07,103
-eden,2016-12-10,2016-12-11,184
-eden,2016-12-10,2016-12-11,22
-showdown-battle-royale,2016-12-10,2016-12-11,31
-ktar-xix,2016-11-19,2016-11-19,44
-shine-2016,2016-08-26,2016-08-28,989
+Dreamhack Winter 2016,dreamhack-winter-2016,2016-11-25,2016-11-26,242
+Battle of the Five Gods,battle-of-the-five-gods,2016-03-17,2016-03-20,20
+Smash Summit 2,smash-summit-2,2016-04-21,2016-04-25,16
+DreamHack Austin 2016,dreamhack-austin-2016,2016-05-06,2016-05-08,404
+PAX Arena,pax-arena,2016-01-29,2016-01-31,62
+Heir 3,heir-3-1,2016-08-18,2016-08-21,473
+Syndicate 2016,syndicate-2016,2016-09-10,2016-09-11,209
+SWEET 25,sweet-25,2017-01-14,2017-01-14,63
+Eden,eden,2016-12-10,2016-12-11,103
+Low Tier City 4,low-tier-city-4,2016-06-18,2016-06-20,294
+BEAST 6,beast-6,2016-02-18,2016-02-21,410
+Clutch City Clash - Powered by Xyience,clutch-city-clash-powered-by-xyience,2016-08-06,2016-08-08,270
+Eclipse 2,eclipse-2,2016-10-20,2016-10-22,247
+Smash Summit 3,smash-summit-3,2016-11-03,2016-11-06,4
+SMASH CONFERENCE LXIX,smash-conference-lxix-3,2017-01-07,2017-01-07,103
+Super Smash Con 2016,super-smash-con-2016,2016-08-11,2016-08-14,940
+WTFox 2,wtfox-2,2016-07-02,2016-07-04,292
+Genesis 4,g4,2017-01-20,2017-01-23,88
+CEO 2016,ceo-2016,2016-06-24,2016-06-27,678
+Get On My Level 2016,get-on-my-level-2016-good-game-con-ft-hbox-2,2016-05-20,2016-05-22,509
+Canada Cup 2016,canada-cup-2016,2016-10-28,2016-10-30,232
+Showdown: Battle Royale,showdown-battle-royale,2016-12-10,2016-12-11,31
+Shine 2016,shine-2016,2016-08-26,2016-08-28,989
+Pound 2016,pound-2016,2016-04-02,2016-04-03,933
+Don't Park On The Grass,don-t-park-on-the-grass,2016-12-17,2016-12-19,640
+Genesis 3,g3,2016-01-15,2016-01-18,1828
+Smash'N'Splash 2,smash-n-splash-2-1,2016-06-11,2016-06-12,459
+UGC Smash Open,ugc-smash-open,2016-12-02,2016-12-05,255
+The Big House 6,the-big-house-6,2016-10-07,2016-10-09,673

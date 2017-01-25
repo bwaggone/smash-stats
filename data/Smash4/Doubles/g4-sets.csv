@@ -240,33 +240,33 @@ vikkikitty,dj jack,kwaz,cagt,0,2,0
 jk,lycan,mono,s4rbassi,0,2,0
 vikkikitty,dj jack,jk,lycan,1,1,2
 jtails,zenyou,jk,lycan,0,-2,-2
-cardstealer,mathematrix,string cheese,captainslow,1,-1,0
+hark,pilgrim,vermillion,c4,1,0,2
+shoyo james,schwapple,cardstealer,mathematrix,0,0,-1
+heroofwinds,death arcana,string cheese,captainslow,0,0,-1
+zinoto,ned,shibō,sd master,0,2,0
 9tales,meowmc,cpu_2,dad,0,2,0
-9tales,meowmc,string cheese,captainslow,0,2,0
-vermillion,c4,cbkreme,zerango,0,2,0
+phuzix,rideae,cbkreme,zerango,0,2,0
 xeno,sunblaze,slow hand,buckstrom,1,0,2
 aarvark,elegant,vermillion,c4,0,2,0
-aarvark,elegant,shoyo james,schwapple,0,2,0
-aarvark,elegant,zinoto,ned,0,2,1
-shoyo james,schwapple,cardstealer,mathematrix,0,0,-1
-shoyo james,schwapple,9tales,meowmc,0,2,0
-shoyo james,schwapple,vermillion,c4,0,2,1
 shoyo james,schwapple,heroofwinds,death arcana,0,2,0
-slow hand,buckstrom,hark,pilgrim,1,0,2
-hark,pilgrim,9tales,meowmc,1,0,2
-hark,pilgrim,vermillion,c4,1,0,2
 zinoto,ned,9tales,meowmc,0,2,0
-zinoto,ned,shoyo james,schwapple,0,-2,-2
-zinoto,ned,phuzix,rideae,0,2,0
-zinoto,ned,shibō,sd master,0,2,0
-phuzix,rideae,vermillion,c4,1,0,2
 phuzix,rideae,slow hand,buckstrom,0,2,0
-phuzix,rideae,cbkreme,zerango,0,2,0
-cbkreme,zerango,xeno,sunblaze,0,2,0
+aarvark,elegant,shoyo james,schwapple,0,2,0
+zinoto,ned,phuzix,rideae,0,2,0
+aarvark,elegant,zinoto,ned,0,2,1
+cardstealer,mathematrix,string cheese,captainslow,1,-1,0
 shibō,sd master,cpu_2,dad,1,0,2
-heroofwinds,death arcana,vermillion,c4,1,0,2
+cbkreme,zerango,xeno,sunblaze,0,2,0
+slow hand,buckstrom,hark,pilgrim,1,0,2
+9tales,meowmc,string cheese,captainslow,0,2,0
 heroofwinds,death arcana,cpu_2,dad,0,2,0
-heroofwinds,death arcana,string cheese,captainslow,0,0,-1
+vermillion,c4,cbkreme,zerango,0,2,0
+hark,pilgrim,9tales,meowmc,1,0,2
+heroofwinds,death arcana,vermillion,c4,1,0,2
+shoyo james,schwapple,9tales,meowmc,0,2,0
+phuzix,rideae,vermillion,c4,1,0,2
+shoyo james,schwapple,vermillion,c4,0,2,1
+zinoto,ned,shoyo james,schwapple,0,-2,-2
 pollo,snoop,thephoeater,dave,0,2,0
 tltc,stark,ashley,nick fury,0,2,0
 koolaid,hackoru,lui$,smurf,0,2,0
@@ -371,31 +371,31 @@ legit,virus,~fade,pod,0,2,0
 ksev,nom,dak,max ketchum,0,2,1
 legit,virus,ksev,nom,0,2,0
 manny,day,legit,virus,0,-2,-2
-fox,rachow,joeosborn,mechadude,0,2,0
-gloomy,vash,diatribe,by_tor,0,2,0
-bang!,jjrockets,mexican  spongebob,6 lasers,1,-1,0
-gshark,torn,felix,「dio」,1,0,2
-big d,firefly,jarule,jayc,0,2,0
-chudat,atomsk,dr. robotnik,watdafox,0,2,0
-void,nakat,fox,rachow,0,2,0
-gloomy,vash,mexican  spongebob,6 lasers,0,2,0
-9b,filip,felix,「dio」,0,2,0
-big d,firefly,chudat,atomsk,0,2,1
-void,nakat,gloomy,vash,0,2,0
-9b,filip,big d,firefly,1,0,2
-void,nakat,big d,firefly,0,2,1
-diatribe,by_tor,bang!,jjrockets,0,0,-1
-jarule,jayc,dr. robotnik,watdafox,1,0,2
-chudat,atomsk,joeosborn,mechadude,0,2,0
-felix,「dio」,diatribe,by_tor,0,2,0
 mexican  spongebob,6 lasers,gshark,torn,1,0,2
-fox,rachow,dr. robotnik,watdafox,1,0,2
+felix,「dio」,diatribe,by_tor,0,2,0
+jarule,jayc,dr. robotnik,watdafox,1,0,2
+diatribe,by_tor,bang!,jjrockets,0,0,-1
+chudat,atomsk,joeosborn,mechadude,0,2,0
 chudat,atomsk,felix,「dio」,1,0,2
-gshark,torn,dr. robotnik,watdafox,1,1,2
-gloomy,vash,felix,「dio」,0,2,1
-9b,filip,dr. robotnik,watdafox,0,2,0
-gloomy,vash,9b,filip,1,0,2
+chudat,atomsk,dr. robotnik,watdafox,0,2,0
+big d,firefly,jarule,jayc,0,2,0
+big d,firefly,chudat,atomsk,0,2,1
 big d,firefly,9b,filip,0,-2,-2
+bang!,jjrockets,mexican  spongebob,6 lasers,1,-1,0
+9b,filip,felix,「dio」,0,2,0
+9b,filip,dr. robotnik,watdafox,0,2,0
+9b,filip,big d,firefly,1,0,2
+gloomy,vash,mexican  spongebob,6 lasers,0,2,0
+gloomy,vash,felix,「dio」,0,2,1
+gloomy,vash,diatribe,by_tor,0,2,0
+gloomy,vash,9b,filip,1,0,2
+fox,rachow,joeosborn,mechadude,0,2,0
+fox,rachow,dr. robotnik,watdafox,1,0,2
+gshark,torn,felix,「dio」,1,0,2
+gshark,torn,dr. robotnik,watdafox,1,1,2
+void,nakat,big d,firefly,0,2,1
+void,nakat,gloomy,vash,0,2,0
+void,nakat,fox,rachow,0,2,0
 halcyon,mijo,ashikabi,waffles,0,-2,-2
 ms.saiyan,dkwill,showdow,santa!!!,0,2,0
 erowdevastates,zex,asoma,psherman,0,2,0

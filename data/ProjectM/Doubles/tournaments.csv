@@ -1,6 +1,6 @@
-Tournament,startDate,endDate,entrants
-wtfox-2,2016-07-02,2016-07-04,7
-smash-n-splash-2-1,2016-06-11,2016-06-12,53
-low-tier-city-4,2016-06-18,2016-06-20,52
-clutch-city-clash-powered-by-xyience,2016-08-06,2016-08-08,25
-showdown-battle-royale,2016-12-10,2016-12-11,19
+Tournament,slug,startDate,endDate,entrants
+WTFox 2,wtfox-2,2016-07-02,2016-07-04,7
+Smash'N'Splash 2,smash-n-splash-2-1,2016-06-11,2016-06-12,53
+Showdown: Battle Royale,showdown-battle-royale,2016-12-10,2016-12-11,19
+Low Tier City 4,low-tier-city-4,2016-06-18,2016-06-20,52
+Clutch City Clash - Powered by Xyience,clutch-city-clash-powered-by-xyience,2016-08-06,2016-08-08,25
