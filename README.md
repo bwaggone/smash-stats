@@ -1,22 +1,22 @@
 ##A Project Intended to Aggregate Statistics for Smash Bros. Players.
-###Version: 0.0.3
+###Version: 0.1.0
 
 Below is a general list of tasks to get done, stretch goals, and what has actually been accomplished. I don't think this is really ready for an official release yet, but it is *usable*. Barely.
 
 ####DONE
-* Glicko Calculator
-* Trueskill Calculator
 * Smash.gg API Scraper
 * Data file structure
 * Have master tournament files with a list of slugs + dates + entrants
 * 64/Melee/Brawl/PM/Smash4 Support (Scraping)
-* Define glicko rating periods, add RD Decay
-* Modify master tournament file to scrape entrant numbers
+* Multithreaded support to scrape more than one tournament at a time
 
 ####TO-DO
+* Write an update function that will grab all tournaments yet to be recorded, update the data, fix any possible name discrepencies, and move (or link) the data to a folder of the user's choosing. (For use with /smash-site-static/)
+* Glicko Calculator (Needs quick change)
+* Trueskill Calculator (Needs quick change)
 * Add support for more than one Calendar year + tournament timeout
 * Create and update a list of tournament slugs to scrape from
-* ~~Reorganize file structure for the scraper code~~, give a blank set of slugs to scrape from
+* ~~Reorganize file structure for the scraper code~~
 * Pipe data results to Glicko/Custom calculator. \**partially done*
 * Add exceptions to calculator, ignore results from player X on tournament Y.
 * **Clean the glicko calculator code holy shit it looks like a nightmare**
