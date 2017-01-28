@@ -7,28 +7,11 @@ import progressbar
 
 slug = raw_input("What is the tournament slug?\n")
 
-r = requests.get('https://api.smash.gg/tournament/' + slug + '?expand[]=phase&expand[]=groups&expand[]=event')
-data = json.loads(r.text)
-
-tournament_dates = [time.strftime('%Y-%m-%d', time.localtime(data["entities"]["tournament"]["startAt"])),time.strftime('%Y-%m-%d', time.localtime(data["entities"]["tournament"]["endAt"]))]
-
-tournament_name = data["entities"]["tournament"]["name"]
-
-phase_ids = []
-event_ids = []
-event_phases = defaultdict(list)
-phase_groups = defaultdict(list)
-
-#Get all event IDs
-#Get all the phase IDs
-#Assign each phase to its event
-for phase in data["entities"]["phase"]:
-    event_phases[phase["eventId"]].append(phase["id"])
-    phase_ids.append(phase["id"])
-
-#Assign each group to its phase.
-for group in data["entities"]["groups"]:
-    phase_groups[group["phaseId"]].append(group["id"])
+tourn_info = get_tournament_info(slug)
+tournament_name = tourn_info['name']
+tournament_dates = tourn_info['dates']
+event_phases = tourn_info['phases_per_event']
+phase_groups = tourn_info['groups_per_phase']
 
 #Separate each phase by game
 events = {}
@@ -73,12 +56,12 @@ for event in events:
 
         if(not check):
             master = open(master_file, "a")
-            master.write(tournament_name + "," + slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
+            master.write(tourn_info['name'] + "," + slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
             master.close()
     except:
         master = open(master_file, "a+")
         master.write("Tournament,slug,startDate,endDate,entrants\n")
-        master.write(tournament_name + "," + slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
+        master.write(tourn_info['name'] + "," + slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(events[event].entrants)) + "\n")
         master.close()
     
     filename = "../data/" + events[event].game + "/" + events[event].format + "/" + slug + "-sets.csv" 
