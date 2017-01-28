@@ -3,6 +3,7 @@ import fileinput
 import sys
 
 fix_file = open('name_fixes.csv', 'r')
+file_suffixes = ['-standings.csv','-sets.csv']
 
 labels = fix_file.readline()
 
@@ -16,7 +17,8 @@ for line in fix_file:
         tourney_info = line.replace('\n', '').split(',')
         if(tourney_info[0] == 'Tournament'):
             continue
-        for line in fileinput.input(['./' + fix_info[1] + '/Singles/' + tourney_info[1] + '-standings.csv'], inplace = 1):
-            sys.stdout.write(line.replace(fix_info[0] + ',', fix_info[2] + ','))
-        for line in fileinput.input(['./' + fix_info[1] + '/Singles/' + tourney_info[1] + '-sets.csv'], inplace = 1):
-            sys.stdout.write(line.replace(fix_info[0] + ',', fix_info[2] + ','))
+        for suffix in file_suffixes:
+            for line in fileinput.input(['./' + fix_info[1] + '/Singles/' + tourney_info[1] + suffix], inplace = 1):
+                sys.stdout.write(line.replace(fix_info[0] + ',', fix_info[2] + ','))
+        #for line in fileinput.input(['./' + fix_info[1] + '/Singles/' + tourney_info[1] + '-sets.csv'], inplace = 1):
+        #    sys.stdout.write(line.replace(fix_info[0] + ',', fix_info[2] + ','))

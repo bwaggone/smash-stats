@@ -70,11 +70,11 @@ def skip_event(events, event):
 
 
 def update_master_file(master_filename, slug, tournament_name, tournament_dates, event):
+    check = False
     try:
         #If we opened the file successfully, check if this tournament has already been recorded. If so, don't write to the master file.
         master = open(master_filename)
         master.close()
-        check = False
         with open(master_filename, "r") as master:
             for line in master:
                 if slug in line:
@@ -83,12 +83,13 @@ def update_master_file(master_filename, slug, tournament_name, tournament_dates,
 
         if(not check):
             master = open(master_file, "a")
-            master.write(tournament_name + "," + slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(event.entrants)) + "\n")
-            master.close()
+
     except:
         #If the file didn't exist, we'll create the master file.
         master = open(master_filename, "a+")
         master.write("Tournament,slug,startDate,endDate,entrants\n")
+
+    if(not check):
         master.write(tournament_name + "," + slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(event.entrants)) + "\n")
         master.close()
 
@@ -132,10 +133,10 @@ def write_set_data(sets_file, event, supress):
             if _set["winnerId"] == p2:
                 result = 1
 
-            try:
-                f.write(event.entrants[p1] + ',' + event.entrants[p2] + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) + '\n')
-            except:
-                f.write((event.entrants[p1] + ',' + event.entrants[p2] + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) +'\n').encode('utf-8'))
+            #try:
+            #    f.write(event.entrants[p1] + ',' + event.entrants[p2] + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) + '\n')
+            #except:
+            f.write((event.entrants[p1] + ',' + event.entrants[p2] + ',' + str(result) + "," + str(p1_score) + "," + str(p2_score) +'\n').encode('utf-8'))
     if(not supress):
         bar.finish()
     #print("Wrote Results to " + filename)
@@ -151,10 +152,10 @@ def write_placements(standings_file, event, doubles):
         f.write("name,finalPlacement\n")
     
     for placing in event.placings:
-        try:
-            f.write(split_doubles_names(event.entrants[placing], doubles) + "," + str(event.placings[placing]) + "\n")
-        except:
-            f.write((split_doubles_names(event.entrants[placing], doubles) + "," + str(event.placings[placing]) + "\n").encode('utf-8'))
+    #    try:
+    #        f.write(split_doubles_names(event.entrants[placing], doubles) + "," + str(event.placings[placing]) + "\n")
+    #    except:
+        f.write((split_doubles_names(event.entrants[placing], doubles) + "," + str(event.placings[placing]) + "\n").encode('utf-8'))
 
     f.close()
 
