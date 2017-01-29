@@ -7,9 +7,9 @@ A Player has a raing, and rating deviation (RD). A new player will have 1500/350
     The player object also has a method to update its g_RD, it needs to be ran
     whenever RD is modified.
 
-======
-=TODO=
-======
+=========
+==To-do==
+=========
 Add an Update for beginning of a rating period. Will decay rating and RD back
     to the original 1500/350
 
@@ -30,11 +30,11 @@ class Player:
         self.rating = 1500
         self.RD = 350
         self.name = name
-        self._g_RD = 1 / sqrt(1 + 3*q*q * self.RD**2 / (pi*pi)) 
         self.num_tournaments = 0
         self.num_sets = 0
         self.wlr = [0, 0]
         self.last_rp = -1
+        self.update_g_RD()
 
     def update_g_RD(self):
         q = log(10) / 400.0
@@ -42,7 +42,8 @@ class Player:
 
     def decay_RD(self, rp, c):
         if self.last_rp == -1 or rp < self.last_rp:
-            raise "Usage Error: You can't update the RD for a new player"
+            return
+            #raise "Usage Error: You can't update the RD for a new player"
         else:
             diff = rp - self.last_rp
             self.RD = min(sqrt(self.RD**2 + (diff)*c**2), 350)
@@ -65,9 +66,10 @@ class Match:
         self._winner = win_loss
         self._win_loss = win_loss
         #Once we know the players, we can get the expected outcome.
-        pt1 = ((self._players[1]._g_RD)*((self._players[0].rating - self._players[1].rating)/-400.0)) 
-        pt2 = ((self._players[0]._g_RD)*((self._players[1].rating - self._players[0].rating)/-400.0)) 
-        self._expect_s = [(1 /(1 + 10**(pt1))), (1 / (1 + 10**(pt2)))]
+        pts = [0, 0]
+        for i in range(0, 2):
+            pts[i] = ((self._players[(i + 1) % 2]._g_RD)*((self._players[i].rating - self._players[(i + 1) % 2].rating)/-400.0)) 
+        self._expect_s = [(1 /(1 + 10**(pts[0]))), (1 / (1 + 10**(pts[1])))]
 
 '''
 The Tournament Object is what is used to update the glicko ratings of the players within a single rating period.
@@ -81,9 +83,9 @@ The Tournament Object is what is used to update the glicko ratings of the player
     THIS MODIFIES ALL PLAYER'S GLICKO RATINGS, USE ONLY IF ALL DATA IS CORRECT BEING PASSED IN.
 
 
-======
-=TODO=
-======
+=======
+=To-do=
+=======
 Add a name to the tournament
 Add a view for displaying the results and the 
     contribution of each match to the entire change in RD and rating
@@ -157,8 +159,9 @@ class Tournament:
         for player in self._players:
             if(self._setsthistournament[player.name] != 0):
                 try:
-                    new_rating = player.rating + (q / ( ( 1 / player.RD**2 ) + (1 / self._d2s[player.name]) ) ) * self._rupdateConst[player.name]
-                    new_RD = min(sqrt(( ( 1 / player.RD**2 ) + (1 / self._d2s[player.name]))**-1 ), 350)
+                    const = ( ( 1 / player.RD**2 ) + (1 / self._d2s[player.name]) )
+                    new_rating = player.rating + (q / (const) ) * self._rupdateConst[player.name]
+                    new_RD = min(sqrt(( (const)**-1 )), 350)
                     player.rating = new_rating
                     player.RD = new_RD
                     player.update_g_RD()
