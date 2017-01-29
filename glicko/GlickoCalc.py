@@ -6,10 +6,11 @@ import csv
 import os
 import numpy as np
 
-sixtyfour_dir = '../data/64/Singles/'
-melee_dir = '../data/Melee/Singles/'
-brawl_dir = '../data/Brawl/Singles/'
-smash4_dir = '../data/Smash4/Singles/'
+sixtyfour_dir = '64'
+melee_dir = 'Melee'
+brawl_dir = 'Brawl'
+smash4_dir = 'Smash4'
+game_dirs = {1: sixtyfour_dir, 2: melee_dir, 3: smash4_dir}
 
 ## Set the Rating Period Length to Two Weeks
 rp_length = 2
@@ -27,11 +28,12 @@ tournaments = []
 all_players = keydefaultdict(Player)
 all_matches = []
 
+game = raw_input("What game would you like to generate glicko for? \n1: 64 \n2: Melee \n3: Smash4\n")
 
 
 #Get tournaments in sorted order.
 first = 1
-with open(melee_dir + 'tournaments.csv') as stream:
+with open('../data/' + game_dirs[int(game)] + '/Singles/tournaments.csv') as stream:
     has_header = csv.Sniffer().has_header(stream.read(1024))
     stream.seek(0)  # rewind
     incsv = csv.reader(stream)
@@ -55,7 +57,7 @@ prev_rp = -1
 for tourney in sorted_tourneys:
     current_matches = []
     current_players = np.array([])
-    with open(melee_dir + tourney[0] + '-sets.csv') as stream:
+    with open('../data/' + game_dirs[int(game)] + '/Singles/' + tourney[0] + '-sets.csv') as stream:
         try:
             has_header = csv.Sniffer().has_header(stream.read(1024))
         except:
@@ -120,32 +122,10 @@ for player in all_players:
 
 
 final = rankings[rankings[:,1].argsort()[::-1]]
-f = open("MeleeSinglesGlicko.csv", 'w')
+f = open(game_dirs[int(game)] + "SinglesGlicko.csv", 'w')
 f.write("player,rating,rd,sets,wins,losses,num_tourneys\n")
 for pl in final:
     f.write(",".join(pl) + '\n')
 
 f.close()
 
-'''
-rating_period_test = Tournament(all_players, all_matches)
-rating_period_test.update_ratings()
-first = 1
-for player in all_players:
-    if first:
-        first = 0
-        test_array = np.array([all_players[player].name, all_players[player].rating, all_players[player].RD])
-        test_array.shape = (1,3)#test_array.reshape((3,1))
-#        print(test_array.shape)
-    test_array = np.append(test_array, np.array([all_players[player].name, all_players[player].rating, all_players[player].RD]).reshape(1,3), axis = 0)
-
-#print(test_array)
-
-final = test_array[test_array[:,1].argsort()[::-1]]
-f = open('test.out', "w")
-for row in final:
-    f.write(row[0] + ',' + str(row[1]) + ',' + str(row[2]) + '\n')
-
-
-f.close()
-matches = []'''
