@@ -1,5 +1,6 @@
 from collections import *
 from math import *
+from util import *
 
 
 '''
@@ -15,13 +16,13 @@ Add an Update for beginning of a rating period. Will decay rating and RD back
 
 
 '''
-class keydefaultdict(defaultdict):
-    def __missing__(self, key):
-        if self.default_factory is None:
-            raise KeyError( key )
-        else:
-            ret = self[key] = self.default_factory(key)
-        return ret
+#class keydefaultdict(defaultdict):
+#    def __missing__(self, key):
+#        if self.default_factory is None:
+#            raise KeyError( key )
+#        else:
+#            ret = self[key] = self.default_factory(key)
+#        return ret
 
 
 class Player:

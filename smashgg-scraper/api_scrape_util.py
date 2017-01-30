@@ -82,9 +82,9 @@ def update_master_file(master_filename, slug, tournament_name, tournament_dates,
                     break;
 
         if(not check):
-            master = open(master_file, "a")
+            master = open(master_filename, "a")
 
-    except:
+    except Exception as inst:
         #If the file didn't exist, we'll create the master file.
         master = open(master_filename, "a+")
         master.write("Tournament,slug,startDate,endDate,entrants\n")

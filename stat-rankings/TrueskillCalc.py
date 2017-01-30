@@ -5,22 +5,6 @@ import numpy as np
 from util import *
 
 # Trueskill Implementation courtesy of http://trueskill.org/
-
-
-sixtyfour_dir = '../data/64/Singles/'
-melee_dir = '../data/Melee/Singles/'
-brawl_dir = '../data/Brawl/Singles/'
-smash4_dir = '../data/Smash4/Singles/'
-
-
-class keydefaultdict(defaultdict):
-    def __missing__(self, key):
-        if self.default_factory is None:
-            raise KeyError( key )
-        else:
-            ret = self[key] = self.default_factory(key)
-        return ret
-
 class Player:
     def __init__(self, name):
         self.name = name
@@ -32,39 +16,15 @@ class Player:
 
 all_players = keydefaultdict(Player)
 all_matches = []
-
-
+game = raw_input("What game would you like to generate TrueSkill Rankings for? \n1: 64 \n2: Melee \n3: Smash4\n")
 
 #Get tournaments in sorted order.
-first = 1
-with open(sixtyfour_dir + 'tournaments.csv') as stream:
-    has_header = csv.Sniffer().has_header(stream.read(1024))
-    stream.seek(0)  # rewind
-    incsv = csv.reader(stream)
-    if has_header:
-        next(incsv)  # skip header row
-    column = 1
-    for tourney_data in incsv:
-        if first:
-            tnmt_array = np.array([tourney_data[0], tourney_data[2], tourney_data[3]])
-            tnmt_array.shape = (1,3)
-            first = 0
-        else:
-            tnmt_array = np.append(tnmt_array, np.array([tourney_data[0], tourney_data[2], tourney_data[3]]).reshape(1,3), axis = 0)
-
-#tourneys_64 = tourney_csvreader(0)
-#print(tourneys_64)
-#print(tnmt_array)
-#sorted_tourneys = tourneys_64[tourneys_64[:,1].argsort()]
-sorted_tourneys = tnmt_array[tnmt_array[:,1].argsort()]
+sorted_tourneys = tourneys_reader('../data/' + game_dirs[int(game)] + '/Singles/tournaments.csv')
 
 for tourney in sorted_tourneys:
-    #if(tourney[0] == "wtfox-2"):
-    #    print("skipped")
-    #    continue
     current_matches = []
     current_players = np.array([])
-    with open(sixtyfour_dir + tourney[0] + '-sets.csv') as stream:
+    with open('../data/' + game_dirs[int(game)] + '/Singles/' + tourney[0] + '-sets.csv') as stream:
         has_header = csv.Sniffer().has_header(stream.read(1024))
         stream.seek(0)  # rewind
         incsv = csv.reader(stream)
@@ -98,16 +58,13 @@ for tourney in sorted_tourneys:
                 all_players[set_data[0]].wlr[1] += 1
 
 
-first = 1
+#first = 1
+rankings = np.array([]).reshape(0,6)
 for player in all_players:
-    if first:
-        first = 0
-        rankings = np.array([player, all_players[player].rating.mu, all_players[player].rating.sigma,all_players[player].wlr[0],all_players[player].wlr[1], all_players[player].num_sets]).reshape(1,6)
-    else:
-        rankings = np.append(rankings, np.array([player, all_players[player].rating.mu, all_players[player].rating.sigma,all_players[player].wlr[0],all_players[player].wlr[1], all_players[player].num_sets]).reshape(1,6), axis=0)
+    rankings = np.append(rankings, np.array([player, all_players[player].rating.mu, all_players[player].rating.sigma,all_players[player].wlr[0],all_players[player].wlr[1], all_players[player].num_sets]).reshape(1,6), axis=0)
 
 final = rankings[rankings[:,1].argsort()[::-1]]
-f = open("64SinglesTrueSkill.csv", 'w')
+f = open(game_dirs[int(game)] + "SinglesTrueSkill.csv", 'w')
 f.write("player,mu,sigma,wins,losses,sets\n")
 for pl in final:
     f.write(",".join(pl) + '\n')

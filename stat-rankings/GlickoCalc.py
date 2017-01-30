@@ -2,15 +2,9 @@ from glicko import *
 import time
 import datetime
 import collections
-import csv
 import os
 import numpy as np
 
-sixtyfour_dir = '64'
-melee_dir = 'Melee'
-brawl_dir = 'Brawl'
-smash4_dir = 'Smash4'
-game_dirs = {1: sixtyfour_dir, 2: melee_dir, 3: smash4_dir}
 
 ## Set the Rating Period Length to Two Weeks
 rp_length = 2
@@ -31,26 +25,7 @@ all_matches = []
 game = raw_input("What game would you like to generate glicko for? \n1: 64 \n2: Melee \n3: Smash4\n")
 
 
-#Get tournaments in sorted order.
-first = 1
-with open('../data/' + game_dirs[int(game)] + '/Singles/tournaments.csv') as stream:
-    has_header = csv.Sniffer().has_header(stream.read(1024))
-    stream.seek(0)  # rewind
-    incsv = csv.reader(stream)
-    if has_header:
-        next(incsv)  # skip header row
-    column = 1
-    for tourney_data in incsv:
-        if first:
-            tnmt_array = np.array([tourney_data[1], tourney_data[3], tourney_data[4]])
-            tnmt_array.shape = (1,3)
-            first = 0
-        else:
-            tnmt_array = np.append(tnmt_array, np.array([tourney_data[1], tourney_data[3], tourney_data[4]]).reshape(1,3), axis = 0)
-
-sorted_tourneys = tnmt_array[tnmt_array[:,1].argsort()]
-
-
+sorted_tourneys = tourneys_reader('../data/' + game_dirs[int(game)] + '/Singles/tournaments.csv')
 
 iteration = 0
 prev_rp = -1
@@ -112,12 +87,9 @@ for tourney in sorted_tourneys:
 
 #Take care of decay with respect to the current rating period.
 first = 1
+rankings = np.array([]).reshape(0,7)
 for player in all_players:
     all_players[player].decay_RD(26, c_val)
-    if first:
-        first = 0
-        rankings = np.array([all_players[player].name, all_players[player].rating, all_players[player].RD, all_players[player].num_sets, all_players[player].wlr[0], all_players[player].wlr[1], all_players[player].num_tournaments ])
-        rankings.shape = (1,7)
     rankings = np.append(rankings, np.array([all_players[player].name, all_players[player].rating, all_players[player].RD, all_players[player].num_sets, all_players[player].wlr[0], all_players[player].wlr[1], all_players[player].num_tournaments ]).reshape(1,7),axis=0)
 
 
