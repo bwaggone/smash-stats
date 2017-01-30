@@ -37,6 +37,9 @@ def set_csvreader(game, tourney):
 def standing_csvreader(game, tourney):
     return np.loadtxt(gamedirs[game] + tourney + '-standings.csv', dtype={'names': ('player','result'), 'format' : ('S16', 'i4')}, delimiter= ",", skiprows = 1)
 
+def get_sets_file(game, tourney):
+    return('../data/' + game_dirs[int(game)] + '/Singles/' + tourney + '-sets.csv')
+
 def tourneys_reader(location):
     #Get tournaments in sorted order.
     first = 1
@@ -57,6 +60,10 @@ def tourneys_reader(location):
     return tnmt_array[tnmt_array[:,1].argsort()]
 
 
+def check_valid_match(set_data):
+    if(int(set_data[3]) == -1 or int(set_data[4]) == -1):
+        return False
+    return True
 
 
 class keydefaultdict(defaultdict):

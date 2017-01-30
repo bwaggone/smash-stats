@@ -24,7 +24,7 @@ sorted_tourneys = tourneys_reader('../data/' + game_dirs[int(game)] + '/Singles/
 for tourney in sorted_tourneys:
     current_matches = []
     current_players = np.array([])
-    with open('../data/' + game_dirs[int(game)] + '/Singles/' + tourney[0] + '-sets.csv') as stream:
+    with open(get_sets_file(game, tourney[0])) as stream:
         has_header = csv.Sniffer().has_header(stream.read(1024))
         stream.seek(0)  # rewind
         incsv = csv.reader(stream)
@@ -41,7 +41,7 @@ for tourney in sorted_tourneys:
             p2 = all_players[set_data[1]]
 
             #Check if the set was a DQ
-            if(int(set_data[3]) == -1 or int(set_data[4] == -1)):
+            if(not check_valid_match(set_data)):
                 continue
 
             #Update the number of sets and win/loss
