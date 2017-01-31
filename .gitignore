@@ -1,5 +1,6 @@
 /venv/
 /data/convert_doubles.py
+/data/insert_to_db.py*
 *.swp
 *.pyc
 *test*

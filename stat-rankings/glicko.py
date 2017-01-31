@@ -132,8 +132,11 @@ class Tournament:
                 self._setsthistournament[p2.name] += 1
 
                 #Update the sum for the denominator of d^2
-                player_d2[p1.name] += (p2._g_RD**2)*match_info._expect_s[0]*(1 - match_info._expect_s[0])
-                player_d2[p2.name] += (p1._g_RD**2)*match_info._expect_s[1]*(1 - match_info._expect_s[1])
+                for i in range(0,2):
+                    player_d2[match_info._players[i].name] += (match_info._players[1 - i]._g_RD**2)*match_info._expect_s[i]*(1 - match_info._expect_s[i])
+
+                #player_d2[p1.name] += (p2._g_RD**2)*match_info._expect_s[0]*(1 - match_info._expect_s[0])
+                #player_d2[p2.name] += (p1._g_RD**2)*match_info._expect_s[1]*(1 - match_info._expect_s[1])
 
                 #Update the sum for the constant used to update ranking of a player
 

@@ -47,18 +47,12 @@ for tourney in sorted_tourneys:
             #Update the number of sets and win/loss
             all_players[set_data[0]].num_sets += 1
             all_players[set_data[1]].num_sets += 1
-            
-            if(not int(set_data[2])):
-                all_players[set_data[0]].rating, all_players[set_data[1]].rating = rate_1vs1(all_players[set_data[0]].rating,all_players[set_data[1]].rating)
-                all_players[set_data[0]].wlr[0] += 1
-                all_players[set_data[1]].wlr[1] += 1
-            else:
-                all_players[set_data[1]].rating, all_players[set_data[0]].rating = rate_1vs1(all_players[set_data[1]].rating,all_players[set_data[0]].rating)
-                all_players[set_data[1]].wlr[0] += 1
-                all_players[set_data[0]].wlr[1] += 1
+            winner = int(set_data[2])
+            all_players[set_data[winner]].rating, all_players[set_data[1 - winner]].rating = rate_1vs1(all_players[set_data[winner]].rating,all_players[set_data[1 - winner]].rating)
+            all_players[set_data[winner]].wlr[0] += 1
+            all_players[set_data[1 - winner]].wlr[1] += 1
 
 
-#first = 1
 rankings = np.array([]).reshape(0,6)
 for player in all_players:
     rankings = np.append(rankings, np.array([player, all_players[player].rating.mu, all_players[player].rating.sigma,all_players[player].wlr[0],all_players[player].wlr[1], all_players[player].num_sets]).reshape(1,6), axis=0)
