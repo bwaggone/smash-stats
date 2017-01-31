@@ -1,4 +1,36 @@
-# Glicko Calculator Readme
+# Stat Calculators Readme
+
+Currently I have two calculators included with this program, a custom implemented **Glicko** calculator, and an implementation of Microsoft's **TrueSkill** algorithm. Both have their pros and cons, and I recommend you check out the data guarantees on the main page's readme before deciding to use either. Here are the instructions to use,
+
+##TrueSkill
+After installing the dependencies, run,
+```
+python TrueSkillCalc.py
+```
+You will see the following prompt,
+```
+What game would you like to generate TrueSkill Rankings for?
+1. 64
+2. Melee
+3. Smash4
+```
+Type the desired option (1, 2, or 3), and wait. There is currently no feedback on when the operation is finished, just check when you gain control of the console again. The output will be in the following file, [game]SinglesTrueSkill.csv.
+
+##Glicko
+Once dependencies are installed, runm
+```
+python GlickoCalc.py
+```
+You will see the following prompt,
+```
+What game would you like to generate Glicko Rankings for?
+1. 64
+2. Melee
+3. Smash4
+```
+Type the desired option (1, 2, or 3), and wait. There is currently no feedback on when the operation is finished, just check when you gain control of the console again. The output will be in the following file, [game]SinglesGlicko.csv.
+
+#Glicko Implementation Details
 
 ## Mathematical Background
 There are resources online and much more eloquent speakers than me than can explain this part to you. The bulk of the resources I used were from the following two sources,
