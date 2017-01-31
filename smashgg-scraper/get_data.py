@@ -15,7 +15,7 @@ def get_data(slug, supress_output):
     #Separate each phase by game
     events = {}
     for event_id in event_phases:
-        r = requests.get(api_prefix + 'event/' + str(event_id) + api_entrant_postfix)
+        r = requests.get(format_url(api_prefix, 'event/', str(event_id), api_entrant_postfix))
         evnt_data = json.loads(r.text)
         events[evnt_data["entities"]["event"]["id"]] = Event(event_id, evnt_data["entities"]["event"]["name"], evnt_data["entities"]["event"]["videogameId"], evnt_data["entities"]["event"]["type"])
         tmp = evnt_data["entities"]["entrants"]
@@ -44,7 +44,7 @@ def get_data(slug, supress_output):
 
         
         #Update the sets file
-        filename = "../data/" + events[event].game + "/" + events[event].format + "/" + slug + "-sets.csv" 
+        filename = get_filename(events[event].game, events[event].format,slug,'-sets.csv')
         if(not supress_output):
             print("Working on " + filename + "...")
         doubles = write_set_data(filename, events[event], supress_output)
@@ -52,7 +52,7 @@ def get_data(slug, supress_output):
 
         
         #Update the standings file
-        filename = "../data/" + events[event].game + "/" + events[event].format + "/" + slug + "-standings.csv" 
+        filename = get_filename(events[event].game, events[event].format,slug,'-standings.csv')
         write_placements(filename, events[event], doubles)
 
     if(supress_output):

@@ -93,6 +93,11 @@ def update_master_file(master_filename, slug, tournament_name, tournament_dates,
         master.write(tournament_name + "," + slug + "," + tournament_dates[0] + "," + tournament_dates[1] + "," + str(len(event.entrants)) + "\n")
         master.close()
 
+def format_url(prefix, req_type, type_id, postfix):
+    return prefix + req_type + type_id + postfix
+
+def get_filename(game, game_format, slug, set_or_standing):
+    return "../data/" + game + "/" + game_format + "/" + slug + set_or_standing
 
 def write_set_data(sets_file, event, supress):
     num_of_groups = 0
@@ -113,7 +118,7 @@ def write_set_data(sets_file, event, supress):
         if(not supress):
             bar.update(num_of_groups)
 
-        results = requests.get(api_prefix + 'phase_group/' +  str(group) + api_sets_postfix)
+        results = requests.get(format_url(api_prefix, 'phase_group/', str(group), api_sets_postfix))
         result_data = json.loads(results.text)
         #print("Retrieving sets from group #:" + str(group))
         for _set in result_data["entities"]["sets"]:
