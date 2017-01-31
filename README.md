@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/bwaggone/smash-stats/badges/gpa.svg)](https://codeclimate.com/github/bwaggone/smash-stats) [![Issue Count](https://codeclimate.com/github/bwaggone/smash-stats/badges/issue_count.svg)](https://codeclimate.com/github/bwaggone/smash-stats)
+#Smash.gg Data Scraper and Statistics Aggregator
 ##A Project Intended to Aggregate Statistics for Smash Bros. Players.
 ###Version: 0.1.0
 
@@ -12,10 +14,10 @@ Below is a general list of tasks to get done, stretch goals, and what has actual
 
 ####TO-DO
 * Write an update function that will grab all tournaments yet to be recorded, update the data, fix any possible name discrepencies, and move (or link) the data to a folder of the user's choosing. (For use with /smash-site-static/)
-* Glicko Calculator (Needs quick change)
-  * Add support for more than one Calendar year + tournament timeout
-* Trueskill Calculator (Needs quick change)
-* Pipe data results to Glicko/Custom calculator. \**partially done*
+* Add a mode for top 8/32/64 ONLY. Might show a different side of the data.
+* Glicko Calculator
+  * Add support for more than one Calendar year + tournament timeout + Arbitrary start date
+  * Add a weighting mechanic, because this shit looks really funky
 * Add exceptions to calculator, ignore results from player X on tournament Y.
 * Scrape from challonge
 
@@ -25,9 +27,7 @@ Below is a general list of tasks to get done, stretch goals, and what has actual
 * **EVO is excluded because it is not hosted on smash.gg. It will have to be added manually to the data, or another method needs to be used. **
 
 ####Future Goals:
-* ~~Scrape the smash.gg api to get tournament results~~
 * Make the glicko calculator standalone (maybe a python package?)
-* ~~Output the results to a csv~~
 * Add a predictor for a head to head given current ratings (using different rating systems)
 * Use the predictor to model the likelihood of player X winning tournament Y
 
