@@ -2,10 +2,7 @@
 
 All Data is output as comma separated value (.csv) files.
 
-The data is broken up by game, by type. If a tournament has Doubles, Singles or Crews, it will be recorded.
-
-   * Notes:
-      * Crews shows the **name of the crew only**, not the members of the crew
+The data is broken up by game, by type. If a tournament has Doubles or Singles, it wil be recorded. Crews, side-events, and other not normal events will be ignored.
 
 ##Sets files:
 
