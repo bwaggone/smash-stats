@@ -62,7 +62,7 @@ emperor eevee,naoto,1,0,2
 lourich,nickriddle,1,0,2
 naoto,nickriddle,0,-2,-2
 parallelrust,uno,0,0,-1
-mr.r,parallelrust,0,2,0
+mr. r,parallelrust,0,2,0
 mac attk,scooter388,1,1,2
 nom,food,0,2,0
 mav,dark racer,0,2,0
@@ -70,13 +70,13 @@ dath,iyb 9 1 1,0,2,0
 slenderman,jcav,0,2,0
 dan,crusticus,0,2,0
 the bowz,constable lemon,0,2,1
-mr.r,scooter388,0,2,0
+mr. r,scooter388,0,2,0
 nom,mav,0,2,1
 dath,slenderman,0,2,1
 dan,the bowz,1,1,2
-mr.r,nom,0,2,0
+mr. r,nom,0,2,0
 dath,the bowz,0,2,0
-mr.r,dath,0,-2,-2
+mr. r,dath,0,-2,-2
 constable lemon,uno,0,0,-1
 constable lemon,crusticus,0,2,0
 jcav,iyb 9 1 1,0,2,0
@@ -241,14 +241,14 @@ marss,loe1,0,3,0
 zinoto,jjrockets,0,3,1
 ally,icymist,0,3,1
 dyr,ned,0,3,2
-mr.r,dath,0,3,0
+mr. r,dath,0,3,0
 sethsational,darkshad,1,0,3
 mkleo,seth,0,3,0
 marss,zinoto,0,3,2
 ally,dyr,0,3,2
-mr.r,darkshad,0,3,1
+mr. r,darkshad,0,3,1
 mkleo,marss,0,-2,-2
-ally,mr.r,0,-2,-2
+ally,mr. r,0,-2,-2
 max ketchum,dan,1,0,3
 remzi,smasher1001,0,3,0
 demitus,miloni,0,3,1
@@ -276,12 +276,12 @@ darkshad,nickriddle,0,3,0
 icymist,zinoto,0,-2,-2
 dyr,darkshad,0,-2,-2
 mkleo,marss,0,3,0
-ally,mr.r,1,2,3
-mkleo,mr.r,0,3,0
-mkleo,mr.r,0,3,1
+ally,mr. r,1,2,3
+mkleo,mr. r,0,3,0
+mkleo,mr. r,0,3,1
 icymist,zinoto,1,2,3
 dyr,darkshad,0,3,2
 ally,zinoto,0,3,1
 marss,dyr,1,1,3
 ally,dyr,0,3,1
-mr.r,ally,0,3,2
+mr. r,ally,0,3,2

@@ -555,13 +555,13 @@ smittywerb,el_dominico,0,0,-1
 pgd,lolcat,1,-1,0
 dfault,otanda,1,0,2
 raichu4u,remo,0,2,0
-mr.r,smittywerb,0,2,0
+mr. r,smittywerb,0,2,0
 egaz,lolcat,0,2,0
 miloni,otanda,0,2,1
 gnox,raichu4u,0,2,0
-mr.r,egaz,0,2,0
+mr. r,egaz,0,2,0
 miloni,gnox,0,2,0
-mr.r,miloni,0,2,0
+mr. r,miloni,0,2,0
 raichu4u,el_dominico,0,0,-1
 otanda,pgd,0,0,-1
 lolcat,dfault,0,2,0
@@ -1418,11 +1418,11 @@ seagull joe,larry lurr,1,0,2
 saj,larry lurr,0,-2,-2
 ksev,abadango,1,0,2
 pugwest,6wx,0,2,1
-zex,mr.r,1,0,2
+zex,mr. r,1,0,2
 samsora,fatality,0,2,0
 abadango,pugwest,0,2,0
-mr.r,samsora,0,2,0
-abadango,mr.r,0,-2,-2
+mr. r,samsora,0,2,0
+abadango,mr. r,0,-2,-2
 darkshadlegend,karinole,0,2,1
 poke,advo,0,2,0
 smasher1001,austy,0,2,0
@@ -1588,7 +1588,7 @@ wadi,mr.e,1,1,3
 void,anti,1,0,3
 komorikiri,ri-ma,0,3,0
 nairo,cosmos,0,3,0
-abadango,mr.r,0,3,2
+abadango,mr. r,0,3,2
 tweek,zero,1,0,3
 dabuz,salem,0,3,0
 kamemushi,marss,1,2,3
@@ -1612,22 +1612,22 @@ dkwill,8bitman,1,0,3
 kamemushi,james,0,3,0
 salem,captainzack,0,3,1
 tweek,larry lurr,0,3,2
-mr.r,aarvark,0,3,0
+mr. r,aarvark,0,3,0
 cosmos,fatality,1,1,3
 ri-ma,rayquaza07,0,3,2
 void,kie,0,3,1
 wadi,8bitman,0,3,1
 kamemushi,salem,1,2,3
-tweek,mr.r,1,0,3
+tweek,mr. r,1,0,3
 fatality,ri-ma,0,3,2
 void,wadi,0,3,1
 nairo,salem,0,3,1
-mr.e,mr.r,1,2,3
+mr.e,mr. r,1,2,3
 marss,fatality,0,3,1
 abadango,void,1,1,3
-nairo,mr.r,1,1,3
+nairo,mr. r,1,1,3
 marss,void,1,1,3
-dabuz,mr.r,1,2,3
+dabuz,mr. r,1,2,3
 komorikiri,void,0,3,2
-mr.r,komorikiri,1,1,3
+mr. r,komorikiri,1,1,3
 zero,komorikiri,0,3,1

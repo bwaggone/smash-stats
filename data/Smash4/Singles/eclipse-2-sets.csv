@@ -1,13 +1,13 @@
 P1,P2,set winner,P1Score,P2Score
 hal_9000,siggen,0,2,0
 atrox,dvid,0,2,0
-mr.r,siggen,0,2,0
+mr. r,siggen,0,2,0
 hal_9000,atrox,1,1,2
-mr.r,dvid,0,2,0
+mr. r,dvid,0,2,0
 siggen,atrox,1,0,2
-mr.r,atrox,0,2,0
+mr. r,atrox,0,2,0
 dvid,hal_9000,1,0,2
-mr.r,hal_9000,0,2,0
+mr. r,hal_9000,0,2,0
 dvid,siggen,0,2,0
 istudying,tun,0,2,0
 koji,elefantkrakk,0,2,0
@@ -394,7 +394,7 @@ glitch,vetikke,1,0,2
 evilized,kanaribird,0,2,0
 mm720,vetikke,1,0,2
 spongeofdoom,glitch,0,2,0
-mr.r,lunar,0,2,0
+mr. r,lunar,0,2,0
 evilized,thymeballoon,0,2,0
 deo,awesomebee,0,2,0
 rekzius,teluoborg,0,2,0
@@ -426,7 +426,7 @@ whoophee,corgi lord,0,2,0
 tag,quasi,0,2,1
 smashsk,zartzu,0,2,1
 gardex,scarlet,1,1,2
-mr.r,evilized,0,2,0
+mr. r,evilized,0,2,0
 deo,rekzius,1,0,2
 izaw,shido,0,2,0
 gregs,lufos,0,2,0
@@ -442,7 +442,7 @@ ixisnaugus,ricko,0,2,0
 alias,suntherion,1,1,2
 whoophee,tag,0,2,1
 smashsk,scarlet,0,2,0
-mr.r,rekzius,0,2,1
+mr. r,rekzius,0,2,1
 izaw,gregs,1,1,2
 sodrek,snasen,0,2,0
 biscuit,m,1,0,2
@@ -450,14 +450,14 @@ istudying,riksto,0,2,0
 wiiase,badr,0,2,1
 ixisnaugus,suntherion,0,2,0
 whoophee,smashsk,0,2,0
-mr.r,gregs,0,3,0
+mr. r,gregs,0,3,0
 sodrek,m,0,3,0
 istudying,wiiase,0,3,2
 ixisnaugus,whoophee,0,2,0
-mr.r,sodrek,0,3,1
+mr. r,sodrek,0,3,1
 istudying,ixisnaugus,0,3,2
-mr.r,istudying,0,3,2
-mr.r,sodrek,0,3,0
+mr. r,istudying,0,3,2
+mr. r,sodrek,0,3,0
 lunar,thymeballoon,1,1,2
 awesomebee,teluoborg,1,1,2
 taka,poopmaister6000,1,0,2

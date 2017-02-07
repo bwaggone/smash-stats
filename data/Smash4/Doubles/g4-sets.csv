@@ -371,31 +371,31 @@ legit,virus,~fade,pod,0,2,0
 ksev,nom,dak,max ketchum,0,2,1
 legit,virus,ksev,nom,0,2,0
 manny,day,legit,virus,0,-2,-2
-mexican  spongebob,6 lasers,gshark,torn,1,0,2
-felix,「dio」,diatribe,by_tor,0,2,0
-jarule,jayc,dr. robotnik,watdafox,1,0,2
-diatribe,by_tor,bang!,jjrockets,0,0,-1
-chudat,atomsk,joeosborn,mechadude,0,2,0
-chudat,atomsk,felix,「dio」,1,0,2
-chudat,atomsk,dr. robotnik,watdafox,0,2,0
-big d,firefly,jarule,jayc,0,2,0
-big d,firefly,chudat,atomsk,0,2,1
-big d,firefly,9b,filip,0,-2,-2
-bang!,jjrockets,mexican  spongebob,6 lasers,1,-1,0
-9b,filip,felix,「dio」,0,2,0
-9b,filip,dr. robotnik,watdafox,0,2,0
-9b,filip,big d,firefly,1,0,2
-gloomy,vash,mexican  spongebob,6 lasers,0,2,0
-gloomy,vash,felix,「dio」,0,2,1
-gloomy,vash,diatribe,by_tor,0,2,0
-gloomy,vash,9b,filip,1,0,2
 fox,rachow,joeosborn,mechadude,0,2,0
-fox,rachow,dr. robotnik,watdafox,1,0,2
+gloomy,vash,diatribe,by_tor,0,2,0
+bang!,jjrockets,mexican  spongebob,6 lasers,1,-1,0
 gshark,torn,felix,「dio」,1,0,2
-gshark,torn,dr. robotnik,watdafox,1,1,2
-void,nakat,big d,firefly,0,2,1
-void,nakat,gloomy,vash,0,2,0
+big d,firefly,jarule,jayc,0,2,0
+chudat,atomsk,dr. robotnik,watdafox,0,2,0
 void,nakat,fox,rachow,0,2,0
+gloomy,vash,mexican  spongebob,6 lasers,0,2,0
+9b,filip,felix,「dio」,0,2,0
+big d,firefly,chudat,atomsk,0,2,1
+void,nakat,gloomy,vash,0,2,0
+9b,filip,big d,firefly,1,0,2
+void,nakat,big d,firefly,0,2,1
+diatribe,by_tor,bang!,jjrockets,0,0,-1
+jarule,jayc,dr. robotnik,watdafox,1,0,2
+chudat,atomsk,joeosborn,mechadude,0,2,0
+felix,「dio」,diatribe,by_tor,0,2,0
+mexican  spongebob,6 lasers,gshark,torn,1,0,2
+fox,rachow,dr. robotnik,watdafox,1,0,2
+chudat,atomsk,felix,「dio」,1,0,2
+gshark,torn,dr. robotnik,watdafox,1,1,2
+gloomy,vash,felix,「dio」,0,2,1
+9b,filip,dr. robotnik,watdafox,0,2,0
+gloomy,vash,9b,filip,1,0,2
+big d,firefly,9b,filip,0,-2,-2
 halcyon,mijo,ashikabi,waffles,0,-2,-2
 ms.saiyan,dkwill,showdow,santa!!!,0,2,0
 erowdevastates,zex,asoma,psherman,0,2,0

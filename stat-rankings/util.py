@@ -1,4 +1,5 @@
 import numpy as np
+from trueskill import Rating, quality_1vs1, rate_1vs1 
 import pandas as pd
 from collections import *
 import csv
@@ -37,8 +38,22 @@ def set_csvreader(game, tourney):
 def standing_csvreader(game, tourney):
     return np.loadtxt(gamedirs[game] + tourney + '-standings.csv', dtype={'names': ('player','result'), 'format' : ('S16', 'i4')}, delimiter= ",", skiprows = 1)
 
-def get_sets_file(game, tourney):
-    return('../data/' + game_dirs[int(game)] + '/Singles/' + tourney + '-sets.csv')
+def get_filename(game, tourney, typeof):
+    return('../data/' + game_dirs[int(game)] + '/Singles/' + tourney + typeof)
+
+def read_placements(game, tourney, players):
+    with open(get_filename(game, tourney, '-standings.csv')) as stream:
+        has_header = csv.Sniffer().has_header(stream.read(1024))
+        stream.seek(0)  # rewind
+        incsv = csv.reader(stream)
+        if has_header:
+            next(incsv)  # skip header row
+
+        for placement_data in incsv:
+            players[placement_data[0]].placement = placement_data[1]
+
+    return players
+
 
 def tourneys_reader(location):
     #Get tournaments in sorted order.
@@ -60,11 +75,27 @@ def tourneys_reader(location):
     return tnmt_array[tnmt_array[:,1].argsort()]
 
 
+def filter_match_placing(threshold, players, p1, p2):
+    if(threshold == -1):
+        return False;
+    if(int(players[p1].placement) > threshold or int(players[p2].placement) > threshold):
+        return True;
+    return False;
+
+
 def check_valid_match(set_data):
     if(int(set_data[3]) == -1 or int(set_data[4]) == -1):
         return False
     return True
 
+class Player:
+    def __init__(self, name):
+        self.name = name
+        self.rating = Rating()
+        self.num_tournaments = 0
+        self.placement = 1000
+        self.num_sets = 0
+        self.wlr = [0, 0]
 
 class keydefaultdict(defaultdict):
     def __missing__(self, key):

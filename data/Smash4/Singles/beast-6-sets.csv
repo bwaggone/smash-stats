@@ -59,35 +59,35 @@ samura1man,siap,0,-2,-2
 orchard,lackluster,0,2,1
 giannis,hawxx is rippin,1,1,2
 mcguigan,9volt,0,2,0
-mr.r,siap,0,-2,-2
+mr. r,siap,0,-2,-2
 samura1man,hawxx is rippin,0,2,0
 orchard,9volt,0,2,0
 giannis,mcguigan,0,2,0
-mr.r,lackluster,0,2,0
+mr. r,lackluster,0,2,0
 siap,hawxx is rippin,0,-2,-2
 samura1man,mcguigan,0,2,0
 orchard,giannis,1,0,2
-mr.r,hawxx is rippin,0,2,0
+mr. r,hawxx is rippin,0,2,0
 lackluster,9volt,1,0,2
 siap,mcguigan,0,-2,-2
 samura1man,orchard,0,2,0
-mr.r,9volt,0,2,0
+mr. r,9volt,0,2,0
 hawxx is rippin,mcguigan,0,2,1
 lackluster,giannis,0,2,0
 siap,orchard,0,-2,-2
-mr.r,mcguigan,0,2,0
+mr. r,mcguigan,0,2,0
 9volt,giannis,1,1,2
 hawxx is rippin,orchard,1,0,2
 lackluster,samura1man,1,0,2
-mr.r,giannis,0,2,0
+mr. r,giannis,0,2,0
 mcguigan,orchard,1,0,2
 9volt,samura1man,1,0,2
 lackluster,siap,0,-2,-2
-mr.r,orchard,0,2,0
+mr. r,orchard,0,2,0
 giannis,samura1man,1,1,2
 9volt,siap,0,-2,-2
 hawxx is rippin,lackluster,0,2,0
-mr.r,samura1man,0,2,0
+mr. r,samura1man,0,2,0
 giannis,siap,0,-2,-2
 mcguigan,lackluster,0,2,0
 9volt,hawxx is rippin,1,0,2
@@ -999,7 +999,7 @@ ixisnaugus,enki,0,2,0
 yikarur,pidgey,0,2,0
 ccst,kesa,1,1,2
 max ketchum,easzy,0,2,0
-mr.r,eddy,0,2,0
+mr. r,eddy,0,2,0
 whoophee,lian,0,2,1
 long0uw,meru,0,2,0
 anaky,paoz,0,2,0
@@ -1023,7 +1023,7 @@ clade,xzx,1,1,2
 zudenka,wilksy15,1,0,2
 ixisnaugus,yikarur,0,2,1
 kesa,max ketchum,0,2,1
-mr.r,whoophee,0,2,0
+mr. r,whoophee,0,2,0
 long0uw,anaky,0,2,0
 sodrek,trax,0,2,0
 s1-14,ho,0,2,0
@@ -1035,16 +1035,16 @@ esam,vyq,0,2,1
 cyve,hazemoky,0,2,0
 xzx,wilksy15,1,1,2
 ixisnaugus,kesa,0,2,1
-mr.r,long0uw,0,2,0
+mr. r,long0uw,0,2,0
 sodrek,s1-14,1,0,2
 mvd,robo~luigi,0,2,0
 light,istudying,0,2,1
 esam,cyve,0,2,0
 wilksy15,ixisnaugus,0,2,1
-mr.r,s1-14,0,2,0
+mr. r,s1-14,0,2,0
 mvd,light,0,2,0
 esam,wilksy15,0,-2,-2
-mr.r,mvd,0,-2,-2
+mr. r,mvd,0,-2,-2
 boomuki,maxy,1,1,2
 smashsk,alias,0,2,0
 el_bardo,samura1man,0,2,0
@@ -1104,9 +1104,9 @@ ixisnaugus,sodrek,1,1,2
 s1-14,light,0,-2,-2
 istudying,sodrek,0,-2,-2
 esam,wilksy15,0,2,0
-mr.r,mvd,0,2,0
-esam,mr.r,1,2,3
-mr.r,istudying,0,3,0
+mr. r,mvd,0,2,0
+esam,mr. r,1,2,3
+mr. r,istudying,0,3,0
 istudying,sodrek,0,2,1
 s1-14,light,1,0,2
 wilksy15,istudying,1,0,2

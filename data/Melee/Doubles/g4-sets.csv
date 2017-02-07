@@ -20,27 +20,27 @@ kevbot,dana,jackmaster,bertbusdriver,0,2,0
 i4n,liam_butler,flion,wohlgey,0,2,0
 kevbot,dana,i4n,liam_butler,0,2,0
 tope,cyrain,kevbot,dana,0,-2,-2
-birdshit,kokichi,pikabob,lama,0,-2,-2
 birdshit,kokichi,kingwolfgang,nerds,0,-2,-2
-tinojoe,holiday,birdshit,kokichi,0,-2,-2
-tinojoe,holiday,bangs,twig,0,-2,-2
-tinojoe,holiday,carcosa,true dong,1,-2,-2
-lein,jnew,bit.ly,mamekitsune,burgerdon,1,-2,-2
-lein,jnew,kingwolfgang,nerds,1,-2,-2
-slox,mafia,birdshit,kokichi,0,-2,-2
-slox,mafia,carcosa,true dong,0,-2,-2
-slox,mafia,scar,lovage805,0,-2,-2
-bit.ly,mamekitsune,burgerdon,pikabob,lama,0,-2,-2
-bit.ly,mamekitsune,burgerdon,tinojoe,holiday,1,-2,-2
-death arcana,final,bangs,twig,0,-2,-2
-death arcana,final,tinojoe,holiday,1,-2,-2
-death arcana,final,chelly,milo,0,-2,-2
 carcosa,true dong,chelly,milo,0,-2,-2
-carcosa,true dong,death arcana,final,1,-2,-2
-kingwolfgang,nerds,death arcana,final,1,-2,-2
-scar,lovage805,tinojoe,holiday,0,-2,-2
-scar,lovage805,bit.ly,mamekitsune,burgerdon,0,-2,-2
+death arcana,final,bangs,twig,0,-2,-2
+bit.ly,mamekitsune,burgerdon,pikabob,lama,0,-2,-2
+slox,mafia,birdshit,kokichi,0,-2,-2
+tinojoe,holiday,carcosa,true dong,1,-2,-2
 scar,lovage805,death arcana,final,0,-2,-2
+lein,jnew,bit.ly,mamekitsune,burgerdon,1,-2,-2
+slox,mafia,carcosa,true dong,0,-2,-2
+scar,lovage805,bit.ly,mamekitsune,burgerdon,0,-2,-2
+slox,mafia,scar,lovage805,0,-2,-2
+lein,jnew,kingwolfgang,nerds,1,-2,-2
+death arcana,final,chelly,milo,0,-2,-2
+tinojoe,holiday,bangs,twig,0,-2,-2
+birdshit,kokichi,pikabob,lama,0,-2,-2
+kingwolfgang,nerds,death arcana,final,1,-2,-2
+tinojoe,holiday,birdshit,kokichi,0,-2,-2
+carcosa,true dong,death arcana,final,1,-2,-2
+bit.ly,mamekitsune,burgerdon,tinojoe,holiday,1,-2,-2
+death arcana,final,tinojoe,holiday,1,-2,-2
+scar,lovage805,tinojoe,holiday,0,-2,-2
 john_117,slowbro,nipunn,kjon,1,0,2
 ragtime mouse,69%,ark,hawkins,0,2,0
 joejoe,doctor hu,shibō,sd master,0,0,-1
@@ -83,25 +83,25 @@ khale,lego,gangly,telemonic,0,2,0
 nintendoking,kev$,skate,kellz,0,2,0
 khale,lego,nintendoking,kev$,1,0,2
 hungry pigeon,sk92,nintendoking,kev$,0,-2,-2
-cola,blue jay,launch,flex36,0,2,0
 echopath,6 lasers,pinkfluffycuddlebunny,jotinos,0,2,0
-c4d,megaman,g,beely,0,2,0
-alan,shroomed,cola,blue jay,0,2,0
-shamunt,fear,jackkenney,@ashkon_,0,2,1
 phex,usleon,echopath,6 lasers,0,2,0
-zilo,rk,c4d,megaman,0,2,0
-alan,shroomed,shamunt,fear,0,2,0
+phex,usleon,zilo,rk,0,-2,-2
 phex,usleon,zilo,rk,0,2,0
-alan,shroomed,phex,usleon,0,2,0
-c4d,megaman,launch,flex36,0,2,0
 jackkenney,@ashkon_,pinkfluffycuddlebunny,jotinos,0,2,0
-cola,blue jay,g,beely,0,2,0
-c4d,megaman,echopath,6 lasers,0,2,0
 jackkenney,@ashkon_,cola,blue jay,0,2,1
+shamunt,fear,jackkenney,@ashkon_,0,2,1
+shamunt,fear,zilo,rk,1,0,2
 shamunt,fear,c4d,megaman,0,2,1
 zilo,rk,jackkenney,@ashkon_,0,2,0
-shamunt,fear,zilo,rk,1,0,2
-phex,usleon,zilo,rk,0,-2,-2
+zilo,rk,c4d,megaman,0,2,0
+c4d,megaman,echopath,6 lasers,0,2,0
+c4d,megaman,launch,flex36,0,2,0
+c4d,megaman,g,beely,0,2,0
+alan,shroomed,phex,usleon,0,2,0
+alan,shroomed,shamunt,fear,0,2,0
+alan,shroomed,cola,blue jay,0,2,0
+cola,blue jay,launch,flex36,0,2,0
+cola,blue jay,g,beely,0,2,0
 kwang,rymo,liban$,ashley,0,2,1
 _milktea,suzarya,yep,remioli,1,1,2
 bi,dano,slayr,kuradoberi,1,1,2
@@ -249,27 +249,27 @@ donb,rainbow,pinkdeaf1,shaqfu,0,2,0
 eikelmann,whatisfear,cmg,veklor,0,2,0
 donb,rainbow,eikelmann,whatisfear,1,0,2
 darkatma,frootloop,eikelmann,whatisfear,0,-2,-2
-vite,milk$,ejuice,xcal,0,2,1
-kramepie,tilt,rap!d,nathansandwich,0,2,0
-toomanyboxes,oldjokes,short-hoppe,soswaggie,1,0,2
-jackzilla,645development,kenji,smilotron,1,0,2
-nintendude,smashg0d,vite,milk$,0,2,0
-phade,maskless,kramepie,tilt,1,0,2
-rustin,fatgoku,short-hoppe,soswaggie,0,2,0
-doom,s2b,kenji,smilotron,1,1,2
-nintendude,smashg0d,kramepie,tilt,0,2,0
-rustin,fatgoku,kenji,smilotron,0,2,0
-nintendude,smashg0d,rustin,fatgoku,1,0,2
-doom,s2b,ejuice,xcal,0,2,0
-short-hoppe,soswaggie,rap!d,nathansandwich,0,2,0
-phade,maskless,toomanyboxes,oldjokes,0,2,0
-vite,milk$,jackzilla,645development,0,2,0
-doom,s2b,short-hoppe,soswaggie,0,2,0
-phade,maskless,vite,milk$,0,2,0
 kramepie,tilt,doom,s2b,1,1,2
+kramepie,tilt,rap!d,nathansandwich,0,2,0
+vite,milk$,jackzilla,645development,0,2,0
+vite,milk$,ejuice,xcal,0,2,1
+phade,maskless,kramepie,tilt,1,0,2
+phade,maskless,vite,milk$,0,2,0
+phade,maskless,toomanyboxes,oldjokes,0,2,0
 kenji,smilotron,phade,maskless,0,2,0
+doom,s2b,kenji,smilotron,1,1,2
 doom,s2b,kenji,smilotron,0,2,0
+doom,s2b,ejuice,xcal,0,2,0
+doom,s2b,short-hoppe,soswaggie,0,2,0
+rustin,fatgoku,kenji,smilotron,0,2,0
+rustin,fatgoku,short-hoppe,soswaggie,0,2,0
+jackzilla,645development,kenji,smilotron,1,0,2
+nintendude,smashg0d,kramepie,tilt,0,2,0
+nintendude,smashg0d,vite,milk$,0,2,0
 nintendude,smashg0d,doom,s2b,0,-2,-2
+nintendude,smashg0d,rustin,fatgoku,1,0,2
+toomanyboxes,oldjokes,short-hoppe,soswaggie,1,0,2
+short-hoppe,soswaggie,rap!d,nathansandwich,0,2,0
 glaikit,omega,thorne,ohai,1,-2,-2
 mojoe,myfishcantswim,rainy day,tauntz,0,-2,-2
 xeno,mustang,dope,indie,1,-2,-2
@@ -518,27 +518,27 @@ umarth,avarice,astealthykorean,urbanlime,0,2,0
 bigwenz,juggleguy,doogless,zeta,0,2,0
 umarth,avarice,bigwenz,juggleguy,1,0,2
 brick,eggz,bigwenz,juggleguy,0,-2,-2
-henrius,asianson,gulfcoastbrian,legion,0,2,1
-henrius,asianson,teejusb,tinklefairy6,0,2,0
-henrius,asianson,wavy,koten,0,2,0
-teejusb,tinklefairy6,sidetrak,papa johns,0,2,0
-teejusb,tinklefairy6,dark link,jams,0,2,0
-logos,luigi ka-master,teejusb,tinklefairy6,0,2,0
-logos,luigi ka-master,jrad,oc mike the franchise,0,2,0
 scape,joshuwasha,gulfcoastbrian,legion,0,2,1
-scape,joshuwasha,wavy,koten,0,2,0
-silentspectre,tang,logos,luigi ka-master,1,1,2
-silentspectre,tang,scape,joshuwasha,0,-2,-2
-silentspectre,tang,scape,joshuwasha,0,2,0
-silentspectre,tang,yeyo,marco,0,2,0
-jrad,oc mike the franchise,henrius,asianson,0,2,0
-jrad,oc mike the franchise,scape,joshuwasha,1,0,2
-yeyo,marco,henrius,asianson,0,2,0
-yeyo,marco,scape,joshuwasha,1,0,2
-yeyo,marco,brgod,yink,0,2,1
-brgod,yink,scape,joshuwasha,1,0,2
-brgod,yink,sidetrak,papa johns,0,2,0
 brgod,yink,dark link,jams,0,2,0
+teejusb,tinklefairy6,sidetrak,papa johns,0,2,0
+henrius,asianson,wavy,koten,0,2,0
+silentspectre,tang,scape,joshuwasha,0,2,0
+yeyo,marco,brgod,yink,0,2,1
+logos,luigi ka-master,teejusb,tinklefairy6,0,2,0
+jrad,oc mike the franchise,henrius,asianson,0,2,0
+silentspectre,tang,yeyo,marco,0,2,0
+logos,luigi ka-master,jrad,oc mike the franchise,0,2,0
+silentspectre,tang,logos,luigi ka-master,1,1,2
+henrius,asianson,gulfcoastbrian,legion,0,2,1
+teejusb,tinklefairy6,dark link,jams,0,2,0
+brgod,yink,sidetrak,papa johns,0,2,0
+scape,joshuwasha,wavy,koten,0,2,0
+henrius,asianson,teejusb,tinklefairy6,0,2,0
+brgod,yink,scape,joshuwasha,1,0,2
+yeyo,marco,henrius,asianson,0,2,0
+jrad,oc mike the franchise,scape,joshuwasha,1,0,2
+yeyo,marco,scape,joshuwasha,1,0,2
+silentspectre,tang,scape,joshuwasha,0,-2,-2
 floppy,jwolf,fantasy,bruv,0,2,0
 kex,potato,hi,ns|merc,0,2,0
 melvenorc12,mdsr,tyde,justin white,1,0,2

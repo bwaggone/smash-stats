@@ -19,24 +19,24 @@ aces,hunter,0,2,0
 tonester,jollie,0,2,0
 letsgo,aces,0,2,0
 tonester,letsgo,0,-2,-2
-oxycontin,k,1,-1,0
-darv,iamlazee,0,2,0
-big d squirrels,foxnard,0,0,-1
-zero,k,0,2,0
-dusttin,automatic,1,0,2
-handsometom,darv,0,2,0
-llcstoism,big d squirrels,0,0,-1
-zero,automatic,0,2,0
-handsometom,llcstoism,0,2,0
-zero,handsometom,0,-2,-2
 big d squirrels,oxycontin,0,0,-1
-dusttin,iamlazee,0,2,0
-k,foxnard,0,0,-1
 big d squirrels,darv,1,0,2
-dusttin,k,0,2,0
-automatic,darv,0,2,0
+big d squirrels,foxnard,0,0,-1
+oxycontin,k,1,-1,0
+llcstoism,big d squirrels,0,0,-1
 llcstoism,dusttin,0,2,0
+darv,iamlazee,0,2,0
 automatic,llcstoism,0,-2,-2
+automatic,darv,0,2,0
+zero,automatic,0,2,0
+zero,k,0,2,0
+zero,handsometom,0,-2,-2
+k,foxnard,0,0,-1
+handsometom,llcstoism,0,2,0
+handsometom,darv,0,2,0
+dusttin,automatic,1,0,2
+dusttin,k,0,2,0
+dusttin,iamlazee,0,2,0
 danny,showtime,1,-1,0
 duncs,spammalanche,0,2,0
 louieg,howdy,1,0,2
@@ -60,13 +60,13 @@ logic,bard,0,-2,-2
 blues,hydra,1,0,2
 ringedge,austntatious,0,2,0
 big tone,noelkitten,1,-1,0
-strandead,hydra,0,2,0
+stranded,hydra,0,2,0
 moonshoe,dr. grin,1,1,2
 kyle tree,ringedge,0,2,0
 bon,noelkitten,0,2,0
-strandead,dr. grin,0,2,0
+stranded,dr. grin,0,2,0
 kyle tree,bon,0,2,0
-strandead,kyle tree,0,-2,-2
+stranded,kyle tree,0,-2,-2
 noelkitten,blues,1,0,2
 moonshoe,austntatious,0,2,0
 hydra,big tone,0,2,0
@@ -115,24 +115,24 @@ luigikid,maze,1,0,2
 smash jesus,supernuggit,0,2,0
 blondekid,maze,0,2,0
 smash jesus,blondekid,0,-2,-2
-gibbles,eggmode,1,0,2
-gibbles,pizza,1,0,2
 tipc,sunkin,0,2,0
-tipc,fish,0,2,0
+jesusisking,gibbles,1,0,2
+dixoncider,fish,0,0,-1
 wizzrobe,tipc,0,2,0
-wizzrobe,quitrage,0,2,0
-wizzrobe,eggmode,0,-2,-2
-quitrage,dixoncider,0,2,0
-quitrage,pizza,0,-2,-2
+pizza,quitrage,1,0,2
 joshi,gibbles,1,-1,0
 eggmode,dixoncider,0,2,1
+wizzrobe,quitrage,0,2,0
+gibbles,eggmode,1,0,2
+wizzrobe,eggmode,0,-2,-2
 dixoncider,sunkin,0,2,0
-dixoncider,joshi,0,0,-1
-dixoncider,fish,0,0,-1
-pizza,tipc,0,2,0
-pizza,quitrage,1,0,2
 pizza,jesusisking,0,2,0
-jesusisking,gibbles,1,0,2
+tipc,fish,0,2,0
+dixoncider,joshi,0,0,-1
+pizza,tipc,0,2,0
+quitrage,dixoncider,0,2,0
+gibbles,pizza,1,0,2
+quitrage,pizza,0,-2,-2
 sfat,the yid,1,0,2
 taiko,bottle opener guy,0,2,0
 tanuki,myroknpancakes,1,0,2
@@ -308,7 +308,7 @@ my buddy mike,kieuarty,0,2,0
 mariguas,janitor,0,2,0
 zero,handsometom,1,0,2
 k y s k,ctg,0,2,0
-strandead,kyle tree,0,2,1
+stranded,kyle tree,0,2,1
 superboomfan,darkhorse,0,2,0
 barksanchez,dtan,0,2,0
 wizzrobe,eggmode,0,2,0
@@ -322,7 +322,7 @@ nickelbackstreetboy,kimimaru,1,0,2
 tr3gthez,nintendude,0,2,0
 tacos,cobr,0,2,0
 mariguas,handsometom,0,2,0
-k y s k,strandead,0,2,0
+k y s k,stranded,0,2,0
 superboomfan,barksanchez,0,2,0
 wizzrobe,dext3r,0,2,1
 isai,taimai,1,0,2
@@ -378,14 +378,14 @@ kyle tree,ctg,0,2,0
 zero,janitor,0,2,0
 dext3r,cobr,0,2,0
 barksanchez,freean,0,2,0
-strandead,shears,0,2,0
+stranded,shears,0,2,0
 handsometom,jaimehr,1,0,2
 tr3gthez,nacl,0,2,0
 kimimaru,dtan,1,0,2
 yu-kun,kyle tree,0,2,0
 isai,zero,0,2,0
 dext3r,barksanchez,0,3,0
-strandead,jaimehr,1,2,3
+stranded,jaimehr,1,2,3
 tr3gthez,dtan,0,3,1
 yu-kun,isai,0,3,1
 taimai,dext3r,1,2,3

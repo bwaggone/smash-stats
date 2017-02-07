@@ -1617,7 +1617,7 @@ crazy t,nurse,1,-2,-2
 mayroman,erics,0,-2,-2
 pinky,pulse,1,-2,-2
 zeke,zarek,0,-2,-2
-mr.r,nurse,0,-2,-2
+mr. r,nurse,0,-2,-2
 warhaxs,gunfer,0,0,-1
 kman,mayroman,0,-2,-2
 mfs,brosep haydn,1,-1,0
@@ -1625,13 +1625,13 @@ mekos,pulse,1,-1,0
 tree,vincessant,1,-1,0
 coreo,zeke,0,-2,-2
 tozzi,mcdizzle!,0,-2,-2
-mr.r,warhaxs,0,-2,-2
+mr. r,warhaxs,0,-2,-2
 kman,brosep haydn,0,-2,-2
 pulse,vincessant,1,-2,-2
 coreo,tozzi,1,-2,-2
-mr.r,kman,0,-2,-2
+mr. r,kman,0,-2,-2
 vincessant,tozzi,1,-2,-2
-mr.r,tozzi,0,-2,-2
+mr. r,tozzi,0,-2,-2
 mcdizzle!,crazy t,0,-2,-2
 tree,erics,1,-1,0
 mfs,pinky,1,-1,0
@@ -2554,13 +2554,13 @@ trela,raptor,0,2,0
 abadango,supergirlkels,0,2,0
 trela,abadango,1,0,2
 rich brown,abadango,0,-2,-2
-mr.r,tltc,0,2,0
+mr. r,tltc,0,2,0
 frozen,zephyr,0,2,1
 zinoto,zage,0,2,1
 falln,tyroy,0,2,1
-mr.r,frozen,0,2,0
+mr. r,frozen,0,2,0
 zinoto,falln,0,-2,-2
-mr.r,zinoto,0,2,1
+mr. r,zinoto,0,2,1
 viceroy,gadiel,0,2,1
 k9sbruce,bread [adamo],0,2,1
 rango,deployment,0,2,0
@@ -2586,10 +2586,10 @@ zinoto,frozen,0,-2,-2
 6wx,nairo,1,1,3
 fatality,void,1,2,3
 scatt,mvd,0,3,1
-ryo,mr.r,1,0,3
+ryo,mr. r,1,0,3
 nairo,void,0,3,2
-scatt,mr.r,1,0,3
-nairo,mr.r,0,3,2
+scatt,mr. r,1,0,3
+nairo,mr. r,0,3,2
 nairo,dabuz,0,3,1
 zinoto,tweek,1,1,3
 day,marss,1,0,3
@@ -2612,4 +2612,4 @@ abadango,ally,1,2,3
 scatt,dabuz,1,0,3
 void,ally,0,3,1
 dabuz,void,0,3,1
-mr.r,dabuz,1,0,3
+mr. r,dabuz,1,0,3

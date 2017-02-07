@@ -392,7 +392,7 @@ jonathan-oscar,scourge,1,0,2
 packachu,nacho,0,2,0
 stylesx2,zeek,1,-2,-2
 xred,default,0,0,-1
-mr.r,yanky,0,2,0
+mr. r,yanky,0,2,0
 resolute,nimble,1,1,2
 techei,cheesyrice,0,2,0
 oogamania,rafa,0,2,0
@@ -400,14 +400,14 @@ seibrik,lady hawk,0,2,0
 rjlg,scourge,1,1,2
 xeon,packachu,0,-2,-2
 zeek,xred,1,0,2
-mr.r,nimble,0,2,0
+mr. r,nimble,0,2,0
 techei,oogamania,1,0,2
 seibrik,scourge,0,2,0
 xeon,xred,0,2,0
-mr.r,oogamania,0,2,0
+mr. r,oogamania,0,2,0
 seibrik,xeon,0,2,0
-mr.r,seibrik,0,2,0
-mr.r,seibrik,0,-2,-2
+mr. r,seibrik,0,2,0
+mr. r,seibrik,0,-2,-2
 mixwell,latyn,1,-1,0
 torametsu,sonic guy,0,2,0
 dansdaman,tony hawk,0,2,0
@@ -1753,7 +1753,7 @@ anti,nickriddle,0,2,1
 void,rain,0,2,1
 jtails,c3po,1,0,2
 true blue,nakat,1,0,2
-mr.e,mr.r,1,0,2
+mr.e,mr. r,1,0,2
 nietono,dath,1,1,2
 nairo,dkwill,0,2,0
 zinoto,z,0,2,0
@@ -1766,16 +1766,16 @@ brawlman1000,thereflexwonder,1,1,2
 false,tweek,0,2,0
 anti,void,0,2,0
 c3po,nakat,1,0,2
-mr.r,dath,0,2,1
+mr. r,dath,0,2,1
 nairo,zinoto,1,0,2
 larry lurr,scatt,0,2,0
 dabuz,esam,0,2,0
 abadango,thereflexwonder,0,2,0
 false,anti,1,0,3
-nakat,mr.r,1,0,3
+nakat,mr. r,1,0,3
 zinoto,larry lurr,0,3,2
 dabuz,abadango,0,3,1
-anti,mr.r,0,3,0
+anti,mr. r,0,3,0
 zinoto,dabuz,1,2,3
 anti,dabuz,0,3,2
 anti,zinoto,1,0,3
@@ -1838,7 +1838,7 @@ false,saj,0,3,1
 nakat,hyuga,1,0,3
 larry lurr,abadango,1,1,3
 false,hyuga,1,0,3
-mr.r,abadango,1,1,3
+mr. r,abadango,1,1,3
 zinoto,hyuga,0,3,1
 abadango,zinoto,1,2,3
 dabuz,zinoto,1,1,3

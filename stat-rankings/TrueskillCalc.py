@@ -1,22 +1,14 @@
 from collections import *
-from trueskill import Rating, quality_1vs1, rate_1vs1 
 import csv
 import numpy as np
 from util import *
 
 # Trueskill Implementation courtesy of http://trueskill.org/
-class Player:
-    def __init__(self, name):
-        self.name = name
-        self.rating = Rating()
-        self.num_tournaments = 0
-        self.num_sets = 0
-        self.wlr = [0, 0]
-
 
 all_players = keydefaultdict(Player)
 all_matches = []
 game = raw_input("What game would you like to generate TrueSkill Rankings for? \n1: 64 \n2: Melee \n3: Smash4\n")
+threshold = raw_input("Would you like to enforce a threshold on placings? (-1 = no, otherwise enter the minimum placing to count the match)\n")
 
 #Get tournaments in sorted order.
 sorted_tourneys = tourneys_reader('../data/' + game_dirs[int(game)] + '/Singles/tournaments.csv')
@@ -24,7 +16,10 @@ sorted_tourneys = tourneys_reader('../data/' + game_dirs[int(game)] + '/Singles/
 for tourney in sorted_tourneys:
     current_matches = []
     current_players = np.array([])
-    with open(get_sets_file(game, tourney[0])) as stream:
+
+    all_players = read_placements(game, tourney[0], all_players)
+
+    with open(get_filename(game, tourney[0], '-sets.csv')) as stream:
         has_header = csv.Sniffer().has_header(stream.read(1024))
         stream.seek(0)  # rewind
         incsv = csv.reader(stream)
@@ -42,6 +37,9 @@ for tourney in sorted_tourneys:
 
             #Check if the set was a DQ
             if(not check_valid_match(set_data)):
+                continue
+
+            if(filter_match_placing(int(threshold), all_players, set_data[0], set_data[1])):
                 continue
 
             #Update the number of sets and win/loss

@@ -697,7 +697,7 @@ laudandus,crits,1,-2,-2
 aloha,xenos,0,-2,-2
 crits,aloha,1,-2,-2
 tension,aloha,0,-2,-2
-mr.r,baltimarth,0,2,0
+mr. r,baltimarth,0,2,0
 z8,schmikeytaters,0,2,0
 acestarthe3rd,dare,0,2,0
 gnome,enjoi,0,2,1
@@ -705,13 +705,13 @@ max ketchum,shaneknows,1,-1,0
 themerman,seren,1,0,2
 coreo,v6,0,2,0
 dirty eggroll,gibbs,1,1,2
-mr.r,z8,0,2,0
+mr. r,z8,0,2,0
 acestarthe3rd,gnome,0,2,1
 shaneknows,seren,1,0,2
 coreo,gibbs,0,2,0
-mr.r,acestarthe3rd,0,2,0
+mr. r,acestarthe3rd,0,2,0
 seren,coreo,1,0,2
-mr.r,coreo,0,2,0
+mr. r,coreo,0,2,0
 baltimarth,schmikeytaters,1,0,2
 dare,enjoi,0,2,0
 max ketchum,themerman,1,-1,0
@@ -1013,11 +1013,11 @@ san,jbandrew,1,1,2
 istudying,seagull joe,1,0,2
 istudying,k9sbruce,1,1,2
 istudying,boss,0,2,1
-mr.r,mister eric,0,2,0
+mr. r,mister eric,0,2,0
 pink fresh,raptor,0,2,0
 marss,xaltis,0,2,1
 esam,wizzrobe,0,2,1
-mr.r,pink fresh,1,1,2
+mr. r,pink fresh,1,1,2
 marss,esam,0,2,1
 pink fresh,marss,0,-2,-2
 sova unknown,pikapika!,1,1,2
@@ -1039,8 +1039,8 @@ xaltis,viceroy,0,2,0
 raptor,mister eric,0,2,0
 c3po,xaltis,1,0,2
 esam,raptor,0,2,0
-mr.r,xaltis,0,2,0
-esam,mr.r,0,-2,-2
+mr. r,xaltis,0,2,0
+esam,mr. r,0,-2,-2
 k.i.d.goggles,tweek,1,1,3
 pink fresh,marss,1,1,3
 void,ally,0,3,0
@@ -1052,14 +1052,14 @@ abadango,ally,0,3,0
 larry lurr,scatt,0,3,2
 esam,nakat,0,3,0
 hyuga,saj,0,3,2
-k9sbruce,mr.r,1,0,3
+k9sbruce,mr. r,1,0,3
 dabuz,larry lurr,1,1,3
 ally,esam,0,3,2
 pink fresh,hyuga,0,3,2
-k.i.d.goggles,mr.r,1,2,3
+k.i.d.goggles,mr. r,1,2,3
 larry lurr,ally,1,1,3
-pink fresh,mr.r,1,2,3
+pink fresh,mr. r,1,2,3
 tweek,ally,1,2,3
-void,mr.r,1,1,3
-ally,mr.r,0,3,2
+void,mr. r,1,1,3
+ally,mr. r,0,3,2
 marss,ally,1,0,3
