@@ -82,6 +82,21 @@ def filter_match_placing(threshold, players, p1, p2):
         return True;
     return False;
 
+def ranking_reader(game, mode):
+    all_players = keydefaultdict(Player)
+
+    with open(game + 'Singles'+ mode +'.csv') as stream:
+        has_header = csv.Sniffer().has_header(stream.read(1024))
+        stream.seek(0)  # rewind
+        incsv = csv.reader(stream)
+        if has_header:
+            next(incsv)  # skip header row
+
+        for ranking_data in incsv:
+            all_players[ranking_data[0]].rating = Rating(float(ranking_data[1]), float(ranking_data[2]))
+
+    return all_players
+
 
 def check_valid_match(set_data):
     if(int(set_data[3]) == -1 or int(set_data[4]) == -1):

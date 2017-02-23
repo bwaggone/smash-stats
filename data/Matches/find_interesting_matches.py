@@ -1,10 +1,18 @@
+import sys
+import os
+sys.path.append("../../stat-rankings")
 import numpy as np
 from collections import *
 import csv
+from util import *
 sixtyfour_dir = './64/Singles/'
 melee_dir = './Melee/Singles/'
 brawl_dir = './Brawl/Singles/'
 smash4_dir = './Smash4/Singles/'
+
+
+game = raw_input("What game do you want to find interesting matches for?")
+game = int(game)
 
 def write_match(p1, p2, match_file, t_slug, t_name):
     match_file.write(t_name + ',' + t_slug + ',' + p1 + ',' + p2 + '\n')
@@ -13,7 +21,7 @@ def write_match(p1, p2, match_file, t_slug, t_name):
 #Get Players on the Official Ranking List
 ranks = defaultdict(int)
 first = 1
-with open("../rankings/Melee-rankings.csv") as stream:
+with open('../rankings/' + game_dirs[game] + '-rankings.csv') as stream:
     has_header = csv.Sniffer().has_header(stream.read(1024))
     stream.seek(0)  # rewind
     incsv = csv.reader(stream)
@@ -21,41 +29,30 @@ with open("../rankings/Melee-rankings.csv") as stream:
         next(incsv)  # skip header row
     column = 1
     for ranking_data in incsv:
-#        print(ranking_data[0].lower())
         ranks[ranking_data[0].lower()] = ranking_data[1];
-        #if first:
-        #    ranking_array = np.array([ranking_data[0], ranking_data[1]])
-        #    ranking_array.shape = (1,2)
-        #    first = 0
-        #else:
-        #    ranking_array = np.append(ranking_array, np.array([ranking_data[0], ranking_data[1]]).reshape(1,2), axis = 0)
     
 
 #Get tournaments in sorted order.
 first = 1
-with open(melee_dir + 'tournaments.csv') as stream:
+with open('../' + game_dirs[game] + '/Singles/tournaments.csv') as stream:
     has_header = csv.Sniffer().has_header(stream.read(1024))
     stream.seek(0)  # rewind
     incsv = csv.reader(stream)
     if has_header:
         next(incsv)  # skip header row
     column = 1
+    tnmt_array = np.array([]).reshape(0,4)
     for tourney_data in incsv:
-        if first:
-            tnmt_array = np.array([tourney_data[1], tourney_data[3], tourney_data[4], tourney_data[0]])
-            tnmt_array.shape = (1,4)
-            first = 0
-        else:
-            tnmt_array = np.append(tnmt_array, np.array([tourney_data[1], tourney_data[3], tourney_data[4], tourney_data[0]]).reshape(1,4), axis = 0)
+        tnmt_array = np.append(tnmt_array, np.array([tourney_data[1], tourney_data[3], tourney_data[4], tourney_data[0]]).reshape(1,4), axis = 0)
 
 sorted_tourneys = tnmt_array[tnmt_array[:,1].argsort()[::-1]]
 
-match_file = "matches.csv"
+match_file = game_dirs[game] + "-matches.csv"
 up_file = open(match_file,"w")
 up_file.write("Tournament,slug,Player 1, Player 2\n")
 iteration = 0
 for tourney in sorted_tourneys:
-    with open(melee_dir + tourney[0] + '-sets.csv') as stream:
+    with open('../' + game_dirs[game] + '/Singles/' + tourney[0] + '-sets.csv') as stream:
         if(iteration > 4):
             continue
         print(tourney[0], tourney[3])
@@ -72,7 +69,7 @@ for tourney in sorted_tourneys:
             #set_data[3-4] is the game count. If either is -1, do not report.
 
             #Check if the set was a DQ
-            if(int(set_data[3]) == -1 or int(set_data[4]) == -1):
+            if(not check_valid_match(set_data)):
                 continue
 
             p1rank = int(ranks[set_data[0]])

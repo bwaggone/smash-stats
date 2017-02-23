@@ -1,0 +1,127 @@
+P1,P2,set winner,P1Score,P2Score
+olikus,hypertj,0,0,-1
+verwaltung,dinner,0,2,0
+fruity,hypertj,0,0,-1
+olikus,verwaltung,0,2,0
+fruity,dinner,0,2,0
+hypertj,verwaltung,1,-1,0
+fruity,verwaltung,0,2,0
+dinner,olikus,1,0,2
+fruity,olikus,0,2,0
+dinner,hypertj,0,0,-1
+nintendude,fred,0,2,0
+aerosheep,rich,0,2,0
+anotherish,skrull,0,2,0
+nintendude,rich,0,2,0
+fred,skrull,1,0,2
+aerosheep,anotherish,0,2,1
+nintendude,skrull,0,2,0
+rich,anotherish,1,0,2
+fred,aerosheep,1,0,2
+nintendude,anotherish,0,2,0
+skrull,aerosheep,1,0,2
+rich,fred,1,0,2
+nintendude,aerosheep,0,2,0
+anotherish,fred,0,2,0
+skrull,rich,0,2,0
+sheick,thomdore,0,2,0
+mm720,sebson,1,0,2
+barksanchez,thomdore,0,2,0
+sheick,mm720,0,2,0
+barksanchez,sebson,0,2,0
+thomdore,mm720,0,2,1
+barksanchez,mm720,0,2,0
+sebson,sheick,1,0,2
+barksanchez,sheick,0,2,1
+sebson,thomdore,1,0,2
+jam,sussebass,0,0,-1
+king funk,tdx,0,0,-1
+gt,hasme,0,2,0
+jam,tdx,0,0,-1
+sussebass,hasme,1,-1,0
+king funk,gt,0,2,1
+jam,hasme,0,2,0
+tdx,gt,1,-1,0
+sussebass,king funk,1,-1,0
+jam,gt,0,2,0
+hasme,king funk,1,0,2
+tdx,sussebass,0,0,-1
+jam,king funk,0,2,1
+gt,sussebass,0,0,-1
+hasme,tdx,0,0,-1
+alex,oldiz,0,2,0
+icho,king robin,0,2,0
+ctg,oldiz,0,2,0
+alex,icho,0,2,0
+ctg,king robin,0,2,0
+oldiz,icho,1,0,2
+ctg,icho,0,2,0
+king robin,alex,1,0,2
+ctg,alex,0,2,0
+king robin,oldiz,0,2,1
+isai,calzum,0,2,0
+zeozen,toa,0,2,0
+mojn,caprigon,1,-1,0
+isai,toa,0,2,0
+calzum,caprigon,0,2,0
+zeozen,mojn,0,0,-1
+isai,caprigon,0,2,0
+toa,mojn,0,0,-1
+calzum,zeozen,1,0,2
+isai,mojn,0,0,-1
+caprigon,zeozen,1,0,2
+toa,calzum,0,2,0
+isai,zeozen,0,2,0
+mojn,calzum,1,-1,0
+caprigon,toa,1,0,2
+backes,reb,0,0,-1
+voff3,johnnyfight,0,0,-1
+revan,reb,0,0,-1
+backes,voff3,0,2,0
+revan,johnnyfight,0,0,-1
+reb,voff3,1,-1,0
+revan,voff3,0,2,0
+johnnyfight,backes,1,-1,0
+revan,backes,0,2,0
+johnnyfight,reb,1,-1,0
+fuzzyness,kastakatter,0,2,0
+meromorph,bert,1,1,2
+shears,kastakatter,0,2,0
+fuzzyness,meromorph,1,1,2
+shears,bert,0,2,0
+kastakatter,meromorph,1,0,2
+shears,meromorph,0,2,0
+bert,fuzzyness,0,2,1
+shears,fuzzyness,0,2,0
+bert,kastakatter,0,2,0
+revan,bert,0,2,0
+jam,olikus,0,2,0
+barksanchez,alex,0,2,0
+nintendude,zeozen,0,2,0
+fruity,king funk,0,2,0
+shears,backes,0,2,0
+isai,aerosheep,0,2,0
+ctg,sheick,0,2,0
+revan,jam,0,2,0
+barksanchez,nintendude,0,2,0
+fruity,shears,1,0,2
+isai,ctg,0,2,0
+revan,barksanchez,0,3,2
+shears,isai,1,0,3
+revan,isai,0,3,2
+revan,isai,1,0,3
+isai,revan,0,3,1
+bert,olikus,0,2,0
+alex,zeozen,1,0,2
+king funk,backes,1,0,2
+aerosheep,sheick,1,0,2
+ctg,bert,0,2,0
+fruity,zeozen,0,2,0
+nintendude,backes,0,2,0
+jam,sheick,0,2,0
+ctg,fruity,0,3,0
+nintendude,jam,1,0,3
+barksanchez,ctg,0,3,0
+shears,jam,0,3,2
+barksanchez,shears,0,3,1
+isai,barksanchez,0,3,0
