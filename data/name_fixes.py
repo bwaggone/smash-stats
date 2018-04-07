@@ -2,23 +2,33 @@ import os
 import fileinput
 import sys
 
-fix_file = open('name_fixes.csv', 'r')
-file_suffixes = ['-standings.csv','-sets.csv']
-
-labels = fix_file.readline()
-
-for line in fix_file:
-    fix_info = line.replace('\n', '').split(',')
-    print(fix_info)
-    #Open the tournament file associated with the game
-    tourneys_filename = './' + fix_info[1] + '/Singles/tournaments.csv'
-    tourneys_file = open(tourneys_filename, 'r')
-    for line in tourneys_file:
-        tourney_info = line.replace('\n', '').split(',')
-        if(tourney_info[0] == 'Tournament'):
+# Create dict of names that need to be replaced
+name_map = {}  # maps obsolete playertag to new, desired playertag
+game_map = {}  # maps player tag to game that player plays.
+with open('name_fixes.csv', 'r') as names_input:
+    for line in names_input:
+        if "name,game,to" in line:  # skip header line
             continue
-        for suffix in file_suffixes:
-            for line in fileinput.input(['./' + fix_info[1] + '/Singles/' + tourney_info[1] + suffix], inplace = 1):
-                sys.stdout.write(line.replace(fix_info[0] + ',', fix_info[2] + ','))
-        #for line in fileinput.input(['./' + fix_info[1] + '/Singles/' + tourney_info[1] + '-sets.csv'], inplace = 1):
-        #    sys.stdout.write(line.replace(fix_info[0] + ',', fix_info[2] + ','))
+        parts = line.strip().split(',')
+        name_map[parts[0]] = parts[2]
+        game_map[parts[0]] = parts[1]
+
+# Run through every game type folder
+for game_type in ["64","Melee","ProjectM","Brawl","Smash4"]:
+    # Run through every file in dir with suffix -standings.csv
+    for filename in os.listdir("./" + game_type + "/Singles/"):
+        if not (filename.endswith("-standings.csv") or filename.endswith("-sets.csv")):
+            continue
+
+        for line in fileinput.input(['./' + game_type + '/Singles/' + filename], inplace = 1):
+            parts = line.strip().split(',')
+            for j in [0,1]:  # for player 1 and 2 in the match,
+                if parts[j] in name_map.keys():  # if playertag in the name_map, change it
+                    if parts[j] in game_map.keys():  # first check we're in the right game
+                        if game_map[parts[j]] == game_type:
+                            parts[j] = name_map[parts[j]]
+
+            newline = parts[0]
+            for part in parts[1::]:
+                newline += ',' + part
+            sys.stdout.write(newline + '\n')
