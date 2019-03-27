@@ -6,7 +6,7 @@ import progressbar
 
 
 #Constants defined by smash.gg's API
-smash_games = defaultdict(str, {1: "Melee", 2: "ProjectM", 3: "Smash4", 4: "64", 5: "Brawl", 6: "YOLO"})
+smash_games = defaultdict(str, {1: "Melee", 2: "ProjectM", 3: "Smash4", 4: "64", 5: "Brawl", 6: "YOLO", 1386: "Ultimate"})
 smash_formats = defaultdict(str, {1: "Singles", 2: "Doubles", 5: "Crews"})
 
 
